@@ -114,6 +114,7 @@
   "MUSIC_ADDED": "Adicionado no baile de favela `{0}`!",
   "MUSIC_PLAYLIST_ADDED": "Adicionado no baile de favela {0} batidões!",
   "MUSIC_PLAYLIST_ADDED_IGNORED": "Adicionado no baile de favela {0} batidões! (ignorado {1} faixas por serem muito grandes!)",
+  "BIRL_DESCRIPTION": "Compila um código criado em BIRL (Bambams \"Its show time\" Recursive Language)",
   "[Translate!]SEARCH": "pesquisar",
   "[Translate!]PROCESSING": "Processando",
   "[Translate!]MINUTES_AND_SECONDS": "%02d minutos e %02d segundos",
@@ -366,7 +367,6 @@
   "[Translate!]CALC_DESCRIPTION": "Calcula uma expressão aritmética",
   "[Translate!]CALC_RESULT": "Resultado: `{0}`",
   "[Translate!]CALC_INVALID": "`{0}` não é uma expressão artimética válida!",
-  "[Translate!]BIRL_DESCRIPTION": "Compila um código criado em BIRL (Bambam's \"It's show time\" Recursive Language)",
   "[Translate!]BIRL_RESULT": "Resultado",
   "[Translate!]BIRL_INFO": "Códigos em BIRL devem estar entre blocos de código, por exemplo:\n`{0}`Para mais informações: https://birl-language.github.io/",
   "[Translate!]ANAGRAMA_DESCRIPTION": "Crie um anagrama de uma palavra!",
@@ -415,5 +415,13 @@
   "[Translate!]YOUTUBEMP3_INVALID_LINK": "Link inválido!",
   "[Translate!]YOUTUBEMP3_DOWNLOADING_VIDEO": "Baixando vídeo",
   "[Translate!]YOUTUBEMP3_CONVERTING_VIDEO": "Convertendo vídeo",
-  "[Translate!]YOUTUBEMP3_FINISHED": "Pronto! Seu vídeo está pronto para ser baixado em MP3! {0}"
+  "[Translate!]YOUTUBEMP3_FINISHED": "Pronto! Seu vídeo está pronto para ser baixado em MP3! {0}",
+  "[Translate!]SPIGOTMC_DESCRIPTION": "Pesquisa um plugin no SpigotMC",
+  "[Translate!]SPIGOTMC_COULDNT_FIND": "Não consegui encontrar nada relacionado á `{0}`!",
+  "[Translate!]SPIGOTMC_CONTRIBUTORS": "Contribuidores",
+  "[Translate!]SPIGOTMC_DOWNLOADS": "Downloads",
+  "[Translate!]SPIGOTMC_TESTED_VERSIONS": "Versões Testadas",
+  "[Translate!]SPIGOTMC_DOWNLOAD": "Download",
+  "[Translate!]SPIGOTMC_RELEASED": "Criado em",
+  "[Translate!]SPIGOTMC_UPDATED": "Última atualização"
 }
