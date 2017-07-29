@@ -1,4 +1,5 @@
 {
+  "PLEASE_WAIT_COOLDOWN": "Calma aí! Você precisa esperar alguns segundos antes de poder executar outro comando! 🙅",
   "SEARCH": "pesquisar",
   "PROCESSING": "Processando",
   "INVALID_NUMBER": "Número `{0}` é algo irreconhecível para um bot como eu, sorry. 😢",
@@ -52,6 +53,8 @@
   "LIMPAR_DESCRIPTION": "Limpa o chat do canal de texto atual.",
   "LIMPAR_INVALID_RANGE": "Eu só consigo limpar entre 2 até 100 mensagens passadas!",
   "LIMPAR_SUCCESS": "Chat limpo por {0}!",
+  "LIMPAR_SUCCESS_IGNORED_TOO_OLD": "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!",
+  "LIMPAR_COUDLNT_FIND_MESSAGES": "Não consegui encontrar nenhuma mensagem para ser deletada...",
   "MUTE_DESCRIPTION": "Silencia um usuário por um período de tempo determinado",
   "MUTE_CANT_MUTE_ME": "Você não pode me silenciar, bobinho!",
   "MUTE_ROLE_NAME": "Silenciado",
