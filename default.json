@@ -43,8 +43,9 @@
   "EVENTLOG_CHANNEL_TOPIC_UPDATED": "**Tópico de {0} foi alterado!**\n\nAntigo tópico: `{1}`\nNovo tópico: `{2}`",
   "EVENTLOG_CHANNEL_POSITION_UPDATED": "**Posição de {0} foi alterado!**\n\nAntiga posição: `{1}`\nNova posição: `{2}`",
   "EVENTLOG_CHANNEL_DELETED": "**Canal de texto `{0}` foi deletado**",
-  "EVENTLOG_MESSAGE_EDITED": "**{0} editou uma mensagem de texto**\n\nAntiga mensagem: ```\n{1}```\nNova mensagem: ```\n{2}```",
-  "EVENTLOG_MESSAGE_DELETED": "**Mensagem de texto deletada**\n\nMensagem: ```\n{0}```",
+  "EVENTLOG_MESSAGE_EDITED": "**{0} editou uma mensagem de texto**\n\n**Canal de texto:** {3}\n\n**Antiga mensagem:** ```\n{1}```\n**Nova mensagem:** ```\n{2}```",
+  "EVENTLOG_MESSAGE_DELETED": "**Mensagem de texto deletada**\n\n**Canal de texto:** {1}\n\n**Mensagem:**\n```\n{0}```",
+  "EVENTLOG_MESSAGE_DELETED_UPLOADS": "\n\n**Arquivos anexados:**",
   "MUSICLOG_PLAYING_NOW": "Atualmente tocando...",
   "HOW_TO_USE": "Como usar",
   "EXAMPLE": "Exemplo",
@@ -190,6 +191,7 @@
   "DISCORDIA_DESCRIPTION": "Mostre a sua reação quando você recebe uma notificação inútil do Discord!",
   "GETOVERHERE_DESCRIPTION": "Dê uma de Scorpion e dê um puxão em alguém!",
   "ROMEROBRITTO_DESCRIPTION": "Faça o Romero Britto desenhar a sua maravilhosa arte!",
+  "STUDIOPOLISTV_DESCRIPTION": "Será que o Eggman está passando algo de interessante em sua maravilhosa TV?",
   "DRAKE_DESCRIPTION": "Cria um meme do Drake usando dois usuários da sua guild!",
   "FAUSTAO_DESCRIPTION": "Invoque o querido Faustão no seu servidor!",
   "TODAY_DESCRIPTION": "Mostra algo interessante que aconteceu hoje!",
@@ -294,7 +296,7 @@
   "SHIP_valor40": [
     "😶 %ship% É... talvez, eu acho... 🙁",
     "😶 %ship% Nada é impossível, mas... 🙁",
-    "😶 %ship% Se os dois quererem, talvez dê certo... Mas... 😶"
+    "😶 %ship% Se os dois quiserem, talvez dê certo... Mas... 😶"
   ],
   "SHIP_valor30": [
     "😕 %ship% Acho que não seria um belo casal... 🙁",

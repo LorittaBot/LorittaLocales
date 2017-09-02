@@ -232,7 +232,7 @@
   "[Translate!]SHIP_valor40": [
     "😶 %ship% É... talvez, eu acho... 🙁",
     "😶 %ship% Nada é impossível, mas... 🙁",
-    "😶 %ship% Se os dois quererem, talvez dê certo... Mas... 😶"
+    "😶 %ship% Se os dois quiserem, talvez dê certo... Mas... 😶"
   ],
   "[Translate!]SHIP_valor30": [
     "😕 %ship% Acho que não seria um belo casal... 🙁",
@@ -439,8 +439,9 @@
   "[Translate!]ERROR_WHILE_EXECUTING_COMMAND": "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢",
   "[Translate!]AJUDA_ERROR_WHEN_OPENING_DM": "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷",
   "[Translate!]DJ_LORITTA_HOW_TO_ENABLE": "Se você quiser ativar o sistema de música, entre no meu site ({0}), escolha o seu servidor, clique em \"DJ Loritta\" e ative o módulo!",
-  "[Translate!]EVENTLOG_MESSAGE_EDITED": "**{0} editou uma mensagem de texto**\n\nAntiga mensagem: ```\n{1}```\nNova mensagem: ```\n{2}```",
-  "[Translate!]EVENTLOG_MESSAGE_DELETED": "**Mensagem de texto deletada**\n\nMensagem: ```\n{0}```",
+  "[Translate!]EVENTLOG_MESSAGE_EDITED": "**{0} editou uma mensagem de texto**\n\n**Canal de texto:** {3}\n\n**Antiga mensagem:** ```\n{1}```\n**Nova mensagem:** ```\n{2}```",
+  "[Translate!]EVENTLOG_MESSAGE_DELETED": "**Mensagem de texto deletada**\n\n**Canal de texto:** {1}\n\n**Mensagem:**\n```\n{0}```",
+  "[Translate!]EVENTLOG_MESSAGE_DELETED_UPLOADS": "\n\n**Arquivos anexados:**",
   "[Translate!]MUSICLOG_PLAYING_NOW": "Atualmente tocando...",
   "[Translate!]WEBSITE_ACTIVATE_MODULE": "Ativar módulo?",
   "[Translate!]WEBSITE_AUTOROLE_GIVE_ROLE_UPON_JOIN": "Cargos que serão dados quando alguém entrar",
@@ -483,6 +484,7 @@
   "[Translate!]USERINFO_ALSO_KNOWN_AS": "Também conhecido como...",
   "[Translate!]GETOVERHERE_DESCRIPTION": "Dê uma de Scorpion e dê um puxão em alguém!",
   "[Translate!]ROMEROBRITTO_DESCRIPTION": "Faça o Romero Britto desenhar a sua maravilhosa arte!",
+  "[Translate!]STUDIOPOLISTV_DESCRIPTION": "Será que o Eggman está passando algo de interessante em sua maravilhosa TV?",
   "[Translate!]TODAY_DESCRIPTION": "Mostra algo interessante que aconteceu hoje!",
   "[Translate!]TODAY_ON_THIS_DAY": "Nesse dia",
   "[Translate!]SIMSIMI_NAME": "Simsimi, o 🐤 da Loritta",
