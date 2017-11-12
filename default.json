@@ -657,5 +657,7 @@
   "DASHBOARD_WarnOnUnknownCommandSub": "Caso um usuário executar um comando inexistente, eu irei avisar a ele que eu não possuo o comando desejado e, caso o usuário queira saber todos os meus lindos comandos, para que use o meu comando de ajuda.",
   "DASHBOARD_WarnIfBlacklisted": "Avisar caso o usuário tentar executar um comando em canais em que eu não possa executar comandos.",
   "DASHBOARD_WarnIfBlacklistedSub": "Caso você tenha configurado canais para eu não poder executar comandos acima, você pode ativar esta opção para que, quando um usuário tente executar um comando em um canal proibido, eu avise que não é possível executar comandos no canal,",
-  "DASHBOARD_BlacklistWarning": "Mensagem ao executar um comando em um canal bloqueado"
+  "DASHBOARD_BlacklistWarning": "Mensagem ao executar um comando em um canal bloqueado",
+  "GOOGLE_Description": "Mostra os principais resultados do Google",
+  "SUSTO_Description": "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
 }
