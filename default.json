@@ -680,5 +680,14 @@
   "COLOR_Tints": "Matizes",
   "COLOR_Triadic": "Triádica",
   "COLOR_Complementary": "Complementárias",
-  "COLOR_Analogous": "Análogas"
+  "COLOR_Analogous": "Análogas",
+  "GIVEAWAY_Description": "Faça sorteios no seu servidor!",
+  "EMOJISEARCH_Description": "Tentando encontrar aquele emoji que você viu mas você não consegue encontrar ele? Então tente pesquisar ele nos vários emojis que a Loritta pega e guarda por aí!",
+  "EMOJISEARCH_Title": "Pesquisa de Emojis",
+  "EMOJISEARCH_Results": "{0} emojis relacionados a `{1}` encontrados.",
+  "EMOJISEARCH_FoundAt": "Emoji avistado em `{0}`",
+  "EMOJISEARCH_AddError": "Não consegui adicionar o emoji...",
+  "EMOJISEARCH_AddSuccess": "Emoji adicionado com sucesso!",
+  "EMOJISEACH_SmallQuery": "A pesquisa deve ter, no mínimo, mais de dois caracteres!",
+  "EMOJISEARCH_SmallQuery": "A pesquisa deve ter, no mínimo, mais de dois caracteres!"
 }
