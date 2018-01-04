@@ -48,7 +48,7 @@
   "RATEWAIFU_1": "No chance, change your Waifu now to ensure your sanity.",
   "RATEWAIFU_0": "Please change your Waifu.",
   "RATEWAIFU_IM_PERFECT": "I''m pretty!",
-  "RATEWAIFU_RESULT": "`{1}`''s score **{0}/10**! **{2}**",
+  "RATEWAIFU_RESULT": "`{1}`''s score is **{0}/10**! **{2}**",
   "CARACOROA_HEADS": "Heads",
   "CARACOROA_TAILS": "Tails",
   "CEPO_DESCRIPTION": "Destroy someone, Gugu Gaiteiro style!",
@@ -61,36 +61,6 @@
   "INVERTER_DESCRIPTION": "Inverts the color in an image",
   "LAVA_DESCRIPTION": "The floor is...? Decide what you want!",
   "LAVAREVERSO_DESCRIPTION": "The floor is...? Decide what you want!",
-  "VIEIRINHA_responses": [
-    "Go bother someone else, thank you.",
-    "I don''t know, but I know that I live in Cambuci.",
-    "In the way I see it, yes.",
-    "Hmmmm... 🤔",
-    "I can''t talk about that.",
-    "No.",
-    "Yes.",
-    "I would''ve replied, but I don''t want to hurt your feelings.",
-    "Probably yes",
-    "Probably not",
-    "My sources say yes",
-    "My sources say no",
-    "You can believe that",
-    "My answer is no",
-    "My answer is yes",
-    "In the way I see it, no.",
-    "Better not say it to you now...",
-    "Yes for sure!",
-    "I also wanted to know...",
-    "My answer does not matter, what matters is that you follow your heart. 😘",
-    "Maybe...",
-    "I think so.",
-    "I think not.",
-    "Maybe yes.",
-    "Maybe not.",
-    "Yes!",
-    "No!",
-    "¯\\_(ツ)_/¯"
-  ],
   "PERDAO_DESCRIPTION": "A monster like this deserves forgiveness?",
   "PERFEITO_DESCRIPTION": "Is \"Nothing is perfect\" anyway?",
   "PRIMEIRAS_DESCRIPTION": "Oh my god, the baby''s first words",
@@ -98,54 +68,6 @@
   "RAZOES_DESCRIPTION": "What''s your reason to live?",
   "ROLL_INVALID_NUMBER": "Invalid number!",
   "SHIP_DESCRIPTION": "Check if a couple would work (or not!)",
-  "SHIP_valor90": [
-    "😍 %ship% The two love each other! 😍",
-    "💗 %ship% A more perfect couple? Impossible! 💗",
-    "☠ %ship% Not even the *grim* reaper separate! 😂",
-    "😋 %ship% Couple more perfect than me! 😋",
-    "😚 %ship% Couple? Pfft, they are already married! 😚"
-  ],
-  "SHIP_valor80": [
-    "😏 %ship% But these two have known each other for a long time... 😏",
-    "😊 %ship% Of course they are a beautiful couple! 😊",
-    "😜 %ship% Couple more sticky than Despacito! 😜",
-    "😄 %ship% If the two aren''t dating I would be surprised! 😄"
-  ],
-  "SHIP_valor70": [
-    "🙂 %ship% I foresee a cute couple forming! 🙂",
-    "😄 %ship% Just need a little more talk to be a couple! 😜",
-    "😊 %ship% Both were made for each other! 😊",
-    "😄 %ship% Yes! 😄"
-  ],
-  "SHIP_valor60": [
-    "🙂 %ship% If %user% stopped being so shy... 😏",
-    "😊 %ship% There''s a bit of compatible interestesTem um pouco de interests there 😊",
-    "🙂 %ship% I approve this couple! 🙂",
-    "😄 %ship% Yes! 😄"
-  ],
-  "SHIP_valor50": [
-    "😶 %ship% Friend... but... 😏",
-    "😊 %ship% Maybe... Just need %user% to want it! 😶",
-    "😶 %ship% I want to see this couple working 😶"
-  ],
-  "SHIP_valor40": [
-    "😶 %ship% Yeah... maybe, I guess... 🙁",
-    "😶 %ship% Nothing is impossible, but... 🙁",
-    "😶 %ship% If both want it, maybe it will work... But... 😶"
-  ],
-  "SHIP_valor30": [
-    "😕 %ship% I don''t think this would be a good couple... 🙁",
-    "😶 %ship% They are just acquainted... 😶"
-  ],
-  "SHIP_valor20": [
-    "😐 %ship% If %user% didn''t leave in the friendzone... 😐"
-  ],
-  "SHIP_valor10": [
-    "😐 %ship% I really wanted to say that this is possible, but... 😢"
-  ],
-  "SHIP_valor0": [
-    "😭 %ship% The possibilies to this couple work out are almost impossible! 😭"
-  ],
   "TRETANEWS_DESCRIPTION": "YOOOOOOOOOU ARE WATCHING TRETA NEWS SO LET''S GO DIRECTLY TO THE NEWS",
   "TRUMP_DESCRIPTION": "What presient Trump is showing today?",
   "YOUTUBE_RESULTS_FOR": "Results for `{0}`",
@@ -257,6 +179,84 @@
   "TEMPO_COULDNT_FIND": "I didn''t find any city named `{0}`!",
   "WIKIPEDIA_DESCRIPTION": "Shows a summary of a Wikipedia page",
   "WIKIPEDIA_COULDNT_FIND": "I didn''t find anything related to `{0}`!",
+  "[Translate!]VIEIRINHA_responses": [
+    "Vai incomodar outra pessoa, obrigado.",
+    "Não sei, mas eu sei que eu moro lá no Cambuci.",
+    "Do jeito que eu vejo, sim.",
+    "Hmmmm... 🤔",
+    "Não posso falar sobre isso.",
+    "Não.",
+    "Sim.",
+    "Eu responderia, mas não quero ferir seus sentimentos.",
+    "Provavelmente sim",
+    "Provavelmente não",
+    "Minhas fontes dizem que sim",
+    "Minhas fontes dizem que não",
+    "Você pode acreditar nisso",
+    "Minha resposta é não",
+    "Minha resposta é sim",
+    "Do jeito que eu vejo, não.",
+    "Melhor não falar isto para você agora...",
+    "Sim, com certeza!",
+    "Também queria saber...",
+    "A minha resposta não importa, o que importa é você seguir o seu coração. 😘",
+    "Talvez...",
+    "Acho que sim.",
+    "Acho que não.",
+    "Talvez sim.",
+    "Talvez não.",
+    "Sim!",
+    "Não!",
+    "¯\\_(ツ)_/¯"
+  ],
+  "[Translate!]SHIP_valor90": [
+    "😍 %ship% Os dois se amam! 😍",
+    "💗 %ship% Casal mais perfeito? Impossível! 💗",
+    "☠ %ship% Nem a *dona* morte separa! 😂",
+    "😋 %ship% Casal mais perfeito que eu! 😋",
+    "😚 %ship% Casal? Casal que nada! Eles já são casados! 😚"
+  ],
+  "[Translate!]SHIP_valor80": [
+    "😏 %ship% Mas esses dois já se conhecem faz muito tempo... 😏",
+    "😊 %ship% Claro que os dois são um lindo casal! 😊",
+    "😜 %ship% Casal mais grudento que Despacito! 😜",
+    "😄 %ship% Se os dois já não namoram eu estaria surpresa! 😄"
+  ],
+  "[Translate!]SHIP_valor70": [
+    "🙂 %ship% Prevejo um casal fofo se formando! 🙂",
+    "😄 %ship% Só precisa de um pouco mais de conversa para rolar! 😜",
+    "😊 %ship% Os dois foram feitos um para o outro! 😊",
+    "😄 %ship% Sim! 😄"
+  ],
+  "[Translate!]SHIP_valor60": [
+    "🙂 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... 😏",
+    "😊 %ship% Tem um pouco de interesses compatíveis aí 😊",
+    "🙂 %ship% Eu aprovo esse casal! 🙂",
+    "😄 %ship% Sim! 😄"
+  ],
+  "[Translate!]SHIP_valor50": [
+    "😶 %ship% Amigos... Mas talvez né... 😏",
+    "😊 %ship% Talvez... Só precisa o/a %user% querer! 😶",
+    "😶 %ship% Eu queria ver esse casal funcionar 😶"
+  ],
+  "[Translate!]SHIP_valor40": [
+    "😶 %ship% É... talvez, eu acho... 🙁",
+    "😶 %ship% Nada é impossível, mas... 🙁",
+    "😶 %ship% Se os dois quiserem, talvez dê certo... Mas... 😶"
+  ],
+  "[Translate!]SHIP_valor30": [
+    "😕 %ship% Acho que não seria um belo casal... 🙁",
+    "😶 %ship% Parece que só são conhecidos... 😶"
+  ],
+  "[Translate!]SHIP_valor20": [
+    "😐 %ship% Se o(a) %user% não tivesse deixado na friendzone... 😐"
+  ],
+  "[Translate!]SHIP_valor10": [
+    "😐 %ship% Eu queria muito falar que é possível, mas... 😢"
+  ],
+  "[Translate!]SHIP_valor0": [
+    "😭 %ship% As possibilidades de ter este casal são quase impossíveis! 😭"
+  ],
   "[Translate!]POKEDEX_BASE_EXP": "Base EXP",
   "[Translate!]POKEDEX_EFFORT_POINTS": "Effort Points",
   "[Translate!]POKEDEX_BASE_HAPPINESS": "Base happiness",
@@ -294,7 +294,7 @@
   "EVENTLOG_NAME_CHANGED": "**{0} changed username!**\n\nPrevious username: `{1}`\nNew username: `{2}`",
   "EVENTLOG_MESSAGE_EDITED": "**{0} edited a text message**\n\nPrevious message: ```\n{1}```\nNew message: ```\n{2}```",
   "EVENTLOG_MESSAGE_DELETED": "**Deleted text message**\n\nMessage: ```\n{0}```",
-  "EVENTLOG_MESSAGE_DELETED_UPLOADS": "\n\n**Attached files:**",
+  "EVENTLOG_MESSAGE_DELETED_UPLOADS": "**Attached files:**",
   "MUSICLOG_PLAYING_NOW": "Now playing...",
   "WEBSITE_HELLO": "Howdy, my name is ",
   "WEBSITE_JUST_A_SIMPLE_DISCORD_BOT": "Yet another Discord bot",
@@ -487,7 +487,7 @@
   "PERFIL_LORITTA_DESCRIPTION": "Howdy, my name is Loritta (or, to close friends, \"Lori\") and I'm just a cute bot for Discord with lots of cool features!",
   "PERFIL_TOTAL_XP": "Total XP",
   "PERFIL_XP_GUILD": "XP in {0}",
-  "[Translate!]PERFIL_ECONOMY": "Sonhos",
+  "PERFIL_ECONOMY": "Dreams",
   "PERFIL_SOBRE_MIM": "About Me",
   "PEFIL_PROFILE": "Profile",
   "EDITARXP_DESCRIPTION": "Edits the user's XP",
@@ -584,7 +584,7 @@
   "DASHBOARD_PRIVATE_MESSAGE": "Message when someone joins (via direct message)",
   "DASHBOARD_LEAVE_BAN_MESSAGE": "Message when someone is banned (keep empty to use the same message when someone leaves)",
   "WEBSITE_MY_DISCORD": "My Discord",
-  "[Translate!]LARANJO_DESCRIPTION": "Crie um meme do Laranjo!",
+  "LARANJO_DESCRIPTION": "Create a Laranjo meme! ",
   "[Translate!]website.donate.explain": "<p>Para manter a Loritta online 24/7 (bem que as vezes ela fica offline para ir tomar água, ir almoçar no Outback e as vezes tomar um frappuccino sem café no Starbucks) é necessário pagar mensalmente uma hospedagem para ela!</p>\n<p>Atualmente a Loritta está hospedada em um dedicado de 32GBs/4.00GHz na SoYouStart! Isso custa mais ou menos uns <b>260R$</b> por mês!</p>\n<p>Por isto, se você tiver alguma grana de sobrando porque você resolveu não comprar aquele pão de queijo que parecia estar meio mofado lá no Barzinho do Vieirinha, que tal doar para a Loritta?</p>",
   "WEBSITE_DONATE_EXPLAIN": "<p>To keep me online 24/7 (well, sometimes I''m offline to drink water, go lunch at Outback and sometimes drink an frappuccino without coffee at Starbucks) it is necessary to pay a server for me!</p>\n<p>Currently I''m hosted in a dedicated server of 32GBs/4.00GHz at SoYouStart! This costs approximately <b>82 USD</b> per month!</p>\n<p>So, if you have a bit of money laying around because you decided to not buy that sandwich that looked a bit musty in Vieirinha''s Bar, why not donate to me?</p>",
   "WEBSITE_DONATE_HowToHelp": "How to Help?",
@@ -681,7 +681,7 @@
   "COLOR_Triadic": "Triadic",
   "COLOR_Complementary": "Complementary",
   "COLOR_Analogous": "Analogous",
-  "[Translate!]GIVEAWAY_Description": "Faça sorteios no seu servidor!",
+  "GIVEAWAY_Description": "Do giveaways in your server!",
   "EMOJISEARCH_Description": "Trying to find an emoji that you seen somewhere but you can''t find it? Then try searching it on my emoji database!",
   "EMOJISEARCH_Title": "Emoji search",
   "EMOJISEARCH_Results": "{0} emojis related to `{1}` found.",
@@ -691,18 +691,18 @@
   "EMOJISEACH_SmallQuery": "The query must have, at least, more than two characters!",
   "EMOJISEARCH_SmallQuery": "The query must have, at least, more than two characters!",
   "PING_ShardsInfo": "Shard Information",
-  "[Translate!]RATEWAIFU_Pollux": "Uma amiga (e um bot) 10/10, acho ela muito legal e criativa. (Sério, você já viu o que ela consegue fazer? Fico até impressionada! <:wow:375320822241427476> Até fico triste ao olhar como alguns comandos dela são bonitos e as coisas que eu faço são... bem, feias... <:lori_triste:370344565967814659>)",
-  "[Translate!]RATEWAIFU_Tatsumaki": "Minha amiga mais velha, sabia que eu fui inspirada nela! Não trocaria de Waifu (e nem de bot) se fosse você!",
-  "[Translate!]RATEWAIFU_Mee6": "Um botzinho supimpa que avisa livestreams do Twitch... pena que algumas funções legais dele custam dinheiro... será que ele ganha muito dinheiro cobrando tudo isso? Deveria começar a cobrar também para eu conseguir pagar meus pudins!",
-  "[Translate!]RATEWAIFU_Dyno": "Se falou em event log, falou com o Dyno! Só acho que algumas opções de auto moderação poderiam ter mais configurações...",
-  "[Translate!]RATEWAIFU_NotSoBot": "Ele era legal, até um dia ele falar que todos os bots que tem sistema de XP são ruins... sério gente, tô triste até agora por causa disso. <:lori_triste:370344565967814659> Sem ser isso eu acho ele bem legal, adoro as edições de imagens dele!",
-  "[Translate!]RATEWAIFU_Pantufa": "Claro que é 10/10, a Pantufinha é minha amiga de infância! Ela é até ajudante do PocketDreams, o meu servidor de Minecraft.",
-  "[Translate!]RATEWAIFU_Tyrone": "Carinha 10/10, e ele ainda é brasileiro, sabia disso? Quando eu olhei ele eu vi que eu ainda precisava melhorar bastante, já que o Tyrone é um bot muito bom!",
-  "[Translate!]RATEWAIFU_Mantaro": "Nunca conversei muito com a Mantaro, mas eu sei que o criador dela é gente boa.",
-  "[Translate!]RATEWAIFU_KawaiiBot": "Olá mundo!",
-  "[Translate!]RATEWAIFU_Yggdrasil": "Se eu te contasse quantas vezes me colocaram no Death Battle do Yggdrasil você ficaria horas esperando eu terminar de falar o número.",
-  "[Translate!]RATEWAIFU_Lorrita": "Aprenda a escrever o meu nome corretamente.",
-  "[Translate!]AVATAR_PantufaCute": "Sim, a Pantufinha também é fofinha. 😊",
+  "RATEWAIFU_Pollux": "A friend (and a bot) 10/10, my personal thoughts on her? She is very fun and creative. (Did you already saw what she can do? I get impressed easily with her! <:wow:375320822241427476> I even get sad on looking how some of her commands are beautiful, and the stuff I do are... really, ugly... <:lori_triste:370344565967814659>)",
+  "RATEWAIFU_Tatsumaki": "My older friend, did you knew I was inspired on her! I wouldn't change Waifu (neither bot) if I was you!",
+  "RATEWAIFU_Mee6": "A nice and chilled bot that notify users about Twitch streams... The only sad thing is that some of his most awesome functions are paid.. I wonder, how much money does he earn charging for all theese functions? I should start charging so I can afford my puddings!",
+  "RATEWAIFU_Dyno": "If the topic of the talk is event log, you can call Dyno. The only thing that is missing on him, is more configuration to the auto-mod features.",
+  "RATEWAIFU_NotSoBot": "He was a nice guy, until he told every bot with XP system are bad... really... I'm sad so far because of that. <:lori_triste:370344565967814659> But excluding that, I think he was very cool, I love his image editions!",
+  "RATEWAIFU_Pantufa": "He's the perfect friend, 10/10, Pantufinha is my childhood friend! She's even is helper of PocketDreams, my Minecraft server.",
+  "RATEWAIFU_Tyrone": "10/10 Guy, and he's Brazilian! did you knew that? When I looked at him I saw he needed some upgrades, a lot of them, because Tyrone is a really good bot!",
+  "RATEWAIFU_Mantaro": "I've never talked too much with Mantaro, but I know her creator is a really cool guy.",
+  "RATEWAIFU_KawaiiBot": "Hello World!",
+  "RATEWAIFU_Yggdrasil": "If I told you how much times they place me in Yggdrasil Death Battles, you would fall asleep of boredom with me telling you.",
+  "RATEWAIFU_Lorrita": "Learn how to write my name correctly.",
+  "AVATAR_PantufaCute": "Yes, Pantufinha is cute too. 😊",
   "RBGAME_CouldntFind": "I didn''t find an game called `{0}`...",
   "RBGAME_Description": "Searches information about an game in Roblox",
   "RBGAME_Favorites": "Favorites",
@@ -723,15 +723,31 @@
   "DATEUTILS_Minutes": "minutes",
   "DATEUTILS_Second": "second",
   "DATEUTILS_Seconds": "seconds",
-  "[Translate!]REP_InvalidUser": "Usuário inválido!",
+  "REP_InvalidUser": "Invalid User!",
   "AJUDA_PleaseDonate": "To keep me online 24/7 (well, sometimes I'm offline to drink water, go lunch at Outback and sometimes drink an frappuccino without coffee at Starbucks) it is necessary to pay a server for me!\n\nCurrently I''m hosted in a dedicated server of 32GBs/4.00GHz at SoYouStart! This costs approximately 82 USD per month!\n\nSo, if you have a bit of money laying around because you decided to not buy that sandwich that looked a bit musty in Vieirinha's Bar, why not donate to me? I''m hungry... <:loritta_comendo_pudim:378551064313724928> https://loritta.website/donate",
   "AJUDA_DonationTitle": "Do you want to help me?",
-  "[Translate!]CONGAPARROT_Description": "Faça uma linha de conga!",
-  "[Translate!]CONGAPARROT_InvalidRange": "Infelizmente a conga precisa ser entre 1 e 50, tente outro número...",
+  "CONGAPARROT_Description": "Do a beautiful line of conga! (parrots included)",
+  "CONGAPARROT_InvalidRange": "Unfortunately the conga needs to be between 1 and 50, try another number...",
   "DISCRIM_InvalidDiscriminator": "`{0}` is not an valid discriminator!",
   "DISCRIM_UsersWithDiscriminator": "Users with discriminator {0}",
   "DISCRIM_EmbedDescription": "**I know `{0}` users with the discriminator `{1}`!**\n\nIn Discord, a \"discriminator\" is the number that suffixes your username, in your case, your discriminator is **`{2}`**. Every user has a random discriminator between `0001` and `9999`, to change your discriminator, you need to change your username to another username that has the same discriminator as yours.",
   "DISCRIM_SelfDiscriminator": "If you change your name to `{0}`, your discriminator will be changed to another random number! <a:lori_blobwink:393904373144485892>",
   "FANARTS_Description": "Check out the <a:lori_blobheartseyes:393914347706908683> awesome<a:lori_blobheartseyes:393914347706908683> fan arts people made!",
-  "FANARTS_EmbedDescription": "**Fan Art by {0}**\n**Discord**: `{1}`"
+  "FANARTS_EmbedDescription": "**Fan Art by {0}**\n**Discord**: `{1}`",
+  "EVENTLOG_MESSAGE_DeletedBy": "**Deleted by:** {0}",
+  "[Translate!]MALANIME_Status": "Status",
+  "[Translate!]MALANIME_Episodes": "Episódios",
+  "[Translate!]MALANIME_Type": "Tipo",
+  "[Translate!]MALANIME_Score": "Nota",
+  "[Translate!]MALANIME_To": "até",
+  "[Translate!]MALANIME_InProductionSince": "Em produção desde",
+  "[Translate!]MALANIME_Synonyms": "Também conhecido como",
+  "[Translate!]MALANIME_AlternateTitle": "Título alternativo",
+  "[Translate!]MALANIME_Description": "Procure informações sobre um anime no MyAnimeList!",
+  "[Translate!]MALMANGA_Description": "Procure informações sobre um mangá no MyAnimeList!",
+  "[Translate!]MALMANGA_Volumes": "Volumes",
+  "[Translate!]TRIGGERED_Description": "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!",
+  "GUMBALL_Description": "\"You know what I do when I''m feeling a bit low?\"",
+  "GUMBALL_Subtitle1": "You know what I do when I''m feeling a bit low?",
+  "GUMBALL_Subtitle2": "I look at this"
 }
