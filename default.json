@@ -211,36 +211,6 @@
   "LAVA_DESCRIPTION": "O chão é...? Decida o que você quiser!",
   "LAVAREVERSO_DESCRIPTION": "O chão é...? Decida o que você quiser!",
   "VIEIRINHA_DESCRIPTION": "Pergunte algo para o Vieirinha",
-  "VIEIRINHA_responses": [
-    "Vai incomodar outra pessoa, obrigado.",
-    "Não sei, mas eu sei que eu moro lá no Cambuci.",
-    "Do jeito que eu vejo, sim.",
-    "Hmmmm... 🤔",
-    "Não posso falar sobre isso.",
-    "Não.",
-    "Sim.",
-    "Eu responderia, mas não quero ferir seus sentimentos.",
-    "Provavelmente sim",
-    "Provavelmente não",
-    "Minhas fontes dizem que sim",
-    "Minhas fontes dizem que não",
-    "Você pode acreditar nisso",
-    "Minha resposta é não",
-    "Minha resposta é sim",
-    "Do jeito que eu vejo, não.",
-    "Melhor não falar isto para você agora...",
-    "Sim, com certeza!",
-    "Também queria saber...",
-    "A minha resposta não importa, o que importa é você seguir o seu coração. 😘",
-    "Talvez...",
-    "Acho que sim.",
-    "Acho que não.",
-    "Talvez sim.",
-    "Talvez não.",
-    "Sim!",
-    "Não!",
-    "¯\\_(ツ)_/¯"
-  ],
   "NYANCAT_DESCRIPTION": "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!",
   "PPT_DESCRIPTION": "Jogue Pedra, Papel ou Tesoura! (jankenpon, ou a versão abrasileirada: jokenpô)",
   "PPT_WIN": "Parabéns, você ganhou!",
@@ -266,54 +236,6 @@
   "SAM_DESCRIPTION": "Adiciona uma marca da água do South America Memes em uma imagem",
   "SHIP_DESCRIPTION": "Veja se um casal daria certo (ou não!)",
   "SHIP_NEW_COUPLE": "Hmmm, será que nós temos um novo casal aqui?",
-  "SHIP_valor90": [
-    "😍 %ship% Os dois se amam! 😍",
-    "💗 %ship% Casal mais perfeito? Impossível! 💗",
-    "☠ %ship% Nem a *dona* morte separa! 😂",
-    "😋 %ship% Casal mais perfeito que eu! 😋",
-    "😚 %ship% Casal? Casal que nada! Eles já são casados! 😚"
-  ],
-  "SHIP_valor80": [
-    "😏 %ship% Mas esses dois já se conhecem faz muito tempo... 😏",
-    "😊 %ship% Claro que os dois são um lindo casal! 😊",
-    "😜 %ship% Casal mais grudento que Despacito! 😜",
-    "😄 %ship% Se os dois já não namoram eu estaria surpresa! 😄"
-  ],
-  "SHIP_valor70": [
-    "🙂 %ship% Prevejo um casal fofo se formando! 🙂",
-    "😄 %ship% Só precisa de um pouco mais de conversa para rolar! 😜",
-    "😊 %ship% Os dois foram feitos um para o outro! 😊",
-    "😄 %ship% Sim! 😄"
-  ],
-  "SHIP_valor60": [
-    "🙂 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... 😏",
-    "😊 %ship% Tem um pouco de interesses compatíveis aí 😊",
-    "🙂 %ship% Eu aprovo esse casal! 🙂",
-    "😄 %ship% Sim! 😄"
-  ],
-  "SHIP_valor50": [
-    "😶 %ship% Amigos... Mas talvez né... 😏",
-    "😊 %ship% Talvez... Só precisa o/a %user% querer! 😶",
-    "😶 %ship% Eu queria ver esse casal funcionar 😶"
-  ],
-  "SHIP_valor40": [
-    "😶 %ship% É... talvez, eu acho... 🙁",
-    "😶 %ship% Nada é impossível, mas... 🙁",
-    "😶 %ship% Se os dois quiserem, talvez dê certo... Mas... 😶"
-  ],
-  "SHIP_valor30": [
-    "😕 %ship% Acho que não seria um belo casal... 🙁",
-    "😶 %ship% Parece que só são conhecidos... 😶"
-  ],
-  "SHIP_valor20": [
-    "😐 %ship% Se o(a) %user% não tivesse deixado na friendzone... 😐"
-  ],
-  "SHIP_valor10": [
-    "😐 %ship% Eu queria muito falar que é possível, mas... 😢"
-  ],
-  "SHIP_valor0": [
-    "😭 %ship% As possibilidades de ter este casal são quase impossíveis! 😭"
-  ],
   "SPINNER_DESCRIPTION": "Gira um fidget spinner! Quanto tempo será que ele irá ficar rodando?",
   "SPINNER_SPINNING": "Girando o fidget spinner... Use o comando novamente para tentar regirar o spinner, mas cuidado! Você precisa ter sorte para conseguir regirar quando ele começar a parar!",
   "SPINNER_SPINNED": "Seu spinner girou por **{0}** segundos!",
@@ -984,5 +906,10 @@
   "LORITTA_PleaseDonate": "Se você gosta de usar as minhas funções e quer me ajudar, por favor, doe para me ajudar a ficar online! Qualquer doação ajuda bastante e, ao doar, você poderá ganhar recompensas por me ajudar, obrigada pela ajuda! {0}",
   "VOTE_Description": "Mostra o link para votar no servidor na Lori's Server List!",
   "VOTE_YourLink": "Vote no `{0}` para ajudar ele crescer! {1}",
-  "VOTE_NotInServerList": "Este servidor não está na **Lori''s Server List**, desculpe pela inconveniência... 😢"
+  "VOTE_NotInServerList": "Este servidor não está na **Lori''s Server List**, desculpe pela inconveniência... 😢",
+  "LORITTA_BadNickname": "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!",
+  "INVITEINFO_InviteDoesNotExist": "Convite `{0}` não existe!",
+  "CHANNELINFO_Description": "Mostra informações de um canal de texto",
+  "LORITTA_Yes":"Sim",
+  "LORITTA_No":"Não"
 }
