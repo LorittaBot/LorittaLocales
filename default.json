@@ -987,5 +987,7 @@
   "VOTE_NotInServerList": "Este servidor não está na **Lori''s Server List**, desculpe pela inconveniência... 😢",
   "LORITTA_BadNickname": "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!",
   "INVITEINFO_InviteDoesNotExist": "Convite `{0}` não existe!",
-  "CHANNELINFO_Description": "Mostra informações de um canal de texto"
+  "CHANNELINFO_Description": "Mostra informações de um canal de texto",
+  "LORITTA_Yes":"Sim",
+  "LORITTA_No":"Não"
 }
