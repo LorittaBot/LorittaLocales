@@ -984,5 +984,8 @@
   "LORITTA_PleaseDonate": "Se você gosta de usar as minhas funções e quer me ajudar, por favor, doe para me ajudar a ficar online! Qualquer doação ajuda bastante e, ao doar, você poderá ganhar recompensas por me ajudar, obrigada pela ajuda! {0}",
   "VOTE_Description": "Mostra o link para votar no servidor na Lori's Server List!",
   "VOTE_YourLink": "Vote no `{0}` para ajudar ele crescer! {1}",
-  "VOTE_NotInServerList": "Este servidor não está na **Lori''s Server List**, desculpe pela inconveniência... 😢"
+  "VOTE_NotInServerList": "Este servidor não está na **Lori''s Server List**, desculpe pela inconveniência... 😢",
+  "LORITTA_BadNickname": "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!",
+  "INVITEINFO_InviteDoesNotExist": "Convite `{0}` não existe!",
+  "CHANNELINFO_Description": "Mostra informações de um canal de texto"
 }
