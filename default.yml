@@ -1,0 +1,55 @@
+# Tradução padrão (Português - Brasil) da Loritta
+# Autores:
+# MrPowerGamerBR (https://mrpowergamerbr.com/)
+loritta:
+  translation-authors:
+  - 123170274651668480
+commands:
+  please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
+  error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
+  cant-use-in-private: "Você não pode usar este comando em mensagens privadas!"
+  arguments:
+    text: "texto"
+    number: "número"
+    user: "usuário"
+    image: "imagem"
+  ajuda:
+    error-while-opening-dm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
+  roll:
+    description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+    how-much-sides: "Quantos lados o dado que eu irei rolar terá"
+  vieirinha:
+    description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
+    examples:
+    - "Você me ama?"
+    - "Sonic é melhor que Mario?"
+    - "Eu irei ganhar na loteria neste ano?"
+    responses:
+    - "Vai incomodar outra pessoa, obrigado."
+    - "Não sei, mas eu sei que eu moro lá no Cambuci."
+    - "Do jeito que eu vejo, sim."
+    - "Hmmmm... 🤔"
+    - "Não posso falar sobre isso."
+    - "Não."
+    - "Sim."
+    - "Eu responderia, mas não quero ferir seus sentimentos."
+    - "Provavelmente sim"
+    - "Provavelmente não"
+    - "Minhas fontes dizem que sim"
+    - "Minhas fontes dizem que não"
+    - "Você pode acreditar nisso"
+    - "Minha resposta é não"
+    - "Minha resposta é sim"
+    - "Do jeito que eu vejo, não."
+    - "Melhor não falar isto para você agora..."
+    - "Sim, com certeza!"
+    - "Também queria saber..."
+    - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
+    - "Talvez..."
+    - "Acho que sim."
+    - "Acho que não."
+    - "Talvez sim."
+    - "Talvez não."
+    - "Sim!"
+    - "Não!"
+    - "¯\\_(ツ)_/¯"

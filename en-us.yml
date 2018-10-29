@@ -1,0 +1,36 @@
+# Loritta's English Translation
+# Authors:
+# MrPowerGamerBR (https://mrpowergamerbr.com/)
+commands:
+  vieirinha:
+    description: "Vieirinha is the oracle that knows everything that you want about this life, why not ask something to him?"
+    examples:
+    - "Do you love me?"
+    - "Sonic is better than Mario?"
+    - "Will I win the lottery this year?"
+    responses:
+    - "Go annoy someone else, thank you."
+    - "As far as I know, yes."
+    - "Hmmmm... 🤔"
+    - "I can't talk about that."
+    - "No."
+    - "Yes."
+    - "I would say, but I don't want to hurt your feelings."
+    - "Probably yes"
+    - "Probably not"
+    - "My sources says yes"
+    - "My sources says no"
+    - "You can believe in that"
+    - "My answer is no"
+    - "My answer is yes"
+    - "As far as I know, no."
+    - "It wouldn't be good to tell you that right now..."
+    - "Yes, of course!"
+    - "I also want to know..."
+    - "My answer doesn't matter, just follow your heart. 😘"
+    - "Maybe..."
+    - "Maybe yes."
+    - "Maybe not."
+    - "Yes!"
+    - "No!"
+    - "¯\\_(ツ)_/¯"
