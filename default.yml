@@ -8,6 +8,7 @@ commands:
   please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
   error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
   cant-use-in-private: "Você não pode usar este comando em mensagens privadas!"
+  user-does-not-exists: "Usuário inexistente!"
   arguments:
     text: "texto"
     number: "número"
@@ -53,3 +54,25 @@ commands:
     - "Sim!"
     - "Não!"
     - "¯\\_(ツ)_/¯"
+  actions:
+    examples:
+    - "297153970613387264"
+    - "@MrPowerGamerBR"
+    slap:
+      description: "Use esse comando se alguém está merecendo levar uns tapas"
+      response: "**{0} deu um tapa em {1}!**"
+      response-anti-idiot: "**Como você consegue dormir à noite depois de tentar bater uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
+    kiss:
+      description: "Use esse comando para beijar alguém"
+      response: "**{0} beijou {1}!**"
+      response-anti-idiot: "Nah, quero te beijar não... mas eu ainda gosto de você como um amigx!"
+    attack:
+      description: "Use esse comando para atacar alguém"
+      response: "**{0} atacou {1}!**"
+      response-anti-idiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"
+    hug:
+      description: "Use esse comando para dar um abraço carinhoso em alguém"
+      response: "**{0} abraçou {1}!**"
+    dance:
+      description: "Use esse comando para dançar com alguém"
+      response: "**{0} dançou com {1}!**"
