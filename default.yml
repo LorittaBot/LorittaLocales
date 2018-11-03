@@ -3,7 +3,7 @@
 # MrPowerGamerBR (https://mrpowergamerbr.com/)
 loritta:
   translation-authors:
-  - 123170274651668480
+  - '123170274651668480'
 commands:
   please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
   error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
@@ -14,6 +14,11 @@ commands:
     number: "número"
     user: "usuário"
     image: "imagem"
+  language:
+    description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
+    please-select-your-language: "Escolha a linguagem desejada!"
+    translated-by: "Traduzido por"
+    language-changed: "Prontinho, agora eu irei falar em {0} neste servidor!"
   ajuda:
     error-while-opening-dm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
   roll:
@@ -54,6 +59,12 @@ commands:
     - "Sim!"
     - "Não!"
     - "¯\\_(ツ)_/¯"
+  vemdezap:
+    description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
+    examples:
+    - "vem de zap bb"
+    - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
+    - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
   actions:
     examples:
     - "297153970613387264"
