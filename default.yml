@@ -4,11 +4,35 @@
 loritta:
   translation-authors:
   - '123170274651668480'
+  x-of-x: "{0} de {1}"
+discord:
+  permissions:
+    kick-members: "Expulsar membros"
+    ban-members: "Banir membros"
+    administrator: "Administrador"
+    manage-channel: "Gerenciar canais"
+    manage-server: "Gerenciar servidor"
+    add-reactions: "Adicionar reações"
+    message-history: "Ver histórico de mensagens"
+    view-audit-logs: "Ver Audit Logs"
+    message-read: "Ler mensagens"
+    message-write: "Enviar mensagens"
+    message-manage: "Gerenciar mensagens"
+    message-ext-emoji: "Usar emojis externos"
+    message-embed-links: "Inserir links"
+    manage-roles: "Gerenciar cargos"
+    manage-permissions: "Gerenciar permissões"
+    manage-webhooks: "Gerenciar webhooks"
+    manage-emotes: "Gerenciar emojis"
+    create-instant-invite: "Criar um convite instanâneo"
 commands:
   please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
   error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
   cant-use-in-private: "Você não pode usar este comando em mensagens privadas!"
   user-does-not-exists: "Usuário inexistente!"
+  doesnt-have-permission-discord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
+  lori-doesnt-have-permission-discord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
+  command-only-for-owner: "Apenas pessoas especiais podem usar este comando :3"
   arguments:
     text: "texto"
     number: "número"
@@ -87,3 +111,8 @@ commands:
     dance:
       description: "Use esse comando para dançar com alguém"
       response: "**{0} dançou com {1}!**"
+  # MISCELÂNEA
+  fanarts:
+    description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
+    made-by: "Fan Art feita por {0}"
+    thank-you-all: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
