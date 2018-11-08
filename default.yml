@@ -87,3 +87,8 @@ commands:
     dance:
       description: "Use esse comando para dançar com alguém"
       response: "**{0} dançou com {1}!**"
+  addemoji:
+    description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
+    success: "Emoji adicionado com sucesso!"
+    limitReached: "O limite de emojis (50 emojis) já foi batido!"
+    error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
