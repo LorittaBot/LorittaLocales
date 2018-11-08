@@ -116,8 +116,8 @@ commands:
     description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
     made-by: "Fan Art feita por {0}"
     thank-you-all: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
-  addemoji:
+  add-emoji:
     description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
     success: "Emoji adicionado com sucesso!"
-    limitReached: "O limite de emojis (50 emojis) já foi batido!"
+    limit-reached: "O limite de emojis (50 emojis) já foi batido!"
     error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
