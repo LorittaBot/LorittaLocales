@@ -24,12 +24,11 @@ discord:
     create-instant-invite: "Create an instant invite"
 
 commands:
-
 please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute another command! {1}"
   error-while-executing-command: "Something went extremaly wrong while executing this command... 😭 Sorry for the inconvenience. 😢"
   cant-use-in-private: "You can''t use this command in private messages!"
   user-does-not-exists: "This user doesn''t exist!"
-  doesnt-have-permission-discord: "You don''t hava permission to use this command! For use it, you need have permission to {0}!"
+  doesnt-have-permission-discord: "You don''t have permission to use this command! For use it, you need have permission to {0}!"
   lori-doesnt-have-permission-discord: "I wish I could execute this command, but unfortunately i don''t have permission to {0}... {1} Ask for an administrator give this permission for me! Thanks! {2}"
   command-only-for-owner: "Only special people can use this command :3"
   arguments:
@@ -80,11 +79,11 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     - "No!"
     - "¯\\_(ツ)_/¯"
     vemdezap:
-    description: "Good morning catilangaiada! Come from zap baby, use the power of zapzap in your message to show how 🔝 with the Whatsapp''s girls!"
+    description: "Good morning catilangaiada! Come from Whatsapp baby, use the power of Whatsapp in your message to show how 🔝 with the Whatsapp''s girls!"
     examples:
-    - "come from zap baby"
+    - "come from Whatsapp baby"
     - "Hi catilangaiada, nobody says nothing kkkkkkkkkkkk"
-    - "zapzap is better than discord! There we have the number phone of girls"
+    - "Whatsapp is better than discord! There we have the number phone of girls"
   actions:
     examples:
     - "297153970613387264"
@@ -111,9 +110,9 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
   fanarts:
     description: "Check out the {0} awesome {1} fan arts people made for me!"
     made-by: "Fan Art made by {0}"
-    thank-you-all: "thank for everybody that made grat and awesome fan arts me!"
+    thank-you-all: "thanks to everyone that made those awesome fan arts for me!"
   add-emoji:
     description: "Add emojis in your server with the link of the emoji. Perfect when you''re tired of downloading images in your computer just for add in the server!"
-    success: "Emoji was sucessfully added!"
+    success: "Emoji was successfully added!"
     limit-reached: "The max of emojis (50 emojis) was already reached!"
     error: "I didn''t could add this emoji! Sorry for the inconvenience. :sob:"
