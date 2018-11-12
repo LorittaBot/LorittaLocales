@@ -22,13 +22,15 @@ discord:
     manage-webhooks: "Manage Webhooks"
     manage-emotes: "Manage emojis"
     create-instant-invite: "Create an instant invite"
+
 commands:
+
 please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute another command! {1}"
-  error-while-executing-command: "Something gone extremaly wrong in executing this command... 😭 Sorry for the inconvenience. 😢"
-  cant-use-in-private: "You can't use this command in private messages!"
-  user-does-not-exists: "This user doesn't exist!"
-  doesnt-have-permission-discord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
-  lori-doesnt-have-permission-discord: "I wish I could execute this command, but unfortunately i don't have permission to {0}... {1} Ask for an administrator give this permission for me! Thanks! {2}"
+  error-while-executing-command: "Something went extremaly wrong while executing this command... 😭 Sorry for the inconvenience. 😢"
+  cant-use-in-private: "You can''t use this command in private messages!"
+  user-does-not-exists: "This user doesn''t exist!"
+  doesnt-have-permission-discord: "You don''t hava permission to use this command! For use it, you need have permission to {0}!"
+  lori-doesnt-have-permission-discord: "I wish I could execute this command, but unfortunately i don''t have permission to {0}... {1} Ask for an administrator give this permission for me! Thanks! {2}"
   command-only-for-owner: "Only special people can use this command :3"
   arguments:
     text: "text"
@@ -37,14 +39,14 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     image: "image"
   language:
     description: "You know that I can speak in another languages? {0} Change the language that I speak in your server!"
-    please-select-your-language: "Choose the wished language!"
+    please-select-your-language: "Please, select your language!"
     translated-by: "Translated by"
-    language-changed: "Ready, now I'am going to speak {0} in this server!"
+    language-changed: "Done! now I will speak {0} in this server!"
   ajuda:
     error-while-opening-dm: "I wanted to send the Help to you,but how I am supossed to send if you disabled your private messages between people of servers that you know. http://i.imgur.com/Z1HwW2j.png 🤷"
   roll:
     description: "Rolls a dice and tells the result, perfect to when you want to play Monopoly but you lost your dice."
-    how-much-sides: "How many sides the dice I will roll have"
+    how-much-sides: "How many sides should the dice have"
   vieirinha:
     description: "Vieirinha is the oracle that knows everything that you want about this life, why not ask something to him?"
     examples:
@@ -55,10 +57,10 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     - "Go annoy someone else, thank you."
     - "As far as I know, yes."
     - "Hmmmm... 🤔"
-    - "I can't talk about that."
+    - "I can''t talk about that."
     - "No."
     - "Yes."
-    - "I would say, but I don't want to hurt your feelings."
+    - "I would say, but I don''t want to hurt your feelings."
     - "Probably yes"
     - "Probably not"
     - "My sources says yes"
@@ -67,7 +69,7 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     - "My answer is no"
     - "My answer is yes"
     - "As far as I know, no."
-    - "It wouldn't be good to tell you that right now..."
+    - "It wouldn''t be good to tell you that right now..."
     - "Yes, of course!"
     - "I also want to know..."
     - "My answer doesn't matter, just follow your heart. 😘"
@@ -78,7 +80,7 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     - "No!"
     - "¯\\_(ツ)_/¯"
     vemdezap:
-    description: "Good morning catilangaiada! Come from zap baby, use the power of zapzap in your message to show how 🔝 with the Whatsapp's girls!"
+    description: "Good morning catilangaiada! Come from zap baby, use the power of zapzap in your message to show how 🔝 with the Whatsapp''s girls!"
     examples:
     - "come from zap baby"
     - "Hi catilangaiada, nobody says nothing kkkkkkkkkkkk"
@@ -90,11 +92,11 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     slap:
       description: "Use this command for someone that is deserving to receive some slaps"
       response: "**{0} give a slap in {1}!**"
-      response-anti-idiot: "**How you can sleep in night after try to slap a girl like me? **{0} give a slap in {1}!"
+      response-anti-idiot: "**How you can sleep at night after trying to slap a girl like me? **{0} give a slap in {1}!"
     kiss:
       description: "Use this command for kiss someone"
       response: "**{0} kissed {1}!**"
-      response-anti-idiot: "Nah, I don't want to kiss you... but I still like you like a friend!"
+      response-anti-idiot: "Nah, I don''t want to kiss you... but I still like you like a friend!"
     attack:
       description: "Use this command for attack someone"
       response: "**{0} attacked {1}!**"
@@ -111,7 +113,7 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     made-by: "Fan Art made by {0}"
     thank-you-all: "thank for everybody that made grat and awesome fan arts me!"
   add-emoji:
-    description: "Add emojis in your server with the link of the emoji. Perfect when you're tired of downloading images in your computer just for add in the server!"
-    success: "Emoji added with sucess!"
-    limit-reached: "The max of emojis (50 emojis) was alredy reached!"
-    error: "I didn't could add this emoji! Sorry for the inconvenience. :sob:"
+    description: "Add emojis in your server with the link of the emoji. Perfect when you''re tired of downloading images in your computer just for add in the server!"
+    success: "Emoji was sucessfully added!"
+    limit-reached: "The max of emojis (50 emojis) was already reached!"
+    error: "I didn''t could add this emoji! Sorry for the inconvenience. :sob:"
