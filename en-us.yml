@@ -1,12 +1,12 @@
 # Loritta's English Translation
 # Authors:
 # MrPowerGamerBR (https://mrpowergamerbr.com/)
-#ItsGabii
+# ItsGabii
 discord:
   permissions:
     kick-members: "Kick members"
     ban-members: "Ban members"
-    administrator: "Administrador"
+    administrator: "Administrator"
     manage-channel: "Manage channel"
     manage-server: "Manage server"
     add-reactions: "Add reacions"
@@ -16,7 +16,7 @@ discord:
     message-write: "Send messages"
     message-manage: "Manage messages"
     message-ext-emoji: "Use external emojis"
-    message-embed-links: "insert links"
+    message-embed-links: "Insert links"
     manage-roles: "Manage roles"
     manage-permissions: "Manage permissions"
     manage-webhooks: "Manage Webhooks"
@@ -25,11 +25,11 @@ discord:
 
 commands:
 please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute another command! {1}"
-  error-while-executing-command: "Something went extremaly wrong while executing this command... 😭 Sorry for the inconvenience. 😢"
+  error-while-executing-command: "Something went extremely wrong while executing this command... 😭 Sorry for the inconvenience. 😢"
   cant-use-in-private: "You can''t use this command in private messages!"
   user-does-not-exists: "This user doesn''t exist!"
-  doesnt-have-permission-discord: "You don''t have permission to use this command! For use it, you need have permission to {0}!"
-  lori-doesnt-have-permission-discord: "I wish I could execute this command, but unfortunately i don''t have permission to {0}... {1} Ask for an administrator give this permission for me! Thanks! {2}"
+  doesnt-have-permission-discord: "You don''t have permission to use this command! To use it, you need to have permission to {0}!"
+  lori-doesnt-have-permission-discord: "I wish I could execute this command, but unfortunately I don''t have permission to {0}... {1} Ask an administrator to give this permission to me! Thanks! {2}"
   command-only-for-owner: "Only special people can use this command :3"
   arguments:
     text: "text"
@@ -37,14 +37,14 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     user: "user"
     image: "image"
   language:
-    description: "You know that I can speak in another languages? {0} Change the language that I speak in your server!"
+    description: "Did you know that I can speak in other languages? {0} Change the language that I speak in your server!"
     please-select-your-language: "Please, select your language!"
     translated-by: "Translated by"
     language-changed: "Done! now I will speak {0} in this server!"
   ajuda:
-    error-while-opening-dm: "I wanted to send the Help to you,but how I am supossed to send if you disabled your private messages between people of servers that you know. http://i.imgur.com/Z1HwW2j.png 🤷"
+    error-while-opening-dm: "I''d like to send the help message to you, but how am I supossed to send it if you have disabled your private messages between people on servers that you know? http://i.imgur.com/Z1HwW2j.png 🤷"
   roll:
-    description: "Rolls a dice and tells the result, perfect to when you want to play Monopoly but you lost your dice."
+    description: "Rolls a dice and tells the result, perfect when you want to play Monopoly but you lost your dice."
     how-much-sides: "How many sides should the dice have"
   vieirinha:
     description: "Vieirinha is the oracle that knows everything that you want about this life, why not ask something to him?"
@@ -79,10 +79,10 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
     - "No!"
     - "¯\\_(ツ)_/¯"
     vemdezap:
-    description: "Good morning catilangaiada! Come from Whatsapp baby, use the power of Whatsapp in your message to show how 🔝 with the Whatsapp''s girls!"
+    description: "Good morning catilangaiada! Come from Whatsapp baby, use the power of Whatsapp in your message to show how 🔝 you are with the Whatsapp''s girls!"
     examples:
     - "come from Whatsapp baby"
-    - "Hi catilangaiada, nobody says nothing kkkkkkkkkkkk"
+    - "Hi catilangaiada, nobody says nothing lmao"
     - "Whatsapp is better than discord! There we have the number phone of girls"
   actions:
     examples:
