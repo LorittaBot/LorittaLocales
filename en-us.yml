@@ -39,7 +39,7 @@ commands:
     description: "Did you know that I can speak in other languages? {0} Change the language that I speak in your server!"
     please-select-your-language: "Please, select your language!"
     translated-by: "Translated by"
-    language-changed: "Done! now I will speak {0} in this server!"
+    language-changed: "Done! Now I will speak {0} in this server!"
   ajuda:
     error-while-opening-dm: "I''d like to send the help message to you, but how am I supossed to send it if you have disabled your private messages between people on servers that you know? http://i.imgur.com/Z1HwW2j.png 🤷"
   roll:
