@@ -81,27 +81,27 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
   vemdezap:
     description: "Good morning catilangaiada! Come from Whatsapp baby, use the power of Whatsapp in your message to show how 🔝 you are with the Whatsapp''s girls!"
     examples:
-    - "come from Whatsapp baby"
+    - "Come to WhatsApp, baby"
     - "Hi catilangaiada, nobody says nothing lmao"
-    - "Whatsapp is better than discord! There we have the number phone of girls"
+    - "Whatsapp is better than discord, we have girls' phone numbers there!"
   actions:
     examples:
     - "297153970613387264"
     - "@MrPowerGamerBR"
     slap:
-      description: "Use this command for someone that is deserving to receive some slaps"
-      response: "**{0} give a slap in {1}!**"
-      response-anti-idiot: "**How you can sleep at night after trying to slap a girl like me? **{0} give a slap in {1}!"
+      description: "Use this command with someone that deserves to receive some slaps"
+      response: "**{0} slapped {1}!**"
+      response-anti-idiot: "**How you can sleep at night after trying to slap a girl like me? **{0} slapped {1}!"
     kiss:
-      description: "Use this command for kiss someone"
+      description: "Use this command to kiss someone"
       response: "**{0} kissed {1}!**"
-      response-anti-idiot: "Nah, I don''t want to kiss you... but I still like you like a friend!"
+      response-anti-idiot: "Nah, I don''t want to kiss you... but I still like you as a friend!"
     attack:
-      description: "Use this command for attack someone"
+      description: "Use this command to attack someone"
       response: "**{0} attacked {1}!**"
-      response-anti-idiot: "**How you dare do this to me? **{0} attacked {1}!"
+      response-anti-idiot: "**How you dare you do this to me? **{0} attacked {1}!"
     hug:
-      description: "Use this command for give a sweet hug in someone"
+      description: "Use this command to give a sweet hug to someone"
       response: "**{0} hugged {1}!**"
     dance:
       description: "Use this command to dance with someone"
@@ -110,9 +110,9 @@ please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute a
   fanarts:
     description: "Check out the {0} awesome {1} fan arts people made for me!"
     made-by: "Fan Art made by {0}"
-    thank-you-all: "thanks to everyone that made those awesome fan arts for me!"
+    thank-you-all: "Thanks to everyone that made those awesome fan arts for me!"
   add-emoji:
-    description: "Add emojis in your server with the link of the emoji. Perfect when you''re tired of downloading images in your computer just for add in the server!"
+    description: "Add emojis to your server with the link of the image. Perfect when you''re tired of downloading images to your computer just to add emojis to the server!"
     success: "Emoji was successfully added!"
-    limit-reached: "The max of emojis (50 emojis) was already reached!"
-    error: "I didn''t could add this emoji! Sorry for the inconvenience. :sob:"
+    limit-reached: "The emoji limit (50 emojis) has already been reached!"
+    error: "I couldn''t add this emoji! Sorry for the inconvenience. :sob:"
