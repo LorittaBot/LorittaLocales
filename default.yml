@@ -83,6 +83,8 @@ commands:
     - "Sim!"
     - "Não!"
     - "¯\\_(ツ)_/¯"
+  bolsonaro:
+    description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
   vemdezap:
     description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
     examples:
