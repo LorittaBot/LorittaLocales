@@ -22,9 +22,8 @@ discord:
     manage-webhooks: "Manage Webhooks"
     manage-emotes: "Manage emojis"
     create-instant-invite: "Create an instant invite"
-
 commands:
-please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute another command! {1}"
+  please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute another command! {1}"
   error-while-executing-command: "Something went extremely wrong while executing this command... 😭 Sorry for the inconvenience. 😢"
   cant-use-in-private: "You can''t use this command in private messages!"
   user-does-not-exists: "This user doesn''t exist!"
