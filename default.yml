@@ -113,6 +113,13 @@ commands:
     dance:
       description: "Use esse comando para dançar com alguém"
       response: "**{0} dançou com {1}!**"
+  # MODERAÇÃO
+  moderation:
+    unmute:
+      punish-action: "Retirado o Silenciamento"
+      punish-name: "remover o silenciamento"
+      sucessfully-unmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+      automatically-expired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo! {0}"
   # MISCELÂNEA
   fanarts:
     description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
