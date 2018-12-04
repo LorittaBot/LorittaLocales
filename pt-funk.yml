@@ -1,0 +1,134 @@
+# brooow é a tradução pt-funk da Loritta
+# Autores:
+# MrPowerGamerBR (https://mrpowergamerbr.com/)
+# DantonGarrido
+loritta:
+  translation-authors:
+  - '123170274651668480'
+  - '266569519751757824'
+  x-of-x: "{0} de {1}"
+discord:
+  permissions:
+    kick-members: "Expulsar membros"
+    ban-members: "Banir membros"
+    administrator: "Administrador"
+    manage-channel: "Gerenciar canais"
+    manage-server: "Gerenciar servidor"
+    add-reactions: "Adicionar reações"
+    message-history: "Ver histórico de mensagens"
+    view-audit-logs: "Ver Audit Logs"
+    message-read: "Ler mensagens"
+    message-write: "Enviar mensagens"
+    message-manage: "Gerenciar mensagens"
+    message-ext-emoji: "Usar emojis externos"
+    message-embed-links: "Inserir links"
+    manage-roles: "Gerenciar cargos"
+    manage-permissions: "Gerenciar permissões"
+    manage-webhooks: "Gerenciar webhooks"
+    manage-emotes: "Gerenciar emojis"
+    create-instant-invite: "Criar um convite instanâneo"
+commands:
+  please-wait-cooldown: "Calma aí, menor! Tá embrazado? Tu tem que esperar **{0}** antes de mandar outra ordem, tá ligado? {1}"
+  error-while-executing-command: "Pô, alguma parada deu muito ruim, não dá pra fazer isso não... 😭 Desculpa pelo transtorno aí, parça! 😢"
+  cant-use-in-private: "Tu não pode usar esse comando nas mensagem privada não pô!"
+  user-does-not-exists: "Esse mlk não existe broow!"
+  doesnt-have-permission-discord: "Tá tirando? Tu não tem permissão pra dar essa ordem mano! Precisa ter permissão pra {0}!"
+  lori-doesnt-have-permission-discord: "Eu queria fazer isso aí, mas eu não tenho permissão pra {0}... {1} Pede pra alguém da administração dar essa permissão pra mim! Vlw tmj! {2}"
+  command-only-for-owner: "Só gente especial pode dar essa ordem aí tá ligado? :3"
+  arguments:
+    text: "texto"
+    number: "número"
+    user: "usuário"
+    image: "imagem"
+  language:
+    description: "Sabia que eu sei falar em outros idiomas mano? {0} Muda a linguagem que eu falo no teu servidor!"
+    please-select-your-language: "Escolhe a tua linguagem aí menor!"
+    translated-by: "Traduzido por"
+    language-changed: "Suavidade parceiro, agora eu vou falar em {0} nesse servidor, tá ligado?"
+  ajuda:
+    error-while-opening-dm: "Mano, eu queria te mandar a ajuda, mas eu queria saber como é que eu vou enviar sendo que tu desativou as mensagens privadas entre pessoas de servidores que você conhece, mano? http://i.imgur.com/Z1HwW2j.png 🤷"
+  roll:
+    description: "Joga o dado e manda o resultado dele, bom pra jogar o Jogo do Bicho quando tá sem dado."
+    how-much-sides: "Quantos lados o dado que eu vou jogar vai ter, tá ligado?"
+  vieirinha:
+    description: "Vieirinha é o oráculo de tudo que você quer saber nessa vida, tu quer perguntar algo para ele, mano?"
+    examples:
+    - "Você me ama?"
+    - "Sonic é melhor que Mario?"
+    - "Eu irei ganhar na loteria neste ano?"
+    responses:
+    - "Vai incomodar outra pessoa, obrigado."
+    - "Não sei, mas eu sei que eu moro lá no Cambuci."
+    - "Do jeito que eu vejo, sim."
+    - "Hmmmm... 🤔"
+    - "Não posso falar sobre isso."
+    - "Não."
+    - "Sim."
+    - "Eu responderia, mas não quero ferir seus sentimentos."
+    - "Provavelmente sim"
+    - "Provavelmente não"
+    - "Minhas fontes dizem que sim"
+    - "Minhas fontes dizem que não"
+    - "Você pode acreditar nisso"
+    - "Minha resposta é não"
+    - "Minha resposta é sim"
+    - "Do jeito que eu vejo, não."
+    - "Melhor não falar isto para você agora..."
+    - "Sim, com certeza!"
+    - "Também queria saber..."
+    - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
+    - "Talvez..."
+    - "Acho que sim."
+    - "Acho que não."
+    - "Talvez sim."
+    - "Talvez não."
+    - "Sim!"
+    - "Não!"
+    - "¯\\_(ツ)_/¯"
+  bolsonaro:
+    description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+  vemdezap:
+    description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
+    examples:
+    - "vem de zap bb"
+    - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
+    - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+  actions:
+    examples:
+    - "297153970613387264"
+    - "@MrPowerGamerBR"
+    slap:
+      description: "Usa esse comando se alguém tá merecendo levar uns tapas, tá ligado aquele cara que tá devendo?"
+      response: "**{0} deu um tapão em {1}!**"
+      response-anti-idiot: "**Mano, como tu pode dormir à noite depois de tentar bater em uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
+    kiss:
+      description: "Usa esse comando pra dar um beijo em alguém"
+      response: "**{0} beijou {1}!**"
+      response-anti-idiot: "Nah, quero te beijar não, mano... mas eu ainda gosto de tu como brother, tá ligado?"
+    attack:
+      description: "Usa esse comando pra atacar alguém"
+      response: "**{0} atacou {1}!**"
+      response-anti-idiot: "**Como tu ousa tentar fazer isso comigo, cara? **{0} atacou {1}!"
+    hug:
+      description: "Usa esse comando pra dar um abraço carinhoso em alguém"
+      response: "**{0} abraçou {1}!**"
+    dance:
+      description: "Usa esse comando paa dançar com alguém"
+      response: "**{0} dançou com {1}!**"
+  # MODERAÇÃO
+  moderation:
+    unmute:
+      punish-action: "Retirado o Silenciamento"
+      punish-name: "remover o silenciamento"
+      sucessfully-unmuted: "O maluco aprendeu a falar de volta, espero que dessa vez ele não fique de caô conspirando com os parças, tá ligado?"
+      automatically-expired: "Sê locô cachorro, o maluco aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais pra não ser silenciado de novo! {0}"
+  # MISCELÂNEA
+  fanarts:
+    description: "Dá uma olhada nas {0} lindas {1} fan arts que fizeram de mim, mano!"
+    made-by: "Fan Art fabricada pelx patrão/patroa {0}"
+    thank-you-all: "Obrigadão a todos que fizeram incríveis e maravilhosas fan arts para mim! Tmj galerinha!"
+  add-emoji:
+    description: "Põe emojis no teu servidor a partir do link da imagem dele, tá ligado? Perfeito se tu tá cansado de ficar baixando imagens pro teu computador só para adicionar no servidor, mano!"
+    success: "Emoji adicionado na moral, mano!!"
+    limit-reached: "Já tá cheio! O limite de 50 emojis já foi batido, cara!"
+    error: "Não consegui adicionar este emoji, cara! Mals pela incoveniência. :sob:"

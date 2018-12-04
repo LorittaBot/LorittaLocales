@@ -5,7 +5,15 @@ loritta:
   translation-authors:
   - '123170274651668480'
   x-of-x: "{0} de {1}"
+  pronoun:
+    he: "ele"
+    she: "ela"
 discord:
+  status:
+    online: "Online"
+    idle: "Ausente"
+    do-not-disturb: "Não pertube"
+    offline: "Offline"
   permissions:
     kick-members: "Expulsar membros"
     ban-members: "Banir membros"
@@ -14,7 +22,7 @@ discord:
     manage-server: "Gerenciar servidor"
     add-reactions: "Adicionar reações"
     message-history: "Ver histórico de mensagens"
-    view-audit-logs: "Ver Audit Logs"
+    view-audit-logs: "Ver registro de auditoria"
     message-read: "Ler mensagens"
     message-write: "Enviar mensagens"
     message-manage: "Gerenciar mensagens"
@@ -25,6 +33,19 @@ discord:
     manage-webhooks: "Gerenciar webhooks"
     manage-emotes: "Gerenciar emojis"
     create-instant-invite: "Criar um convite instanâneo"
+    priority-speaker: "Palestrante prioritário"
+    connect: "Conectar"
+    speak: "Falar"
+    mute-voice-members: "Silenciar membros"
+    disable-voice-audio: "Desativar áudio de membros"
+    move-voice-members: "Mover membros"
+    use-voice-detection: "Usar detecção de voz"
+    change-nickname: "Mudar apelido"
+    manage-nicknames: "Gerenciar apelidos"
+    mention-everyone: "Mencionar todos"
+    attach-files: "Anexar arquivos"
+    message-tts: "Enviar mensagens em TTS"
+    view-channel: "Ver canais"
 commands:
   please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
   error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
@@ -33,10 +54,12 @@ commands:
   doesnt-have-permission-discord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
   lori-doesnt-have-permission-discord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
   command-only-for-owner: "Apenas pessoas especiais podem usar este comando :3"
+  image-too-large: "Olha... eu fiz uma imagem incrível para você, mas quando eu tentei enviar... ela passou do limite de {0} do Discord! Desculpe pela inconveniência. {1}"
   arguments:
     text: "texto"
     number: "número"
     user: "usuário"
+    emote: "emoji"
     image: "imagem"
   language:
     description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
@@ -119,7 +142,28 @@ commands:
       punish-action: "Retirado o Silenciamento"
       punish-name: "remover o silenciamento"
       sucessfully-unmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
-      automatically-expired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo! {0}"
+      automatically-expired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+  # SOCIAL
+  social:
+    reputation:
+      success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}" 
+  # DISCORD
+  discord:
+    user-info:
+      shared-servers: "Servidores compartilhados"
+      account-created: "Conta criada há"
+      account-joined: "Entrou há"
+      join-position: "Posição de Entrada"
+      permissions: "Permissões"
+      join-place: "{0} lugar"
+    emoji-info:
+      description: "Mostra as informações de um emoji"
+      about-emoji: "Sobre o Emoji"
+      emoji-name: "Nome do Emoji"
+      emoji-id: "ID do Emoji"
+      mention: "Menção"
+      emoji-created: "Criado há"
+      seen-at: "Avistado em"
   # MISCELÂNEA
   fanarts:
     description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
