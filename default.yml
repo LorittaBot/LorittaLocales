@@ -174,3 +174,10 @@ commands:
     success: "Emoji adicionado com sucesso!"
     limit-reached: "O limite de emojis (50 emojis) já foi batido!"
     error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
+  channelInfo:
+    description: "Mostra informações de um canal de texto"
+    channelMention: "Menção do canal"
+    channelCreated: "Canal criado há"
+    channelTopic: "Tópico do canal"
+    undefined: "Não definido"
+    channelNotFound: "Canal não encontrado!"
