@@ -5,6 +5,8 @@ loritta:
   translation-authors:
   - '123170274651668480'
   x-of-x: "{0} de {1}"
+  page: "Página"
+  you-are-currently-on-page: "Você está na página {0}"
   pronoun:
     he: "ele"
     she: "ela"
@@ -61,59 +63,55 @@ commands:
     user: "usuário"
     emote: "emoji"
     image: "imagem"
-  language:
-    description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
-    please-select-your-language: "Escolha a linguagem desejada!"
-    translated-by: "Traduzido por"
-    language-changed: "Prontinho, agora eu irei falar em {0} neste servidor!"
-  ajuda:
-    error-while-opening-dm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
-  roll:
-    description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
-    how-much-sides: "Quantos lados o dado que eu irei rolar terá"
-  vieirinha:
-    description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
-    examples:
-    - "Você me ama?"
-    - "Sonic é melhor que Mario?"
-    - "Eu irei ganhar na loteria neste ano?"
-    responses:
-    - "Vai incomodar outra pessoa, obrigado."
-    - "Não sei, mas eu sei que eu moro lá no Cambuci."
-    - "Do jeito que eu vejo, sim."
-    - "Hmmmm... 🤔"
-    - "Não posso falar sobre isso."
-    - "Não."
-    - "Sim."
-    - "Eu responderia, mas não quero ferir seus sentimentos."
-    - "Provavelmente sim"
-    - "Provavelmente não"
-    - "Minhas fontes dizem que sim"
-    - "Minhas fontes dizem que não"
-    - "Você pode acreditar nisso"
-    - "Minha resposta é não"
-    - "Minha resposta é sim"
-    - "Do jeito que eu vejo, não."
-    - "Melhor não falar isto para você agora..."
-    - "Sim, com certeza!"
-    - "Também queria saber..."
-    - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
-    - "Talvez..."
-    - "Acho que sim."
-    - "Acho que não."
-    - "Talvez sim."
-    - "Talvez não."
-    - "Sim!"
-    - "Não!"
-    - "¯\\_(ツ)_/¯"
-  bolsonaro:
-    description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
-  vemdezap:
-    description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
-    examples:
-    - "vem de zap bb"
-    - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
-    - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+  # DIVERSÃO
+  entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
+    roll:
+      description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+      how-much-sides: "Quantos lados o dado que eu irei rolar terá"
+    vieirinha:
+      description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
+      examples:
+      - "Você me ama?"
+      - "Sonic é melhor que Mario?"
+      - "Eu irei ganhar na loteria neste ano?"
+      responses:
+      - "Vai incomodar outra pessoa, obrigado."
+      - "Não sei, mas eu sei que eu moro lá no Cambuci."
+      - "Do jeito que eu vejo, sim."
+      - "Hmmmm... 🤔"
+      - "Não posso falar sobre isso."
+      - "Não."
+      - "Sim."
+      - "Eu responderia, mas não quero ferir seus sentimentos."
+      - "Provavelmente sim"
+      - "Provavelmente não"
+      - "Minhas fontes dizem que sim"
+      - "Minhas fontes dizem que não"
+      - "Você pode acreditar nisso"
+      - "Minha resposta é não"
+      - "Minha resposta é sim"
+      - "Do jeito que eu vejo, não."
+      - "Melhor não falar isto para você agora..."
+      - "Sim, com certeza!"
+      - "Também queria saber..."
+      - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
+      - "Talvez..."
+      - "Acho que sim."
+      - "Acho que não."
+      - "Talvez sim."
+      - "Talvez não."
+      - "Sim!"
+      - "Não!"
+      - "¯\\_(ツ)_/¯"
+    bolsonaro:
+      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+    vem-de-zap:
+      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
+      examples:
+      - "vem de zap bb"
+      - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
+      - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+  # ACTIONS
   actions:
     examples:
     - "297153970613387264"
@@ -149,6 +147,11 @@ commands:
       success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}" 
   # DISCORD
   discord:
+    add-emoji:
+      description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
+      success: "Emoji adicionado com sucesso!"
+      limit-reached: "O limite de emojis (50 emojis) já foi batido!"
+      error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
     user-info:
       shared-servers: "Servidores compartilhados"
       account-created: "Conta criada há"
@@ -164,20 +167,32 @@ commands:
       mention: "Menção"
       emoji-created: "Criado há"
       seen-at: "Avistado em"
+    old-members:
+      description: "Curioso para saber quem são os veteranos do servidor? Então veja quem é da velha-guarda do servidor atual!"
+      the-oldest-people: "As pessoas mais velhas de {0}"
+    channel-info:
+      description: "Mostra informações de um canal de texto"
+      channel-mention: "Menção do canal"
+      channel-created: "Canal criado há"
+      channel-topic: "Tópico do canal"
+      undefined: "Não definido"
+      channel-not-found: "Canal não encontrado!"
+  # ECONOMIA
+  economy:
+    raffle:
+      quantity-bigger-than-allowed: "Você só pode apostar no máximo **{0} tickets** por rodada!"
+      has-too-many-tickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
+      cant-buy-too-many-tickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
   # MISCELÂNEA
-  fanarts:
-    description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
-    made-by: "Fan Art feita por {0}"
-    thank-you-all: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
-  add-emoji:
-    description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
-    success: "Emoji adicionado com sucesso!"
-    limit-reached: "O limite de emojis (50 emojis) já foi batido!"
-    error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
-  channelInfo:
-    description: "Mostra informações de um canal de texto"
-    channelMention: "Menção do canal"
-    channelCreated: "Canal criado há"
-    channelTopic: "Tópico do canal"
-    undefined: "Não definido"
-    channelNotFound: "Canal não encontrado!"
+  miscellaneous:
+    ajuda:
+      error-while-opening-dm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
+    fan-arts:
+      description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
+      made-by: "Fan Art feita por {0}"
+      thank-you-all: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
+    language:
+      description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
+      please-select-your-language: "Escolha a linguagem desejada!"
+      translated-by: "Traduzido por"
+      language-changed: "Prontinho, agora eu irei falar em {0} neste servidor!"
