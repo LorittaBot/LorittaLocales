@@ -117,6 +117,8 @@ commands:
   images:
     bolso-drake:
       description: "Meme tem que ser de origem brasileira, talquei?"
+    drawn-mask-sign:
+      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
   # ACTIONS
   actions:
     examples:
