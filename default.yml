@@ -48,6 +48,9 @@ discord:
     attach-files: "Anexar arquivos"
     message-tts: "Enviar mensagens em TTS"
     view-channel: "Ver canais"
+modules:
+  member-counter:
+    audit-log-reason: "Atualizar contador de membros"
 commands:
   please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
   error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
@@ -111,6 +114,9 @@ commands:
       - "vem de zap bb"
       - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
       - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+  images:
+    bolso-drake:
+      description: "Meme tem que ser de origem brasileira, talquei?"
   # ACTIONS
   actions:
     examples:
@@ -177,6 +183,8 @@ commands:
       channel-topic: "Tópico do canal"
       undefined: "Não definido"
       channel-not-found: "Canal não encontrado!"
+    emoji:
+      not-found-id: "Enquanto {0} parece ser um ID válido para um emoji... Eu não consegui encontrar ele na minha lista de emojis! Eu só consigo pegar informações de um emoji a partir de um ID caso eu esteja no servidor em que o emoji está..."
   # ECONOMIA
   economy:
     raffle:
