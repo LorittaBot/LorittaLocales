@@ -1,0 +1,11 @@
+commands:
+  minecraft:
+    mcsign:
+      description: "Escreve um texto em uma placa do Minecraft!"
+      examples:
+      - "Isto é um texto | em uma placa! | | Legal né?"
+      - "spruce | Escrito com | madeiras 100% | de pinheiro!"
+      - "birch | Também é possível | utilizar | outros tipos | de madeira!"
+      - "jungle | Floresta!"
+      - "acacia | Madeira que | foi adicionada | no Minecraft | 1.7.2! :3"
+      - "dark oak | Super escuro!"

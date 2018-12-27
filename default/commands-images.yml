@@ -1,0 +1,28 @@
+commands:
+  images:
+    atendente:
+      description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
+      examples:
+      - "Pega a Vassoura."
+      - "É Drawn Mask e não Draum Mésqui"
+    tristerealidade:
+      description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
+      slot:
+        '0':
+          MALE: "O CARA QUE VOCÊ GOSTA" 
+          FEMALE: "A MINA QUE VOCÊ GOSTA"
+        '1':
+          MALE: "O PAI {0}" 
+          FEMALE: "A MÃE {0}"
+        '2':
+          MALE: "IRMÃO {0}" 
+          FEMALE: "IRMÃ {0}"
+        '3':
+          MALE: "PRIMEIRO AMOR {0}" 
+          FEMALE: "PRIMEIRO AMOR {0}"
+        '4':
+          MALE: "MELHOR AMIGO {0}" 
+          FEMALE: "MELHOR AMIGA {0}"
+        '5':
+          MALE: "VOCÊ" 
+          FEMALE: "VOCÊ"
