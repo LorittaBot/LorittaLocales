@@ -145,7 +145,7 @@ commands:
   # MODERAÇÃO
   moderation:
     dashboard:
-      description: "Manda o link do Dashboard para adicionar/configurar a Loritta"
+      description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
     unmute:
       punish-action: "Retirado o Silenciamento"
       punish-name: "remover o silenciamento"
