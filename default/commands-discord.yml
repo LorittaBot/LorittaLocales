@@ -2,6 +2,7 @@ commands:
  discord:
   channelinfo:
     description: "Mostra informações de um canal de texto"
+    channelInfo: "Informações do canal {0}"
     channelMention: "Menção do canal"
     channelCreated: "Canal criado há"
     channelTopic: "Tópico do canal"
