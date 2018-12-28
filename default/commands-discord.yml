@@ -1,7 +1,9 @@
-channelinfo:
-    description: "Mostra informações de um canal de texto"
-    channelMention: "Menção do canal"
-    channelCreated: "Canal criado há"
-    channelTopic: "Tópico do canal"
-    undefined: "Não definido"
-    notFound: "Canal não encontrado!"
+commands:
+ discord:
+    channelinfo:
+        description: "Mostra informações de um canal de texto"
+        channelMention: "Menção do canal"
+        channelCreated: "Canal criado há"
+        channelTopic: "Tópico do canal"
+        undefined: "Não definido"
+        notFound: "Canal não encontrado!"
