@@ -144,8 +144,6 @@ commands:
       response: "**{0} dançou com {1}!**"
   # MODERAÇÃO
   moderation:
-    dashboard:
-      description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
     unmute:
       punish-action: "Retirado o Silenciamento"
       punish-name: "remover o silenciamento"
