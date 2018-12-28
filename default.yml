@@ -150,11 +150,11 @@ commands:
       sucessfully-unmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
       automatically-expired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
     lock:
-      description: "Bloquear os usuários de falarem no canal de texto onde o comando foi executado"
-      denied: "Agora nenhum usuário pode falar aqui!"
-      allowed: "Agora os usuários podem falar!"
+      description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
+      denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
     unlock:
       description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
+      allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
   # SOCIAL
   social:
     reputation:
