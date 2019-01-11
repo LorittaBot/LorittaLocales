@@ -1,0 +1,11 @@
+loritta:
+  modules:
+    counter:
+      theme:
+        default: "Padrão"
+        red: "Vermelho"
+        green: "Verde"
+        blurple: "Blurple"
+        black: "Preto"
+        deluxe: "Deluxe"
+        custom: "Customizado"
