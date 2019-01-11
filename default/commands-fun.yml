@@ -23,6 +23,7 @@ commands:
       giveawayMentionRoles: "Quais cargos serão dados para quem ganhar o sorteio?"
       giveawayNoValidRoles: "Nenhum cargo válido foi encontrado! Você tem certeza que você escreveu corretamente?"
       giveawayCantInteractWithRole: "Eu não consigo dar o cargo {0}!"
+      giveawayCantYouInteractWithRole: "Você não pode interagir com o cargo {0}!"
       noWinner: "Ninguém participou do sorteio... já que ninguém participou, será que eu posso ficar com o prêmio do sorteio?"
       oneWinner: "Parabéns {0} por ganhar o sorteio {1}!"
       multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
