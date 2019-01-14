@@ -3,9 +3,9 @@ commands:
     mcsign:
       description: "Writes text in a Minecraft sign!"
       examples:
-      - "This is a sentence | in a sign! | | Cool, isn't it?"
+      - "This is a sentence | in a sign! | | Cool, isn''t it?"
       - "spruce | written with | 100% spruce | wood!"
-      - "birch | It's also possible | to use | other kinds | of wood!"
+      - "birch | It''s also possible | to use | other kinds | of wood!"
       - "jungle | Jungle!"
       - "acacia | Type of wood that | was added | on Minecraft | version 1.7.2! :3"
       - "dark oak | Super dark!"

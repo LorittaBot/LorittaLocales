@@ -24,26 +24,26 @@ entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em K
     - "Will I win the lottery this year?"
     responses:
     - "Go annoy another person, thanks."
-    - "I don't know the answer to that, but I know that I live in Cambuci."
+    - "I don''t know the answer to that, but I know that I live in Cambuci."
     - "In my point of view, yes."
     - "Hmmmm... 🤔"
-    - "I can't talk about that."
+    - "I can''t talk about that."
     - "No."
     - "Yes."
-    - "I would answer that, but I'd rather not hurt your feelings"
+    - "I would answer that, but I''d rather not hurt your feelings"
     - "Probably"
     - "Probably not"
     - "You can believe that"
     - "My answer is no"
     - "My answer is yes"
     - "In my point of view, no"
-    - "It's better to not talk about that now..."
+    - "It''s better not to talk about that now..."
     - "Yes, of course!"
     - "I also would like to know that..."
-    - "My answer doesn't matter. What matters is for you to follow your heart."
+    - "My answer doesn''t matter. What matters is for you to follow your heart."
     - "Maybe..."
     - "I think so."
-    - "I don't think so."
+    - "I don''t think so."
     - "Maybe."
     - "Maybe not."
     - "Yes!"
@@ -56,7 +56,7 @@ entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em K
     examples:
     - "Come to WhatsApp, baby"
     - "Hi guys, this group is silent hahaha"
-    - "Whatsapp is better than discord, we have girls' phone numbers there!"
+    - "Whatsapp is better than discord, we have girls'' phone numbers there!"
 images:
   bolso-drake:
     description: "Memes have to have a brasillian origin, ok?"
@@ -90,8 +90,8 @@ moderation:
   unmute:
     punish-action: "Unmuted"
     punish-name: "unmute"
-    sucessfully-unmuted: "The user has learned to speak again, I hope that this time they say cool and interesting things so that they don't have to be muted again!"
-    automatically-expired: "After a lot of time silenced... The user finally learned to speak again! I hope that this time they say cool and interesting things so that they don't have to be muted again!"
+    sucessfully-unmuted: "The user has learned to speak again, I hope that this time they say cool and interesting things so that they don''t have to be muted again!"
+    automatically-expired: "After a lot of time silenced... The user finally learned to speak again! I hope that this time they say cool and interesting things so that they don''t have to be muted again!"
   lock:
     description: "Block users from talking in the channel where the command was executed"
     denied: "Now no one can talk here!"
@@ -135,13 +135,13 @@ discord:
     undefined: "Undefined"
     channel-not-found: "Channel not found!"
   emoji:
-    not-found-id: "As long as {0} looks like to be a valid ID for an emoji... I couldn't find it in my emoji list! I am only able to get information from an emoji from it's ID if I am in the server that has it..."
+    not-found-id: "As long as {0} looks like to be a valid ID for an emoji... I couldn''t find it in my emoji list! I am only able to get information from an emoji from it's ID if I am in the server that has it..."
 # ECONOMIA
 economy:
   raffle:
     quantity-bigger-than-allowed: "You can only bet a maximum amount of **{0} tickets** per round!"
     has-too-many-tickets: "You have too many tickets! Keep some money for the next round!"
-    cant-buy-too-many-tickets: "You can't buy this many tickets! You can only bet a maximum of more **{0} tickets**!"
+    cant-buy-too-many-tickets: "You can''t buy this many tickets! You can only bet a maximum of more **{0} tickets**!"
 # MISCELÂNEA
 miscellaneous:
   ajuda:

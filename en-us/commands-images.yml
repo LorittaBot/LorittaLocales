@@ -1,7 +1,7 @@
 commands:
   images:
     atendente:
-      description: "The number of people that get the references in my commands is really low, even if they are obvious... Write something in the clerk''s bandana that appears in Drawn Mask''s videos!'"
+      description: "The number of people that get the references in my commands is really low, even if they are obvious... Write something in the clerk''s bandana that appears in Drawn Mask''s videos!"
       examples:
       - "Go get the broom."
       - "It''s Drawn Mask and not Draum Mesqui"
