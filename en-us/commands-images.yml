@@ -1,0 +1,28 @@
+commands:
+  images:
+    atendente:
+      description: "The number of people that get the references in my commands is really low, even if they are obvious... Write something in the clerk''s bandana that appears in Drawn Mask''s videos!'"
+      examples:
+      - "Go get the broom."
+      - "It''s Drawn Mask and not Draum Mesqui"
+    tristerealidade:
+      description: "Creates a sad reality with your server members... Sometimes we don''t win..."
+      slot:
+        '0':
+          MALE: "THE GUY THAT YOU LIKE" 
+          FEMALE: "THE GIRL THAT YOU LIKE"
+        '1':
+          MALE: "THE DAD {0}" 
+          FEMALE: "THE MOM {0}"
+        '2':
+          MALE: "BROTHER {0}" 
+          FEMALE: "SISTER {0}"
+        '3':
+          MALE: "FIRST DATE {0}" 
+          FEMALE: "FIRST DATE {0}"
+        '4':
+          MALE: "BEST FRIEND {0}" 
+          FEMALE: "BEST FRIEND {0}"
+        '5':
+          MALE: "YOU" 
+          FEMALE: "YOU"
