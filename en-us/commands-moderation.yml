@@ -1,0 +1,4 @@
+commands:
+  moderation:
+    dashboard:
+      description: "Sends the link to the dashboard so that you can configure or add Loritta"

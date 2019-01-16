@@ -1,0 +1,157 @@
+please-wait-cooldown: "Calm down! you need to wait more **{0}** before execute another command! {1}"
+error-while-executing-command: "Something went extremely wrong while executing this command... 😭 Sorry for the inconvenience. 😢"
+cant-use-in-private: "You can''t use this command in private messages!"
+user-does-not-exists: "This user doesn''t exist!"
+doesnt-have-permission-discord: "You don''t have permission to use this command! To use it, you need to have permission to {0}!"
+lori-doesnt-have-permission-discord: "I wish I could execute this command, but unfortunately I don''t have permission to {0}... {1} Ask an administrator to give this permission to me! Thanks! {2}"
+command-only-for-owner: "Only special people can use this command :3"
+arguments:
+  text: "text"
+  number: "number"
+  user: "user"
+  emote: "emoji"
+  image: "image"
+# DIVERSÃO
+entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
+  roll:
+    description: "Rolls a dice and tells the result. Really usefoul when you are playing Monopoly but have lost the dices."
+    how-much-sides: "How many sides will the dice have"
+  vieirinha:
+    description: "Vieirinha is the oracle for anything that you might want to know. What about asking him something?"
+    examples:
+    - "Do you love me?"
+    - "Is Sonic better than Mario?"
+    - "Will I win the lottery this year?"
+    responses:
+    - "Go annoy another person, thanks."
+    - "I don''t know the answer to that, but I know that I live in Cambuci."
+    - "In my point of view, yes."
+    - "Hmmmm... 🤔"
+    - "I can''t talk about that."
+    - "No."
+    - "Yes."
+    - "I would answer that, but I''d rather not hurt your feelings"
+    - "Probably"
+    - "Probably not"
+    - "You can believe that"
+    - "My answer is no"
+    - "My answer is yes"
+    - "In my point of view, no"
+    - "It''s better not to talk about that now..."
+    - "Yes, of course!"
+    - "I also would like to know that..."
+    - "My answer doesn''t matter. What matters is for you to follow your heart."
+    - "Maybe..."
+    - "I think so."
+    - "I don''t think so."
+    - "Maybe."
+    - "Maybe not."
+    - "Yes!"
+    - "No!"
+    - "¯\\_(ツ)_/¯"
+  bolsonaro:
+    description: "What is Bolsonaro looking at in his television?"
+  vem-de-zap:
+    description: "Good morning guys! Come from Whatsapp baby, use the power of Whatsapp in your message to show how 🔝 you are with the Whatsapp''s girls!"
+    examples:
+    - "Come to WhatsApp, baby"
+    - "Hi guys, this group is silent hahaha"
+    - "Whatsapp is better than discord, we have girls'' phone numbers there!"
+images:
+  bolso-drake:
+    description: "Memes have to have a brasillian origin, ok?"
+  drawn-mask-sign:
+    description: "Make {0} hold a sign showing something interesting and cute!"
+# ACTIONS
+actions:
+  examples:
+  - "297153970613387264"
+  - "@MrPowerGamerBR"
+  slap:
+    description: "Use this command with someone that deserves to receive some slaps"
+    response: "**{0} slapped {1}!**"
+    response-anti-idiot: "**How can you sleep at night after trying to slap a girl like me? **{0} slapped {1}!"
+  kiss:
+    description: "Use this command to kiss someone"
+    response: "**{0} kissed {1}!**"
+    response-anti-idiot: "Nah, I don''t want to kiss you... but I still like you as a friend!"
+  attack:
+    description: "Use this command to attack someone"
+    response: "**{0} attacked {1}!**"
+    response-anti-idiot: "**How you dare you do this to me? **{0} attacked {1}!"
+  hug:
+    description: "Use this command to give a sweet hug to someone"
+    response: "**{0} hugged {1}!**"
+  dance:
+    description: "Use this command to dance with someone"
+    response: "**{0} danced with {1}!**"
+# MODERAÇÃO
+moderation:
+  unmute:
+    punish-action: "Unmuted"
+    punish-name: "unmute"
+    sucessfully-unmuted: "The user has learned to speak again, I hope that this time they say cool and interesting things so that they don''t have to be muted again!"
+    automatically-expired: "After a lot of time silenced... The user finally learned to speak again! I hope that this time they say cool and interesting things so that they don''t have to be muted again!"
+  lock:
+    description: "Block users from talking in the channel where the command was executed"
+    denied: "Now no one can talk here!"
+    allowed: "Now everyone can talk!"
+  unlock:
+    description: "Unblocks users so that they can talk in the channel where the command was executed"
+# SOCIAL
+social:
+  reputation:
+    success: "{0} gave a reputation point to {1}, now {5} has **{2} reputation points!**! Do you want to give a reputation point too? {3} {4}" 
+# DISCORD
+discord:
+  add-emoji:
+    description: "Add emojis to your server with the link of the image. Perfect when you''re tired of downloading images to your computer just to add emojis to the server!"
+    success: "Emoji was successfully added!"
+    limit-reached: "The emoji limit (50 emojis) has already been reached!"
+    error: "I couldn''t add this emoji! Sorry for the inconvenience. :sob:"
+  user-info:
+    shared-servers: "Shared servers"
+    account-created: "Account created"
+    account-joined: "Joined"
+    join-position: "Join position"
+    permissions: "Permissions"
+    join-place: "{0} place"
+  emoji-info:
+    description: "Shows information about an emoji"
+    about-emoji: "About the emoji"
+    emoji-name: "Emoji name"
+    emoji-id: "Emoji ID"
+    mention: "Mention"
+    emoji-created: "Created"
+    seen-at: "Seen at"
+  old-members:
+    description: "Curious to see who are the server veterans? Use this command to see who are the oldest members!"
+    the-oldest-people: "Oldest members of {0}"
+  channel-info:
+    description: "Shows information about a text channel"
+    channel-mention: "Channel mention"
+    channel-created: "Channel created"
+    channel-topic: "Channel topic"
+    undefined: "Undefined"
+    channel-not-found: "Channel not found!"
+  emoji:
+    not-found-id: "As long as {0} looks like to be a valid ID for an emoji... I couldn''t find it in my emoji list! I am only able to get information from an emoji from it's ID if I am in the server that has it..."
+# ECONOMIA
+economy:
+  raffle:
+    quantity-bigger-than-allowed: "You can only bet a maximum amount of **{0} tickets** per round!"
+    has-too-many-tickets: "You have too many tickets! Keep some money for the next round!"
+    cant-buy-too-many-tickets: "You can''t buy this many tickets! You can only bet a maximum of more **{0} tickets**!"
+# MISCELÂNEA
+miscellaneous:
+  ajuda:
+    error-while-opening-dm: "I''d like to send the help message to you, but how am I supposed to send it if you have disabled your private messages between people on servers that you know? http://i.imgur.com/Z1HwW2j.png 🤷"
+  fan-arts:
+    description: "Check out the {0} awesome {1} fan arts people made for me!"
+    made-by: "an Art made by {0}"
+    thank-you-all: "Thanks to everyone that made awesome fan arts for me!"
+  language:
+    description: "Did you know that I can speak other languages? {0} Change the language that I speak in your server!"
+    please-select-your-language: "Please, select your desired language!"
+    translated-by: "Translated by"
+    language-changed: "Done! Now I will speak {0} in this server!"
