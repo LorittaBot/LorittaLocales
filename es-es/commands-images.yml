@@ -1,0 +1,28 @@
+commands:
+  images:
+    atendente:
+      description: "El número de personas que encuentran las referencias de mis comandos, por mas que sean increíblemente obvias y evidentes... es minúsculo. Sabes quienes son, si no lo sabes tampoco lograrás encontrar sus referencias!"
+      examples:
+      - "Pega a Vassoura."
+      - "É Drawn Mask e não Draum Mésqui"
+    tristerealidade:
+      description: "Crea una triste realidad con los miembros de tu servidor... Si, no siempre salimos ganando."
+      slot:
+        '0':
+          MALE: "EL CHICO QUE TE GUSTA" 
+          FEMALE: "LA CHICA QUE TE GUSTA"
+        '1':
+          MALE: "EL PAPÁ {0}" 
+          FEMALE: "LA MAMÁ {0}"
+        '2':
+          MALE: "HERMANO {0}" 
+          FEMALE: "HERMANA {0}"
+        '3':
+          MALE: "PRIMER AMOR {0}" 
+          FEMALE: "PRIMER AMOR {0}"
+        '4':
+          MALE: "MEJOR AMIGO{0}" 
+          FEMALE: "MEJOR AMIGA{0}"
+        '5':
+          MALE: "TÚ" 
+          FEMALE: "TÚ"

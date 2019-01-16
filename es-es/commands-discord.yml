@@ -1,0 +1,10 @@
+commands:
+ discord:
+  channelinfo:
+    description: "Muestra información de un canal de texto"
+    channelInfo: "Información del canal {0}"
+    channelMention: "Mención del canal"
+    channelCreated: "Canal creado ¡Há!"
+    channelTopic: "Tópico del canal"
+    undefined: "No definido"
+    notFound: "Canal no encontrado!"
