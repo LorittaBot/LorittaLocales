@@ -19,7 +19,7 @@ commands:
       giveawayReaction: "Qué emojis deberán ser usados en las reacciones del sorteo?"
       giveawayChannel: "En qué canal será realizado el sorteo?"
       giveawayWinnerCount: "Cuantas personas pueden ganar el sorteo? (Puedes colocar como mínimo 1 persona y como máximo 20)"
-      giveawayDoYouWantAutomaticRole: "Deseas asignar roles automaticamente al ganador? (Imagínate... podrias asignar un rol como "Sobornó para ganar el sorteo" automaticamente!)"
+      giveawayDoYouWantAutomaticRole: "Deseas asignar roles automaticamente al ganador? (Imagínate... podrias asignar un rol como \"Sobornó para ganar el sorteo\" automaticamente!)"
       giveawayMentionRoles: "Qué roles les serán asignados a los ganadores del sorteo?"
       giveawayNoValidRoles: "No se encontró ningún rol válido! Estás seguro de haberlo escrito correctamente?"
       giveawayCantInteractWithRole: "No puedo asignar el rol {0}!"

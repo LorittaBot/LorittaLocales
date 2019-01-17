@@ -1,0 +1,15 @@
+website:
+  donate:
+    title: "Doar"
+    needYourHelp: "Eu preciso da sua ajuda!"
+    stayAwesome: "Eu quero continuar a ser incrível, mas eu preciso de dinheiro para me ajudar a ficar online!"
+    introDonate:
+    - "Você está vendo isto? É assim que eu me sinto quando eu estou sem dinheiro para pagar o meu aluguel."
+    - "Para me manter online, é necessário gastar <b>mais de R$400 todos os meses</b>... e isto sem contar outros gastos usados para investir em novidades incríveis para que você possa usar!"
+    - "Se você quer que eu continue online, então por favor, do fundo do meu coração... <b>doe</b>, não importa se você irá doar apenas R$1, toda doação é bem-vinda e, é claro, você será uma pessoa maravilhosa (com muita fama e glória!)."
+    donateNow: "Doar Agora!"
+    donationBenefits: "Benefícios ao Doar"
+    activeDonators: "Pagadores de Aluguel"
+    inactiveDonators: "Doadores Inativos"
+    thanksToEveryone: "Obrigada a todos que me ajudaram!"
+    areYouGoingToDonate: "Ownt, você irá doar? :3"
