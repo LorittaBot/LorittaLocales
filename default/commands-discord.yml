@@ -19,4 +19,5 @@ commands:
     roleHoisted: "Exibe seperadamente na lista de membros"
     roleIntegration: "Integração"
     roleMentionable: "Mencionável"
+    roleColor : "Cor do cargo"
     rolePermissions: "Permissões"
