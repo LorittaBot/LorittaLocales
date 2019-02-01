@@ -11,12 +11,11 @@ commands:
   roleinfo:
     description: "Mostra informações de um cargo"
     roleNotFound: "Tentei procurar por cargos mencionados, IDs, e nomes de cargos e não encontrei nenhum cargo!"
-    booleanTrue: "Sim"
-    booleanFalse: "Não"
     roleMention: "Menção"
     roleCreated: "Data de criação"
     roleID: "ID do Cargo"
     roleHoisted: "Exibe seperadamente na lista de membros"
     roleIntegration: "Integração"
     roleMentionable: "Mencionável"
+    roleColor : "Cor do cargo"
     rolePermissions: "Permissões"
