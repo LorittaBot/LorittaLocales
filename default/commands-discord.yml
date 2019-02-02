@@ -22,4 +22,7 @@ commands:
   renameemoji:
     description: "Renomea um emoji"
     emoteNotFound: "Nenhum emoji encontrado!"
+    emoteNameLength32Error: "O nome que você quer renomear é maior do que 32 caracteres!"
+    emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
+    emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
     renameSucess: "Emoji renomeado!"
