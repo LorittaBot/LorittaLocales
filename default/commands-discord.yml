@@ -19,3 +19,7 @@ commands:
     roleMentionable: "Mencionável"
     roleColor : "Cor do cargo"
     rolePermissions: "Permissões"
+  renameemoji:
+    description: "Renomea um emoji"
+    emoteNotFound: "Nenhum emoji encontrado!"
+    renameSucess: "Emoji renomeado!"
