@@ -17,6 +17,7 @@ commands:
     roleHoisted: "Exibe seperadamente na lista de membros"
     roleIntegration: "Integração"
     roleMentionable: "Mencionável"
+    roleMembers: "Membros"
     roleColor : "Cor do cargo"
     rolePermissions: "Permissões"
   renameemoji:
