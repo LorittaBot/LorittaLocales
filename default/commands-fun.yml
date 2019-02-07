@@ -28,3 +28,5 @@ commands:
       oneWinner: "Parabéns {0} por ganhar o sorteio {1}!"
       multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
       giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
+    ship:
+      bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
