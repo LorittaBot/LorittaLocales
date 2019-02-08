@@ -1079,5 +1079,6 @@
   "SLAP_Response": "**{0} deu um tapa em {1}!**",
   "SLAP_Description": "Dê um tapa em alguém!",
   "KISS_Description": "Beije alguém!",
-  "DANCE_Description": "Dançe com alguém!"
+  "DANCE_Description": "Dançe com alguém!",
+  "DESGOSTO_DESCRIPTION": "Expresse seu desgosto de alguém!"
 }
