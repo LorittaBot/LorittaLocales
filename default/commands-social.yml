@@ -1,0 +1,4 @@
+commands:
+  social:
+    profile:
+      profileshop: "Compre novos perfis em {0}"
