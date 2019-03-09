@@ -2,3 +2,5 @@ commands:
   social:
     profile:
       profileshop: "Compre novos perfis em {0}"
+    reputation:
+      success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"

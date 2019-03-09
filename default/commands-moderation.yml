@@ -2,3 +2,25 @@ commands:
   moderation:
     dashboard:
       description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
+    unmute:
+      punish-action: "Retirado o Silenciamento"
+      punish-name: "remover o silenciamento"
+      sucessfully-unmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+      automatically-expired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+    lock:
+      description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
+      denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
+    unlock:
+      description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
+      allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
+    lock:
+      description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
+      denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
+    unlock:
+      description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
+      allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
+    unmute:
+      punishAction: "Retirado o Silenciamento"
+      punishName: "remover o silenciamento"
+      sucessfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+      automaticallyExpired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"

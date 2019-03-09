@@ -1,6 +1,7 @@
 loritta:
   modules:
     counter:
+      auditLogReason: "Atualizar contador de membros"
       theme:
         default: "Padrão"
         red: "Vermelho"

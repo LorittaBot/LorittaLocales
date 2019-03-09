@@ -6,5 +6,7 @@ loritta:
     'true': "Sim"
     'false': "Não"
   pronoun:
+    he: "ele"
+    she: "ela"
     his: "dele"
     her: "dela"

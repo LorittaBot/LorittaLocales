@@ -1,5 +1,162 @@
 commands:
   didYouMeanCommand: "Mas eu acho que você queria escrever `{0}`"
+  pleaseWaitCooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
+  loriDoesntHavePermissionDiscord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
+  commandOnlyForOwner: "Apenas pessoas especiais podem usar este comando :3"
+  userDoesntHavePermissionDiscord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
+  userDoesNotExist: "Usuário inexistente!"
+  arguments:
+    text: "texto"
+    number: "número"
+    user: "usuário"
+    emote: "emoji"
+    image: "imagem"
+  # DIVERSÃO
+  entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
+    roll:
+      description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+      howMuchSides: "Quantos lados o dado que eu irei rolar terá"
+    vieirinha:
+      description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
+      examples:
+      - "Você me ama?"
+      - "Sonic é melhor que Mario?"
+      - "Eu irei ganhar na loteria neste ano?"
+      responses:
+      - "Vai incomodar outra pessoa, obrigado."
+      - "Não sei, mas eu sei que eu moro lá no Cambuci."
+      - "Do jeito que eu vejo, sim."
+      - "Hmmmm... 🤔"
+      - "Não posso falar sobre isso."
+      - "Não."
+      - "Sim."
+      - "Eu responderia, mas não quero ferir seus sentimentos."
+      - "Provavelmente sim"
+      - "Provavelmente não"
+      - "Minhas fontes dizem que sim"
+      - "Minhas fontes dizem que não"
+      - "Você pode acreditar nisso"
+      - "Minha resposta é não"
+      - "Minha resposta é sim"
+      - "Do jeito que eu vejo, não."
+      - "Melhor não falar isto para você agora..."
+      - "Sim, com certeza!"
+      - "Também queria saber..."
+      - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
+      - "Talvez..."
+      - "Acho que sim."
+      - "Acho que não."
+      - "Talvez sim."
+      - "Talvez não."
+      - "Sim!"
+      - "Não!"
+      - "¯\\_(ツ)_/¯"
+    bolsonaro:
+      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+    vemDeZap:
+      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
+      examples:
+      - "vem de zap bb"
+      - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
+      - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+  images:
+    bolsoDrake:
+      description: "Meme tem que ser de origem brasileira, talquei?"
+    drawnMaskSign:
+      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
+  # ACTIONS
+  actions:
+    examples:
+    - "297153970613387264"
+    - "@MrPowerGamerBR"
+    slap:
+      description: "Use esse comando se alguém está merecendo levar uns tapas"
+      response: "**{0} deu um tapa em {1}!**"
+      response-anti-idiot: "**Como você consegue dormir à noite depois de tentar bater uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
+    kiss:
+      description: "Use esse comando para beijar alguém"
+      response: "**{0} beijou {1}!**"
+      response-anti-idiot: "Nah, quero te beijar não... mas eu ainda gosto de você como um amigx!"
+    attack:
+      description: "Use esse comando para atacar alguém"
+      response: "**{0} atacou {1}!**"
+      response-anti-idiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"
+    hug:
+      description: "Use esse comando para dar um abraço carinhoso em alguém"
+      response: "**{0} abraçou {1}!**"
+    dance:
+      description: "Use esse comando para dançar com alguém"
+      response: "**{0} dançou com {1}!**"
+  # MODERAÇÃO
+  moderation:
+    unmute:
+      punishAction: "Retirado o Silenciamento"
+      punishName: "remover o silenciamento"
+      sucessfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+      automaticallyExpired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+    lock:
+      description: "Bloquear os usuários de falarem no canal de texto onde o comando foi executado"
+      denied: "Agora nenhum usuário pode falar aqui!"
+      allowed: "Agora os usuários podem falar!"
+    unlock:
+      description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
+  # SOCIAL
+  social:
+    reputation:
+      success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}" 
+  # DISCORD
+  discord:
+    addEmoji:
+      description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
+      success: "Emoji adicionado com sucesso!"
+      limit-reached: "O limite de emojis (50 emojis) já foi batido!"
+      error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
+    userInfo:
+      shared-servers: "Servidores compartilhados"
+      account-created: "Conta criada há"
+      account-joined: "Entrou há"
+      join-position: "Posição de Entrada"
+      permissions: "Permissões"
+      join-place: "{0} lugar"
+    emojiInfo:
+      description: "Mostra as informações de um emoji"
+      aboutEmoji: "Sobre o Emoji"
+      emojiName: "Nome do Emoji"
+      emojiId: "ID do Emoji"
+      mention: "Menção"
+      emojiCreated: "Criado há"
+      seenAt: "Avistado em"
+    oldMembers:
+      description: "Curioso para saber quem são os veteranos do servidor? Então veja quem é da velha-guarda do servidor atual!"
+      theOldestPeople: "As pessoas mais velhas de {0}"
+    channelInfo:
+      description: "Mostra informações de um canal de texto"
+      channelMention: "Menção do canal"
+      channelCreated: "Canal criado há"
+      channelTopic: "Tópico do canal"
+      undefined: "Não definido"
+      channelNotFound: "Canal não encontrado!"
+    emoji:
+      notFoundId: "Enquanto {0} parece ser um ID válido para um emoji... Eu não consegui encontrar ele na minha lista de emojis! Eu só consigo pegar informações de um emoji a partir de um ID caso eu esteja no servidor em que o emoji está..."
+# ECONOMIA
+  economy:
+    raffle:
+      quantity-bigger-than-allowed: "Você só pode apostar no máximo **{0} tickets** por rodada!"
+      has-too-many-tickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
+      cant-buy-too-many-tickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
+  # MISCELÂNEA
+  miscellaneous:
+    ajuda:
+      errorWhileOpeningDm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
+    fanArts:
+      description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
+      made-by: "Fan Art feita por {0}"
+      thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
+    language:
+      description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
+      pleaseSelectYourLanguage: "Escolha a linguagem desejada!"
+      translatedBy: "Traduzido por"
+      languageChanged: "Prontinho, agora eu irei falar em {0} neste servidor!"
 please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
 error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
 cant-use-in-private: "Você não pode usar este comando em mensagens privadas!"
@@ -14,149 +171,3 @@ arguments:
   user: "usuário"
   emote: "emoji"
   image: "imagem"
-# DIVERSÃO
-entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
-  roll:
-    description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
-    how-much-sides: "Quantos lados o dado que eu irei rolar terá"
-  vieirinha:
-    description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
-    examples:
-    - "Você me ama?"
-    - "Sonic é melhor que Mario?"
-    - "Eu irei ganhar na loteria neste ano?"
-    responses:
-    - "Vai incomodar outra pessoa, obrigado."
-    - "Não sei, mas eu sei que eu moro lá no Cambuci."
-    - "Do jeito que eu vejo, sim."
-    - "Hmmmm... 🤔"
-    - "Não posso falar sobre isso."
-    - "Não."
-    - "Sim."
-    - "Eu responderia, mas não quero ferir seus sentimentos."
-    - "Provavelmente sim"
-    - "Provavelmente não"
-    - "Minhas fontes dizem que sim"
-    - "Minhas fontes dizem que não"
-    - "Você pode acreditar nisso"
-    - "Minha resposta é não"
-    - "Minha resposta é sim"
-    - "Do jeito que eu vejo, não."
-    - "Melhor não falar isto para você agora..."
-    - "Sim, com certeza!"
-    - "Também queria saber..."
-    - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
-    - "Talvez..."
-    - "Acho que sim."
-    - "Acho que não."
-    - "Talvez sim."
-    - "Talvez não."
-    - "Sim!"
-    - "Não!"
-    - "¯\\_(ツ)_/¯"
-  bolsonaro:
-    description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
-  vem-de-zap:
-    description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
-    examples:
-    - "vem de zap bb"
-    - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
-    - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
-images:
-  bolso-drake:
-    description: "Meme tem que ser de origem brasileira, talquei?"
-  drawn-mask-sign:
-    description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
-# ACTIONS
-actions:
-  examples:
-  - "297153970613387264"
-  - "@MrPowerGamerBR"
-  slap:
-    description: "Use esse comando se alguém está merecendo levar uns tapas"
-    response: "**{0} deu um tapa em {1}!**"
-    response-anti-idiot: "**Como você consegue dormir à noite depois de tentar bater uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
-  kiss:
-    description: "Use esse comando para beijar alguém"
-    response: "**{0} beijou {1}!**"
-    response-anti-idiot: "Nah, quero te beijar não... mas eu ainda gosto de você como um amigx!"
-  attack:
-    description: "Use esse comando para atacar alguém"
-    response: "**{0} atacou {1}!**"
-    response-anti-idiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"
-  hug:
-    description: "Use esse comando para dar um abraço carinhoso em alguém"
-    response: "**{0} abraçou {1}!**"
-  dance:
-    description: "Use esse comando para dançar com alguém"
-    response: "**{0} dançou com {1}!**"
-# MODERAÇÃO
-moderation:
-  unmute:
-    punish-action: "Retirado o Silenciamento"
-    punish-name: "remover o silenciamento"
-    sucessfully-unmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
-    automatically-expired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
-  lock:
-    description: "Bloquear os usuários de falarem no canal de texto onde o comando foi executado"
-    denied: "Agora nenhum usuário pode falar aqui!"
-    allowed: "Agora os usuários podem falar!"
-  unlock:
-    description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
-# SOCIAL
-social:
-  reputation:
-    success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}" 
-# DISCORD
-discord:
-  add-emoji:
-    description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
-    success: "Emoji adicionado com sucesso!"
-    limit-reached: "O limite de emojis (50 emojis) já foi batido!"
-    error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
-  user-info:
-    shared-servers: "Servidores compartilhados"
-    account-created: "Conta criada há"
-    account-joined: "Entrou há"
-    join-position: "Posição de Entrada"
-    permissions: "Permissões"
-    join-place: "{0} lugar"
-  emoji-info:
-    description: "Mostra as informações de um emoji"
-    about-emoji: "Sobre o Emoji"
-    emoji-name: "Nome do Emoji"
-    emoji-id: "ID do Emoji"
-    mention: "Menção"
-    emoji-created: "Criado há"
-    seen-at: "Avistado em"
-  old-members:
-    description: "Curioso para saber quem são os veteranos do servidor? Então veja quem é da velha-guarda do servidor atual!"
-    the-oldest-people: "As pessoas mais velhas de {0}"
-  channel-info:
-    description: "Mostra informações de um canal de texto"
-    channel-mention: "Menção do canal"
-    channel-created: "Canal criado há"
-    channel-topic: "Tópico do canal"
-    undefined: "Não definido"
-    channel-not-found: "Canal não encontrado!"
-  emoji:
-    not-found-id: "Enquanto {0} parece ser um ID válido para um emoji... Eu não consegui encontrar ele na minha lista de emojis! Eu só consigo pegar informações de um emoji a partir de um ID caso eu esteja no servidor em que o emoji está..."
-# ECONOMIA
-economy:
-  raffle:
-    quantity-bigger-than-allowed: "Você só pode apostar no máximo **{0} tickets** por rodada!"
-    has-too-many-tickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
-    cant-buy-too-many-tickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
-# MISCELÂNEA
-miscellaneous:
-  ajuda:
-    error-while-opening-dm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
-  fan-arts:
-    description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
-    made-by: "Fan Art feita por {0}"
-    thank-you-all: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
-  language:
-    description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
-    please-select-your-language: "Escolha a linguagem desejada!"
-    translated-by: "Traduzido por"
-    language-changed: "Prontinho, agora eu irei falar em {0} neste servidor!"

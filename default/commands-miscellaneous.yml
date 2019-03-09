@@ -1,0 +1,7 @@
+commands:
+  miscellaneous:
+    language:
+      description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
+      pleaseSelectYourLanguage: "Escolha a linguagem desejada!"
+      translatedBy: "Traduzido por"
+      languageChanged: "Prontinho, agora eu irei falar em {0} neste servidor!"
