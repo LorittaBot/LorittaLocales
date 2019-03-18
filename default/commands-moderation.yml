@@ -3,9 +3,10 @@ commands:
     dashboard:
       description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
     renamechannel:
-      description: "Renomea canais de texto com espaço"
-      successfullyrenamed: "Canal renomeado com sucesso!"
-      channelnotfound: "Canal não encontrado!"
+      description: "Renomea canais de texto com espaço (também pode 
+renomear canais de voz)"
+      successfullyRenamed: "Canal renomeado com sucesso!"
+      channelNotFound: "Canal não encontrado!"
     unmute:
       punish-action: "Retirado o Silenciamento"
       punish-name: "remover o silenciamento"
