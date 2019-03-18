@@ -14,7 +14,7 @@ commands:
     roleMention: "Menção"
     roleCreated: "Data de criação"
     roleID: "ID do Cargo"
-    roleHoisted: "Exibe seperadamente na lista de membros"
+    roleHoisted: "Exibe separadamente na lista de membros"
     roleIntegration: "Integração"
     roleMentionable: "Mencionável"
     roleMembers: "Membros"
