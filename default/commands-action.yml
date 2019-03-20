@@ -1,5 +1,6 @@
 commands:
   actions:
+    clickToRetribute: "Clique em {0} para retribuir!"
     examples:
     - "297153970613387264"
     - "@MrPowerGamerBR"
@@ -21,3 +22,6 @@ commands:
     dance:
       description: "Use esse comando para dançar com alguém"
       response: "**{0} dançou com {1}!**"
+    headpat:
+      description: "Faça cafuné em alguém"
+      response: "**{0} fez cafuné em {1}!**"

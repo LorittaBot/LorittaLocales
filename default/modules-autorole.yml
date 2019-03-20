@@ -1,0 +1,3 @@
+modules:
+  autorole:
+    giveRoleAfter: "Depois de quanto tempo o cargo será dado? (Segundos)"

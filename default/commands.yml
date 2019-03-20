@@ -5,6 +5,7 @@ commands:
   commandOnlyForOwner: "Apenas pessoas especiais podem usar este comando :3"
   userDoesntHavePermissionDiscord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
   userDoesNotExist: "Usuário inexistente!"
+  errorWhileExecutingCommand: "Alguma coisa deu extremamente errada ao executar este comando... {0} Desculpe pela inconveniência. {1}"
   arguments:
     text: "texto"
     number: "número"
@@ -109,15 +110,15 @@ commands:
     addEmoji:
       description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
       success: "Emoji adicionado com sucesso!"
-      limit-reached: "O limite de emojis (50 emojis) já foi batido!"
+      limitReached: "O limite de emojis (50 emojis) já foi batido!"
       error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
     userInfo:
-      shared-servers: "Servidores compartilhados"
-      account-created: "Conta criada há"
-      account-joined: "Entrou há"
-      join-position: "Posição de Entrada"
+      sharedServers: "Servidores compartilhados"
+      accountCreated: "Conta criada há"
+      accountJoined: "Entrou há"
+      joinPosition: "Posição de Entrada"
       permissions: "Permissões"
-      join-place: "{0} lugar"
+      joinPlace: "{0} lugar"
     emojiInfo:
       description: "Mostra as informações de um emoji"
       aboutEmoji: "Sobre o Emoji"
@@ -142,8 +143,8 @@ commands:
   economy:
     raffle:
       quantity-bigger-than-allowed: "Você só pode apostar no máximo **{0} tickets** por rodada!"
-      has-too-many-tickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
-      cant-buy-too-many-tickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
+      hasTooManyTickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
+      cantBuyTooManyTickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
   # MISCELÂNEA
   miscellaneous:
     ajuda:

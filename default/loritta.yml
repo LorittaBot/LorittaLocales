@@ -10,3 +10,6 @@ loritta:
     she: "ela"
     his: "dele"
     her: "dela"
+  xOfX: "{0} de {1}"
+  page: "Página"
+  youAreCurrentlyOnPage: "Você está na página {0}"
