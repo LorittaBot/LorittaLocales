@@ -151,7 +151,7 @@ commands:
       errorWhileOpeningDm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
     fanArts:
       description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
-      made-by: "Fan Art feita por {0}"
+      madeBy: "Fan Art feita por {0}"
       thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
     language:
       description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"

@@ -2,6 +2,16 @@ commands:
   moderation:
     dashboard:
       description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
+    renamechannel:
+      description: "Renomea canais de texto com espaço (também pode 
+renomear canais de voz)"
+      successfullyRenamed: "Canal renomeado com sucesso!"
+      channelNotFound: "Canal não encontrado! (Tentei procurar por nome 
+de canal, ID e menção de canal e eu não encontrei nada!)"
+      channelConflict: "Existem dois canais com o mesmo nome (ou 
+parecido) com tipos diferentes, tente usar ID (ou menção do 
+canal) invés de usar nome de canal!"
+      cantRename: "Não consegui renomar o canal..."
     unmute:
       punish-action: "Retirado o Silenciamento"
       punish-name: "remover o silenciamento"
