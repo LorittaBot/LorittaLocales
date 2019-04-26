@@ -30,3 +30,16 @@ commands:
       giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
     ship:
       bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
+    akinator:
+      description: "O Akinator pode ler a sua mente e dizer qual personagem você está pensando! Será que você irá conseguir ganhar dele?"
+      question: "Questão {0}"
+      isThisYourCharacter: "É esse o personagem que você está pensando?"
+      akinatorWon: "Excelente! Eu venci mais uma vez. Eu amo jogar esse jogo com você! {0}"
+      akinatorLost: "Bravo! Você conseguiu me derrotar."
+      goBack: "Voltar a pergunta anterior"
+      answers:
+        'yes': "Sim"
+        'no': "Não"
+        probablyYes: "Provavelmente Sim"
+        probablyNot: "Provavelmente Não"
+        dontKnow: "Não sei"

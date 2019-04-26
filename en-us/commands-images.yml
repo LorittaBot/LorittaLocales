@@ -12,17 +12,17 @@ commands:
           MALE: "THE GUY THAT YOU LIKE" 
           FEMALE: "THE GIRL THAT YOU LIKE"
         '1':
-          MALE: "THE DAD {0}" 
-          FEMALE: "THE MOM {0}"
+          MALE: "{0} DAD" 
+          FEMALE: "{0} MOM"
         '2':
-          MALE: "BROTHER {0}" 
-          FEMALE: "SISTER {0}"
+          MALE: "{0} BROTHER" 
+          FEMALE: "{0} SISTER"
         '3':
-          MALE: "FIRST DATE {0}" 
-          FEMALE: "FIRST DATE {0}"
+          MALE: "{0} FIRST DATE" 
+          FEMALE: "{0} FIRST DATE"
         '4':
-          MALE: "BEST FRIEND {0}" 
-          FEMALE: "BEST FRIEND {0}"
+          MALE: "{0} BEST FRIEND" 
+          FEMALE: "{0} BEST FRIEND"
         '5':
           MALE: "YOU" 
           FEMALE: "YOU"
