@@ -839,7 +839,7 @@
   "LORITTA_SupportServerInvite": "https://discord.gg/V7Kbh4z",
   "MUTE_PunishName": "silenciar",
   "MUTE_PunishAction": "Silenciado",
-  "MUTE_SetHour": "Por favor, escreva no chat quando você irá querer que eu remova o silenciado do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que seja permamente, clique no 🔄!",
+  "MUTE_SetHour": "Por favor, escreva no chat quando você irá querer que eu remova o silenciado do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que seja permanente, clique no 🔄!",
   "UPVOTE_PleaseCompleteCaptcha": "Por favor, complete o reCAPTCHA",
   "UPVOTE_NeedsToBeMember": "Você precisa ser um membro deste servidor antes de poder votar!",
   "UPVOTE_CanVoteAgain": "Você já votou hoje! Você poderá votar novamente {0}!",
