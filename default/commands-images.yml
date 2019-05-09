@@ -30,3 +30,5 @@ commands:
         '5':
           MALE: "VOCÊ" 
           FEMALE: "VOCÊ"
+    ascii:
+      description: "Transforma sua imagem em ascii art."
