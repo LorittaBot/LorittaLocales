@@ -31,4 +31,4 @@ commands:
           MALE: "VOCÊ" 
           FEMALE: "VOCÊ"
     ascii:
-      description: "Transforma sua imagem em ascii art."
+      description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
