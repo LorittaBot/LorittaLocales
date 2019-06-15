@@ -1,5 +1,25 @@
 commands:
   images:
+    bolsonaro:
+      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+    ata:
+      description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
+    loriata:
+      description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
+    susto:
+      description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
+    studiopolistv:
+      description: "Será que o Eggman colocou algo de interessante em sua televisão?"
+    romerobritto:
+      description: "Faça o Romero Britto desenhar a sua maravilhosa arte!"
+    wolverine:
+      description: "Quando você vê fotos do passado e começa a lembrar dos tempos bons do passado, as saudades daquilo que a gente viveu..."
+    pepedream:
+      description: "Quando você acorda de um belo sonho, e descobre que o sonho não era real..."
+    lorisign:
+      description: "Faça eu segurar uma placa mostrando algo interessante e fofo!"
+    art:
+      description: "Qual arte extraordinária te anima?"
     drawnword:
       description: "eU sO crianSA i escRevO coIsas ToSCas"
       examples:
@@ -32,3 +52,7 @@ commands:
           FEMALE: "VOCÊ"
     ascii:
       description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
+    briggscover:
+      description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
+      examples:
+      - "@Loritta"

@@ -1,4 +1,5 @@
 commands:
+  noValidImageFound: "Desculpe, mas eu não achei nenhuma imagem que eu possa usar! Eu tento pegar imagens em links, imagens anexadas, avatares de usuários mencionados, emojis... mas eu não achei nada disso na sua mensagem. {0}"
   didYouMeanCommand: "Mas eu acho que você queria escrever `{0}`"
   pleaseWaitCooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
   loriDoesntHavePermissionDiscord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
@@ -55,8 +56,6 @@ commands:
       - "Sim!"
       - "Não!"
       - "¯\\_(ツ)_/¯"
-    bolsonaro:
-      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
     vemDeZap:
       description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
       examples:
