@@ -30,3 +30,11 @@ commands:
       punishName: "remover o silenciamento"
       successfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
       automaticallyExpired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+    rolecolor:
+      examples:
+        - "351473717194522647 #000FFF"
+        - "cargolegal #000000"
+      description: "Altera a cor do cargo (útil para quem usa Discord no celular)"
+      success: "Cor alterada com sucesso!"
+      cantChange: "Não consegui alterar a cor do cargo...."
+      invalidColor: "Cor inválida!"

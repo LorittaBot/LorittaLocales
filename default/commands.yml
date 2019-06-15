@@ -6,12 +6,15 @@ commands:
   userDoesntHavePermissionDiscord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
   userDoesNotExist: "Usuário inexistente!"
   errorWhileExecutingCommand: "Alguma coisa deu extremamente errada ao executar este comando... {0} Desculpe pela inconveniência. {1}"
+  roleNotFound: "Cargo não encontrado!"
   arguments:
     text: "texto"
     number: "número"
     user: "usuário"
     emote: "emoji"
     image: "imagem"
+    role: "cargo"
+    color: "cor"
   # DIVERSÃO
   entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
     roll:
