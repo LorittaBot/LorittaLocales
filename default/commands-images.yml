@@ -6,6 +6,8 @@ commands:
       description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
     loriata:
       description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
+    chicoata:
+      description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
     susto:
       description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
     studiopolistv:

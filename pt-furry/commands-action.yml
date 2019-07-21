@@ -1,0 +1,27 @@
+commands:
+  actions:
+    clickToRetribute: Cwique em {0} pawa wetwibuiw!
+    examples:
+    - '297153970613387264'
+    - '@MwPOwOewGamewBW'
+    slap:
+      description: Use esse comando se awguém está mewecendo wevaw uns tapas
+      response: '**{0} deu um tapa em {1}!**'
+      responseAntiIdiot: '**Como você consegue dOwOmiw à nuite depois de tentaw batew uma gawotinha como eu? **{0} deu um tapa bem mewecido em {1}! >_>'
+    kiss:
+      description: Use esse comando pawa beijaw awguém
+      response: '**{0} beijou {1}!**'
+      responseAntiIdiot: Nah, quewo te beijaw não... mas eu ainda gosto de você como um amigx!
+    attack:
+      description: Use esse comando pawa atacaw awguém
+      response: '**{0} atacou {1}!**'
+      responseAntiIdiot: '**Como ousa tentaw fazew isso comigo? **{0} atacou {1}!'
+    hug:
+      description: Use esse comando pawa daw um abwaço cawinhoso em awguém
+      response: '**{0} abwaçou {1}!** ㅇㅅㅇ'
+    dance:
+      description: Use esse comando pawa dançaw com awguém
+      response: '**{0} dançou com {1}!**'
+    headpat:
+      description: Faça cafuné em awguém
+      response: '**{0} fez cafuné em {1}!**'

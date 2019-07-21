@@ -21,9 +21,21 @@ commands:
     roleColor : "Cor do cargo"
     rolePermissions: "Permissões"
   renameemoji:
-    description: "Renomea um emoji"
+    description: "Renomeia um emoji"
     emoteNotFound: "Nenhum emoji encontrado!"
     emoteNameLength32Error: "O nome que você quer renomear é maior do que 32 caracteres!"
     emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
     emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
     renameSucess: "Emoji renomeado!"
+  botinfo:
+    embedDescription:
+      - "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\"), tenho 16 anos e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas antes! {6}"
+      - "Atualmente estou espalhando diversão em **{0} servidores** com **{2} comandos inovadores** e já executei **{3} comandos** desde quando eu acordei há **{1}** atrás 😴. Desde 30 de Março de 2017 tentando transformar o mundo em um lugar melhor! {8}"
+      - "Eu fui criada em **{4} [Kotlin](https://kotlinlang.org/)** utilizando **{5} [JDA](https://github.com/DV8FromTheWorld/JDA)** e, se você quiser ver meu código-fonte (para ver como eu fui feita), [clique aqui](https://bit.ly/lorittagit)!"
+      - "Se você quiser dar uma passadinha no meu website, [clique aqui](https://loritta.website/) e, caso queira me adicionar no seu servidor, [clique aqui](https://loritta.website/dashboard)! {7}"
+    honorableMentions:
+      - "`MrPowerGamerBR#4185` Se não fosse por ele, eu nem iria existir! {3}"
+      - "Todas as pessoas que me ajudaram a ser desenvolvida!"
+      - "Todas as {0} pessoas que doaram para me ajudaram a ficar online!"
+      - "Todas as {1} pessoas que fizeram fan arts incríveis para mim, amo vocês. {4}"
+      - "E você, {2}, por estar falando comigo... continue sendo uma pessoa incrível! {5}"
