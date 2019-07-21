@@ -160,7 +160,7 @@
   "AVATAR_LORITTACUTE": "¡Yo se que soy muy linda!",
   "BOTINFO_DESCRIPTION": "¡Muestra información interesante (y a veces inútil) sobre mí misma!",
   "BOTINFO_TITLE": "¡Hola, me llamo Loritta!",
-  "BOTINFO_EMBED_INFO": "¡Hola, me llamo Loritta (o para amigos más próximos, \"Lori\") y soy un bot para Discord con varias funciones interesantes!\n\nEstoy en **{0} servidores** y conozco **{1} personas diferentes** (Wow, cuanta gente)! ¡Fui hecha usando **JDA** en **Java & Kotlin** y, si usted quiere ver mi código-fuente, [presione aquí](http://bit.ly/lorittagit)!\n\nMi sitio web é https://loritta.website/ y, si usted quiere saber más sobre mi, [presione aquí](https://loritta.website/support) para entrar en mi servidor de Discord!\n\nYa hace **{2}** desde que me desperté 😴 (o sea, mi tiempo de actividad actual) y actualmente tengo **{3} comandos diferentes**!",
+  "BOTINFO_EMBED_INFO": "¡Hola, me llamo Loritta (o para amigos más próximos, \"Lori\") y soy un bot para Discord con varias funciones interesantes!\n\nEstoy en **{0} servidores** ¡Fui hecha usando **JDA** en **Java & Kotlin** y, si usted quiere ver mi código-fuente, [presione aquí](http://bit.ly/lorittagit)!\n\nMi sitio web é https://loritta.website/ y, si usted quiere saber más sobre mi, [presione aquí](https://loritta.website/support) para entrar en mi servidor de Discord!\n\nYa hace **{1}** desde que me desperté 😴 (o sea, mi tiempo de actividad actual) y actualmente tengo **{2} comandos diferentes**!",
   "BOTINFO_HONORABLE_MENTIONS": "Menciones Honoríficas",
   "BOTINFO_MENTIONS": "¡`MrPowerGamerBR#4185` Si no fuera por el, yo ni existiría!\n`{0}#{1}` ¡Por estar hablando conmigo! 😄",
   "BOTINFO_CREATEDBY": "Loritta fue creada por MrPowerGamerBR",

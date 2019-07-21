@@ -64,46 +64,10 @@ commands:
       description: "Meme tem que ser de origem brasileira, talquei?"
     drawnMaskSign:
       description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
-  # ACTIONS
-  actions:
-    examples:
-    - "297153970613387264"
-    - "@MrPowerGamerBR"
-    slap:
-      description: "Use esse comando se alguém está merecendo levar uns tapas"
-      response: "**{0} deu um tapa em {1}!**"
-      response-anti-idiot: "**Como você consegue dormir à noite depois de tentar bater uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
-    kiss:
-      description: "Use esse comando para beijar alguém"
-      response: "**{0} beijou {1}!**"
-      response-anti-idiot: "Nah, quero te beijar não... mas eu ainda gosto de você como um amigx!"
-    attack:
-      description: "Use esse comando para atacar alguém"
-      response: "**{0} atacou {1}!**"
-      response-anti-idiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"
-    hug:
-      description: "Use esse comando para dar um abraço carinhoso em alguém"
-      response: "**{0} abraçou {1}!**"
-    dance:
-      description: "Use esse comando para dançar com alguém"
-      response: "**{0} dançou com {1}!**"
   # MODERAÇÃO
   moderation:
     unmute:
-      punishAction: "Retirado o Silenciamento"
-      punishName: "remover o silenciamento"
       sucessfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
-      automaticallyExpired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
-    lock:
-      description: "Bloquear os usuários de falarem no canal de texto onde o comando foi executado"
-      denied: "Agora nenhum usuário pode falar aqui!"
-      allowed: "Agora os usuários podem falar!"
-    unlock:
-      description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
-  # SOCIAL
-  social:
-    reputation:
-      success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}" 
   # DISCORD
   discord:
     addEmoji:
@@ -152,22 +116,3 @@ commands:
       description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
       madeBy: "Fan Art feita por {0}"
       thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
-    language:
-      description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
-      pleaseSelectYourLanguage: "Escolha a linguagem desejada!"
-      translatedBy: "Traduzido por"
-      languageChanged: "Prontinho, agora eu irei falar em {0} neste servidor!"
-please-wait-cooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
-error-while-executing-command: "Alguma coisa deu extremamente errada ao executar este comando... 😭 Desculpe pela inconveniência. 😢"
-cant-use-in-private: "Você não pode usar este comando em mensagens privadas!"
-user-does-not-exists: "Usuário inexistente!"
-doesnt-have-permission-discord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
-lori-doesnt-have-permission-discord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
-command-only-for-owner: "Apenas pessoas especiais podem usar este comando :3"
-image-too-large: "Olha... eu fiz uma imagem incrível para você, mas quando eu tentei enviar... ela passou do limite de {0} do Discord! Desculpe pela inconveniência. {1}"
-arguments:
-  text: "texto"
-  number: "número"
-  user: "usuário"
-  emote: "emoji"
-  image: "imagem"

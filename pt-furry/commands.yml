@@ -1,0 +1,113 @@
+commands:
+  noValidImageFound: Descuwpe, mas eu não achei nenhuma imagem que eu possa usaw! Eu tento pegaw image em winks, image anexadas, avatawes de usuáwios mencionados, emojis... mas eu não achei nada disso na sua meagem. {0} >_<
+  didYouMeanCommand: Mas eu acho que você quewia escwevew `{0}`
+  pleaseWaitCooldown: Cawma aí! Você pwecisa espewaw **{0}** antes de podew executaw outwo comando! {1}
+  loriDoesntHavePermissionDiscord: Eu quewia executaw este comando, mas infewizment eu não tenho pewmissão pawa {0}... {1} Peça pawa awguém da administwação daw esta pewmissão pawa mim! Obwigada! {2}
+  commandOnlyForOwner: Apenas pessoas especiais podem usaw este comando :3
+  userDoesntHavePermissionDiscord: Você não tem pewmissão pawa usaw este comando! Pawa utiwizá-wo, você pwecisa tew pewmissão pawa {0}! ʕʘ‿ʘʔ
+  userDoesNotExist: Usuáwio inexistent! (人◕ω◕)
+  errorWhileExecutingCommand: Awguma coisa deu extwemament ewwada ao executaw este comando... {0} Descuwpe pewa inconveniência. {1}
+  arguments:
+    text: texto
+    number: númewo
+    user: usuáwio
+    emote: emoji
+    image: imagem
+  entertainment:
+    roll:
+      description: WOwOa um dado e fawa o wesuwtado dewe, pewfeit quando você quew jogaw um MonupOwOy mawoto mas pewdeu os dados.
+      howMuchSides: Quantos wados o dado que eu iwei wOwOaw tewá
+    vieirinha:
+      description: Vieiwinha é o OwOácuwo de tudo que você deseja sabew nesta vida, que taw você pewguntaw awgo pawa ewe?
+      examples:
+      - Você me ama? >_<
+      - Sonic é mewhOwO que Mawio?
+      - Eu iwei ganhaw na wotewia neste anu? ;3
+      responses:
+      - Vai incomodaw outwa pessoa, obwigado.
+      - Não sei, mas eu sei que eu mOwOo wá nu Cambuci.
+      - Do jeit que eu vejo, sim.
+      - Hmmmm... 🤔
+      - Não posso fawaw sobwe isso.
+      - Não. ;3
+      - Sim. ;_;
+      - Eu wespondewia, mas não quewo fewiw seus sentimentos.
+      - Pwovavewment sim
+      - Pwovavewment não
+      - Minhaz fontes dizem que sim
+      - Minhaz fontes dizem que não
+      - Você pode acweditaw nisso
+      - Minha wesposta é não :3
+      - Minha wesposta é sim ^-^
+      - Do jeit que eu vejo, não.
+      - MewhOwO não fawaw isto pawa você agOwOa... ;3
+      - Sim, com cewteza!
+      - Também quewia sabew...
+      - A minha wesposta não impOwOta, o que impOwOta é você seguiw o seu cOwOação. 😘
+      - Tawvez...
+      - Acho que sim.
+      - Acho que não.
+      - Tawvez sim.
+      - Tawvez não.
+      - Sim! （＾ｖ＾）
+      - Não! ;3
+      - ¯\_(ツ)_/¯
+    vemDeZap:
+      description: Bom dia catiwangaiada! Vem de Zap bb, apwique o podew do zapzap na sua meagem pawa mostwaw como você é 🔝 com as 9inhaz do zapzap! ;-;
+      examples:
+      - vem de zap bb
+      - eae catiwangaiada, ninguém fawa nada kkkkkkkkkkkk
+      - zapzap é mewhOwO que o discOwOd, wá a gent tem númewo de nuvinhxs!
+  images:
+    bolsoDrake:
+      description: Meme tem que sew de OwOigem bwasiweiwa, tawquei?
+    drawnMaskSign:
+      description: Faça o {0} seguwaw uma pwaca mostwando awgo intewessante e foof! ;3
+  moderation:
+    unmute:
+      sucessfullyUnmuted: O usuáwio apwendeu a fawaw nuvament, espewo que dessa vez ewe fawe coisas intewessantes e wegais pawa que não seja siwenciado de nuvo!
+  discord:
+    addEmoji:
+      description: Adiciona emojis nu seu sewvidOwO a pawtiw do wink da imagem dewe. Pewfeit se você está cansado de ficaw baixando image pawa o seu computadOwO só pawa adicionaw nu sewvidOwO!
+      success: Emoji adicionado com sucesso!
+      limitReached: O wimite de emojis (50 emojis) já foi batido!
+      error: 'Não consegui adicionaw este emoji! Descuwpe pewa incoveniência. :sob:'
+    userInfo:
+      sharedServers: SewvidOwOes compawtiwhados
+      accountCreated: Conta cwiada há
+      accountJoined: Entwou há
+      joinPosition: Posição de Entwada
+      permissions: Pewmissões
+      joinPlace: '{0} wugaw'
+    emojiInfo:
+      description: Mostwa as infOwOmações de um emoji
+      aboutEmoji: Sobwe o Emoji
+      emojiName: Nome do Emoji
+      emojiId: ID do Emoji
+      mention: Menção
+      emojiCreated: Cwiado há
+      seenAt: Avistado em
+    oldMembers:
+      description: Cuwioso pawa sabew quem são os vetewanus do sewvidOwO? Então veja quem é da vewha-guawda do sewvidOwO atuaw!
+      theOldestPeople: As pessoas mais vewhaz de {0}
+    channelInfo:
+      description: Mostwa infOwOmações de um canaw de texto
+      channelMention: Menção do canaw
+      channelCreated: Canaw cwiado há
+      channelTopic: Tópico do canaw
+      undefined: Não definido >_>
+      channelNotFound: Canaw não encontwado!
+    emoji:
+      notFoundId: Enquant {0} pawece sew um ID váwido pawa um emoji... Eu não consegui encontwaw ewe na minha wista de emojis! Eu só consigo pegaw infOwOmações de um emoji a pawtiw de um ID caso eu esteja nu sewvidOwO em que o emoji está...
+  economy:
+    raffle:
+      quantity-bigger-than-allowed: Você só pode apostaw nu máximo **{0} tickets** pOwO wodada!
+      hasTooManyTickets: Você já tem tickets demais! Guawde um pouco do seu dinheiwo pawa a pwóxima wodada!
+      cantBuyTooManyTickets: Você não pode apostaw tantos tickets assim! Você pode apostaw, nu máximo, mais **{0} tickets**!
+  miscellaneous:
+    ajuda:
+      errorWhileOpeningDm: Eu quewia enviaw a ajuda pawa você, mas eu quewia sabew como eu vou enviaw sendo que você desativou as meage pwivadas entwe pessoas de sewvidOwOes que você conhece. http://i.imguw.com/Z1HwW2j.png 🤷
+    fanArts:
+      description: Veja as {0} windas {1} fan awts que fizewam de mim!
+      madeBy: Fan Awt feita pOwO {0}
+      thankYouAll: Obwigada a todos que fizewam incwíveis e mawaviwhosas fan awts pawa mim! >_>

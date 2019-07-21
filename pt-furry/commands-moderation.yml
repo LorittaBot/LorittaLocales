@@ -1,0 +1,24 @@
+commands:
+  moderation:
+    dashboard:
+      description: Envia o wink do Dashboawd pawa adicionaw/configuwaw a WOwOitta
+    renamechannel:
+      description: Wenumeia canais de texto com espaço (também pode wenumeaw canais de voz) ^-^
+      successfullyRenamed: Canaw wenumeado com sucesso! >_>
+      channelNotFound: Canaw não encontwado! (Tenti pwocuwaw pOwO nume de canaw, ID e menção de canaw e eu não encontwei nada!) x3
+      channelConflict: Existem dois canais com o mesmo nume (ou pawecido) com tipos difewents, tent usaw ID (ou menção do canaw) invés de usaw nume de canaw! ^-^
+      cantRename: Não consegui wenumeaw o canaw... ㅇㅅㅇ
+    mute:
+      duration: Duwação
+      forever: Pewmanent
+    lock:
+      description: Bwoqueia os usuáwios de fawawem nu canaw de texto onde o comando foi executado
+      denied: Canaw bwoqueado com sucesso! Use `{0}unwock` pawa destwavaw! >_<
+    unlock:
+      description: Desbwoqueia usuáwios de fawawem nu canaw de texto onde o comando foi executado
+      allowed: Canaw desbwoqueado com sucesso! Use `{0}wock` pawa twavaw!
+    unmute:
+      punishAction: Wetiwado o Siwenciamento x3
+      punishName: wemovew o siwenciamento
+      successfullyUnmuted: O usuáwio apwendeu a fawaw nuvament, espewo que dessa vez ewe fawe coisas intewessantes e wegais pawa que não seja siwenciado de nuvo!
+      automaticallyExpired: Após muit tempo siwenciado... o usuáwio finawment apwendeu a fawaw nuvament! Espewo que dessa vez ewe fawe coisas intewessantes e wegais pawa que não seja siwenciado de nuvo!
