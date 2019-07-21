@@ -27,6 +27,8 @@ commands:
     emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
     emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
     renameSucess: "Emoji renomeado!"
+  guildbanner:
+    noBanner: "Esse servidor não tem banner!"
   botinfo:
     embedDescription:
       - "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\"), tenho 16 anos e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas antes! {6}"
