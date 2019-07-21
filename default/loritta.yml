@@ -12,4 +12,5 @@ loritta:
     her: "dela"
   xOfX: "{0} de {1}"
   page: "Página"
+  clickHere: "**Clique [aqui]({0}) para baixar a imagem!**"
   youAreCurrentlyOnPage: "Você está na página {0}"
