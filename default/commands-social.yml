@@ -9,3 +9,9 @@ commands:
       prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"
       pleaseConfirm: "Caso você realmente tenha certeza que o casamento jamais irá dar certo, clique em {0}... eu irei te deixar em paz enquanto você pensa se realmente vale a pena fazer isso."
       divorced: "Então é isso, foi uma aventura e tanto, né? ...calma! Não chore, eu sei que divorciar de alguém é triste... se você continuar a chorar, eu também irei... {0} Da próxima vez, ame alguém que realmente te mereça e que te respeite, e não qualquer pessoa por aí... Melhor estar sozinho e ser feliz, do que estar em um relacionamento ruim."
+    birthday:
+      description: "Altera a sua data de nascimento"
+      invalidDate: "Data de nascimento inválida! Lembre-se, a data precisa estar no formato `dia/mês/ano`!"
+      invalidDateYearTooOld: "Data de nascimento inválida! Eu dúvido que você tenha nascido nessa data, já tomou os remédios hoje, vovôzinho?"
+      invalidDateYearTooNew: "Data de nascimento inválida! Então... sabia que você precisa ter no mínimo 13 anos para poder utilizar o Discord? Está nos termos de uso e você pode ser suspenso do Discord caso você tenha menos que 13 anos!"
+      successfullyChanged: "Sua data de nascimento foi alterada com sucesso!"

@@ -41,3 +41,6 @@ commands:
       - "Todas as {0} pessoas que doaram para me ajudaram a ficar online!"
       - "Todas as {1} pessoas que fizeram fan arts incríveis para mim, amo vocês. {4}"
       - "E você, {2}, por estar falando comigo... continue sendo uma pessoa incrível! {5}"
+  inviteinfo:
+    inThisServer: "Sim, eu estou no servidor!"
+    notOnTheServer: "Infelizmente eu não estou no servidor..."

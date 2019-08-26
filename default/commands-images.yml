@@ -8,6 +8,8 @@ commands:
       description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
     chicoata:
       description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
+    chicoata:
+      description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
     susto:
       description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
     studiopolistv:
@@ -31,6 +33,8 @@ commands:
       examples:
       - "Pega a Vassoura."
       - "É Drawn Mask e não Draum Mésqui"
+    canelladvd:
+      description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
     tristerealidade:
       description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
       slot:

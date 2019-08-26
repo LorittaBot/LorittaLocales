@@ -1,0 +1,8 @@
+commands:
+  fortnite:
+    shop:
+      featuredItems: "Itens em Destaque"
+      dailyItems: "Itens Diários"
+      description: "Mostra a loja do Fortnite: Battle Royale"
+      creatorCode: "Código de Criador: {0}"
+      localeId: "ptbr"

@@ -1,0 +1,8 @@
+commands:
+  fortnite:
+    shop:
+      featuredItems: "Features Items"
+      dailyItems: "Daily Items"
+      description: "Shows the current Fortnite: Battle Royale's item shop"
+      creatorCode: "Support a Creator: {0}"
+      localeId: "en"
