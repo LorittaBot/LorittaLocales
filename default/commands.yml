@@ -9,8 +9,12 @@ commands:
   errorWhileExecutingCommand: "Alguma coisa deu extremamente errada ao executar este comando... {0} Desculpe pela inconveniência. {1}"
   ifYouLikeMyFeaturesAndWantToHelp: "Se você gosta de usar as minhas funcionalidades e quer me ajudar, por favor, {0}"
   pleaseUpvote: "vote em mim! A cada voto que você dá você ganha recompensas (como sonhos!)! Você pode votar a cada 12 horas então... que tal começar votando agora? Ah, e é claro, obrigada pela ajuda! {0}"
-  pleaseDonate: "doe para me ajudar a ficar online! Qualquer doação me ajuda bastante e, ao doar, você ganhará recompensas exclusivas! Obrigada pela sua ajuda! {0}"
+  pleaseDonate: "doe para me ajudar a ficar online! Qualquer doação me ajuda bastante e, ao doar, você ganhará recompensas exclusivas! Claro, é opcional, então não se preocupe se não puder ajudar! {0}"
   pleaseUseFortniteCreatorCode: "use o meu código de criadora no Fortnite/Epic Games Store! Cada compra com o meu código me ajuda a ficar online e, e é claro, obrigada pela sua ajuda! Código de Criador: {0}"
+  checkOutSponsors: "Veja os meus incríveis patrocinadores! Eles que me ajudam a ficar online todos os dias, permitindo que eu ajude, entretenha e que eu possa transformar o mundo em um lugar melhor! {0}"
+  checkOutSparklyPower: "Com tédio? Então jogue no servidor oficial de {0} da Loritta! IP: {1}"
+  restartEnabled: "Eu vou estar indisponível às {0} para aplicar novidades e consertar uns parafusos, provavelmente voltarei depois de ~{1} após eu reiniciar... Desculpe pela inconveniência! {2}"
+  checkOutPatchNotes: "Novidades chegaram! Descubra tudo o que há de novo nas notas do patch: {0}"
   arguments:
     text: "texto"
     number: "número"

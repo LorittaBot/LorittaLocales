@@ -36,3 +36,4 @@ discord:
     attachFiles: "Anexar arquivos"
     messageTTS: "Enviar mensagens em TTS"
     viewChannel: "Ver canais"
+    voiceStream: "Ao vivo"

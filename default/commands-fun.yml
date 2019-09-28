@@ -7,6 +7,8 @@ commands:
       - "babyshark hit or miss I guess they never miss huh"
       - "lista"
       music: "música"
+    randomsam:
+      description: "kk eae men o SAM é brabo. Mostra memes aleatórios da página do South America Memes no Instagram."
     gabriela:
       hasBadWord: "Que feio, para que perguntar essas coisas para ela?"
     giveaway:
