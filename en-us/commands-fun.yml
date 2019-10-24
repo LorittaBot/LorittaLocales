@@ -28,3 +28,18 @@ commands:
       oneWinner: "Congratulations to {0} on winning the {1} giveaway"
       multipleWinners: "Congratulations to the winners for the {0} giveaway!"
       giveawayEnded: "Giveaway closed! Thanks to everyone that participated!"
+    ship:
+      bribeLove: "Did you know that you can bribe the oracle of love to modify the ship value between you and another person? {0}"
+    akinator:
+      description: "Akinator is able to read your mind and tell which character you are thinking about! Can you defeat him?"
+      question: "Question {0}"
+      isThisYourCharacter: "Is this the character that you are thinking about?"
+      akinatorWon: "Excellent! I won another time. I love playing this game with you! {0}"
+      akinatorLost: "Bravo! You were able to defeat me."
+      goBack: "Go back to previous question"
+      answers:
+        'yes': "Yes"
+        'no': "No"
+        probablyYes: "Probably"
+        probablyNot: "Probably not"
+        dontKnow: "I don't know"
