@@ -15,6 +15,8 @@ commands:
   checkOutSparklyPower: "Com tédio? Então jogue no servidor oficial de {0} da Loritta! IP: {1}"
   restartEnabled: "Eu vou estar indisponível às {0} para aplicar novidades e consertar uns parafusos, provavelmente voltarei depois de ~{1} após eu reiniciar... Desculpe pela inconveniência! {2}"
   checkOutPatchNotes: "Novidades chegaram! Descubra tudo o que há de novo nas notas do patch: {0}"
+  googleRateLimited: "Devido a alterações no limite de requisições do YouTube/Google, este comando está temporariamente desativado. Para mais informações: {0}"
+  canaryInstanceDoNotUse: "Você está usando a versão experimental da Loritta. Várias funcionalidades podem não funcionar, posso ficar offline a qualquer momento, seu servidor pode explodir e muito mais! Não reporte problemas da versão experimental caso não seja solicitado, obrigada!"
   arguments:
     text: "texto"
     number: "número"

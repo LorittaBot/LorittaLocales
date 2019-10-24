@@ -8,7 +8,7 @@ commands:
       description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
     chicoata:
       description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
-    gessyatat:
+    gessyata:
       description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
     susto:
       description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
@@ -43,6 +43,10 @@ commands:
       invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."
     buckshirt:
       description: "Coloque uma estampa na camisa do Buck Dewey. Crie uma nova moda em Beach City!"
+    bobfire:
+      description: "Algumas imagens são úteis como lenha para o Bob Esponja"
+    passingpaper:
+      description: "\"Ei parça, passa a cola aí!\""
     tristerealidade:
       description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
       slot:

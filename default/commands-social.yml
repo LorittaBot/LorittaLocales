@@ -3,7 +3,10 @@ commands:
     youAreNotMarried: "A tua alma ainda não encontrou outra alma para passar o resto da vida com ela... Você só pode usar funcionalidades de pessoas casados após se {0} com alguém! {1}"
     profile:
       profileshop: "Compre novos perfis em {0}"
+    topreputation: 
+      description: "Veja os usuários com mais reputações!"
     reputation:
+      reputationLink: "Quase pronto! Para dar a reputação, confirme ela em {0}"
       success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"
     divorce:
       prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"
