@@ -1,0 +1,61 @@
+website:
+  guidelines:
+    communityGuidelines: "Diretrizes da Comunidade"
+    intro:
+      title: "Para que servem as diretrizes?"
+      description:
+        - "O sonho da Loritta é transformar o mundo em um lugar melhor, divertindo e ajudando as pessoas pelo caminho."
+        - "Para ela conseguir realizar o sonho dela, existem as diretrizes dela, para que apenas as pessoas que desejam que ela consiga chegar em seus sonhos possam seguir e se divertir com ela."
+        - "Observação: Não monitoramos ativamente e não somos responsáveis por atividades ou conteúdo publicados; no entanto, esperamos que os proprietários dos servidores, mods e administradores sigam essas diretrizes em seus servidores e poderemos intervir caso elas não sejam seguidas."
+        - "Caso administradores de servidores propositalmente não punam usuários que estão ativamente quebrando as diretrizes, o servidor poderá perder o privilégio de utilizar a Loritta."
+    whatYouCanDo:
+      title: "É ótimo fazer o seguinte"
+      description:
+        - "Seguir as diretrizes das plataformas que a Loritta está. {platforms}"
+        - "Utilizar as funcionalidades da Loritta para te entreter, te ajudar em seus servidores e muito mais."
+        - "Recomendar a Loritta para seus amigos."
+    prohibited:
+      title: "As ações a seguir não serão toleradas"
+      description:
+        - "Desrespeitar as diretrizes da plataforma que você está. {platforms}"
+        - "Espalhar mentiras (\"fake news\") sobre a Loritta ou relacionados. Continuar a espalhar mentiras mesmo após ter provado que você está errado significa que você é alguém babaca."
+        - "Utilizar conteúdo NSFW (not safe for work) em funcionalidades da Loritta."
+        - "Tentar atacar, prejudicar ou derrubar a Loritta."
+        - "Tentar conseguir vantagens burlando restrições impostas pela Loritta. Se você precisa fazer algo fora do comum para conseguir vantagens contra outros usuários (Exemplo: Criar mais contas para conseguir recompensas), então é proibido."
+        - "Ofender, xingar ou sexualizar a Loritta. {disrespect}"
+        - "Utilizar funcionalidades da Loritta para quebrar as diretrizes. {breaking}"
+        - "Tentar se passar pela Loritta ou se passar por alguém da equipe dela. {beyourself}"
+        - "Tentar evadir/burlar punições. Caso você tente fazer isto, você será punido novamente, sem chance de ser desbanido."
+        - "Plagiar a Loritta. Você pode se inspirar em funcionalidades dela, mas copiar quase identicamente ela é proibido."
+      onPlatformBreak:
+        - "Caso você encontre alguma pessoa que está desrespeitando as diretrizes da plataforma, reporte para a equipe da plataforma e, caso aplicável, reporte para a equipe da Loritta."
+      disrespect:
+        - "Não, espalhar ódio gratuito não é uma \"crítica construtiva\" e você tentar disfarçar os seus xingamentos como uma \"crítica construtiva\" não é desculpa para não ser punido. Se você quer fazer uma crítica, seja construtivo e diga o que deveria ser melhorado na Loritta em vez de ofender apenas para ofender. Críticas construtivas ajudam a melhorar a Loritta e assim todos saem ganhando, ódio gratuito não."
+        - "Não puniremos caso for um xingamento \"leve\" (exemplo: \"idiota\") mas iremos punir caso seja um xingamento \"pesado\" (exemplo: \"puta\", \"vagabunda\"). Também iremos punir caso o usuário tenha ofendido várias vezes em seguida (já que isto torna os xingamentos em apenas ódio gratuito)."
+        - "Como apenas punimos se o usuário for reportado, você não terá problemas caso ofenda ou xingue no seu servidor privado que só tem você e a Loritta. Mas nós iremos punir caso você fique xingando em locais públicos."
+        - "O motivo de punir tais atitudes é para evitar que outros usuários fiquem criando opiniões baseado em mentiras e xingamentos sobre ela. E aliás, se você não gosta dela, então para que você precisa ter o privilégio de usá-la?"
+        - "A Loritta pode ser apenas um bot, mas existem pessoas que trabalharam muito para que ela seja o que ela é hoje. Realizar tais ações desrespeitam o trabalho delas. Imagine se você trabalhasse durante anos em algo que é o seu sonho, só para alguém começar a xingar ela por nenhum motivo, sem nem explicar como você deve melhorar o seu trabalho."
+        - "Lembre-se que apenas a equipe da Loritta pode julgar quem é realmente a Loritta. Falar que você fez \"uma Loritta\" e ela desrespeitou algumas das diretrizes citadas é mentira e quebra as leis de direito de conteúdo."
+      breaking:
+        - "Existem usuários que não sabem que é possível fazer tais coisas na Loritta, e, por isso, colocam a culpa na Loritta quando veem ela dizendo coisas erradas em vez de culpar os usuários que fazem isto. Devido a isto, forçar a Loritta responder ofensas, conteúdo inapropriado ou algo que quebra as diretrizes da comunidade é proibido."
+      beYourself:
+        - "Trocar o seu nome e avatar para os mesmos que a Loritta utiliza. {fanarts}"
+        - "Criar bots que possuem o mesmo nome e avatar que a Loritta utiliza."
+        - "Inventar ou espalhar mentiras dizendo que você ou o seu bot tem alguma relação com a Loritta ou com a equipe dela. {notjoke}"
+        - "Caso um servidor tenha um bot que está se passando pela Loritta, o dono do servidor será banido até que ele prove quem adicionou o bot no servidor."
+      useFanArts:
+        - "Você pode utilizar fan arts que fizeram para a Lori, desde que você não use o mesmo nome dela. Mas antes de utilizar uma fan art como avatar, pergunte para o artista da fan art se você pode utilizá-lo."
+      notJoke:
+        - "Se passar pela Loritta apenas por \"brincadeira\" não é desculpa para não ser punido."
+    whatWillHappenIf:
+      title: "O que irá acontecer se eu quebrar as regras?"
+      ifYouBreak: "Caso você quebre algumas das diretrizes, você poderá receber uma ou mais punições da lista."
+      punishments:
+        - "Ser banido dos servidores de suporte da Loritta."
+        - "Perder seus privilégios de uso da Loritta em seu servidor e em outros servidores."
+        - "O seu servidor perder o privilégio de usar a Loritta."
+        - "Ser banido de todos os servidores que possuem o sistema de bans globais da Loritta ativados."
+        - "Ser banido de todos os servidores que a Loritta está."
+      description:
+        - "O nível da punição e quais punições você irá receber será baseado no que você fez para ser punido. Quebrar regras não graves sem o intuito de prejudicar a Loritta te garante punições baixas que podem ser revertidas apenas pedindo desculpas, mas quebrar regra intencionalmente com o intuito de prejudicar a Loritta te garante punições mais elevadas, sem chance de perdão."
+        - "Caso você tenha se arrependido e o motivo da punição não for algo tão grave, converse com alguém da equipe da Loritta para ver se você pode ser desbanido. Mas lembre-se: Nós não somos obrigados a te desbanir, você quebrou as diretrizes porque você quis. Argumentar que \"eu não sabia delas\" não é uma desculpa, já que tudo que está nas diretrizes são regras que qualquer um que teve uma formação decente sabe que é errado."

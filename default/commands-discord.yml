@@ -45,3 +45,11 @@ commands:
   inviteinfo:
     inThisServer: "Sim, eu estou no servidor!"
     notOnTheServer: "Infelizmente eu não estou no servidor..."
+  avatar:
+    clickHere: "Clique [aqui]({0}) para baixar a imagem!"
+    lorittaCute: "Sim, eu sei que eu sou muito fofa!"
+    pantufaCute: "Sim, a Pantufinha também é fofinha. Olha que cute cute iti malia"
+    gabrielaCute: "Sim, a Gabriela também é fofa. As vezes tenho até inveja do style do cabelo dela, é um estilo daora e muito bonito."
+    polluxCute: "Sim, a Pollux também é fofis. Sempre juntas comemorando as nossas conquistas!"
+  servericon:
+    noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"

@@ -1,0 +1,14 @@
+commands:
+  utils:
+    calc:
+      invalid: "Desculpe, mas eu não acho que `{0}` seja uma expressão aritmética... Ou talvez seja a minha burrice, afinal, eu estou perdendo o meu tempo no Discord em vez de prestar atenção na aula."
+      result: "**Resultado:** `{0}`"
+    anagram:
+      result: "**O seu anagrama é...** `{0}`"
+      stats: "A palavra `{0}` possui **{1} anagramas diferentes**!"
+    colorinfo:
+      shades: "Tons"
+      tints: "Matizes"
+      triadic: "Triádica"
+      complementary: "Complementárias"
+      analogous: "Análogas"

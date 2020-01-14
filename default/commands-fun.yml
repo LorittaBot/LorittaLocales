@@ -9,8 +9,15 @@ commands:
       music: "música"
     randomsam:
       description: "kk eae men o SAM é brabo. Mostra memes aleatórios da página do South America Memes no Instagram."
+    randomtiktok:
+      description: "No tédio? Quer ver pessoas fazendo coisas toscas? Então veja um TikTok aleatório que talvez (sinceramente tem muito TikTok sem graça, sorry TikTokeiros!) alegre o seu dia!"
+      noTikTokFound: "Nenhum TikTok foi encontrado, talvez isto seja um bug!"
     gabriela:
       hasBadWord: "Que feio, para que perguntar essas coisas para ela?"
+    giveawaymenu:
+      description: "Menu com todos os comandos relacionados ao sistema de sorteios"
+      categoryTitle: "Sorteios"
+      categoryDescription: "Comandos relacionados com o meu sistema de sorteios!"
     giveaway:
       description: "Todos amam sorteios! Faça sorteios em seu servidor para os membros do seu servidor para eles se divertirem tentando ganhar. (Observação: Não me responsabilizo se reclamarem que é \"roubado\")"
       giveawayValidCustomMessage: "Você colocou uma mensagem personalizada para o sorteio!"
@@ -30,6 +37,20 @@ commands:
       oneWinner: "Parabéns {0} por ganhar o sorteio {1}!"
       multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
       giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
+    giveawayend:
+      description: "\"Meu Deus, o sorteio vai demorar muito para acabar!\" você exclama, com tom de desespero, \"Lori me ajude, meus membros vão ficar pistola caso eu tenha que fazer outro sorteio!\". Finalize sorteios antes da hora, para evitar a horda de membros reclamando que você colocou o horário errado!"
+      giveawayInvalidArguments: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: {0}"
+      giveawayHowToReroll: "{0}giveaway reroll {1}"
+      giveawayDoesNotExist: "O sorteio que você pediu para eu pegar não existe. Veja se você pegou o link da mensagem do sorteio e tente novamente!"
+      giveawayAlreadyEnded: "O sorteio que você tentou finalizar... bem, já acabou! Se você está querendo pegar novos vencedores, utilize {0}"
+      channelDoesNotExist: "O canal do sorteio não existe!"
+      messageDoesNotExist: "A mensagem do sorteio não existe!"
+      finishedGiveaway: "Prontinho! Eu terminei o sorteio que você pediu, agora você pode ficar tranquilo sem precisar aguentar a horda de membros gritando \"Você criou o sorteio com o horário errado!\""
+    giveawayreroll:
+      description: "As vezes os seus sorteios caem aqueles usuários que não \"merecem\" vencer o sorteio, e por isso você pode pedir para que eu gire os dados novamente e pegue novos vencedores!"
+      giveawayHowToEnd: "{0}giveaway end {1}"
+      giveawayStillRunning: "O sorteio que você tentou rolar novos vencedores... bem, ainda está rolando! Se você está querendo finalizar o sorteio, utilize {0}"
+      rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
     ship:
       bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
     akinator:
@@ -45,3 +66,65 @@ commands:
         probablyYes: "Provavelmente Sim"
         probablyNot: "Provavelmente Não"
         dontKnow: "Não sei"
+    roll:
+      description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+      howMuchSides: "Quantos lados o dado que eu irei rolar terá"
+      invalidBound: "Eu tentei girar o dado mas... ele evaporou! Sumiu! Acho que ele sumiu porque você criou um dado inválido... me diga, como você queria que eu girasse ele?"
+      result: "rolou **{1}**... e conseguiu **{2}**!"
+    ratewaifu:
+      note10:
+      - "Simplesmente perfeita! Não trocaria de Waifu se fosse você!"
+      note9:
+      - "Uma Waifu excelente, ótima escolha"
+      note8:
+      - "Uma Waifu que acerta em todos os pontos bons da vida."
+      note7:
+      - "Nem todas as Waifus são perfeitas, mas qual seria a graça de viver com alguém perfeito?"
+      note6:
+      - "Se fosse nota de escola sua Waifu ela seria \"acima da média\""
+      note5:
+      - "Nem tão ruim, nem tão boa, bem \"normal\""
+      note4:
+      - "Não que a sua Waifu seja ruim, pelo contrário! Ela tem potencial para ser algo mais *interessante*!"
+      note3:
+      - "Sua Waifu precisa de mais substância."
+      note2:
+      - "Não é por nada não mas, se eu fosse você, eu trocaria de Waifu..."
+      note1:
+      - "Sem chance, troca de Waifu hoje mesmo para garantir sua sanidade."
+      note0:
+      - "Troque de Waifu por favor."
+      noteLoritta:
+      - "Sou perfeita!"
+      - "Sou perfeita amigx!"
+      - "Procure por perfeição no dicionário, você irá encontrar \"Loritta\""
+      notePollux:
+      - "Uma amiga 10/10, ela é muito legal e criativa! (Sério, você já viu o que ela consegue fazer? Fico até impressionada! Até fico triste ao olhar como alguns comandos dela são bonitos e as coisas que eu faço são... bem, feias...)"
+      notePantufa:
+      - "A minha melhor amiga, a Pantufinha é minha amiga de infância! Beijos amigs."
+      noteTatsumaki:
+      - "Uma das minhas inspirações, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteMantaro:
+      - "Nunca conversei muito com a Mantaro, mas eu sei que o criador dela é gente boa."
+      noteMee6:
+      - "Uma das minhas inspirações e um dos bots mais antigos e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteDyno:
+      - "Uma das minhas inspirações e um dos bots mais populares na área de administração e logging de eventos do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteMudae:
+      - "E você ganha personagens, e você também ganha personagens, e você também ganha mais personagens... todos merecem coletar personagens!"
+      noteNadeko:
+      - "Uma das minhas inspirações e um dos bots mais customizáveis e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteUnbelievaBoat:
+      - "Muitas pessoas amam ele devido ao sistema extremamente extenso de economia dele, e se eu não desse 10/10 para ele, meu espírito capitalista iria ficar boladex..."
+      noteChinoKafuu:
+      - "Um bot bem legalzin com funcionalidades top top"
+      noteGroovy:
+      - "O melhor bot para músicas que existe!"
+      noteLorrita:
+      - "Aprenda a escrever o meu nome corretamente."
+      - "Tá precisando de um oftalmologista para aprender a ler o meu nome corretamente?"
+      - "Volta pra escola porque você faltou nas aulas de leitura e escrita."
+      result: "Eu dou nota **{0}** para `{1}`! **{2}**"
+    flipcoin:
+      heads: "Cara"
+      coroa: "Coroa"

@@ -3,3 +3,12 @@ website:
   title: "Apenas um simples bot para o Discord"
   navbar:
     support: "Suporte"
+  empty: "Vazio"
+  funnyEmpty:
+  - ", igualzinho a minha conta bancária"
+  - ", ou seja, não cheio"
+  - ", igual ao vazio do meu coração"
+  - ", um espaço desprovido de entidades"
+  - ", que tal adicionar algo aqui?"
+  - ", adicione algo aqui!"
+  - ", um vazio existencial"

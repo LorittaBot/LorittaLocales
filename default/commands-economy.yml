@@ -1,0 +1,27 @@
+commands:
+  economy:
+    transactions:
+      description: "Veja todas as transações que você recebeu e realizou!"
+      title: "Suas Transações"
+      sentMoneySonhos: "Enviou {0} sonhos para {1}"
+      receivedMoneySonhos: "Recebeu {0} sonhos de {1}"
+      sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
+      genericReceived: "Recebeu {0} sonhos no {1}"
+      genericSent: "Enviou {0} sonhos para {1}"
+      types:
+        bomDiaECia: "Bom Dia & Cia"
+        profile: "perfil"
+        shipEffect: "efeitos de ship"
+        marriage: "casamento"
+        marriageTax: "taxa de casamento"
+        daily: "daily"
+        nitroBoostBonus: "bônus de Nitro Booster"
+        raffle: "lorifa"
+        garticosTransfer: "transferência de garticos"
+    raffle:
+      lastWinner: "Último ganhador: {0} ({1} Sonhos; {2} Prêmio Final)"
+    scratchcard:
+      description: "Está com sorte? Então compre uma Raspadinha da Loritta. Talvez se a sua sorte for grande, você irá conseguir dobrar ou até quadriplicar a sua quantidade de sonhos!"
+    scratchcardtop:
+      description: "Veja os usuários que ganharam mais sonhos na raspadinha!"
+      wonTickets: "{0} sonhos / {1} tickets"
