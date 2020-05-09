@@ -6,3 +6,4 @@ modules:
     userName: "Nome de Usuário"
     channel: "Aonde novos tweets serão anunciados?"
     theMessage: "Mensagem ao notificar um novo tweet"
+    tweetLink: "Link do Tweet"

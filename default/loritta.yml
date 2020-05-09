@@ -1,7 +1,13 @@
 loritta:
+  inheritsFromLanguageId: "default"
+  languageName: "Português"
+  languageShort: "pt-br"
   translationAuthors:
   - "123170274651668480"
+  save: "Salvar"
   saving: "Salvando"
+  loading: "Carregando"
+  add: "Adicionar"
   fancyBoolean:
     'true': "Sim"
     'false': "Não"

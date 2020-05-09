@@ -1,15 +1,2 @@
 loritta:
-  translationAuthors:
-  - '123170274651668480'
-  saving: Sawvando ㅇㅅㅇ
-  fancyBoolean:
-    'true': Sim
-    'false': Não
-  pronoun:
-    he: ewe
-    she: ewa
-    his: dewe ^_^
-    her: dewa >_<
-  xOfX: '{0} de {1}'
-  page: Página
-  youAreCurrentlyOnPage: Você está na página {0}
+  inheritsFromLanguageId: "auto-pt-furry"

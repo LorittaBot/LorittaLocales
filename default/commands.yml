@@ -17,18 +17,29 @@ commands:
   checkOutPatchNotes: "Novidades chegaram! Descubra tudo o que há de novo nas notas do patch: {0}"
   googleRateLimited: "Devido a alterações no limite de requisições do YouTube/Google, este comando está temporariamente desativado. Para mais informações: {0}"
   canaryInstanceDoNotUse: "Você está usando a versão experimental da Loritta. Várias funcionalidades podem não funcionar, posso ficar offline a qualquer momento, seu servidor pode explodir e muito mais! Não reporte problemas da versão experimental caso não seja solicitado, obrigada!"
-  aliases: "Sinônimos"
-  example: "Exemplo"
   invalidNumber: "Número `{0}` é algo irreconhecível para um bot simples como eu, sorry."
   invalidColor: "Cor `{0}` é algo irreconhecível para um bot simples como eu, sorry. Lembre-se, eu consigo entender cores em formato RGB, hexadecimal e em formato decimal!"
   userNotOnTheGuild: "O usuário {0} existe, mas... cadê ele no servidor? E não, ele não está na lata de lixo, eu já procurei lá."
   guildDoesNotExist: "Eu procurei em todo lugar, mas eu não encontrei nenhum servidor com ID `{0}`! Lembre-se, eu apenas procuro servidores pelo ID delas e eu preciso estar no servidor para poder encontrá-lo!"
+  commandNotSupportedInThisPlatform: "Comando não é suportado nesta plataforma... It is too late now to say sorry?"
+  commandDisabled: "Você não pode utilizar este comando aqui! Ele foi desativado pela equipe do servidor, desculpe pela inconveniência..."
+  howToReEnableCommands: "Psiu, você pode reativar o comando em {0}!"
   arguments:
     text: "texto"
     number: "número"
     user: "usuário"
     emote: "emoji"
     image: "imagem"
+  explain:
+    aliases: "Sinônimos"
+    example: "Exemplo"
+    examples: "Exemplos"
+    howToUse: "Como usar?"
+    permissions: "Permissões"
+    relatedCommands: "Veja também"
+    clickHereToSeeAllMyCommands: "Clique aqui para ver todos os meus comandos!"
+    youNeedToHavePermission: "Você precisa ter permissão para {0} para utilizar o comando"
+    loriNeedToHavePermission: "Eu preciso de permissão para {0} para conseguir executar o comando"
   # DIVERSÃO
   entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
     vieirinha:
@@ -75,26 +86,12 @@ commands:
   images:
     bolsoDrake:
       description: "Meme tem que ser de origem brasileira, talquei?"
-    drawnMaskSign:
-      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
   # MODERAÇÃO
   moderation:
     unmute:
       sucessfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
   # DISCORD
   discord:
-    addEmoji:
-      description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
-      success: "Emoji adicionado com sucesso!"
-      limitReached: "O limite de emojis (50 emojis) já foi batido!"
-      error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
-    userInfo:
-      sharedServers: "Servidores compartilhados"
-      accountCreated: "Conta criada há"
-      accountJoined: "Entrou há"
-      joinPosition: "Posição de Entrada"
-      permissions: "Permissões"
-      joinPlace: "{0} lugar"
     emojiInfo:
       description: "Mostra as informações de um emoji"
       aboutEmoji: "Sobre o Emoji"

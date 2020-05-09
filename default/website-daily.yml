@@ -1,0 +1,22 @@
+website:
+  daily:
+    pleaseCompleteReCaptcha: "Por favor, complete o reCAPTCHA para receber o seu prêmio! Ao coletar o prêmio, informações sobre o seu navegador, seu email e IP poderão ser guardados."
+    thisShouldNeverHappen: "Isto jamais deve acontecer! Mas pelo visto aconteceu, whoops... Status Code: {0}"
+    notLoggedIn: "Você precisa entrar na sua conta do Discord antes de receber o seu prêmio!"
+    alreadyReceivedDailyReward: "Você já recebeu o seu prêmio diário hoje! Você poderá pegar novamente {0}!"
+    blacklistedEmail: "Você está usando um email potencialmente malicioso!"
+    blacklistedIp: "Você está usando um IP potencialmente malicioso! Caso você esteja usando VPNs ou proxies, desative antes de pegar o seu prêmio!"
+    unverifiedAccount: "Você ainda não verificou a sua conta do Discord! Por favor, verifique o email da sua conta antes de pegar o seu prêmio!"
+    invalidReCaptcha: "reCAPTCHA inválido! Tente recarregar a página, trocar de navegador e, caso você esteja usando VPNs ou proxies, desative antes de pegar o seu prêmio!"
+    congratulations: "Parabéns! Hoje você ganhou..."
+    youEarnedMoreSonhos: "Você ganhou x{0} mais sonhos, graças ao..."
+    sponsoredStatus: "Você iria ganhar {0} sonhos, mas graças ao patrocínio do {1} você ganhou {2}!"
+    thankTheSponsor: "Agradeça {0} por ter feito você ganhar {1} mais sonhos que o normal!"
+    comeBackLater: "Volte sempre!"
+    wantMoreSonhos: "Psiu, querendo mais sonhos para ostentar? Então compre sonhos {0}!"
+    clickingHere: "clicando aqui"
+    alreadyReceivedPrizesWithTheSameIp: "Parece que você já recebeu o prêmio diário hoje, se você não pegou... isto pode significar que existem pessoas com o mesmo IP que também pegaram o prêmio! Se você prometer para mim que você não está criando contas alternativas/fakes para coletar o prêmio, vá em frente, pegue o prêmio! Se não, sai daqui, se você não sair... coisas ruins irão acontecer, então nem tente transferir sonhos."
+    pleaseActivate2FA: "Para pegar o prêmio, você precisa ativar autenticação em duas etapas na sua conta no Discord. Para ativar, vá nas configurações da sua conta no Discord! (Recomendamos utilizar o Authy para autenticação, caso o Discord esteja rejeitando o código de autenticação, verifique se o horário do seu celular está correto)"
+    leaderboard:
+      position: "Posição"
+      name: "Nome"

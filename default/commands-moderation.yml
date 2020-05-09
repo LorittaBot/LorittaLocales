@@ -15,6 +15,11 @@ commands:
     silentTip: "Psiu, querendo punir sem que a vítima receba a punição via mensagem direta e sem que apareça no canal da punições? Então clique no 🙊!"
     skipConfirmationTip: "Cansado de confirmar as suas punições? Então use {0} para burlar as confirmações de punições, para que você possa sentir a satisfação de banir aquele usuário chato enquanto ele está digitando um textão para te xingar!"
     setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no 🔄!"
+    reports:
+      pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
+      raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
+      nsfwReport: "Conteúdo NSFW (Conteúdo NSFW em canais normais ou avatares com conteúdo NSFW)"
+      pleaseReportUrl: "https://l.lori.fun/trust-and-safety-br"
     ban:
       punishAction: "Banido"
       punishName: "banir"
@@ -49,12 +54,6 @@ commands:
       forever: "Permanente"
       negativeTime: O tempo que você me passou está agora no passado! Talvez você seja um viajante no tempo (se for, por favor me diga se eu sou famosa no futuro!) ou o tempo que levou para eu receber a sua mensagem foi maior que o tempo que você desejou silenciar o usuário... De qualquer jeito, desculpe pela inconveniência.
       roleName: "Silenciado"
-    lock:
-      description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
-      denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
-    unlock:
-      description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
-      allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
     lock:
       description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
       denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"

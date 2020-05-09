@@ -1,7 +1,21 @@
 commands:
   images:
+    drake:
+      description: "Crie um meme do Drake com dois usuários da sua guild!"
+    bolsodrake:
+      description: "Meme tem que ser de origem brasileira, talquei??"
+    bolsoframe:
+      description: "Olhem esta imagem, talquei??"
+    terminator:
+      description: "Arte feita por @tonmoh"
+      examples:
+      - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
+    loridrake: 
+      description: "Crie um meme do Drake, Loritta edition"
     bolsonaro:
       description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+    sam:
+      description: "kk eae men o SAM é brabo, coloque o selo da South America Memes em uma imagem!"
     ata:
       description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
     loriata:
@@ -28,6 +42,8 @@ commands:
       description: "eU sO crianSA i escRevO coIsas ToSCas"
       examples:
       - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
+    drawnmasksign:
+      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
     atendente:
       description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
       examples:

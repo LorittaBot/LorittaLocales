@@ -4,8 +4,10 @@ website:
   jumbotron:
     hello: "Olá, eu sou a"
     tagline: "Apenas um simples bot para o Discord"
-    add-me: "Me adicione!"
-    more-info: "Saiba Mais"
+    addMe: "Me adicione!"
+    moreInfo: "Saiba Mais"
+    viewMoreFeatures: "Ver mais funcionalidades"
+    dashboard: "Painel de Controle"
   home:
     intro:
       title: "Transforme o seu servidor em um lugar fantástico"
@@ -60,3 +62,4 @@ website:
       title: "Vamos transformar o seu servidor em um lugar incrível, juntos."
     thankYou:
       title: "Obrigada a todos!"
+      

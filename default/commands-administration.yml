@@ -1,8 +1,0 @@
-commands:
-  administration:
-    youGotPunished: "Você foi {0} de {1}"
-    punishedBy: "Punido por"
-    punishmentReason: "Motivo"
-    cantDeleteMessagesMoreThan7Days: "Desculpe, mas o Discord não me permite deletar mensagens enviadas a mais de 7 dias ao banir um usuário!"
-    cantDeleteMessagesLessThan0Days: "Desculpe, mas é impossível deletar mensagens enviadas a menos de 0 dias! (E como isso funcionaria? As mensagens ainda não enviadas do usuário seriam deletadas no futuro?)"
-    
