@@ -99,7 +99,7 @@
   "LIMPAR_DESCRIPTION": "Limpa o chat do canal de texto atual.",
   "LIMPAR_INVALID_RANGE": "Eu só consigo limpar entre 2 até 100 mensagens passadas!",
   "LIMPAR_SUCCESS": "Chat limpo por {0}!",
-  "LIMPAR_SUCCESS_IGNORED_TOO_OLD": "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!",
+  "LIMPAR_SUCCESS_IGNORED_TOO_OLD_OR_PINNED": "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!",
   "LIMPAR_COUDLNT_FIND_MESSAGES": "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!",
   "MUTE_DESCRIPTION": "Silencia um usuário por um período de tempo determinado",
   "MUTE_ROLE_NAME": "Silenciado",
