@@ -1,0 +1,93 @@
+---
+commands:
+  images:
+    drake:
+      description: "Crie um meme do Drake com dois usuários da sua guild!"
+    bolsodrake:
+      description: "Meme tem que ser de origem brasileira, talquei??"
+    bolsoframe:
+      description: "Olhem esta imagem, talquei??"
+    terminator:
+      description: "Arte feita por @tonmoh"
+      examples:
+        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
+    loridrake:
+      description: "Crie um meme do Drake, Loritta edition"
+    bolsonaro:
+      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+    sam:
+      description: "kk eae men o SAM é brabo, coloque o selo da South America Memes em uma imagem!"
+    ata:
+      description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
+    loriata:
+      description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
+    chicoata:
+      description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
+    gessyata:
+      description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
+    susto:
+      description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
+    studiopolistv:
+      description: "Será que o Eggman colocou algo de interessante em sua televisão?"
+    romerobritto:
+      description: "Faça o Romero Britto desenhar a sua maravilhosa arte!"
+    wolverine:
+      description: "Quando você vê fotos do passado e começa a lembrar dos tempos bons do passado, as saudades daquilo que a gente viveu..."
+    pepedream:
+      description: "Quando você acorda de um belo sonho, e descobre que o sonho não era real..."
+    lorisign:
+      description: "Faça eu segurar uma placa mostrando algo interessante e fofo!"
+    art:
+      description: "Qual arte extraordinária te anima?"
+    drawnword:
+      description: "eU sO crianSA i escRevO coIsas ToSCas"
+      examples:
+        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
+    drawnmasksign:
+      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
+    atendente:
+      description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
+      examples:
+        - "Pega a Vassoura."
+        - "É Drawn Mask e não Draum Mésqui"
+    canelladvd:
+      description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
+    tobecontinued:
+      description: "*Você começa a escutar Roundabout tocando no fundo*"
+    emojimashup:
+      description: "Combine e misture os emojis padrões do Discord para formar novos emojis jamais vistos antes! Atualmente apenas smileys e alguns outros emojis suportados, mas mesmo assim as possibilidades são praticamente infinitas!"
+      invalidEmoji: "Emoji `{0}` inválido! Se for realmente um emoji, eu provavelmente ainda não recortei o emoji para que possa fazer aquela colagem marota com ele... mas talvez em breve você poderá utilizar esse emoji em suas misturas incríveis!"
+      invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."
+    buckshirt:
+      description: "Coloque uma estampa na camisa do Buck Dewey. Crie uma nova moda em Beach City!"
+    bobfire:
+      description: "Algumas imagens são úteis como lenha para o Bob Esponja"
+    passingpaper:
+      description: "\"Ei parça, passa a cola aí!\""
+    tristerealidade:
+      description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
+      slot:
+        - 
+          MALE: "O CARA QUE VOCÊ GOSTA"
+          FEMALE: "A MINA QUE VOCÊ GOSTA"
+        - 
+          MALE: "O PAI {0}"
+          FEMALE: "A MÃE {0}"
+        - 
+          MALE: "IRMÃO {0}"
+          FEMALE: "IRMÃ {0}"
+        - 
+          MALE: "PRIMEIRO AMOR {0}"
+          FEMALE: "PRIMEIRO AMOR {0}"
+        - 
+          MALE: "MELHOR AMIGO {0}"
+          FEMALE: "MELHOR AMIGA {0}"
+        - 
+          MALE: "VOCÊ"
+          FEMALE: "VOCÊ"
+    ascii:
+      description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
+    briggscover:
+      description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
+      examples:
+        - "@Loritta"
