@@ -1,0 +1,54 @@
+---
+commands:
+  category:
+    fun:
+      name: "Vergnügen"
+      description: "Willst du etwas Unterhaltung? Willst du den Chat des Servers mit einigen unterhaltsamen Aspekten beleben? Dann nutze doch mal die Befehle aus der Kategorie Vergnügen!"
+    images:
+      name: "Photoshop"
+      description: "Erstelle 😂👌🔥🔝 Bilder bequem von deinem Server aus! Aber übertreib es bitte nicht, denn mir fehlen die Sklaven Bilder schneller zu bearbeiten."
+    minecraft:
+      name: "Minecraft"
+      description: "Befehle zum Spiel Minecraft"
+    pokemon:
+      name: "Pokémon"
+      description: "Befehle zum Spiel Pokémon"
+    undertale:
+      name: "Undertale"
+      description: "Befehle zum Spiel Undertale"
+    roblox:
+      name: "ROBLOX"
+      description: "Befehle zum Spiel ROBLOX"
+    anime:
+      name: "Anime"
+      description: "Befehle zur Kategorie Anime"
+    discord:
+      name: "Discord"
+      description: "Spezifische Discord-Befehle"
+    fortnite:
+      name: "Fortnite"
+      description: "Wo hüpfen wir raus Jungs? Befehle zum Spiel Fortnite, damit du auf dem Laufenden bleibst, bis der Bus abfliegt!"
+    misc:
+      name: "Sonstiges"
+      description: "Befehle ohne bestimmte Kategorie"
+    admin:
+      name: "Verwaltung"
+      description: "Befehle für Moderatoren von Servern, die die Arbeit etwas erleichtern sollten!"
+    utils:
+      name: "Nützliches"
+      description: "Nützliche Befehle, die dein Leben etwas einfacher machen sollten!"
+    social:
+      name: "Soziales"
+      description: "Befehle zur sozialen Interaktion!"
+    music:
+      name: "Musik"
+      description: "Befehle zu meinem Musiksystem"
+    economy:
+      name: "Währung"
+      description: "Befehle zu meinem Währungssystem!"
+    action:
+      name: "Interaktion"
+      description: "Egal ob Umarmungen, Ohrfeigen, Küsse und andere lustige Interaktionen, ich kann dir mit diesen Befehlen helfen, deine Aktionen bildlich zu untermalen. Probier's einfach doch mal aus! Ich habe GIFs für alle Arten von Aktionen, die du im Chat ausführen kannst!"
+    magic:
+      name: "Magie"
+      description: "Befehle auf die niemand jemals ein Auge legen sollte, denn sie sind magisch!"
