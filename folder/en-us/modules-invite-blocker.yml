@@ -1,0 +1,6 @@
+---
+modules:
+  inviteBlocker:
+    activateInviteBlockerBypass: "Pss, if you want that the role {0} have permission to send invites without being blocked, click on {1} and I will give that permission for you!"
+    howToReEnableLater: "If you change your mind, you can change the permissions on {0}!"
+    bypassEnabled: "Finish! Now I will not block invitations sent by people who has the {0} role!"
