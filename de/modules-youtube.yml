@@ -1,0 +1,7 @@
+---
+modules:
+  youtube:
+    userName: "Verknüpfter Kanal"
+    channel: "Wo werden neue Videos angekündigt?"
+    theMessage: "Nachricht zur Video-Benachrichtigung"
+    videoLink: "Videolink"
