@@ -1,0 +1,6 @@
+---
+loritta:
+  modules:
+    afk:
+      userIsAfk: "{0} este AFK!"
+      usersAreAfk: "{0} este AFK!"
