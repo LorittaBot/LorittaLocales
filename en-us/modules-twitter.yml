@@ -1,0 +1,9 @@
+---
+modules:
+  twitter:
+    title: "Notify Tweets"
+    description: "Notify your server when your favorite @ tweets amazing news you should never miss! ...or when they decide to tweet pictures of cute animals."
+    userName: "Username"
+    channel: "Where new tweets should be announced?"
+    theMessage: "Message when notifying a new tweet"
+    tweetLink: "Tweet Link"

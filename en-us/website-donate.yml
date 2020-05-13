@@ -1,0 +1,19 @@
+---
+website:
+  donate:
+    title: "Donate"
+    needYourHelp: "I need your help!"
+    stayAwesome: "I want to stay awesome, but I need of money to help me to stay online!"
+    introDonate:
+      - "Are you seeing this? It's like how I feel when I have no money to pay my rent."
+      - "To make me to stay online, it''s needed to pay <b>more of R$400 all months</b>... and that without count another''s costs used to invest on awesome features that you can use!"
+      - "If you want to see me remaining online, then please, from the bottom of my heart... <b>donate</b>, doesn't matter if you only will donate R$1, all donation is welcome and, of course, you will be a wonderful person (with very fame and glory!)."
+      - "Ah, of course: donating is <i>optional</i>, so don't fell bad if you can't donate!"
+    donateNow: "Donate now!"
+    donationBenefits: "Donation Benefits"
+    benefitsExplain: "To thank for your donation, we have some perks for you! Every benefit lasts for a month after your donation."
+    benefitsSponsor: "Do you wish to grow your server and receive Loritta's donator benefits? Then see the advantages of becoming a sponsor, you get all the benefits and on top of that you gain publicity in one of Discord's cutest bots!"
+    activeDonators: "Active donators"
+    inactiveDonators: "Inactive donators"
+    thanksToEveryone: "Thank you all that helped me!"
+    areYouGoingToDonate: "Ownt, will you donate? :3"

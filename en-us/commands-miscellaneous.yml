@@ -1,0 +1,8 @@
+---
+commands:
+  miscellaneous:
+    language:
+      description: "Did you know that I can speak in other languages? {0} Change the language I speak on your server!"
+      pleaseSelectYourLanguage: "Choose your desired language!"
+      translatedBy: "Translated by"
+      languageChanged: "Okay, now I'm going to speak in {0} on this server!"

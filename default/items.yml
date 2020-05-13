@@ -11,6 +11,7 @@ sets:
   lowPoly: "Low Poly"
   landscapes: "Paisagens"
   sonic: "Sonic the Hedgehog"
+  jojo: "JoJo's Bizarre Adventure"
 backgrounds:
   defaultBlue:
     title: "Fundo Azulado"
@@ -213,6 +214,9 @@ backgrounds:
   wumpusLeaf:
     title: "Folha no Wumpus"
     description: "Tão inocente e puro"
+  wumpusMovie:
+    title: "Filme com o Wumpus"
+    description: "Sente e relaxe"
 
   # ===[ DOGE ]===
   dogeWolf:
@@ -252,6 +256,36 @@ backgrounds:
   stevenPizza:
     title: "Pizza na Cara"
     description: "Pizzas são gostosas"
+  stevenUniverseBeach:
+    title: "Praia de Beach City"
+    description: "Um palco de grandes acontecimentos e uma marca inesquecível de Beach City"
+  crystalGemsTemple:
+    title: "Tarde de sol no Templo de Cristal"
+    description: "Paisagem do Templo do Cristal em um dia ensolarado"
+  stevenUniverseBigDonut:
+    title: "Big Rosquinha"
+    description: "A vista do lugar mais doce de Beach City!"
+  stevenUniverseOceanTemple:
+    title: "Altar Marinho"
+    description: "Bem longe da superfície, uma mágica construção gem embeleza o fundo do mar"
+  stevenUniverseLunarSeaTemple1:
+    title: "Torre Lunar do Mar"
+    description: "Como um oásis para as gems na Terra"
+  stevenUniverseLunarSeaTemple2:
+    title: "Torre Lunar do Mar"
+    description: "Essa torre é gigante, deve ser complicado subi-lá, porém ao chegar lá em cima, ela deve esconder uma visão única!"
+  stevenUniverseLunarSeaTemple3:
+    title: "Torre Lunar do Mar"
+    description: "Ah se você pudesse, sequer imaginar, viemos de além do Sol, até aqui chegar!"
+  stevenUniverseMaskIsland:
+    title: "Ilha da Máscara"
+    description: "A ilha distante onde várias criaturas mágicas vivem"
+  stevenUniverseSparkles:
+    title: "Universo Infinito"
+    description: "Pode até parecer um lugar vazio, porém é cheio de sonhos..."
+  stevenUniverseFutureEnemies:
+    title: "O futuro nos aguarda"
+    description: "O nosso trabalho é constante, e mesmo no futuro, devemos lembrar de quem nós fomos no passado."
 
   # ===[ AKIRA ]===
   kanedaBikeSkid:
@@ -297,6 +331,11 @@ backgrounds:
   lowPolyRocket:
     title: "Foguete Low Poly"
     description: "Prepare para a decolagem"
+
+  # ===[ JOJO ]===
+  dioBrando:
+    title: "Eu Dioooo"
+    description: "Jonathan Joestar acusa Dio Brando de envenenar o pai dele"
 
   # ===[ MISC ]===
   porsche911Carrera:
@@ -491,3 +530,15 @@ backgrounds:
   stardustSpeedwayAct2:
     title: "Stardust Speedway Act 2"
     description: "Hue hue hue"
+  furryFright:
+    title: "Medo de Furries"
+    description: "\"Eita, que cachorrão grande estranho é esse?\""
+  konoha:
+    title: "Afternoon of Konoha"
+    description: "\"Eu nunca vou desistir, Sasuke. Eu vou te parar, mesmo que eu tenha que quebrar todos os seus ossos.\""
+  dollynhoMarshmallow:
+    title: "Dollynho com Marshmallow"
+    description: "Melhor combinação"
+  easterStar:
+    title: "Terra da Páscoa"
+    description: "Aonde será que estão os ovos de páscoa?"

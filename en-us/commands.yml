@@ -1,0 +1,129 @@
+---
+commands:
+  noValidImageFound: "Sorry, but I didn't found any image that I could use! I try to get images from links, attached images, mentioned users avatar, emotes... but I didn't found anything in your message. {0}"
+  didYouMeanCommand: "But I think you wanted to say `{0}`"
+  pleaseWaitCooldown: "Wait a second! You need to wait **{0}** before using this command! {1}"
+  loriDoesntHavePermissionDiscord: "I wanted to do this command, but unfortunately I don't have permissions for {0}... {1} Ask someone from staff to give this permission to me! Thank you! {2}"
+  commandOnlyForOwner: "Only special people can use this command :3"
+  userDoesntHavePermissionDiscord: "You don't have permissions to use this command! To be able to use, you need to have permissions for {0}!"
+  userDoesNotExist: "I searched everywhere, but I couldn't found anyone named {0}! Remember, I search user by ID, mentions and names."
+  errorWhileExecutingCommand: "Oopsie! Something went wrong when running this command... {0} Sorry for the inconvenience. {1}"
+  ifYouLikeMyFeaturesAndWantToHelp: "If you like my features and want to help me, please, {0}"
+  pleaseUpvote: "vote for me! For every vote you win rewards (like sonhos!)! You can vote every 12 hours so... why not start voting now? Oh, and of course, thanks for the help! {0}"
+  pleaseDonate: "donate to help me stay online! Any donation helps me so much and, after donating, you win exclusive rewards! Of course, it is optional, so don't worry if you can't help! {0}"
+  pleaseUseFortniteCreatorCode: "use my creator code in Fortnite/Epic Games Store! Every purchase using my code helps me to stay online and, of course, thank you for your help! Creator Code: {0}"
+  checkOutSponsors: "Check out my amazing sponsors! They help me stay online every day, allowing me to help, entertain and helping me to make the world a better place! {0}"
+  checkOutSparklyPower: "Bored? Then lets play on the Loritta's Official {0} Server! IP: {1}"
+  restartEnabled: "I will be unavailable at {0} due to updates and patching some loose screws, I'll probably come back after ~{1} after I restart... Sorry for the inconvenience! {2}"
+  checkOutPatchNotes: "Good news, everyone! Discover new changes in this patch log: {0}"
+  googleRateLimited: "Due to alterations in the limit of request from YouTube/Google, this command is temporarily deactivated. For more info: {0}"
+  canaryInstanceDoNotUse: "You are using an experimental version of Loritta. Features may not work, I can be offline at any time, your server can explode, and so much more! Don't report any problems from the experimental version if not asked to, thank you!"
+  invalidNumber: "Number `{0}` is something unrecognized for a so simple and cute bot like me, sorry."
+  invalidColor: "Color `{0}` is something unrecognized for a so simple and cute bot like me, sorry. Remember, I can understand RGB, Hex and decimal formats!"
+  userNotOnTheGuild: "The user {0} exists, but... where is he in this server? And no... it is not in the trash bin because I've already searched there."
+  guildDoesNotExist: "I've searched everywhere, but I couldn't found any server with ID `{0}`! Remember, I can only search server by their IDs and I need to be in the server to find them!"
+  commandNotSupportedInThisPlatform: "Command not supported by this platform... Is it too late now to say sorry?"
+  commandDisabled: "You cannot use this command here! It got disabled by the administration of this server, sorry for the inconvenience..."
+  howToReEnableCommands: "Hey, you can reactivate this command here {0}!"
+  arguments:
+    text: "text"
+    number: "number"
+    user: "user"
+    emote: "emote"
+    image: "image"
+  explain:
+    aliases: "Aliases"
+    example: "Example"
+    examples: "Examples"
+    howToUse: "How to use?"
+    permissions: "Permissions"
+    relatedCommands: "See also"
+    clickHereToSeeAllMyCommands: "Click here to see all my commands!"
+    youNeedToHavePermission: "You need to have {0} permissions use this command"
+    loriNeedToHavePermission: "I need {0} permissions to execute this command"
+  #DIVERSÃO
+  entertainment:
+    vieirinha:
+      description: "Vieirinha is the oracle of everything that's known in this world, what about asking something to him?"
+      examples:
+        - "Do you love me?"
+        - "Is Sonic better than Mario?"
+        - "Will I win the lottery this year?"
+      responses:
+        - "Go bother someone else, thanks."
+        - "I don't know, but I know I live in Cambuci, maybe you can find Vieirinha there."
+        - "The way I see, yes."
+        - "Hmmmm... 🤔"
+        - "I can't talk about this."
+        - "No."
+        - "Yes."
+        - "I could answer, but I don't want to hurt your feelings."
+        - "Probably yes"
+        - "Probably not"
+        - "My sources says that... yes"
+        - "My sources says that... yes"
+        - "You can believe in this"
+        - "My answer is no"
+        - "My answer is yes"
+        - "The way I see, no."
+        - "Better not say the answer to you right now..."
+        - "Yes. of course!"
+        - "I wanted to know too..."
+        - "My answer doesn't matter, what matter is that you follow your heart. 😘"
+        - "Maybe..."
+        - "I think so."
+        - "I think not."
+        - "Maybe yes."
+        - "Maybe not."
+        - "Yes!"
+        - "No!"
+        - "¯\_(ツ)_/¯"
+    vemDeZap:
+      description: "Heyo ppl! Apply the power of the Knights of NI using my whatsapp feature in your message to show the world who are you, and maybe... get a girlfriend, who knows?"
+      examples:
+        - "in brazil, whatsapp is called zapzap"
+        - "yo ppl, nobody said anything lmao"
+        - "zapzap is better than discord, there we have the numbers of all the ppl!"
+  images:
+    bolsoDrake:
+      description: "Meme needs to be from brazillian origin, y' know?"
+  #MODERAÇÃO
+  moderation:
+    unmute:
+      sucessfullyUnmuted: "The user relearned how to speak again, I hope this time he could speak interesting and cool things to not be muted again!"
+  #DISCORD
+  discord:
+    emojiInfo:
+      description: "Show the information of an emote"
+      aboutEmoji: "About the Emoji"
+      emojiName: "Emoji Name"
+      emojiId: "Emoji ID"
+      mention: "Mention"
+      emojiCreated: "Created at"
+      seenAt: "Seen at"
+    oldMembers:
+      description: "Curious to know who are the server veterans? Then see who is the old-school members of this server!"
+      theOldestPeople: "The oldest people from {0}"
+    channelInfo:
+      description: "Show the information in a text channel"
+      channelMention: "Channel's mention"
+      channelCreated: "Channel created in"
+      channelTopic: "Channel's topic"
+      undefined: "Not defined"
+      channelNotFound: "Channel not found!"
+    emoji:
+      notFoundId: "While {0} looks to be a valid ID for an emoji... I couldn't found it in my emoji list! I can only get info of an emoji from his ID if I am in the server which this emoji is located..."
+  #ECONOMIA
+  economy:
+    raffle:
+      quantity-bigger-than-allowed: "You can only bet a maximum of **{0} tickets** each round!"
+      hasTooManyTickets: "You have too many tickets! Save some of your money to the next round!"
+      cantBuyTooManyTickets: "You cannot bet too many tickets like this! You can bet, at most, more **{0} tickets**!"
+  #MISCELÂNEA
+  miscellaneous:
+    ajuda:
+      errorWhileOpeningDm: "I wanted to send this help to you, but I wanted to know how will I send knowing that you deactivated your direct messages between people from servers you know. http://i.imgur.com/Z1HwW2j.png 🤷"
+    fanArts:
+      description: "See the {0} beautiful {1} fan arts artists did of me!"
+      madeBy: "Fan Art created by {0}"
+      thankYouAll: "Thank you for all of the artists who made incredible and beautiful fan arts to me!"

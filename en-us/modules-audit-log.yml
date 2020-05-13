@@ -1,0 +1,7 @@
+---
+modules:
+  auditLog:
+    title: "Audit Log"
+    generic: "{0} took action {1}"
+    updated: "{0} made changes in {1}"
+    resetXp: "{0} restarted experience of all users"

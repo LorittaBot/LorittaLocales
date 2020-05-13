@@ -1,0 +1,54 @@
+---
+commands:
+  category:
+    fun:
+      name: "Fun"
+      description: "Want a little bit of entertainment? Want to cheer up your server's chat with a lot of random and funny stuff? Then use the fun category commands!"
+    images:
+      name: "Photoshop"
+      description: "Create images 😂👌🔥🔝 in the comfort of your Discord server! Just don't go crazy creating a lot of images, sadly I don't have slaves to create images with Photoshop rapidly."
+    minecraft:
+      name: "Minecraft"
+      description: "Minecraft-related commands"
+    pokemon:
+      name: "Pokémon"
+      description: "Pokémon-related commands"
+    undertale:
+      name: "Undertale"
+      description: "Undertale-related commands"
+    roblox:
+      name: "ROBLOX"
+      description: "ROBLOX-related commands"
+    anime:
+      name: "Anime"
+      description: "Anime-related commands"
+    discord:
+      name: "Discord"
+      description: "Discord-related commands"
+    fortnite:
+      name: "Fortnite"
+      description: "Where are we dropping boys? Fortnite-related commands, so that you can be informed while you wait for the battle bus to arrive!"
+    misc:
+      name: "Miscellaneous"
+      description: "Commands that don't fit in any specific category"
+    admin:
+      name: "Administration"
+      description: "Commands that help you with your moderator life in your servers/guilds!"
+    utils:
+      name: "Utilities"
+      description: "Useful commands to streamline and make your life easier!"
+    social:
+      name: "Social"
+      description: "Humans are sociable creatures and need social interaction. For that, you can interact with your family, friends, neighbors and even with the members of your Discord server. Believe me, my commands are a great way of interacting with people!"
+    music:
+      name: "Music"
+      description: "Commands related to my music system!"
+    economy:
+      name: "Economy"
+      description: "Commands related to my economy system!"
+    action:
+      name: "Actions"
+      description: "Kisses, slaps, hugs and more! Are you afraid of showing what you really feel and need a GIF to help? No problems, I have a folder just for all the possible actions that you may want to execute in the chat!"
+    magic:
+      name: "Magic"
+      description: "Commands that you should never see in your life, if you are seeing this... You are magical!"

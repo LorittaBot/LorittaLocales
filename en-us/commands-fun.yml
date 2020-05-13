@@ -1,0 +1,212 @@
+---
+commands:
+  fun:
+    ditty:
+      description: "Combine lyrics and rythms to create your own music!"
+      examples:
+        - "swlukestheme roblox sucks a lot because fortnite is better but minecraft is awesome"
+        - "babyshark hit or miss I guess they never miss huh"
+        - "list"
+      music: "music"
+    randomsam:
+      description: "ayy lmao, this is SAM boi. Show random memes from South America Memes's page on Instagram."
+    randomtiktok:
+      description: "Are you bored? Do you want to see people doing awkward things? So watch a random TikTok that maybe (seriously it has so many TikTok with no funny, sorry TikTokers!) it will cheer up your day!"
+      noTikTokFound: "No TikTok was found, maybe this is a bug!"
+    gabriela:
+      hasBadWord: "How rude! Why do you ask these questions to her?"
+    giveawaymenu:
+      description: "Menu of all the commands related to the giveaway system"
+      categoryTitle: "Giveaways"
+      categoryDescription: "Commands related to my giveaway system!"
+    giveaway:
+      description: "Everyone loves giveaways! Create giveaways in your server so that your members can have fun trying to win. (Observation: I'm not responsible if someone claims it is rigged)"
+      giveawayValidCustomMessage: "You have set a custom message for the giveaway!"
+      giveawaySetupCancelled: "Giveaway setup cancelled..."
+      giveawayName: "What is going to be given away? (Something like... `eternal happiness`, as example)"
+      giveawayDescription: "What will the giveaway description be? (Give some information about the giveaway! Like... `someone lucky is going to win eternal happiness!`)"
+      giveawayDuration: "How long will the giveaway last? (`5 minutes`, `1 hour 30 minutes`, `7 days`, etc)"
+      giveawayReaction: "Which emoji will be used in the giveaway reactions?"
+      giveawayChannel: "In which channel will the giveaway be held?"
+      giveawayWinnerCount: "How many winners will the giveaway have? (You can set any amount from 1 to 20 people!)"
+      giveawayDoYouWantAutomaticRole: "Do you want the winner(s) to earn a role automatically? (Imagine... You could give a role such as `bribed to win the giveaway` automatically to them!)"
+      giveawayMentionRoles: "Which roles will be given to who wins the giveaway?"
+      giveawayNoValidRoles: "No valid role was found! Are you sure you wrote the name correctly?"
+      giveawayCantInteractWithRole: "I don't have permissions to give the {0} role!"
+      giveawayCantYouInteractWithRole: "You cant interact with the {0} role!"
+      noWinner: "No one participated in the giveaway... As no one participated, can I get the giveaway prize?"
+      oneWinner: "Congratulations to {0} on winning the {1} giveaway"
+      multipleWinners: "Congratulations to the winners for the {0} giveaway!"
+      giveawayEnded: "Giveaway closed! Thanks to everyone that participated!"
+    giveawayend:
+      description: "\"My God, the giveaway will take too long to end!\" you exclaim, with a desperate tone, \"Lori help me, my members will be angry if I have to do another giveaway!\". Finish it earlier, to avoid the horde of members complaining that you put the wrong time!"
+      giveawayInvalidArguments: "You did not link a giveaway message! You can copy the message link by the actions menu on the message (by right clicking on it, clicking on the menu or holding the message with your finger), in the same place where you can delete and pin messages. For your reference, a link to a message looks like this: {0}"
+      giveawayHowToReroll: "{0}giveaway reroll {1}"
+      giveawayDoesNotExist: "The giveaway you asked for does not exist. See if you got the giveaway message link and try again!"
+      giveawayAlreadyEnded: "The giveaway you tried to finish... well, it's ended! If you are looking to get new winners, use {0}"
+      channelDoesNotExist: "The giveaway channel does not exist!"
+      messageDoesNotExist: "The giveaway message does not exist!"
+      finishedGiveaway: "Ready! I finished the giveaway you asked for, now you can rest without having to endure the horde of members shouting \"You created the giveaway with wrong time!\""
+    giveawayreroll:
+      description: "Sometimes your giveaways fall on those users who don't \"deserve\" to win, so you can ask me to roll the dice again and pick up new winners!"
+      giveawayHowToEnd: "{0}giveaway end {1}"
+      giveawayStillRunning: "The giveaway you tried to roll new winners... well, it's still rolling! If you are looking to end the giveaway, use {0}"
+      rerolledGiveaway: "Ready! I rolled new winners for the giveaway you asked for, now you can rest without having to make that fake smile just because the member you hate has won."
+    ship:
+      newCouple: "Hmmm, do we have a new couple here?"
+      bribeLove: "Did you know that you can bribe the oracle of love to modify the ship value between you and another person? {0}"
+      value90:
+        - "😍 %ship% Both love each other! 😍"
+        - "💗 %ship% The perfect couple? Impossible! 💗"
+        - "☠ %ship% Not even death can take it apart! 😂"
+        - "😋 %ship% this couple is more perfect than me😋"
+        - "😚 %ship% Couple? Couple anything, they are married 😘"
+      value80:
+        - "😏 %ship% But these two have known each other for a long time... 😏"
+        - "😊 %ship% Of course these two are a beautiful couple! 😊"
+        - "😜 %ship% Couple more stikyer than Despacito?😜"
+        - "😄 %ship% If these two werent dating I would be surprised! 😄"
+      value70:
+        - "🙂 %ship% I foresee a cute couple forming!🙂"
+        - "😄 %ship% Just needs a little more conversation to roll! 😜"
+        - "😊 %ship% These two were made for each other 😊"
+        - "😄 %ship% Yeah! 😄"
+      value60:
+        - "🙂 % ship% If% user% stopped being a little shy .. 😏"
+        - "😊 %ship% There are some compatible interests there 😊"
+        - "🙂 %ship% I approve this couple! 🙂"
+        - "😄 %ship% Yeah! 😄"
+      value50:
+        - "😶 %ship% Friends... But maybe 😏"
+        - "😊 %ship% Maybe... Just need to %user% want it 😶"
+        - "😶 %ship% i want to see this couple working 😶"
+      value40:
+        - "😶 %ship% Hm... maybe, I think... 🙁"
+        - "😶 %ship% Nothing is impossible, but... 🙁"
+        - "😶 %ship% If both want, maybe it would work... But... 😶"
+      value30:
+        - "😕 %ship% i dont think this would be a good couple... 🙁"
+        - "😶 %ship% looks like they Just know each other... 😶"
+      value20:
+        - "😐 %ship% If just %user% hadn't left in the friendzone... 😐"
+      value10:
+        - "😐 %ship% i wish to say this was possible but... 😢"
+      value0:
+        - "😭 %ship% The possibilities of having this couple are almost impossible! 😭"
+    akinator:
+      description: "Akinator is able to read your mind and tell which character you are thinking about! Can you defeat him?"
+      question: "Question {0}"
+      isThisYourCharacter: "Is this the character that you are thinking about?"
+      akinatorWon: "Excellent! I won another time. I love playing this game with you! {0}"
+      akinatorLost: "Bravo! You were able to defeat me."
+      goBack: "Go back to previous question"
+      answers:
+        'yes': "Yes"
+        'no': "No"
+        probablyYes: "Probably yes"
+        probablyNot: "Probably not"
+        dontKnow: "I don't know"
+    roll:
+      description: "Rolls a dice and give its result, that''s perfect if you want to play Monopoly but you''re out of dices."
+      howMuchSides: "How many sides will the dice I roll have"
+      invalidBound: "I tried to roll the dice but... It's gone! I think it disappeared because you created an invalid dice... Tell me, how did you want me to roll it?"
+      tooMuchDices: "I tried to roll the dices but there are soooooo many that they didn't fit on my table and they fell to the floor and *poof*, it's gone! Please roll a maximum of 100 dices so that they do not fall again."
+      result: "rolled **{1}**... and got **{2}**!"
+    ratewaifu:
+      note10:
+        - "Simply perfect! I wouldn't change Waifu if I were you!"
+      note9:
+        - "A excellent Waifu, good choice"
+      note8:
+        - "A Waifu that hits every good spot in life."
+      note7:
+        - "Not every waifu are perfect, but what's the fun about living with a perfect person?"
+      note6:
+        - "If your Waifu's were a school grade she would be \"above average\""
+      note5:
+        - "Not too bad, not so good, it''s \"fine\""
+      note4:
+        - "Not that your Waifu is bad, on the contrary! It has the potential to be something more *interesting*!"
+      note3:
+        - "Your Waifu needs more substance."
+      note2:
+        - "Nothing personal, but if I was you, i would change my Waifu..."
+      note1:
+        - "No chance, change your Waifu now to ensure your sanity."
+      note0:
+        - "Change your Waifu please."
+      noteLoritta:
+        - "I''m perfect!"
+        - "I'm perfect, buddy!"
+        - "Search for \"perfection\" in a dictionary, you will find \"Loritta\""
+      notePollux:
+        - "A 10/10 friend, she is very cool and creative! (Seriously, have you seen what she can do? I'm even impressed! I'm even sad to see how beautiful her commands are and the things I do are like .... Kinda, ugly ...)"
+      notePantufa:
+        - "My best friend, Pantufinha is my childhood friend!\n."
+      noteTatsumaki:
+        - "One of my inspirations, I wouldn't change Waifu (and bot) if I were you! ... just don't replace me plz."
+      noteMantaro:
+        - "I never talked to Mantaro much, but I know that its creator is good people."
+      noteMee6:
+        - "One of my inspirations and one of Discord's oldest and most popular bots, I wouldn't change Waifu (or bot) if I were you! ... just don't replace me plz."
+      noteDyno:
+        - "One of my inspirations and one of the most popular bots in Discord's administration and event logging area, I wouldn't change Waifu (and not even bot) if I were you! ... just don't replace me plz."
+      noteMudae:
+        - "And you get characters, and you also get characters, and you get more characters... everyone deserves to collect characters!"
+      noteNadeko:
+        - "One of my inspirations and one of Discord's most customizable and popular bots, I wouldn't change Waifu (or bot) if I were you! ... just don't replace me plz."
+      noteUnbelievaBoat:
+        - "Many people love him due to his extremely extensive system of economics, and if I didn't give him 10/10, my capitalist spirit would be disapointed..."
+      noteChinoKafuu:
+        - "A cool bot with some cool functions"
+      noteGroovy:
+        - "The best music bot out there!"
+      noteLorrita:
+        - "Please learn to write my name correctly."
+        - "Do you need an ophthalmologist to learn to read my name correctly?"
+        - "Go back to school because you missed reading and writing classes."
+      result: "I rate `{1}` **{0}**! **{2}**"
+    flipcoin:
+      heads: "Head"
+      tails: "Tails"
+    cancelled:
+      description: "Your sister was canceled by Twitter activists! Ah, but what was the reason for the cancellation?"
+      wasCancelled: "{0} was cancelled by {1}"
+      reasons:
+        - "being too handsome"
+        - "Having too much charm"
+        - "For being an horible person"
+        - "for being hot"
+        - "for being a trash boy"
+        - "being communist"
+        - "mocking too much"
+        - "being too smart"
+        - "being average"
+        - "begging for attention"
+        - "for being cuckold"
+        - "for being hot"
+        - "for being cuckold"
+        - "for being nobody"
+        - "for being poser"
+        - "being unbearable"
+        - "be insensitive"
+        - "for doing nothing"
+        - "for being dumb"
+        - "always runing late"
+        - "being too impatient"
+        - "becoming Coronga"
+        - "being \"bv\""
+        - "being too lazy"
+        - "for being useless"
+        - "be in default in Serasa"
+        - "telling bad jokes"
+        - "for procrastinating too much"
+        - "because ir considers itself uncancelable"
+        - "being underage"
+        - "being old"
+        - "for being a friend of Felipe Neto"
+        - "lie to its folowers"
+        - "for forgetting to credit the artist"
+        - "called the person by the wrong pronounce"
+        - "voted on bolsonaro"
+        - "voted on Haddad"

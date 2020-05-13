@@ -1,0 +1,66 @@
+---
+website:
+  localePath: "us"
+  title: "Yet another Discord bot"
+  navbar:
+    support: "Support"
+    home: "Home"
+    dashboard: "Dashboard"
+    sponsors: "Sponsors"
+  antiAdblock:
+    title: "Please, disable the Adblock!"
+    pleaseDisable:
+      - "Yeah, I know... You don't like ads. And, who likes ads?"
+      - "But sadly I rely on ads to continue online, continuing online is neither cheap nor easy and, if people continue to block ads, maybe I will be offline forever..."
+      - "If you can disable your ad blocker, I'll be very grateful! I know it's boring to ask for, but it's the only way for me to continue online. I don't want to stop giving joy and fun to everyone who loves me..."
+      - "But if you don't want to, it's okay! I'll stop disturbing you asking for disable it. :)"
+    disabledAdblock: "Okay, I already disabled the Adblock!"
+    maybeLater: "Maybe later..."
+  footer:
+    sectionTitles:
+      resources: "Resources"
+      beyondLoritta: "Beyond Loritta"
+    sectionNames:
+      termsOfService: "Terms of Service"
+      privacyPolicy: "Privacy Policy"
+    allRightsReserved: "All rights reserved"
+    joinUsAndAddLoritta: "Join over 300,000 servers and add Loritta, the best bot for Discord!"
+  unsupportedBrowser:
+    - "You're using an unsupported browser, website features may not work properly!"
+    - "We recommend that you change from your browser to..."
+    - "Mozilla Firefox: {1}"
+    - "Google Chrome: {2}"
+    - "New Microsoft Edge: {3}"
+    - "For more info, join the Loritta's Discord Server and contact the support staff: {0}"
+  failedToLoadScripts:
+    - "Something gone wrong when loading Loritta website's JavaScript, website features may not work properly!"
+    - "Check if your browser is updated (recommended: Mozilla Firefox, Google Chrome or the New Microsoft Edge) and check if your browser doesn't have a malicious extension or if it isn't blocking external requests."
+    - "If the problem persists, join the Loritta's Discord Server and contact the support staff: {0}"
+  errorTracker:
+    somethingWentWrong: "Something went wrong..."
+    whatShouldIDo: "Unfortunately nothing is perfect... and apparently you found a problem on my website. Try reloading the page, updating your browser and, if the problem persists, join {0} and send the code below along with a short explanation of what you were doing at the time the error occurred, so the staff can analyze and fix the problem!"
+    sorryForTheInconvenience: "Sorry for the inconvenience, I hope I can fix this problem soon!"
+    mySupportServer: "my support server"
+    errorCodeId: "Error code ID: {0}"
+  empty: "Empty"
+  funnyEmpty:
+    - ", like my bank account"
+    - ", that is, not full"
+    - ", like the emptiness of my heart"
+    - ", a space devoid of entities"
+    - ", what about adding something here?"
+    - ", add something here!"
+    - ", an existential void"
+  error404:
+    title: "Huh, where's the page?"
+    description:
+      - "I swear to you she was here! I swear on my mother's soul... and... and on all that is most sacred in this world!"
+      - "..."
+      - "Oh, I don't know, the page is gone... maybe my friend's cat ate the page! I think the page tasted like pudding with a little bit of HTML tags. Hmm, delicious!"
+      - "So... Is too late to say sorry?"
+  userBanned:
+    title: "You are banned"
+    description:
+      - "It seems that the multiple warnings asking you to read the community guidelines weren't enough, huh?"
+      - "You are banned from using Loritta."
+      - "If you think the ban is incorrect (which I very much doubt it is!), join my support server to have the ban reevaluated."

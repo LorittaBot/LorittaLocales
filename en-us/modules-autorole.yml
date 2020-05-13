@@ -1,0 +1,7 @@
+---
+modules:
+  autorole:
+    giveRoleAfter: "After how much time the role will be given? (Seconds)"
+    giveOnlyAfterMessageWasSent:
+      title: "Give role after the user send any message on the server"
+      subtitle: "The roles will only be given after the user send a message in whichever text channel of your server. We recommend that you stay this enabled, then the user will need to follow the verification in your server, since users with roles can bypass verification levels of Discord."
