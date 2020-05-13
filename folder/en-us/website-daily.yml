@@ -1,0 +1,23 @@
+---
+website:
+  daily:
+    pleaseCompleteReCaptcha: "Please complete reCAPTCHA to receive your prize! When collecting the reward, information about your browser, your email and IP may be saved."
+    thisShouldNeverHappen: "This should never happen! But looks like it happened, whoops... Status code: {0}"
+    notLoggedIn: "You need to log into your Discord account before receiving your reward!"
+    alreadyReceivedDailyReward: "You already received your daily reward today! You can get it again {0}!"
+    blacklistedEmail: "You are using a potentially malicious email!"
+    blacklistedIp: "You are using a potentially malicious IP! If you are using VPNs or proxies, disable them before trying to get your reward!"
+    unverifiedAccount: "You haven't verified your Discord account yet! Please check your account email before picking up your reward!"
+    invalidReCaptcha: "invalid reCAPTCHA! Try reloading the page, switching browsers and, if you are using VPNs or proxies, disable before trying to get your reward!"
+    congratulations: "Congratulations! Today you won..."
+    youEarnedMoreSonhos: "You won x{0} more sonhos, thanks to..."
+    sponsoredStatus: "You would win {0} sonhos, but thanks to the sponsorship of {1} you won {2}!"
+    thankTheSponsor: "Thanks {0} for making you win {1} more sonhos than normal!"
+    comeBackLater: "Come back later!"
+    wantMoreSonhos: "Hey, do you want more sonhos to show off to other people? Then buy sonhos {0}!"
+    clickingHere: "clicking here"
+    alreadyReceivedPrizesWithTheSameIp: "It looks like you already received the daily prize today, if you didn't get it... This could mean that there are people with the same IP who also got the prize! If you promise me that you're not creating alternative/fake accounts to get the prize, go ahead, get the prize! If not, get out of here, if you don't... bad things will happen, so don't even try to transfer sonhos."
+    pleaseActivate2FA: "To get the prize, you need to enable two-steps authentication on your Discord account. To enable, go to your Discord account settings! (We recommend using Authy for authentication, if Discord is rejecting the authentication code, make sure the cell phone time is correct)"
+    leaderboard:
+      position: "Position"
+      name: "Name"
