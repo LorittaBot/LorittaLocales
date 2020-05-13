@@ -1,0 +1,17 @@
+---
+website:
+  dashboard:
+    profile:
+      sectionNames:
+        yourServers: "Seus Servidores"
+        profileLayout: "Layout do Perfil"
+        shipEffects: "Editar valores do Ship"
+        sonhosShop: "Lojinha de Sonhos"
+        logout: "Sair"
+        deleteAccount: "Deletar Conta"
+      deleteAccount:
+        deleteMyAccount: "Deletar a minha conta"
+        description:
+          - "Esta ação é irreversível! Todos os seus dados serão deletados e você irá perder tudo que você conseguiu na Loritta!"
+          - "Após confirmar, você não poderá reverter a ação. A ação irá deletar seu perfil, sonhos, keys de doador, lembretes, reputações, casamentos e muito mais, apenas delete seus dados caso você tenha realmente certeza do que está fazendo!"
+          - "Você terá que remover a Loritta de seus servidores manualmente e parar de utilizar comandos ou funções dela, ao utilizá-la novamente, ela poderá a guardar dados sobre você."
