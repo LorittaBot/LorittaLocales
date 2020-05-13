@@ -79,4 +79,5 @@ commands:
       ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
       ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
       ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+      success: "Chat limpo por {0}!"
       sucess: "Chat limpo por {0}!"
