@@ -69,3 +69,14 @@ commands:
     quickpunishment:
       enabled: "Quick punishments are now active! While punishing an user, I will not even ask if you really want to punish the user, it will punish without even caring about!... just don't complain to me after you punished someone you didn't mean to, okay?"
       disabled: "Quick punishments are now disabled! While punishing an user, you will need to confirm if you really want to punish that user or not... at least you can now avoid that remorse when punishing someone that didn't had to get that punishment."
+    clear:
+      description: "Limpa o chat do canal de texto atual."
+      examples:
+        - "10"
+        - "35 @MrPowerGamerBR"
+      invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
+      couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
+      ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
+      ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+      ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+      sucess: "Chat limpo por {0}!"
