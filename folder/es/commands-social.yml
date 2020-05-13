@@ -1,0 +1,34 @@
+---
+commands:
+  social:
+    youAreNotMarried: "A tua alma ainda não encontrou outra alma para passar o resto da vida com ela... Você só pode usar funcionalidades de pessoas casados após se {0} com alguém! {1}"
+    profile:
+      profileshop: "Compre novos perfis em {0}"
+    topreputation:
+      description: "Veja os usuários que deram, ou receberam, mais reputações!"
+      received: "recebidas"
+      given: "dadas"
+      receivedReputations: "{0} reputações recebidas"
+      givenReputations: "{0} reputações dadas"
+    bomdiaeciatop:
+      description: "Veja os usuários que venceram mais partidas do Bom Dia & Cia"
+      wonMatches: "Venceu {0} vezes o Bom Dia & Cia"
+    reputation:
+      reputationLink: "Quase pronto! Para dar a reputação, confirme ela em {0}"
+      success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"
+    divorce:
+      prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"
+      pleaseConfirm: "Caso você realmente tenha certeza que o casamento jamais irá dar certo, clique em {0}... eu irei te deixar em paz enquanto você pensa se realmente vale a pena fazer isso."
+      divorced: "Então é isso, foi uma aventura e tanto, né? ...calma! Não chore, eu sei que divorciar de alguém é triste... se você continuar a chorar, eu também irei... {0} Da próxima vez, ame alguém que realmente te mereça e que te respeite, e não qualquer pessoa por aí... Melhor estar sozinho e ser feliz, do que estar em um relacionamento ruim."
+    birthday:
+      description: "Altera a sua data de nascimento"
+      invalidDate: "Data de nascimento inválida! Lembre-se, a data precisa estar no formato `dia/mês/ano`!"
+      invalidDateYearTooOld: "Data de nascimento inválida! Eu dúvido que você tenha nascido nessa data, já tomou os remédios hoje, vovôzinho?"
+      invalidDateYearTooNew: "Data de nascimento inválida! Então... sabia que você precisa ter no mínimo 13 anos para poder utilizar o Discord? Está nos termos de uso e você pode ser suspenso do Discord caso você tenha menos que 13 anos!"
+      successfullyChanged: "Sua data de nascimento foi alterada com sucesso!"
+    rankglobal:
+      description: "Veja o ranking global de experiência!"
+    xpnotifications:
+      description: "Ativa ou desativa as notificações de level up via mensagem direta"
+      enabledNotifications: "Você ativou as notificações de level up via mensagem direta!"
+      disabledNotifications: "Você desativou as notificações de level up via mensagem direta!"
