@@ -1,0 +1,7 @@
+---
+modules:
+  twitch:
+    userName: "Verknüpfter Kanal"
+    channel: "Wo soll die Ankündigung gemacht werden wenn der Kanal auf Sendung geht?"
+    theMessage: "Live-Nachricht"
+    channelLink: "Verknüpfter Kanal"
