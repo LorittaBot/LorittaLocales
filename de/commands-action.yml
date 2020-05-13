@@ -1,0 +1,28 @@
+---
+commands:
+  actions:
+    clickToRetribute: "Klick auf {0} um dich zu revanchieren!"
+    examples:
+      - "297153970613387264"
+      - "@MrPowerGamerBR"
+    slap:
+      description: "Verwende diesem Befehl, um jemandem eine bildliche Ohrfeige zu verpassen"
+      response: "** {0} schlug {1}! **"
+      responseAntiIdiot: "** Wie schaffst du es nur, nachts ruhig ui schlafen, nachdem du versucht hast, ein kleines Mädchen zu schlagen? ** {0} hat dir rechtmäßig eine verpasst {1}!"
+    kiss:
+      description: "Verwende diesem Befehl, um jemandem bildlich zu küssen"
+      response: "**{0} küsst {1}!**"
+      responseAntiIdiot: "Nein, ich möchte dich nicht küssen... mag ich dich aber immer noch als Freund!"
+    attack:
+      description: "Verwende diesen Befehl, um jemanden anzugreifen"
+      response: "**{0} greift {1} an!**"
+      responseAntiIdiot: "**Wie kannst du es wagen, mir das anzutun? ** {0} griff {1} an!"
+    hug:
+      description: "Verwende diesen Befehl, um jemandem bildlich zu umarmen"
+      response: "** {0} umarmte {1}! **"
+    dance:
+      description: "Verwende diesen Befehl, um mit jemandem bildlich zu tanzen"
+      response: "**{0} tanzte mit {1}!**"
+    headpat:
+      description: "Kuschle mit jemandem"
+      response: "**{0} hat {1} durcheinander gebracht!**"
