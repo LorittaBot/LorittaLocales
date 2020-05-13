@@ -1,0 +1,34 @@
+---
+commands:
+  social:
+    youAreNotMarried: "Your soul still didn't found another soul to spend the rest of your life with... You can only use features of married couples after {0} someone! {1}"
+    profile:
+      profileshop: "Buy new profiles in {0}"
+    topreputation:
+      description: "Look all the users who have given, or received more reputations!"
+      received: "received"
+      given: "given"
+      receivedReputations: "{0} received reputations"
+      givenReputations: "{0} given reputations"
+    bomdiaeciatop:
+      description: "See the users who won the most matches of Bom Dia & Cia"
+      wonMatches: "Won Bom Dia & Cia {0} times"
+    reputation:
+      reputationLink: "Almost ready! To give the reputation, confirm it at {0}"
+      success: "{0} has given a reputation to {1}, now {5} has **{2} reputations**! You want to give a reputation too? {3} {4}"
+    divorce:
+      prepareToDivorce: "So it looks like your marriage didn't work out... All right, we all make mistakes in life, life after life, right? {0}"
+      pleaseConfirm: "If you're really sure the marriage will never work out, click {0}... I'll leave you alone while you think if it's really worth it."
+      divorced: "So that's it, that was quite an adventure, huh? ...easy! Don't cry, I know divorcing someone is sad... if you keep crying, I'll go too... {0} Next time, love someone who really deserves you and respects you, and not just anyone out there... Better to be alone and be happy, than to be in a bad relationship."
+    birthday:
+      description: "Change your birthday date"
+      invalidDate: "Invalid date of birth! Remember, the date must be in the `day/month/year` format!"
+      invalidDateYearTooOld: "Invalid date of birth! I doubt you were born on that date, have you taken your medication today, Grandpa?"
+      invalidDateYearTooNew: "Invalid date of birth! So... did you know that you have to be at least 13 years old to use Discord? It's under the terms of use and you can be suspended from Discord if you're under 13!"
+      successfullyChanged: "Your birthday date has been successfully changed!"
+    rankglobal:
+      description: "See the global experience ranking!"
+    xpnotifications:
+      description: "Enables or disables level up notifications via direct message"
+      enabledNotifications: "You have activated the level up notifications via direct message!"
+      disabledNotifications: "You have deactivated level up notifications via direct message!"
