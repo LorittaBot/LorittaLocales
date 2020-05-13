@@ -1,0 +1,28 @@
+---
+commands:
+  actions:
+    clickToRetribute: "¡Haga clic en {0} para corresponder!"
+    examples:
+      - "297153970613387264"
+      - "@MrPowerGamerBR"
+    slap:
+      description: "Use este comando si alguien merece ser abofeteado"
+      response: "** {0} abofeteó {1}! **"
+      responseAntiIdiot: "** ¿Cómo puedes dormir por la noche después de intentar golpear a una niña como yo? ** {0} abofeteó {1} bien merecido!"
+    kiss:
+      description: "Usa este comando para besar alguien"
+      response: "**{0} besó {1}!**"
+      responseAntiIdiot: "No, no quiero besarte... ¡pero todavía me gustas como amigx!"
+    attack:
+      description: "Usa este comando para atacar a alguien"
+      response: "**{0} atacó {1}!**"
+      responseAntiIdiot: "**Cómo te atreves a intentar hacerme esto? **{0} atacado {1}!"
+    hug:
+      description: "Usa este comando para darle un abrazo a alguien"
+      response: "**{0} abrazó {1}!**"
+    dance:
+      description: "Usa este comando para bailar con alguien"
+      response: "**{0} bailó con {1}!**"
+    headpat:
+      description: "Úselo para mimar a alguien"
+      response: "**{0} acarició {1}!**"
