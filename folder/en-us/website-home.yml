@@ -1,0 +1,65 @@
+---
+website:
+  genericDescription: "Hello, my name is Loritta! Just a simple Discord bot with unique features you've never seen before! Made for entertainment, moderation, to help you in day-to-day life and more!"
+  lorittaWebsite: "Loritta's Website"
+  jumbotron:
+    hello: "Howdy, my name is"
+    tagline: "Yet another Discord bot"
+    addMe: "Add me!"
+    moreInfo: "Learn More"
+    viewMoreFeatures: "View more features"
+    dashboard: "Dashboard"
+  home:
+    intro:
+      title: "Turn your server into a wonderful place"
+      everyServer: "All Discord servers has the same problems."
+      membersWant: "Members want entertainment, moderators want automation... and you just want to rest."
+      itIsThatEasy: "Making your server unique and extraordinary has never been easier!"
+      description:
+        - "Your life is too precious to spend your time with useless junk, let me take care of the boring parts while you have fun on your server!"
+        - "With social and funny features to entertain and engage its members, moderate features to keep your server always safe and pleasant, and with an easy way to configure but with unparalleled customization power..."
+        - "And all thanks to a 16 year old girl wanting to make the world a better place!"
+    trust:
+      title: "Many people like me!"
+    funnyCommands:
+      title: "Making your server more entertaining"
+      description:
+        - "One of my biggest goals is to make you (and your server members) happier, even if it''s just a small smile on your face."
+        - "That is why I have several different and funny commands for you to have fun and laugh with them! How avaliarwaifu, who scores his waifu; faustão, which invokes our dear Faustão on his server to remember his classic phrases; ship, which allows you to ship two users of your server; stump, to destroy someone in the Gugu Gaiteiro style; tretanews, for you to create a \"no clickbait\" ™ video with members of your server and several other fun and funny commands!"
+    chitChat:
+      title: "Boost conversations on your server"
+      description:
+        - "Encourage users to chat on your server by giving them experience points while they discuss and chat on your server! By gaining experience, you can reward active users with roles and awards."
+        - "To stay competitive, you and your server members can see your server's most active users rank, will you be able to get to the top?"
+    music:
+      title: "Music"
+      description:
+        - "Make some noise with your server members! Listen and share your favorite songs on your server with your friends, chatting while you and your friends listen to your favorite songs."
+        - "With my extremely customizable music system you can allow playlists, set the maximum length of songs, put automated songs and much more! Your experience to listen to your favorite music on your server has never been the same, with great quality and management!"
+    moderation:
+      title: "Moderation"
+      description:
+        - "Let's start something new. With your own moderation settings, make your server awesome. Tired of banning, warning or kicking manually somebody that broke the rules? Leave it with me, while you are away, any person that break the rules, will be banned automatically."
+        - "See how everything is much more easier when there's teamwork?"
+    notify:
+      title: "Digital Influencers: Your fans will never miss new content!"
+      description:
+        - "Telling your fans that you''ve uploaded something new is tiring and annoying... You want to use your time to be productive and make content bigger and better for your fans but most of the time is spent just to be reminding your fans that you made new content, as some social networks think they know more about what their fans like and want to receive than their own fans..."
+        - "Avoid such problems, I'll even see your YouTube channel, Twitch channel, Twitter, Amino community, RSS feeds, and several other places to see if you've done something new! Focus on your progress, I'll take care of notifying your fans."
+    customization:
+      title: "Customization"
+      description:
+        - "Each server is unique, having different demands and needs. You want a server that is your vision of a perfect server in Discord, after all, it's your place on the internet, it needs to be perfect!"
+        - "That's why I have an intuitive configuration and administration panel where you can modify a huge variety of features to make your server the way you always dreamed of. Modify me as you please, tailoring me to your preferences and needs!"
+    community:
+      title: "Community"
+      description:
+        - "And, of course, I could not forget to mention the people who like what I do!"
+        - "Amazing people, they make incredible and beautiful art of me (they are on the fanarts page, go check them out and enjoy!), donate so I can buy pudding and they are nice with me! They even made a Loritta''s Fan Club (...in my Apartment! Right inside of it! I also like some personal space, okay?)"
+        - "Also I can not forget the incredible people on my Discord server, where everyone is welcome! There you can talk about everything, about me, report mistakes that should be corrected, make some cool suggestions for me or even chit chat about your life!"
+    muchMore:
+      title: "And so much more!"
+    makeItAwesome:
+      title: "Let's turn your server into an incredible place, together."
+    thankYou:
+      title: "Thank you all!"
