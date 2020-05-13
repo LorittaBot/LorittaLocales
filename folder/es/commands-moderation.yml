@@ -1,0 +1,71 @@
+---
+commands:
+  moderation:
+    youGotPunished: "Estabas {0} de {1}"
+    punishedBy: "Castigado por"
+    punishedLog: "Castigado por {0} - \nMotivo: {1}"
+    punishmentReason: "Razon"
+    cantDeleteMessagesMoreThan7Days: "Lo sentimos, Discord no me permite eliminar los mensajes enviados hace más de 7 días al prohibir a un usuario!"
+    cantDeleteMessagesLessThan0Days: "Los sentimos, ¡pero es imposible eliminar los mensajes enviados hace menos de 0 días! (¿Y cómo funcionaría eso? ¿Se eliminarán en el futuro los mensajes que aún no se aún no se hayan enviado desde el usuario?)"
+    roleTooLow: "No puedo castigar a este usuario, ¡mi posición es menor que la del usuario que se va a castigar!"
+    roleTooLowHowToFix: "Para poder castigar, subir mi trabajo a la parte superior de la lista e trabajos, ¡gracias!"
+    punisherRoleTooLow: "No puede castigar a este usuario, su posición es menor que la del usuario a ser castigado!\n"
+    punisherRoleTooLowHowToFix: "Para que pueda castigar, suba su posición a la parte superior de la lista de posiciones, gracias!"
+    successfullyPunished: "Usuario castigado\n¡Nadie te dijo que rompieras las reglas, tonto!"
+    readyToPunish: "¡Está a punto de {0} {1} (`{2}` - `{3}`) de su servidor! Para confirmar, haga clic en ✅"
+    silentTip: "Psico, ¿quieres castigar sin que la víctima reciba el castigo por mensaje directo y sin aparecer en el canal de castigo? Luego haz clic en 🙊!\n"
+    skipConfirmationTip: "¿Cansado de confirmar tus castigos? ¡Luego use {0} para eludir las confirmaciones de castigo, para que pueda sentir la satisfacción de desterrar a ese usuario molesto mientras está escribiendo un texto para maldecirlo!"
+    setPunishmentTime: "¿Cuándo querrás que elimine el castigo del usuario? (`1 hora`,` 5 minutos`, `12:00 08/11 / 2018`, etc.). Si quieres que el castigo sea permanente, haz clic en 🔄!"
+    reports:
+      pleaseReportToDiscord: "Aparentemente castigaste a un usuario por {0}. Esto va en contra de los términos de uso de Discord, le recomiendo que informe al usuario al equipo de Trust & Safety para que pueda revisar y suspender al usuario. Hagamos de Discord un lugar mejor juntos. {1} {2}"
+      raidReport: "Incursión (varios usuarios envían mensajes en secuencia para llenar el chat con mensajes)"
+      nsfwReport: "Contenido NSFW (contenido NSFW en canales normales o avatares con contenido NSFW)"
+      pleaseReportUrl: "https://l.lori.fun/trust-and-safety-es"
+    ban:
+      punishAction: "Prohibido"
+      punishName: "prohibir"
+    kick:
+      punishAction: "Prohibir"
+      punishName: "expulsar"
+    unban:
+      punishAction: "Abatido"
+      punishName: "deshacer"
+      userIsInTheGuild: "Sé que es genial tener esa sensación de felicidad que tienes cuando golpeas a alguien, pero... ¡el usuario que intentaste ganar ya está en el servidor!"
+      successfullyUnbanned: "¡Allí, el usuario ha sido excluido! Solo espero que no vuelva a romper las reglas."
+    warn:
+      punishAction: "Advertido"
+      punishName: "advertir"
+    unwarn:
+      punishAction: Eliminado una advertencia
+      punishName: "retirar una advertencia"
+      noWarnsFound: "¡El usuario no tiene advertencia para que lo elimine! Oye, ¿sabías que puedes ver la lista de advertencias de un usuario con {0}?"
+      warnRemoved: "¡Allí, el usuario ha eliminado una advertencia! ¿Qué tal si lee las reglas del servidor antes de que tenga que ser castigado nuevamente?"
+    dashboard:
+      description: "Envia el link del Dashboard para agregar/configurar a Loritta"
+    renamechannel:
+      description: "Renombra los canales de texto con espacio (también puedes cambiar el nombre de los canales de voz)"
+      successfullyRenamed: "Canal renombrado con éxito!"
+      channelNotFound: "Canal no encontrado! (¡Intenté buscar el nombre del canal, la ID y la mención del canal y no encontré nada!)"
+      channelConflict: "¡Hay dos canales con el mismo nombre (o similar) con diferentes tipos, intente usar la ID (o la mención del canal) en lugar de usar el nombre del canal!"
+      cantRename: "No pude cambiar el nombre del canal..."
+    mute:
+      punishAction: "Silenciado"
+      punishName: "silencio"
+      duration: "Duración"
+      forever: "Permanente"
+      negativeTime: '¡El tiempo que me pasaste ahora está en el pasado! Tal vez sea un viajero en el tiempo (si es así, ¡dígame si soy famoso en el futuro!) O el tiempo que tardé en recibir su mensaje fue más largo que el tiempo que quería silenciar al usuario... De odos modos manera, disculpe las molestias.'
+      roleName: "Silenciado"
+    lock:
+      description: "Impide que los usuarios hablen en el canal de texto donde se ejecutó el comando"
+      denied: "¡Canal bloqueado con éxito! ¡Usa `{0} unlock` para desbloquear!"
+    unlock:
+      description: "Desbloquee a los usuarios para que no hablen en el canal de texto donde se ejecutó el comando"
+      allowed: "¡Canal desbloqueado con éxito! ¡Use `{0} lock` para bloquear!"
+    unmute:
+      punishAction: "Silencio eliminado"
+      punishName: "quitar silencio"
+      successfullyUnmuted: "El usuario ha aprendido a hablar de nuevo, ¡espero que esta vez diga cosas interesantes y geniales para que no vuelva a ser silenciado!"
+      automaticallyExpired: "Después de un largo tiempo de silencio... ¡el usuario finalmente aprendió a hablar de nuevo! ¡Espero que esta vez diga cosas interesantes y geniales para que no vuelva a ser silenciado!"
+    quickpunishment:
+      enabled: "¡Se han activado los castigos rápidos! Al castigar a un usuario, ni siquiera te preguntaré si realmente quieres castigar al usuario, ¡lo harás directamente y sin piedad! ... simplemente no te quejes después de que no quieras castigar a ese usuario, ¿de acuerdo?"
+      disabled: "¡Se han deshabilitado los castigos rápidos! Al castigar a un usuario, tendrá que confirmar si realmente desea castigarlo o no... al menos de esa manera evitará ese remordimiento castigando a alguien que no debería haber recibido ese castigo."
