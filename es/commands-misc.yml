@@ -1,0 +1,17 @@
+---
+commands:
+  misc:
+    donate:
+      howToHelp: "!Gracias por querer ayudarme a conectarme!{1}\nSin sua ayuda no podría conectarme en línea (Después de todo, sin dinero = sin alojamiento pra que me conecte en línea {2})\nDonar es simple y fácil! Simplemente [acceda a la página de donaciones en mi sitio web]({0})  !allse muestran todos los beneficios que puede recibir al donar! {3}"
+    help:
+      lorittaHelp: "Ayuda de Loritta"
+      intro:
+        - "Hola, mi nombre es Loritta (o para los amigos más cercanos, \"Lori\") Y ¡soy un simple bot para Discord!"
+        - "Com funcionalidades sociais e engraçadas para entreter e engajar seus membros, funcionalidades moderativas para manter o seu servidor sempre seguro e agradável, e com uma maneira fácil de configurar mas com um poder inigualável de customização..."
+        - "E tudo graças a uma garotinha de 16 anos querendo transformar o mundo em um lugar melhor!"
+      commandList: "Lista de comandos"
+      supportServer: "¿Tienes dudas? Pregunte en mi servidor de soporte!"
+      addMe: "Panel de control:! El lugar para agregarme y configurar su servidor!"
+      donate: "¡Ayúdame a estar en línea!"
+      blog: "Mi blog"
+      guidelines: "Diretrizes da Comunidade"
