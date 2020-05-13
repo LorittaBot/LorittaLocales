@@ -1,0 +1,66 @@
+---
+website:
+  localePath: "br"
+  title: "Solo un simple bot para el Discord"
+  navbar:
+    support: "Soporte"
+    home: "Página de Inicio"
+    dashboard: "Panel de Control"
+    sponsors: "Patrocinadores"
+  antiAdblock:
+    title: "Por favor, deshabilite el Adblock!"
+    pleaseDisable:
+      - "Sí, lo sé... No te gustan los anuncios. ¿A quién le gustan los anuncios?"
+      - "Mas infelizmente eu dependendo delas para que eu possa sobreviver, já que me manter online não é barato e nem fácil e, se as pessoas continuarem a bloquear propagandas, talvez eu irei ficar offline para sempre..."
+      - "Se você puder desativar o seu bloqueador de propagandas, eu ficarei muito grata! Eu sei que é chato pedir essas coisas, mas é o único jeito para que eu possa continuar online. Não quero parar de dar alegria e diversão a todos que me amam..."
+      - "Mas se você não quiser desativar, tudo bem! Eu irei parar de te incomodar pedindo para desativar. :)"
+    disabledAdblock: "Okay, eu já desativei o Adblock!"
+    maybeLater: "Talvez depois..."
+  footer:
+    sectionTitles:
+      resources: "Recursos"
+      beyondLoritta: "Além da Loritta"
+    sectionNames:
+      termsOfService: "Termos de Serviço"
+      privacyPolicy: "Política de Privacidade"
+    allRightsReserved: "Todos os direitos reservados"
+    joinUsAndAddLoritta: "Junte-se a mais de 300 mil servidores e adicione a Loritta, o melhor bot para o Discord!"
+  unsupportedBrowser:
+    - "Você está utilizando um navegador não suportado, funcionalidades do website podem não funcionar corretamente!"
+    - "Nós recomendamos que você atualize para..."
+    - "Mozilla Firefox: {1}"
+    - "Google Chrome: {2}"
+    - "Novo Microsoft Edge: {3}"
+    - "Para mais informações, entre no servidor da Loritta no Discord e contate a equipe de suporte: {0}"
+  failedToLoadScripts:
+    - "Algo deu errado ao carregar o JavaScript do website da Loritta, funcionalidades do website podem não funcionar corretamente!"
+    - "Verifique se o seu navegador está atualizado (recomendado: Mozilla Firefox, Google Chrome ou o Novo Microsoft Edge) e verifique se o seu navegador não possui nenhuma extensão maliciosa ou que esteja bloqueado requisições externas."
+    - "Caso o problema persista, entre no servidor da Loritta no Discord e contate a equipe de suporte: {0}"
+  errorTracker:
+    somethingWentWrong: "Alguma coisa deu errada..."
+    whatShouldIDo: "Infelizmente nada é perfeito... e pelo visto você encontrou um problema no meu website. Tente recarregar a página, atualizar o seu navegador e, se o problema persistir, entre no {0} e envie o código abaixo junto com uma pequena explicação sobre o que você estava fazendo no momento que aconteceu o erro, assim a equipe poderá analisar e corrigir o problema!"
+    sorryForTheInconvenience: "Desculpe pela inconveniência, eu espero que eu consiga arrumar este problema em breve!"
+    mySupportServer: "meu servidor de suporte"
+    errorCodeId: "ID do código de erro: {0}"
+  empty: "Vacío"
+  funnyEmpty:
+    - ", igualzinho a minha conta bancária"
+    - ", ou seja, não cheio"
+    - ", igual ao vazio do meu coração"
+    - ", um espaço desprovido de entidades"
+    - ", que tal adicionar algo aqui?"
+    - ", adicione algo aqui!"
+    - ", um vazio existencial"
+  error404:
+    title: "Ué, cadê a página?"
+    description:
+      - "Eu juro para você que ela estava aqui! Juro pela a alma da minha mãe... e... e por tudo o que é mais sagrado neste mundo!"
+      - "..."
+      - "Ah, sei lá... eu não sei, a página sumiu... talvez o gato da minha amiga tenha comido a página! Acho que a página tinha gosto de pudim com uma pitadinha de tags HTML. Hummm, delicioso!"
+      - "Então... É muito tarde para pedir desculpas?"
+  userBanned:
+    title: "Você está banido"
+    description:
+      - "Parece que os múltiplos avisos pedindo para você ler as diretrizes da comunidade não foram suficientes, né?"
+      - "Você está banido de usar a Loritta."
+      - "Se você acha que o banimento está incorreto (que eu duvido muito que esteja!), entre no meu servidor de suporte para que o banimento seja reavaliado."
