@@ -1,0 +1,9 @@
+---
+website:
+  dashboard:
+    owner: "Dueño"
+    administrator: "Administrador"
+    manager: "Gestiona"
+    member: "Miembro"
+    addLori: "Agregar a Lori"
+    configureLori: "Configurar Lori"
