@@ -1,0 +1,48 @@
+---
+commands:
+  economy:
+    transactions:
+      description: "See all the transactions you sent and received!"
+      title: "Your Transactions"
+      otherUserTransactions: "Transactions from {0}"
+      sentMoneySonhos: "Sent {0} sonhos to {1}"
+      receivedMoneySonhos: "Received {0} sonhos from {1}"
+      sentMoneySonhosTax: "Paid {0} sonhos in transaction fees"
+      genericReceived: "Received {0} sonhos from {1}"
+      genericSent: "Sent {0} sonhos to {1}"
+      types:
+        bomDiaECia: "Bom Dia & Cia"
+        profile: "profile"
+        shipEffect: "ship effects"
+        marriage: "wedding"
+        marriageTax: "marriage fees"
+        daily: "daily"
+        nitroBoostBonus: "Nitro Booster bonus"
+        raffle: "loraffle"
+        garticosTransfer: "garticos transfer"
+        background: "background purchases"
+        sparklypower: "SparklyPower"
+        inactiveDailyTax: "daily inactivity fees"
+        coinFlipBet: "bet of sonhos flipping a coin"
+    raffle:
+      lastWinner: "Last winner: {0} ({1} Sonhos; {2} Final Prize)"
+    scratchcard:
+      description: "Feeling lucky? Buy a scratch card from Loritta. Maybe if you have great luck, you can double or even quadruplicate your sonhos amount!"
+    scratchcardtop:
+      description: "See the users who got more sonhos in the scratch card minigame!"
+      wonTickets: "{0} sonhos / {1} tickets"
+    pay:
+      selfAccountIsTooNew: "Wait a second, your account is too new! To be able to transfer sonhos you need to wait {0} days before you can start transferring sonhos."
+      otherAccountIsTooNew: "I know that sometimes is cool to help others... but {0} created the account not too long ago! You need to wait {1} days before {0} be able to start receiving sonhos."
+      selfAccountNeedsToGetDaily: "Looks like you didn't got your today's daily, you can only send sonhos after you get your daily. What about getting it right know? {0}"
+      otherAccountNeedsToGetDaily: "Looks like {0} didn't get today's daily, {1} can only receive sonhos after getting daily. What about getting it right now? {2}"
+      maxDailyPaymentReached: "You reached {0} sonhos transaction limits in the last 24 hours. To be able to transfer more sonhos, upgrade to the full plan! {1}"
+      cantTransferZeroWithTax: "According to my math and with transaction fees, you would sent... zero sonhos! How will you send zero sonhos? Wanna pay taxes to help to sustain LorittaLand, dummy?"
+    flipcoinbet:
+      description: "The classic \"Flip a coin and see if gets heads or tails!\", but now involving sonhos! I'm not responsible if you lose it all in bets"
+      startBet: "{0}, {1} wants to bet with you! If it gets **{2}**, you will win **{3} sonhos**. But if it gets **{4}**, {1} will get **{3} sonhos**! So, are you gonna face it?"
+      congratulations: "Congratulations {0}, you won **{1} sonhos**! Funded by {2} xD"
+      notEnoughMoneySelf: "How are you going to bet a quantity you don't have? Bet less if you don't want to bet something you don't have!"
+      notEnoughMoneyInvited: "{0} doesn't have enough sonhos for betting..."
+      zeroMoney: "Wow, so cool! You will bet *nothing*, impressive!"
+      cantBetSelf: "How are you going to bet with yourself? In the end you will get... uh... nothing!"
