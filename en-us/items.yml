@@ -12,6 +12,7 @@ sets:
   lowPoly: "Low Poly"
   landscapes: "Landscapes"
   sonic: "Sonic the Hedgehog"
+  jojo: "JoJo's Bizarre Adventure"
 backgrounds:
   defaultBlue:
     title: "Blue background"
@@ -208,6 +209,9 @@ backgrounds:
   wumpusLeaf:
     title: "Leaf on Wumpus"
     description: "So innocent... yet so pure."
+  wumpusMovie:
+    title: "Movie with Wumpus"
+    description: "Sit and relax"
   #===[ DOGE ]===
   dogeWolf:
     title: "wow, wolfs, good looking moon"
@@ -243,6 +247,36 @@ backgrounds:
   stevenPizza:
     title: "Pizza in your face"
     description: "Pizzas are delicious"
+  stevenUniverseBeach:
+    title: "Beach's Beach City"
+    description: "A stage for great events and an unforgettable brand of Beach City"
+  crystalGemsTemple:
+    title: "Sun afternoon at the Crystal Temple"
+    description: "Landscape of the Crystal Temple on a sunny day"
+  stevenUniverseBigDonut:
+    title: "Big Donut"
+    description: "The view from the sweetest place in Beach City!"
+  stevenUniverseOceanTemple:
+    title: "Navy Altar"
+    description: "Far from the surface, a magical construction gems the bottom of the sea"
+  stevenUniverseLunarSeaTemple1:
+    title: "Lunar Sea Tower"
+    description: "Like an oasis for the gems on earth"
+  stevenUniverseLunarSeaTemple2:
+    title: "Lunar Sea Tower"
+    description: "This tower is big, it must be complicated to climb it, but when you get up there, it must hide a single vision!"
+  stevenUniverseLunarSeaTemple3:
+    title: "Lunar Sea Tower"
+    description: "Oh if you could only imagine, we came from beyond the sun, all the way here!"
+  stevenUniverseMaskIsland:
+    title: "Mask Island"
+    description: "The faraway island where several magical creatures live"
+  stevenUniverseSparkles:
+    title: "Infinite Universe"
+    description: "It may seem like an empty place, but it's full of dreams..."
+  stevenUniverseFutureEnemies:
+    title: "O futuro nos aguarda"
+    description: "O nosso trabalho é constante, e mesmo no futuro, devemos lembrar de quem nós fomos no passado."
   #===[ AKIRA ]===
   kanedaBikeSkid:
     title: "Kaneda"
@@ -285,6 +319,10 @@ backgrounds:
   lowPolyRocket:
     title: "Low Poly Rocket"
     description: "Prepare to take off"
+  #===[ JOJO ]===
+  dioBrando:
+    title: "Me Dioooo"
+    description: "Jonathan Joestar accuses Dio Brando of poisoning his father"
   #===[ MISC ]===
   porsche911Carrera:
     title: "Porsche 911 Carrera"
@@ -469,3 +507,15 @@ backgrounds:
   stardustSpeedwayAct2:
     title: "Stardust Speedway Act 2"
     description: "Ha ha ha"
+  furryFright:
+    title: "Fear of Furries"
+    description: "\"Woah, what's with the weird big dog?\""
+  konoha:
+    title: "Afternoon of Konoha"
+    description: "\"I'll never give up, Sasuke. I'll stop you, even if I have to break all your bones.\""
+  dollynhoMarshmallow:
+    title: "Dollynho with Marshmallow"
+    description: "Best combination"
+  easterStar:
+    title: "Easterland"
+    description: "Where the Easter eggs are?"
