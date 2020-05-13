@@ -1,0 +1,9 @@
+---
+modules:
+  moderation:
+    title: "Moderation"
+    specificMessagesForPunishment:
+      title: "Mensagens específicas para cada punição"
+      description:
+        - "Você pode escolher mensagens diferentes para cada tipo de punição, assim colocando o seu charme em cada tipo de punição!"
+      messageThatWillBeShown: "Mensagem que será mostrada ao ser {0}"
