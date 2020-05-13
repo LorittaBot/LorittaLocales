@@ -4,7 +4,7 @@ modules:
     general: "Configuraciones generales"
     moderation: "Moderação"
     commands: "Comandos"
-    permissions: "Permissões"
+    permissions: "Permisos"
     textChannels: "Canais de texto"
     voiceChannels: "Canais de voz"
     welcomer: "Mensagens ao Entrar/Sair"
