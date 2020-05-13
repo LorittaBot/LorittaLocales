@@ -1,0 +1,7 @@
+---
+modules:
+  twitch:
+    userName: "Enlace de canal"
+    channel: "¿Dónde se anunciará cuando el canal se active?"
+    theMessage: "Mensaje cuando va a vivir"
+    channelLink: "Enlace de canal"
