@@ -1,0 +1,23 @@
+---
+loritta:
+  inheritsFromLanguageId: "default"
+  languageName: "Portuguese"
+  languageShort: "en-us"
+  translationAuthors:
+    - "123170274651668480"
+  save: "Save"
+  saving: "Saving"
+  loading: "Loading"
+  add: "Add"
+  fancyBoolean:
+    'true': "Yes"
+    'false': "No"
+  pronoun:
+    he: "he"
+    she: "she"
+    his: "his"
+    her: "her"
+  xOfX: "{0} of {1}"
+  page: "Page"
+  clickHere: "**Click [here]({0}) to download the picture!**"
+  youAreCurrentlyOnPage: "You are in page {0}"
