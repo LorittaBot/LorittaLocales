@@ -23,6 +23,11 @@ commands:
     ban:
       punishAction: "Banido"
       punishName: "banir"
+      punishedBy: "Punido por"
+      punishmentReason: "Motivo"
+    softban:
+      punishAction: "Soft Ban"
+      punishName: "soft banir"
     kick:
       punishAction: "Expulso"
       punishName: "expulsar"
@@ -40,6 +45,13 @@ commands:
       noWarnsFound: "O usuário não possui nenhum aviso para você remover! Psiu, sabia que você pode ver a lista de avisos de um usuário com {0}?"
       notEnoughWarns: "O usuário tem menos que **{0}** avisos! Psiu, sabia que você pode ver a lista de avisos de um usuário com {1}?"
       warnRemoved: "Prontinho, o usuário teve um aviso removido! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
+    warnlist:
+      description: "Mostra os avisos que um usuário possui"
+      common: "Aviso"
+      title: "Lista de Avisos"
+      userDoesntHaveWarns: "{0} não possui avisos!"
+      nextPunishment: "No próximo aviso, o usuário será {0}!"
+      date: "Data"
     dashboard:
       description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
     renamechannel:
