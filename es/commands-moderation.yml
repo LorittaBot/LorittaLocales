@@ -24,6 +24,11 @@ commands:
     ban:
       punishAction: "Prohibido"
       punishName: "prohibir"
+      punishedBy: "Castigado por"
+      punishmentReason: "Razon"
+    softban:
+      punishAction: "Soft Ban"
+      punishName: "soft banir"
     kick:
       punishAction: "Prohibir"
       punishName: "expulsar"
@@ -39,7 +44,15 @@ commands:
       punishAction: Eliminado una advertencia
       punishName: "retirar una advertencia"
       noWarnsFound: "¡El usuario no tiene advertencia para que lo elimine! Oye, ¿sabías que puedes ver la lista de advertencias de un usuario con {0}?"
+      notEnoughWarns: "O usuário tem menos que **{0}** avisos! Psiu, sabia que você pode ver a lista de avisos de um usuário com {1}?"
       warnRemoved: "¡Allí, el usuario ha eliminado una advertencia! ¿Qué tal si lee las reglas del servidor antes de que tenga que ser castigado nuevamente?"
+    warnlist:
+      description: "Mostra os avisos que um usuário possui"
+      common: "Aviso"
+      title: "Lista de Avisos"
+      userDoesntHaveWarns: "{0} não possui avisos!"
+      nextPunishment: "No próximo aviso, o usuário será {0}!"
+      date: "Data"
     dashboard:
       description: "Envia el link del Dashboard para agregar/configurar a Loritta"
     renamechannel:
