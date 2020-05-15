@@ -38,6 +38,7 @@ commands:
       punishAction: Retirado um Aviso
       punishName: "retirar um aviso"
       noWarnsFound: "O usuário não possui nenhum aviso para você remover! Psiu, sabia que você pode ver a lista de avisos de um usuário com {0}?"
+      notEnoughWarns: "O usuário tem menos que **{0}** avisos! Psiu, sabia que você pode ver a lista de avisos de um usuário com {1}?"
       warnRemoved: "Prontinho, o usuário teve um aviso removido! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
     dashboard:
       description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
