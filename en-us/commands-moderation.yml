@@ -80,4 +80,4 @@ commands:
       ignoredPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were pinned messages!"
       ignoredTooOldAndPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago and {2} messages could not be deleted because they were fixed messages!"
       success: "The chat was cleaned up by {0}!"
-      sucess: "Chat limpo por {0}!"
+      sucess: "The chat was cleaned up by {0}!"
