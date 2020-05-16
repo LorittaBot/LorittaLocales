@@ -73,44 +73,44 @@ commands:
         - "😄 %ship% Yeah! 😄"
       value60:
         - "🙂 %ship% If %user% stopped being a little shy... 😏"
-        - "😊 %ship% Tem um pouco de interesses compatíveis aí 😊"
-        - "🙂 %ship% Eu aprovo esse casal! 🙂"
+        - "😊 %ship% There are some compatible interests there 😊"
+        - "🙂 %ship% I approve this couple! 🙂"
         - "😄 %ship% Yeah! 😄"
       value50:
-        - "😶 %ship% Amigos... Mas talvez né... 😏"
-        - "😊 %ship% Talvez... Só precisa o/a %user% querer! 😶"
-        - "😶 %ship% Eu queria ver esse casal funcionar 😶"
+        - "😶 %ship% Friends... But maybe... 😏"
+        - "😊 %ship% Maybe... Just need to %user% want it 😶"
+        - "😶 %ship% i wanted to see this couple working 😶"
       value40:
-        - "😶 %ship% É... talvez, eu acho... 🙁"
-        - "😶 %ship% Nada é impossível, mas... 🙁"
-        - "😶 %ship% Se os dois quiserem, talvez dê certo... Mas... 😶"
+        - "😶 %ship% Hm... maybe, I think... 🙁"
+        - "😶 %ship% Nothing is impossible, but... 🙁"
+        - "😶 %ship% If both want, maybe it would work... But... 😶"
       value30:
-        - "😕 %ship% Acho que não seria um belo casal... 🙁"
-        - "😶 %ship% Parece que só são conhecidos... 😶"
+        - "😕 %ship% i don't think this would be a good couple... 🙁"
+        - "😶 %ship% looks like they just know each other... 😶"
       value20:
-        - "😐 %ship% Se o(a) %user% não tivesse deixado na friendzone... 😐"
+        - "😐 %ship% If just %user% hadn't left in the friend zone... 😐"
       value10:
-        - "😐 %ship% Eu queria muito falar que é possível, mas... 😢"
+        - "😐 %ship% I wish to say this was possible but... 😢"
       value0:
-        - "😭 %ship% As possibilidades de ter este casal são quase impossíveis! 😭"
+        - "😭 %ship% The possibilities of having this couple are almost impossible! 😭"
     akinator:
-      description: "O Akinator pode ler a sua mente e dizer qual personagem você está pensando! Será que você irá conseguir ganhar dele?"
-      question: "Questão {0}"
-      isThisYourCharacter: "É esse o personagem que você está pensando?"
-      akinatorWon: "Excelente! Eu venci mais uma vez. Eu amo jogar esse jogo com você! {0}"
-      akinatorLost: "Bravo! Você conseguiu me derrotar."
-      goBack: "Voltar a pergunta anterior"
+      description: "Akinator is able to read your mind and tell which character you are thinking about! Can you defeat him?"
+      question: "Question {0}"
+      isThisYourCharacter: "Is this the character that you are thinking about?"
+      akinatorWon: "Excellent! I won another time. I love playing this game with you! {0}"
+      akinatorLost: "Bravo! You were able to defeat me."
+      goBack: "Go back to previous question"
       answers:
-        'yes': "Sim"
-        'no': "Não"
+        'yes': "Yes"
+        'no': "No"
         probablyYes: "Probably Yes"
         probablyNot: "Probably Not"
         dontKnow: "I don't know"
     roll:
-      description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
-      howMuchSides: "Quantos lados o dado que eu irei rolar terá"
-      invalidBound: "Eu tentei girar o dado mas... ele evaporou! Sumiu! Acho que ele sumiu porque você criou um dado inválido... me diga, como você queria que eu girasse ele?"
-      tooMuchDices: "Eu tentei girar os dados mas são taaaaaantos que não coube na minha mesa e cairam no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que eles não caiam novamente."
+      description: "Rolls a dice and give its result, that''s perfect if you want to play Monopoly but you''re out of dices."
+      howMuchSides: "How many sides will the dice I roll have"
+      invalidBound: "I tried to roll the dice but... It's gone! I think it disappeared because you created an invalid dice... Tell me, how did you want me to roll it?"
+      tooMuchDices: "I tried to roll the dices but there are soooooo many that they didn't fit on my table and they fell to the floor and *poof*, it's gone! Please roll a maximum of 100 dices so that they do not fall again."
       result: "rolled **{1}**... and got **{2}**!"
     ratewaifu:
       note10:
@@ -126,7 +126,7 @@ commands:
       note5:
         - "Not too bad, not so good, it''s \"fine\""
       note4:
-        - "Não que a sua Waifu seja ruim, pelo contrário! Ela tem potencial para ser algo mais *interessante*!"
+        - "Not that your Waifu is bad, on the contrary! It has the potential to be something more *interesting*!"
       note3:
         - "Your Waifu needs more substance."
       note2:
@@ -140,44 +140,44 @@ commands:
         - "I'm perfect, buddy!"
         - "Search for \"perfection\" in a dictionary, you will find \"Loritta\""
       notePollux:
-        - "Uma amiga 10/10, ela é muito legal e criativa! (Sério, você já viu o que ela consegue fazer? Fico até impressionada! Até fico triste ao olhar como alguns comandos dela são bonitos e as coisas que eu faço são... bem, feias...)"
+        - "A 10/10 friend, she is very cool and creative! (Seriously, have you seen what she can do? I'm even impressed! And sometimes I even get sad to see how beautiful her commands are and the things I do are like... well, ugly...)"
       notePantufa:
-        - "A minha melhor amiga, a Pantufinha é minha amiga de infância! Beijos amigs."
+        - "My best friend, Pantufinha is my childhood friend! xoxo."
       noteTatsumaki:
-        - "Uma das minhas inspirações, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "One of my inspirations, I wouldn't change Waifu (and bot) if I were you!... just don't replace me plz."
       noteMantaro:
-        - "Nunca conversei muito com a Mantaro, mas eu sei que o criador dela é gente boa."
+        - "I never talked to Mantaro much, but I know that its creator is a good person."
       noteMee6:
-        - "Uma das minhas inspirações e um dos bots mais antigos e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "One of my inspirations and one of Discord's oldest and most popular bots, I wouldn't change Waifu (or bot) if I were you!... just don't replace me plz."
       noteDyno:
-        - "Uma das minhas inspirações e um dos bots mais populares na área de administração e logging de eventos do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "One of my inspirations and one of the most popular bots in Discord's administration and event logging area, I wouldn't change Waifu (and not even bot) if I were you!... just don't replace me plz."
       noteMudae:
-        - "E você ganha personagens, e você também ganha personagens, e você também ganha mais personagens... todos merecem coletar personagens!"
+        - "And you get characters, and you also get characters, and you get more characters... everyone deserves to collect characters!"
       noteNadeko:
-        - "Uma das minhas inspirações e um dos bots mais customizáveis e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "One of my inspirations and one of Discord's most customizable and popular bots, I wouldn't change Waifu (or bot) if I were you!... just don't replace me plz."
       noteUnbelievaBoat:
-        - "Muitas pessoas amam ele devido ao sistema extremamente extenso de economia dele, e se eu não desse 10/10 para ele, meu espírito capitalista iria ficar boladex..."
+        - "Many people love him due to his extremely extensive system of economics, and if I didn't give him 10/10, my capitalist spirit would be disapointed..."
       noteChinoKafuu:
-        - "Um bot bem legalzin com funcionalidades top top"
+        - "A cool bot with some cool functions"
       noteGroovy:
-        - "O melhor bot para músicas que existe!"
+        - "The best music bot out there!"
       noteLorrita:
-        - "Aprenda a escrever o meu nome corretamente."
-        - "Tá precisando de um oftalmologista para aprender a ler o meu nome corretamente?"
-        - "Volta pra escola porque você faltou nas aulas de leitura e escrita."
-      result: "Eu dou nota **{0}** para `{1}`! **{2}**"
+        - "Please learn to write my name correctly."
+        - "Do you need an ophthalmologist to learn to read my name correctly?"
+        - "Go back to school because you missed reading and writing classes."
+      result: "I rate `{1}` **{0}**! **{2}**"
     flipcoin:
-      heads: "Cara"
-      tails: "Coroa"
+      heads: "Head"
+      tails: "Tails"
     cancelled:
-      description: "A sua mana foi canceladx pelas militantes do Twitter! Ah, mas qual foi o motivo do cancelamento?"
+      description: "Your sister was canceled by Twitter activists! Ah, but what was the reason for the cancellation?"
       wasCancelled: "{0} was cancelled {1}"
       reasons:
         - "because they were being too handsome"
         - "for having too much charm"
         - "for being an horible person"
-        - "ser uma grande gostosa"
-        - "ser boy lixo"
+        - "for being hot"
+        - "for being a trash boy"
         - "for being communist"
         - "for mocking too much"
         - "for being too smart"
