@@ -3,8 +3,8 @@ website:
   dashboard:
     general:
       commandPrefix:
-        title: "Prefixo da Loritta"
-        subtext: "Prefixo é o texto que vem antes de um comando. Por padrão eu venho com o caractere +, mas você pode alterá-lo nesta opção."
+        title: "Loritta's Prefix"
+        subtext: "Prefix is ​​the text that comes before a command. By default I come with the + character, but you can change it in this option."
       deleteMessagesAfterExecuting:
         title: "Deletar mensagem do usuário ao executar um comando"
         subtext: "Ao executar um comando, eu irei deletar a mensagem do usuário."
@@ -22,9 +22,9 @@ website:
         subtext: "Caso você tenha configurado canais que sejam proibidos de usar comandos, você pode ativar esta opção para que, quando um usuário tente executar um comando em canais proibidos, eu avise que não é possível executar comandos no canal."
       messageWhenUsingACommandInABlockedChannel:
         title: "Mensagem ao executar um comando em um canal proibido"
-    owner: "Dono"
+    owner: "Owner"
     administrator: "Administrator"
-    manager: "Gerência"
-    member: "Membro"
-    addLori: "Adicionar a Lori"
-    configureLori: "Configurar a Lori"
+    manager: "Manager"
+    member: "Member"
+    addLori: "Add Lori"
+    configureLori: "Configure Lori"
