@@ -25,5 +25,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           number: ${{ github.event.pull_request.number }}
           allowed-usernames-regex: ^MrPowerGamerBR$
-          merge-method: merge
+          merge-method: squash
           merge-title: "Update translations 🌎 (Crowdin)"
