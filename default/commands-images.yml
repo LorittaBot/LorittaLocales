@@ -86,6 +86,10 @@ commands:
           FEMALE: "VOCÊ"
     ascii:
       description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
+    morrepraga:
+      description: "MORRE PRAGA"
+      topText: "Morre"
+      bottomText: "praga"
     briggscover:
       description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
       examples:
