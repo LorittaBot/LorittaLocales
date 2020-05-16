@@ -15,22 +15,22 @@ sets:
   jojo: "JoJo's Bizarre Adventure"
 backgrounds:
   defaultBlue:
-    title: "Blue background"
+    title: "Blue Background"
     description: "Loritta's thoughts"
   defaultRed:
-    title: "Red background"
+    title: "Red Background"
     description: Loritta's thoughts
   defaultGreen:
-    title: "Green background"
+    title: "Green Background"
     description: Loritta's thoughts
   defaultOrange:
-    title: "Orange background"
+    title: "Orange Background"
     description: Loritta's thoughts
   defaultPink:
-    title: "Pink background"
+    title: "Pink Background"
     description: Loritta's thoughts
   defaultPurple:
-    title: "Purple background"
+    title: "Purple Background"
     description: Loritta's thoughts
   #===[ DEFAULT + LORITTA ]===
   random:
@@ -74,11 +74,11 @@ backgrounds:
     title: "Graffiti Artist Loritta"
     description: "Kids, don't graffiti in the walls that you don't have permission!"
   loriCrowd:
-    title: "Friends of Loritta's Apartment"
+    title: "Friends of the Loritta's Apartment"
     description: "Nothing better than reunite all the friends in a good and sunny day to have fun"
   loritta400k:
     title: "Loritta 400k"
-    description: "The celebration of 400k servers!"
+    description: "The celebration of the 400k servers milestone!"
   #===[ COMIDAS ]===
   coxinha:
     title: "Chicken drumstick"
@@ -275,8 +275,8 @@ backgrounds:
     title: "Infinite Universe"
     description: "It may seem like an empty place, but it's full of dreams..."
   stevenUniverseFutureEnemies:
-    title: "O futuro nos aguarda"
-    description: "O nosso trabalho é constante, e mesmo no futuro, devemos lembrar de quem nós fomos no passado."
+    title: "The future awaits us"
+    description: "Our job is constant, and even in future, we have to remember who we were in the past."
   #===[ AKIRA ]===
   kanedaBikeSkid:
     title: "Kaneda"
