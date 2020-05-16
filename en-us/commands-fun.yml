@@ -2,19 +2,19 @@
 commands:
   fun:
     ditty:
-      description: "Combine letras com rítimos para criar a sua própria música para você escutar e se divertir!"
+      description: "Combine lyrics with rhythms to create your own music for you to listen to and have fun!"
       examples:
         - "swlukestheme roblox sucks a lot because fortnite is better but minecraft is awesome"
         - "babyshark hit or miss I guess they never miss huh"
-        - "lista"
-      music: "música"
+        - "list"
+      music: "music"
     randomsam:
-      description: "kk eae men o SAM é brabo. Mostra memes aleatórios da página do South America Memes no Instagram."
+      description: "ayy lmao, this is SAM boi. Show random memes from South America Memes' page on Instagram."
     randomtiktok:
       description: "No tédio? Quer ver pessoas fazendo coisas toscas? Então veja um TikTok aleatório que talvez (sinceramente tem muito TikTok sem graça, sorry TikTokeiros!) alegre o seu dia!"
-      noTikTokFound: "Nenhum TikTok foi encontrado, talvez isto seja um bug!"
+      noTikTokFound: "No TikTok was found, maybe this is a bug!"
     gabriela:
-      hasBadWord: "Que feio, para que perguntar essas coisas para ela?"
+      hasBadWord: "How rude! Why do you ask these questions to her?"
     giveawaymenu:
       description: "Menu of all the commands related to the giveaway system"
       categoryTitle: "Giveaways"
@@ -33,7 +33,7 @@ commands:
       giveawayMentionRoles: "Which roles will be given to who wins the giveaway?"
       giveawayNoValidRoles: "No valid role was found! Are you sure you wrote the name correctly?"
       giveawayCantInteractWithRole: "I don't have permissions to give the {0} role!"
-      giveawayCantYouInteractWithRole: "Você não pode interagir com o cargo {0}!"
+      giveawayCantYouInteractWithRole: "You can't interact with the {0} role!"
       noWinner: "No one participated in the giveaway... As no one participated, can I get the giveaway prize?"
       oneWinner: "Congratulations to {0} on winning the {1} giveaway!"
       multipleWinners: "Congratulations to the winners for the {0} giveaway!"
@@ -51,31 +51,31 @@ commands:
       description: "Sometimes users that don't \"deserve\" to win do actually win your giveaways, so you can ask me to roll the dice again and pick up new winners!"
       giveawayHowToEnd: "{0}giveaway end {1}"
       giveawayStillRunning: "The giveaway you tried to roll new winners... well, the giveaway hasn't ended yet! If you are looking to end the giveaway, use {0}"
-      rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
+      rerolledGiveaway: "Okay! I rolled new winners for the giveaway you asked for, now you can rest without having to make that fake smile just because the member you hate has won."
     ship:
-      newCouple: "Hmmm, será que nós temos um novo casal aqui?"
-      bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
+      newCouple: "Hmmm, do we have a new couple here?"
+      bribeLove: "Did you know that you can bribe the oracle of love to modify the ship value between you and another person? {0}"
       value90:
-        - "😍 %ship% Os dois se amam! 😍"
-        - "💗 %ship% Casal mais perfeito? Impossível! 💗"
-        - "☠ %ship% Nem a *dona* morte separa! 😂"
-        - "😋 %ship% Casal mais perfeito que eu! 😋"
-        - "😚 %ship% Casal? Casal que nada! Eles já são casados! 😚"
+        - "😍 %ship% Both love each other! 😍"
+        - "💗 %ship% The perfect couple? Impossible! 💗"
+        - "☠ %ship% Not even death can take it apart! 😂"
+        - "😋 %ship% this couple is more perfect than me😋"
+        - "😚 %ship% Couple? Nahhh, they are married 😘"
       value80:
-        - "😏 %ship% Mas esses dois já se conhecem faz muito tempo... 😏"
-        - "😊 %ship% Claro que os dois são um lindo casal! 😊"
-        - "😜 %ship% Casal mais grudento que Despacito! 😜"
-        - "😄 %ship% Se os dois já não namoram eu estaria surpresa! 😄"
+        - "😏 %ship% But these two have known each other for a long time... 😏"
+        - "😊 %ship% Of course these two are a beautiful couple! 😊"
+        - "😜 %ship% Couple more stickier than Despacito?😜"
+        - "😄 %ship% If these two weren't dating I would be surprised! 😄"
       value70:
-        - "🙂 %ship% Prevejo um casal fofo se formando! 🙂"
-        - "😄 %ship% Só precisa de um pouco mais de conversa para rolar! 😜"
-        - "😊 %ship% Os dois foram feitos um para o outro! 😊"
-        - "😄 %ship% Sim! 😄"
+        - "🙂 %ship% I foresee a cute couple forming!🙂"
+        - "😄 %ship% Just needs a little more conversation to roll! 😜"
+        - "😊 %ship% These two were made for each other 😊"
+        - "😄 %ship% Yeah! 😄"
       value60:
-        - "🙂 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... 😏"
+        - "🙂 %ship% If %user% stopped being a little shy... 😏"
         - "😊 %ship% Tem um pouco de interesses compatíveis aí 😊"
         - "🙂 %ship% Eu aprovo esse casal! 🙂"
-        - "😄 %ship% Sim! 😄"
+        - "😄 %ship% Yeah! 😄"
       value50:
         - "😶 %ship% Amigos... Mas talvez né... 😏"
         - "😊 %ship% Talvez... Só precisa o/a %user% querer! 😶"

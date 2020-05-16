@@ -118,12 +118,12 @@ commands:
     raffle:
       quantity-bigger-than-allowed: "You can only bet a maximum of **{0} tickets** each round!"
       hasTooManyTickets: "You have too many tickets! Save some of your money to the next round!"
-      cantBuyTooManyTickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
+      cantBuyTooManyTickets: "You cannot bet too many tickets like this! You can bet, at most, more **{0} tickets**!"
   #MISCELÂNEA
   miscellaneous:
     ajuda:
-      errorWhileOpeningDm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
+      errorWhileOpeningDm: "I wanted to send this help to you, but I wanted to know how will I send knowing that you deactivated your direct messages between people from servers you know. http://i.imgur.com/Z1HwW2j.png 🤷"
     fanArts:
-      description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
-      madeBy: "Fan Art feita por {0}"
-      thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
+      description: "See the {0} beautiful {1} fan arts artists did of me!"
+      madeBy: "Fan Art created by {0}"
+      thankYouAll: "Thank you for all of the artists who made incredible and beautiful fan arts to me!"
