@@ -1,9 +1,9 @@
 ---
 modules:
   moderation:
-    title: "Moderação"
+    title: "Moderation"
     specificMessagesForPunishment:
-      title: "Mensagens específicas para cada punição"
+      title: "Specific messages for each punishment"
       description:
-        - "Você pode escolher mensagens diferentes para cada tipo de punição, assim colocando o seu charme em cada tipo de punição!"
-      messageThatWillBeShown: "Mensagem que será mostrada ao ser {0}"
+        - "You can choose different messages for each type of punishment, thus putting your charm into each type of punishment!"
+      messageThatWillBeShown: "Message that will be shown when {0}"
