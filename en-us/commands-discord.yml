@@ -32,7 +32,7 @@ commands:
     addemoji:
       description: "Add emotes in your server by its image's link. Perfect if you are tired of downloading images to your computer just to add them to your server!"
       success: "Emoji successfully added!"
-      limitReached: "O limite de emojis (50 emojis) já foi batido!"
+      limitReached: "The emoji limit (50 emojis) already has been reached!"
       error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
       emoteTooBig: "O emoji é grande demais! O Discord permite emojis de, no máximo, {0}."
     renameemoji:
