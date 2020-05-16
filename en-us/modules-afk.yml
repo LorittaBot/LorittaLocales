@@ -2,5 +2,5 @@
 loritta:
   modules:
     afk:
-      userIsAfk: "{0} is AFK!"
-      usersAreAfk: "{0} are AFK!"
+      userIsAfk: "{0} está AFK!"
+      usersAreAfk: "{0} estão AFK!"
