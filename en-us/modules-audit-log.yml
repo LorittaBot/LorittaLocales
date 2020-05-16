@@ -1,7 +1,7 @@
 ---
 modules:
   auditLog:
-    title: "Audit Log"
-    generic: "{0} took action {1}"
-    updated: "{0} made changes in {1}"
-    resetXp: "{0} restarted experience of all users"
+    title: "Registro de Auditoria"
+    generic: "{0} realizou ação {1}"
+    updated: "{0} fez alterações em {1}"
+    resetXp: "{0} zerou a experiência de todos os usuários"
