@@ -1,7 +1,7 @@
 ---
 modules:
   levelUp:
-    title: "Níveis por Experiência"
+    title: "Levels by Experience"
     description: "Incentive usuários a conversarem dando experiência ao mandarem mensagens no seu servidor. Você pode recompensar usuários com prêmios e vantagens, assim deixando o seu servidor mais ativo e divertido!"
     howToDisableLevelNotifications: "Você recebeu esta notificação pois você subiu de nível em {0}\n\nCansado de receber notificações de level up via mensagem direta? Então utilize {1} e diga adeus a mensagens de level up na sua DM! {2}"
     channelTypes:
@@ -21,7 +21,7 @@ modules:
         subtext: "Caso você tenha configurado recompensas ao subir de nível, eu posso notificar apenas se o usuário recebeu alguma recompensa"
       templates:
         default:
-          title: "Padrão"
+          title: "Default"
           content: "Parabéns '{@user}', você passou para o nível **'{level}'** (*'{xp}' XP*)! {0}"
         embed:
           title: "Embed"
