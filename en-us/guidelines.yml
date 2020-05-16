@@ -43,20 +43,20 @@ website:
         - "Change your name and avatar to the ones that Loritta uses. {fanarts}"
         - "Create bots that have the same user name and avatar that Loritta use."
         - "Inventing or spreading lies saying that you or your bot has something to do with Loritta or her team. {notjoke}"
-        - "Caso um servidor tenha um bot que está se passando pela Loritta, o dono do servidor será banido até que ele prove quem adicionou o bot no servidor."
+        - "If a server has a bot that is impersonating Loritta, the owner of the server will be banned until he proves who added the bot to the server."
       useFanArts:
-        - "Você pode utilizar fan arts que fizeram para a Lori, desde que você não use o mesmo nome dela. Mas antes de utilizar uma fan art como avatar, pergunte para o artista da fan art se você pode utilizá-lo."
+        - "You can use fan arts that you did for Lori, as long as you don't use her name. But before using fan art as an avatar, ask the fan art artist if you can use it."
       notJoke:
-        - "Se passar pela Loritta apenas por \"brincadeira\" não é desculpa para não ser punido."
+        - "If you pass yourself by Loritta just for \"joke\", is no excuse for not being punished."
     whatWillHappenIf:
-      title: "O que irá acontecer se eu quebrar as regras?"
-      ifYouBreak: "Caso você quebre algumas das diretrizes, você poderá receber uma ou mais punições da lista."
+      title: "What will happen if I break the rules?"
+      ifYouBreak: "If you break any of the guidelines, you may receive one or more penalties from the list."
       punishments:
-        - "Ser banido dos servidores de suporte da Loritta."
-        - "Perder seus privilégios de uso da Loritta em seu servidor e em outros servidores."
-        - "O seu servidor perder o privilégio de usar a Loritta."
-        - "Ser banido de todos os servidores que possuem o sistema de bans globais da Loritta ativados."
-        - "Ser banido de todos os servidores que a Loritta está."
+        - "Be banned from Loritta's support servers."
+        - "Losing your Loritta privileges on your server and other servers."
+        - "Your server loses the privilege of using Loritta."
+        - "Be banned from all servers that have Loritta's global ban system activated."
+        - "Be banned from all servers that Loritta is on."
       description:
-        - "O nível da punição e quais punições você irá receber será baseado no que você fez para ser punido. Quebrar regras não graves sem o intuito de prejudicar a Loritta te garante punições baixas que podem ser revertidas apenas pedindo desculpas, mas quebrar regra intencionalmente com o intuito de prejudicar a Loritta te garante punições mais elevadas, sem chance de perdão."
-        - "Caso você tenha se arrependido e o motivo da punição não for algo tão grave, converse com alguém da equipe da Loritta para ver se você pode ser desbanido. Mas lembre-se: Nós não somos obrigados a te desbanir, você quebrou as diretrizes porque você quis. Argumentar que \"eu não sabia delas\" não é uma desculpa, já que tudo que está nas diretrizes são regras que qualquer um que teve uma formação decente sabe que é errado."
+        - "The level of the punishment and what punishments you will receive will be based on what you did to be punished. Breaking non-serious rules without the intention of harming Loritta guarantees you low penalties that can can be reversed just by apologizing, but breaking the rule intentionally in order to harm Loritta guarantees higher punishments, with no chance of forgiveness."
+        - "If you have regretted and the reason for the punishment is not so serious, talk to someone on the Loritta team to see if you can be unbanned. But remember: We are not required to unban you, you broke the guidelines because you wanted to. Arguing that \"I didn't know about them\" is not an excuse, since all that is in the guidelines are rules that anyone who has had a decent education knows it is wrong."
