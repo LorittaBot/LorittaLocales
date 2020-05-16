@@ -2,14 +2,14 @@
 loritta:
   modules:
     counter:
-      auditLogReason: "Update members count"
+      auditLogReason: "Atualizar contador de membros"
       theme:
-        default: "Default"
-        red: "Red"
-        green: "Green"
+        default: "Padrão"
+        red: "Vermelho"
+        green: "Verde"
         blurple: "Blurple"
-        black: "Black"
+        black: "Preto"
         deluxe: "Deluxe"
         loritta: "Loritta"
         loritta-kawaii: "Loritta Kawaii"
-        custom: "Custom"
+        custom: "Customizado"
