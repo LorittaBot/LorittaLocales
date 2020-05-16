@@ -1,0 +1,5 @@
+---
+loritta:
+  modules:
+    generic:
+      showPlaceholders: "Quais são as variáveis/placeholders que eu posso usar?"
