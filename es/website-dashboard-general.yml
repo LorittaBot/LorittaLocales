@@ -1,0 +1,30 @@
+---
+website:
+  dashboard:
+    general:
+      commandPrefix:
+        title: "Prefixo da Loritta"
+        subtext: "Prefixo é o texto que vem antes de um comando. Por padrão eu venho com o caractere +, mas você pode alterá-lo nesta opção."
+      deleteMessagesAfterExecuting:
+        title: "Deletar mensagem do usuário ao executar um comando"
+        subtext: "Ao executar um comando, eu irei deletar a mensagem do usuário."
+      tellMissingPermissionOnAChannel:
+        title: "Avisar quando eu não tenho permissão para falar em um canal"
+        subtext: "Se eu não conseguir enviar uma mensagem em um canal devido a falta de permissões, eu irei avisar via mensagem direta para a equipe do servidor. Útil para depurar problemas."
+      tellUserWhenUsingUnknownCommand:
+        title: "Avisar para o usuário quando ele executar um comando desconhecido"
+        subtext: "Caso um usuário executar um comando inexistente, eu irei avisar a ele que eu não possuo o comando desejado, recomendar qual comando ele provavelmente queria usar e, caso o usuário queira saber todos os meus lindos comandos, para que use o meu comando de ajuda."
+      blacklistedChannels:
+        title: "Canais que serão proibidos usar comandos"
+        subtext: "Nestes canais eu irei ignorar comandos de usuários, como se eu nem estivesse lá! (Mesmo que eu esteja observando as suas mensagens para dar XP, hihi~) Caso você queira configurar que cargos específicos possam burlar a restrição, configure na seção de permissões."
+      tellUserWhenUsingCommandsOnABlacklistedChannel:
+        title: "Enviar mensagem para o usuário quando ele executar comandos em canais proibidos"
+        subtext: "Caso você tenha configurado canais que sejam proibidos de usar comandos, você pode ativar esta opção para que, quando um usuário tente executar um comando em canais proibidos, eu avise que não é possível executar comandos no canal."
+      messageWhenUsingACommandInABlockedChannel:
+        title: "Mensagem ao executar um comando em um canal proibido"
+    owner: "Dono"
+    administrator: "Administrador"
+    manager: "Gerência"
+    member: "Membro"
+    addLori: "Adicionar a Lori"
+    configureLori: "Configurar a Lori"
