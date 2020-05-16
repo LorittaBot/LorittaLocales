@@ -2,10 +2,10 @@
 loritta:
   modules:
     birthday:
-      inlineBirthday: "{0} ({1} years old)"
-      nobodyHasBirthdaySetYourOwn: "Nobody... Check the date of your birthday using {0}!"
-      birthdayCommandExample: "{0}birthday day/month/year"
-      usersBirthdayInXDaysPlural: "Users who will be celebrating their birthday in {0} days"
-      usersBirthdayTomorrow: "Users who will be celebrating their birthday tomorrow"
-      usersBirthdayToday: "Users who are celebrating their birthday today"
+      inlineBirthday: "{0} ({1} anos)"
+      nobodyHasBirthdaySetYourOwn: "Ninguém... Marque a data do seu aniversário utilizando {0}!"
+      birthdayCommandExample: "{0}aniversário dia/mês/ano"
+      usersBirthdayInXDaysPlural: "Usuários que irão fazer aniversário daqui a {0} dias"
+      usersBirthdayTomorrow: "Usuários que irão fazer aniversário amanhã"
+      usersBirthdayToday: "Usuários que estão fazendo aniversário hoje"
 
