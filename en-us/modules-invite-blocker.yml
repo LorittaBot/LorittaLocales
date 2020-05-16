@@ -1,6 +1,6 @@
 ---
 modules:
   inviteBlocker:
-    activateInviteBlockerBypass: "Psst, if you want that the role {0} have permission to send invites without being blocked, click on {1} and I will give that permission for you!"
-    howToReEnableLater: "If you change your mind, you can change the permissions on {0}!"
-    bypassEnabled: "All right! Now I will not block invites sent by people that has the {0} role!"
+    activateInviteBlockerBypass: "Psiu, se você quer que o cargo de {0} tenha permissão para poder enviar convites sem que sejam bloqueados, clique em {1} que eu irei ativar para você!"
+    howToReEnableLater: "Se você mudar de ideia, você poderá alterar as permissões em {0}!"
+    bypassEnabled: "Prontinho! Agora eu não irei bloquear convites enviados por pessoas que possuem o cargo de {0}!"
