@@ -3,7 +3,7 @@ commands:
   category:
     fun:
       name: "Fun"
-      description: "Want a little bit of entertainment? Want to cheer up your server's chat with a lot of random and funny stuff? Then use the fun category commands!"
+      description: "Want a little bit of entertainment? Want to cheer up your server's chat with a lot of random and funny stuff? Then use the commands in the fun category!"
     images:
       name: "Photoshop"
       description: "Create images 😂👌🔥🔝 in the comfort of your Discord server! Just don't go crazy creating a lot of images, sadly I don't have slaves to create images with Photoshop rapidly."
@@ -33,16 +33,16 @@ commands:
       description: "Commands that don't fit in any specific category"
     admin:
       name: "Administration"
-      description: "Commands that help you with your moderator life in your servers/guilds!"
+      description: "Commands to make your life as a server administrator so much easier!"
     utils:
       name: "Utilities"
-      description: "Useful commands to streamline and make your life easier!"
+      description: "Useful commands make your life easier!"
     social:
       name: "Social"
       description: "Humans are sociable creatures and need social interaction. For that, you can interact with your family, friends, neighbors and even with the members of your Discord server. Believe me, my commands are a great way of interacting with people!"
     music:
       name: "Music"
-      description: "Commands related to my music system!"
+      description: "Commands related to my music system"
     economy:
       name: "Economy"
       description: "Commands related to my economy system!"
@@ -51,4 +51,4 @@ commands:
       description: "Kisses, slaps, hugs and more! Are you afraid of showing what you really feel and need a GIF to help? No problems, I have a folder just for all the possible actions that you may want to execute in the chat!"
     magic:
       name: "Magic"
-      description: "Commands that you should never see in your life, if you are seeing this... You are magical!"
+      description: "Commands that you should never see in your life, if you are seeing this... You have magic powers!"
