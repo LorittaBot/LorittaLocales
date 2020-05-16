@@ -118,7 +118,7 @@ commands:
     raffle:
       quantity-bigger-than-allowed: "You can only bet a maximum of **{0} tickets** each round!"
       hasTooManyTickets: "You have too many tickets! Save some of your money to the next round!"
-      cantBuyTooManyTickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
+      cantBuyTooManyTickets: "You cannot bet too many tickets like this! You can bet, at most, more **{0} tickets**!"
   #MISCELÂNEA
   miscellaneous:
     ajuda:
