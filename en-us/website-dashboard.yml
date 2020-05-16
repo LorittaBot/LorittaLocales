@@ -1,9 +1,9 @@
 ---
 website:
   dashboard:
-    owner: "Owner"
+    owner: "Dono"
     administrator: "Administrator"
-    manager: "Manager"
-    member: "Member"
-    addLori: "Invite Lori"
-    configureLori: "Configure Lori"
+    manager: "Gerência"
+    member: "Membro"
+    addLori: "Adicionar a Lori"
+    configureLori: "Configurar a Lori"

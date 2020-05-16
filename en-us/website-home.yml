@@ -1,65 +1,65 @@
 ---
 website:
-  genericDescription: "Hello, my name is Loritta! Just a simple Discord bot with unique features you've never seen before! Made for entertainment, moderation, to help you in day-to-day life and more!"
-  lorittaWebsite: "Loritta's Website"
+  genericDescription: "Olá, eu me chamo Loritta! Apenas um simples bot para o Discord com funcionalidades únicas que você jamais viu antes! Feito para entretenimento, moderação, para te ajudar no dia-a-dia e muito mais!"
+  lorittaWebsite: "Website da Loritta"
   jumbotron:
-    hello: "Howdy, my name is"
-    tagline: "Yet another Discord bot"
-    addMe: "Add me!"
-    moreInfo: "Learn More"
-    viewMoreFeatures: "View more features"
-    dashboard: "Dashboard"
+    hello: "Olá, eu sou a"
+    tagline: "Apenas um simples bot para o Discord"
+    addMe: "Me adicione!"
+    moreInfo: "Saiba Mais"
+    viewMoreFeatures: "Ver mais funcionalidades"
+    dashboard: "Painel de Controle"
   home:
     intro:
-      title: "Turn your server into a wonderful place"
-      everyServer: "All Discord servers has the same problems."
-      membersWant: "Members want entertainment, moderators want automation... and you just want to rest."
-      itIsThatEasy: "Making your server unique and extraordinary has never been easier!"
+      title: "Transforme o seu servidor em um lugar fantástico"
+      everyServer: "Todos os servidores no Discord encontram os mesmos problemas."
+      membersWant: "Membros querem entretenimento, moderadores querem automatização... e você apenas quer descansar."
+      itIsThatEasy: "Deixar o seu servidor único e extraordinário nunca foi tão fácil!"
       description:
-        - "Your life is too precious to spend your time with useless junk, let me take care of the boring parts while you have fun on your server!"
+        - "A sua vida é preciosa demais para ficar gastando o seu tempo com tranqueiras e bobagens, me deixe cuidar das partes chatas enquanto você se diverte em seu servidor!"
         - "With features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization..."
         - "And everything thanks to a 16 year old girl trying to make the world a better place!"
     trust:
-      title: "Many people like me!"
+      title: "Muitas pessoas gostam de mim!"
     funnyCommands:
-      title: "Making your server more entertaining"
+      title: "Divertindo e engajando o seu servidor"
       description:
-        - "One of my biggest goals is to make you (and your server members) happier, even if it's just a small smile on your face."
-        - "That is why I have several different and funny commands for you to have fun and laugh with them! How avaliarwaifu, who scores his waifu; faustão, which invokes our dear Faustão on his server to remember his classic phrases; ship, which allows you to ship two users of your server; cepo, to destroy someone in the Gugu Gaiteiro style; tretanews, for you to create a \"no clickbait\" ™ video with members of your server and several other fun and funny commands!"
+        - "Um dos meus maiores objetivos é conseguir deixar você (e os membros do seu servidor) mais felizes, mesmo que seja apenas um pequeno sorriso do seu rosto."
+        - "Por isto eu possuo vários comandos diferentes e engraçados para você se divertir e ter gargalhadas com eles! Como o avaliarwaifu, que dá nota a sua waifu; faustão, que invoca o nosso querido Faustão no seu servidor para relembrar as clássicas frases dele; ship, que permite shippar dois usuários do seu servidor; cepo, para destruir alguém no estilo Gugu Gaiteiro; tretanews, para você criar um vídeo \"não clickbait\"™ com membros do seu servidor e vários outros comandos divertidos e engraçados!"
     chitChat:
-      title: "Boost conversations on your server"
+      title: "Impulsione conversas em seu servidor"
       description:
-        - "Encourage users to chat on your server by giving them experience points while they discuss and chat on your server! By gaining experience, you can reward active users with roles and awards."
-        - "To stay competitive, you and your server members can see your server's most active users rank, will you be able to get to the top?"
+        - "Incentive usuários a conversarem em seu servidor dando experiência ao entrarem em discussões e conversas em seu servidor! Ao ganhar experiência, você pode dar níveis e recompensar usuários ativos com cargos e prêmios."
+        - "Para manter a competividade, você e os membros do seu servidor podem ver o ranking de quem é o mais tagarela do seu servidor, será que você irá conseguir chegar no topo?"
     music:
       title: "Music"
       description:
-        - "Make some noise with your server members! Listen and share your favorite songs on your server with your friends, chatting while you and your friends listen to your favorite songs."
-        - "With my extremely customizable music system you can allow playlists, set the maximum length of songs, put automated songs and much more! Your experience to listen to your favorite music on your server has never been the same, with great quality and management!"
+        - "Faça barulho junto com os membros do seu servidor! Escute e compartilhe as suas músicas favoritas no seu servidor junto com os seus amigos, conversando enquanto vocês escutam as suas músicas preferidas."
+        - "Com o meu sistema de música extremamente customizável você pode permitir playlists, configurar a duração máxima das músicas, colocar músicas automatizadas enquanto ninguém pede uma música e muito mais! A sua experiência para ouvir a sua música preferida em seu servidor nunca foi igual, com muita qualidade e gerenciamento!"
     moderation:
-      title: "Moderation"
+      title: "Moderação"
       description:
-        - "Let's start something new. With your own moderation settings, make your server awesome. Tired of banning, warning or kicking manually somebody that broke the rules? Leave it with me, while you are away, any person that break the rules, will be banned automatically."
-        - "See how everything is much more easier when there's teamwork?"
+        - "Vamos começar algo novo. Com suas próprias configurações de moderação, deixe seu servidor incrível e super prático. Cansado de banir, avisar ou expulsar algum indivíduo que quebrou as regras manualmente? Deixe isso comigo, enquanto você estiver fora, qualquer pessoa que quebrar as regras, será punida automaticamente."
+        - "Viu como tudo é mais fácil quando se há trabalho em equipe?"
     notify:
-      title: "Digital Influencers: Your fans will never miss new content!"
+      title: "Digital Influencers: Seus fãs jamais irão perder novidades!"
       description:
-        - "Telling your fans that you've uploaded something new is tiring and annoying... You want to use your time to be productive and make content bigger and better for your fans but most of the time is spent just to be reminding your fans that you made new content, as some social networks think they know more about what their fans like and want to receive than their own fans..."
-        - "Avoid such problems, I'll even see your YouTube channel, Twitch channel, Twitter, Amino community, RSS feeds, and several other places to see if you've done something new! Focus on your progress, I'll take care of notifying your fans."
+        - "Avisar seus fãs que você enviou algo novo é chato e cansativo... Você quer usar o seu tempo para ser produtivo e fazer conteúdos maiores e melhores para os seus fãs mas grande parte do tempo é gasta apenas para ficar lembrando os seus fãs que saiu conteúdo novo, já que algumas redes sociais acham que sabem mais sobre o que os seus fãs gostam e querem receber do que seus próprios fãs..."
+        - "Evite tais problemas, eu mesmo irei ver seu canal do YouTube, canal na Twitch, Twitter, comunidade no Amino, feeds RSS e vários outros lugares para ver se você fez algo novo! Foque no seu progresso, eu cuido da parte de notificar teus fãs."
     customization:
-      title: "Customization"
+      title: "Customização"
       description:
-        - "Each server is unique, having different demands and needs. You want a server that is your vision of a perfect server in Discord, after all, it's your place on the internet, it needs to be perfect!"
-        - "That's why I have an intuitive configuration and administration panel where you can modify a huge variety of features to make your server the way you always dreamed of. Modify me as you please, tailoring me to your preferences and needs!"
+        - "Cada servidor é único, possuindo demandas e necessidades diferentes. Você quer um servidor que seja a sua visão de um servidor perfeito no Discord, afinal, é o seu recanto na internet, ele precisa ser perfeito!"
+        - "Por isto, eu tenho um painel de configuração e administração intuitivo em que você poderá modificar uma enorme variedade de funcionalidades, para deixar o seu servidor da maneira que você sonha. Modifique-me como queira, adequando-me às suas preferências e necessidades!"
     community:
-      title: "Community"
+      title: "Comunidade"
       description:
-        - "And, of course, I could not forget to mention the people who like what I do!"
-        - "Amazing people, they make incredible and beautiful art of me (they are on the fanarts page, go check them out and enjoy!), donate so I can buy pudding and they are nice with me! They even made a Loritta's Fan Club (...in my Apartment! Right inside of it! I also like some personal space, okay?)"
-        - "Also I can not forget the incredible people on my Discord server, where everyone is welcome! There you can talk about everything, about me, report mistakes that should be corrected, make some cool suggestions for me or even chit chat about your life!"
+        - "E, é claro, não poderia deixar de mencionar as pessoas que gostam do que eu faço!"
+        - "Pessoas incríveis, são elas que fazem incríveis e lindas artes minhas (estão na página de fanarts, vai lá apreciar!), doam pra mim comprar pudim e são legais comigo! Até fizeram um Fã Clube da Loritta (...no meu Apartamento! Justo nele! Eu também curto de espaço pessoal, ok?)"
+        - "Também não posso esquecer das pessoas incríveis no meu servidor de Discord, onde todo mundo é bem vindo! Lá você pode falar sobre tudo, sobre mim, reportar erros que devem ser corrigidos, fazer alguma sugestão marota pra mim ou até mesmo falar sobre como está sua vida!"
     muchMore:
-      title: "And so much more!"
+      title: "E muito mais!"
     makeItAwesome:
-      title: "Let's turn your server into an incredible place, together."
+      title: "Vamos transformar o seu servidor em um lugar incrível, juntos."
     thankYou:
-      title: "Thank you all!"
+      title: "Obrigada a todos!"

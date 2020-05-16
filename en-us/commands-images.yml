@@ -2,92 +2,96 @@
 commands:
   images:
     drake:
-      description: "Create a Drake meme using two users of your guild!"
+      description: "Crie um meme do Drake com dois usuários da sua guild!"
     bolsodrake:
-      description: "Meme needs to be from brazillian origin, y' know??"
+      description: "Meme tem que ser de origem brasileira, talquei??"
     bolsoframe:
       description: "Look this image, okay??"
     terminator:
       description: "Art created by @tonmoh"
       examples:
-        - "People complaining that Lori is down | Lori, that made a break of 5 minutes to drink water"
+        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
     loridrake:
-      description: "Create a Drake meme, Loritta edition"
+      description: "Crie um meme do Drake, Loritta edition"
     bolsonaro:
-      description: "What Bolsonaro is showing in television that is so interesting and beautiful?"
+      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
     sam:
-      description: "Ya YEET. SAM is brabo, put a seal from South America Memes in one image!"
+      description: "kk eae men o SAM é brabo, coloque o selo da South America Memes em uma imagem!"
     ata:
-      description: "Mônica saw your image and reacted with the best way possible."
+      description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
     loriata:
-      description: "Loritta saw your image and reacted with the best way possible."
+      description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
     chicoata:
-      description: "Chico Bento saw your image and reacted with the best way possible."
+      description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
     gessyata:
-      description: "Gessy saw your image and reacted with the best way possible."
+      description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
     susto:
-      description: "Ahhhhh 😱! Create an image of me scared out about something!"
+      description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
     studiopolistv:
-      description: "Did Eggman put anything interesting in his television?"
+      description: "Será que o Eggman colocou algo de interessante em sua televisão?"
     romerobritto:
-      description: "Have Romero Britto draw your beautiful art!"
+      description: "Faça o Romero Britto desenhar a sua maravilhosa arte!"
     wolverine:
-      description: "When you see past photos and remember the good old days, the nostalgia from the things we lived..."
+      description: "Quando você vê fotos do passado e começa a lembrar dos tempos bons do passado, as saudades daquilo que a gente viveu..."
     pepedream:
-      description: "When you woke up from a good dream, and find out that the dream was not real..."
+      description: "Quando você acorda de um belo sonho, e descobre que o sonho não era real..."
     lorisign:
-      description: "Make me hold a sign showing something cute and interesting!"
+      description: "Faça eu segurar uma placa mostrando algo interessante e fofo!"
     art:
-      description: "Which extraordinary art cheers you up?"
+      description: "Qual arte extraordinária te anima?"
     drawnword:
-      description: "iM a cHiLd aNd I wRiTe bOriNg tHiNgs "
+      description: "eU sO crianSA i escRevO coIsas ToSCas"
       examples:
-        - "i HatE cUsTarD bUt eVeRyOnE LikES dUnNO WhY"
+        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
     drawnmasksign:
-      description: "Make {0} hold a sign showing something cute and interesting!"
+      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
     atendente:
-      description: "The number of people that understand the references of my commands, even if it is so obvious and desperate... it is tiny. You know who is, and if you don't, you can't get these references! Write something in the attendant's bandanna that is always in Drawn Mask videos!"
+      description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
       examples:
-        - "Take the Broom."
-        - "It is Drawn Mask, not Draun Mahski"
+        - "Pega a Vassoura."
+        - "É Drawn Mask e não Draum Mésqui"
     canelladvd:
-      description: "Ensure that Matheus Canella hold the best DVDs of the world for only USD$: 2,00 (iu es d cipher two points two comma zero zero!!!)"
+      description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
     tobecontinued:
-      description: "*You start to listen to Roundabout playing in background*"
+      description: "*Você começa a escutar Roundabout tocando no fundo*"
     emojimashup:
-      description: "Blend and mix the default emotes from discord to make new ones that was never saw anywhere! Currently only smileys and other emotes are supported, but the possibilities are almost unlimited!"
-      invalidEmoji: "Invalid emote `{0}`! If this is really a emote, I probably haven't recognized yet to make that cool edit with it... but soon maybe you can use this emote with his best mixtures!"
-      invalidEmojiDiscord: "Emote `{0}` is not a default Discord emote! Unfortunately mixing custom emotes from Discord is too much difficult and very hard to work with, sorry that I can't mix your lovely custom emotes..."
+      description: "Combine e misture os emojis padrões do Discord para formar novos emojis jamais vistos antes! Atualmente apenas smileys e alguns outros emojis suportados, mas mesmo assim as possibilidades são praticamente infinitas!"
+      invalidEmoji: "Emoji `{0}` inválido! Se for realmente um emoji, eu provavelmente ainda não recortei o emoji para que possa fazer aquela colagem marota com ele... mas talvez em breve você poderá utilizar esse emoji em suas misturas incríveis!"
+      invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."
     buckshirt:
-      description: "Place a stamp in the shirt of Buck Dewey. Create a new fashion in Beach City!"
+      description: "Coloque uma estampa na camisa do Buck Dewey. Crie uma nova moda em Beach City!"
     bobfire:
-      description: "Some images are good as wood for Sponge Bob"
+      description: "Algumas imagens são úteis como lenha para o Bob Esponja"
     passingpaper:
       description: "\"bruh, gimme the cheat sheet!\""
     tristerealidade:
-      description: "Creates a new and sad reality with members of the server... Yeah, not always we win."
+      description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
       slot:
         - 
-          MALE: "THE MAN YOU LIKE"
+          MALE: "THE GUY YOU LIKE"
           FEMALE: "THE GIRL YOU LIKE"
         - 
-          MALE: "THE FATHER {0}"
-          FEMALE: "THE MOTHER {0}"
+          MALE: "{0} FATHER"
+          FEMALE: "{0} MOTHER"
         - 
-          MALE: "BROTHER {0}"
-          FEMALE: "SISTER {0}"
+          MALE: "{0} BROTHER"
+          FEMALE: "{0} SISTER"
         - 
-          MALE: "FIRST LOVE {0}"
-          FEMALE: "FIRST LOVE {0}"
+          MALE: "{0} FIRST LOVE"
+          FEMALE: "{0} FIRST LOVE"
         - 
-          MALE: "HIS BEST FRIEND {0}"
-          FEMALE: "BEST FRIEND {0}"
+          MALE: "{0} BEST FRIEND"
+          FEMALE: "{0} BEST FRIEND"
         - 
           MALE: "YOU"
           FEMALE: "YOU"
     ascii:
       description: "Be a successful h4ck3r and transform your image in a ASCII art (image using characters) to show your friends how good and successful h4ck3r you are!"
+    morrepraga:
+      description: "DIE PLAGUE"
+      topText: "Die"
+      bottomText: "plague"
     briggscover:
-      description: "Look the new game that @GuilhermeBriggs purchased!"
+      description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
       examples:
         - "@Loritta"

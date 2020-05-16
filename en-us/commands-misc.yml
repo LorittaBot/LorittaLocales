@@ -2,15 +2,15 @@
 commands:
   misc:
     donate:
-      howToHelp: "Thanks for wanting to help me get online! {1}\n\nWithout your help, I wouldn't be able to get online. (After all, no money = no hosting for me to get online {2})\n\nTo donate is simple and easy! Just [access the donation page on my website]({0}), there shows all the advantages you can receive by donating! {3}"
+      howToHelp: "Obrigada por querer me ajudar a ficar online! {1}\n\nSem a sua ajuda, eu não iria conseguir ficar online. (Afinal, sem dinheiro = sem hospedagem para eu ficar online {2})\n\nPara doar é simples e fácil! Apenas [acesse a página de doação no meu website]({0}), lá mostra todas as vantagens que você pode receber doando! {3}"
     help:
-      lorittaHelp: "Help from Loritta"
+      lorittaHelp: "Loritta's Help"
       intro:
         - "Hello {0}, my name is Loritta (or, for my closest friends, \"Lori\") and I'm just a simple bot for Discord!"
         - "With features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization..."
         - "And everything thanks to a 16 year old girl trying to make the world a better place!"
       commandList: "Command List"
-      supportServer: "Are you having second thoughts? Ask on my Support Server!"
+      supportServer: "Do you have any questions? Ask on my Support Server!"
       addMe: "Dashboard: The place to add me and configure your server!"
       donate: "Help me stay online!"
       blog: "My Blog"

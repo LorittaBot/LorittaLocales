@@ -1,0 +1,129 @@
+---
+commands:
+  noValidImageFound: "Desculpe, mas eu não achei nenhuma imagem que eu possa usar! Eu tento pegar imagens em links, imagens anexadas, avatares de usuários mencionados, emojis... mas eu não achei nada disso na sua mensagem. {0}"
+  didYouMeanCommand: "Mas eu acho que você queria escrever `{0}`"
+  pleaseWaitCooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
+  loriDoesntHavePermissionDiscord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
+  commandOnlyForOwner: "Apenas pessoas especiais podem usar este comando :3"
+  userDoesntHavePermissionDiscord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
+  userDoesNotExist: "Eu procurei em todo o lugar, mas não encontrei nenhum usuário que se chame {0}! Lembre-se, eu procuro usuários por IDs, menções e nomes."
+  errorWhileExecutingCommand: "Alguma coisa deu extremamente errada ao executar este comando... {0} Desculpe pela inconveniência. {1}"
+  ifYouLikeMyFeaturesAndWantToHelp: "Se você gosta de usar as minhas funcionalidades e quer me ajudar, por favor, {0}"
+  pleaseUpvote: "vote em mim! A cada voto que você dá você ganha recompensas (como sonhos!)! Você pode votar a cada 12 horas então... que tal começar votando agora? Ah, e é claro, obrigada pela ajuda! {0}"
+  pleaseDonate: "doe para me ajudar a ficar online! Qualquer doação me ajuda bastante e, ao doar, você ganhará recompensas exclusivas! Claro, é opcional, então não se preocupe se não puder ajudar! {0}"
+  pleaseUseFortniteCreatorCode: "use o meu código de criadora no Fortnite/Epic Games Store! Cada compra com o meu código me ajuda a ficar online e, e é claro, obrigada pela sua ajuda! Código de Criador: {0}"
+  checkOutSponsors: "Veja os meus incríveis patrocinadores! Eles que me ajudam a ficar online todos os dias, permitindo que eu ajude, entretenha e que eu possa transformar o mundo em um lugar melhor! {0}"
+  checkOutSparklyPower: "Com tédio? Então jogue no servidor oficial de {0} da Loritta! IP: {1}"
+  restartEnabled: "Eu vou estar indisponível às {0} para aplicar novidades e consertar uns parafusos, provavelmente voltarei depois de ~{1} após eu reiniciar... Desculpe pela inconveniência! {2}"
+  checkOutPatchNotes: "Novidades chegaram! Descubra tudo o que há de novo nas notas do patch: {0}"
+  googleRateLimited: "Devido a alterações no limite de requisições do YouTube/Google, este comando está temporariamente desativado. Para mais informações: {0}"
+  canaryInstanceDoNotUse: "Você está usando a versão experimental da Loritta. Várias funcionalidades podem não funcionar, posso ficar offline a qualquer momento, seu servidor pode explodir e muito mais! Não reporte problemas da versão experimental caso não seja solicitado, obrigada!"
+  invalidNumber: "Número `{0}` é algo irreconhecível para um bot simples como eu, sorry."
+  invalidColor: "Cor `{0}` é algo irreconhecível para um bot simples como eu, sorry. Lembre-se, eu consigo entender cores em formato RGB, hexadecimal e em formato decimal!"
+  userNotOnTheGuild: "O usuário {0} existe, mas... cadê ele no servidor? E não, ele não está na lata de lixo, eu já procurei lá."
+  guildDoesNotExist: "Eu procurei em todo lugar, mas eu não encontrei nenhum servidor com ID `{0}`! Lembre-se, eu apenas procuro servidores pelo ID delas e eu preciso estar no servidor para poder encontrá-lo!"
+  commandNotSupportedInThisPlatform: "Comando não é suportado nesta plataforma... It is too late now to say sorry?"
+  commandDisabled: "Você não pode utilizar este comando aqui! Ele foi desativado pela equipe do servidor, desculpe pela inconveniência..."
+  howToReEnableCommands: "Psiu, você pode reativar o comando em {0}!"
+  arguments:
+    text: "texto"
+    number: "número"
+    user: "usuário"
+    emote: "emoji"
+    image: "imagem"
+  explain:
+    aliases: "Sinônimos"
+    example: "Exemplo"
+    examples: "Exemplos"
+    howToUse: "Como usar?"
+    permissions: "Permissões"
+    relatedCommands: "Veja também"
+    clickHereToSeeAllMyCommands: "Clique aqui para ver todos os meus comandos!"
+    youNeedToHavePermission: "Você precisa ter permissão para {0} para utilizar o comando"
+    loriNeedToHavePermission: "Eu preciso de permissão para {0} para conseguir executar o comando"
+  #DIVERSÃO
+  entertainment:
+    vieirinha:
+      description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
+      examples:
+        - "Você me ama?"
+        - "Sonic é melhor que Mario?"
+        - "Eu irei ganhar na loteria neste ano?"
+      responses:
+        - "Vai incomodar outra pessoa, obrigado."
+        - "Não sei, mas eu sei que eu moro lá no Cambuci."
+        - "Do jeito que eu vejo, sim."
+        - "Hmmmm... 🤔"
+        - "Não posso falar sobre isso."
+        - "Não."
+        - "Sim."
+        - "Eu responderia, mas não quero ferir seus sentimentos."
+        - "Provavelmente sim"
+        - "Provavelmente não"
+        - "Minhas fontes dizem que sim"
+        - "Minhas fontes dizem que não"
+        - "Você pode acreditar nisso"
+        - "Minha resposta é não"
+        - "Minha resposta é sim"
+        - "Do jeito que eu vejo, não."
+        - "Melhor não falar isto para você agora..."
+        - "Sim, com certeza!"
+        - "Também queria saber..."
+        - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
+        - "Talvez..."
+        - "Acho que sim."
+        - "Acho que não."
+        - "Talvez sim."
+        - "Talvez não."
+        - "Sim!"
+        - "Não!"
+        - "¯\\_(ツ)_/¯"
+    vemDeZap:
+      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
+      examples:
+        - "vem de zap bb"
+        - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
+        - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+  images:
+    bolsoDrake:
+      description: "Meme tem que ser de origem brasileira, talquei?"
+  #MODERAÇÃO
+  moderation:
+    unmute:
+      sucessfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+  #DISCORD
+  discord:
+    emojiInfo:
+      description: "Mostra as informações de um emoji"
+      aboutEmoji: "Sobre o Emoji"
+      emojiName: "Nome do Emoji"
+      emojiId: "ID do Emoji"
+      mention: "Menção"
+      emojiCreated: "Criado há"
+      seenAt: "Avistado em"
+    oldMembers:
+      description: "Curioso para saber quem são os veteranos do servidor? Então veja quem é da velha-guarda do servidor atual!"
+      theOldestPeople: "As pessoas mais velhas de {0}"
+    channelInfo:
+      description: "Mostra informações de um canal de texto"
+      channelMention: "Menção do canal"
+      channelCreated: "Canal criado há"
+      channelTopic: "Tópico do canal"
+      undefined: "Não definido"
+      channelNotFound: "Canal não encontrado!"
+    emoji:
+      notFoundId: "Enquanto {0} parece ser um ID válido para um emoji... Eu não consegui encontrar ele na minha lista de emojis! Eu só consigo pegar informações de um emoji a partir de um ID caso eu esteja no servidor em que o emoji está..."
+  #ECONOMIA
+  economy:
+    raffle:
+      quantity-bigger-than-allowed: "Você só pode apostar no máximo **{0} tickets** por rodada!"
+      hasTooManyTickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
+      cantBuyTooManyTickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
+  #MISCELÂNEA
+  miscellaneous:
+    ajuda:
+      errorWhileOpeningDm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
+    fanArts:
+      description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
+      madeBy: "Fan Art feita por {0}"
+      thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"

@@ -3,28 +3,28 @@ website:
   dashboard:
     general:
       commandPrefix:
-        title: "Loritta's Prefix"
-        subtext: "Prefix is ​​the text that comes before a command. By default I come with the + character, but you can change it in this option."
+        title: "Prefixo da Loritta"
+        subtext: "Prefixo é o texto que vem antes de um comando. Por padrão eu venho com o caractere +, mas você pode alterá-lo nesta opção."
       deleteMessagesAfterExecuting:
-        title: "Delete user message when executing a command"
-        subtext: "When executing a command, I will delete the user's message."
+        title: "Deletar mensagem do usuário ao executar um comando"
+        subtext: "Ao executar um comando, eu irei deletar a mensagem do usuário."
       tellMissingPermissionOnAChannel:
-        title: "Warn when I'm not allowed to speak on a channel"
-        subtext: "If I am unable to send a message on a channel due to lack of permissions, I will notify via direct message to the server staff. Useful for debugging problems."
+        title: "Avisar quando eu não tenho permissão para falar em um canal"
+        subtext: "Se eu não conseguir enviar uma mensagem em um canal devido a falta de permissões, eu irei avisar via mensagem direta para a equipe do servidor. Útil para depurar problemas."
       tellUserWhenUsingUnknownCommand:
-        title: "Warn the user when he executes an unknown command"
-        subtext: "If a user executes a non-existent command, I will warn him that I do not have the desired command, recommend which command he probably meant to use and, if the user wants to know all my commands, that he uses my help command."
+        title: "Avisar para o usuário quando ele executar um comando desconhecido"
+        subtext: "Caso um usuário executar um comando inexistente, eu irei avisar a ele que eu não possuo o comando desejado, recomendar qual comando ele provavelmente queria usar e, caso o usuário queira saber todos os meus lindos comandos, para que use o meu comando de ajuda."
       blacklistedChannels:
-        title: "Channels that will be blacklisted from using commands"
-        subtext: "In these channels I will ignore commands, as if I am not even there! (Even though I'm watching your messages for XP, hihi ~) If you want to configure which specific roles can bypass this restriction, configure it in the permissions section."
+        title: "Canais que serão proibidos usar comandos"
+        subtext: "Nestes canais eu irei ignorar comandos de usuários, como se eu nem estivesse lá! (Mesmo que eu esteja observando as suas mensagens para dar XP, hihi~) Caso você queira configurar que cargos específicos possam burlar a restrição, configure na seção de permissões."
       tellUserWhenUsingCommandsOnABlacklistedChannel:
-        title: "Send message to the user when he executes commands on blacklisted channels"
-        subtext: "If you have configured channels that are blacklisted from using commands, you can enable this, so that when a user tries to execute a command on blacklisted channels, I warn that it is not possible to execute commands on that channel."
+        title: "Enviar mensagem para o usuário quando ele executar comandos em canais proibidos"
+        subtext: "Caso você tenha configurado canais que sejam proibidos de usar comandos, você pode ativar esta opção para que, quando um usuário tente executar um comando em canais proibidos, eu avise que não é possível executar comandos no canal."
       messageWhenUsingACommandInABlockedChannel:
-        title: "Message when executing a command on a blacklisted channel"
-    owner: "Owner"
+        title: "Mensagem ao executar um comando em um canal proibido"
+    owner: "Dono"
     administrator: "Administrator"
-    manager: "Manager"
-    member: "Member"
-    addLori: "Add Lori"
-    configureLori: "Configure Lori"
+    manager: "Gerência"
+    member: "Membro"
+    addLori: "Adicionar a Lori"
+    configureLori: "Configurar a Lori"
