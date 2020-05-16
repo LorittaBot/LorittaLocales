@@ -1,7 +1,7 @@
 ---
 modules:
   youtube:
-    userName: "Link do Canal"
-    channel: "Aonde novos vídeos serão anunciados?"
-    theMessage: "Mensagem ao notificar um novo vídeo"
-    videoLink: "Link do Vídeo"
+    userName: "Channel Link"
+    channel: "Where the new videos should be announced?"
+    theMessage: "Message when notifying a new video"
+    videoLink: "Video Link"
