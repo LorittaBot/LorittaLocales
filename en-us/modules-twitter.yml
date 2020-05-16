@@ -1,9 +1,9 @@
 ---
 modules:
   twitter:
-    title: "Notify Tweets"
-    description: "Notify your server when your favorite @ tweets amazing news you should never miss! ...or when they decide to tweet pictures of cute animals."
-    userName: "Username"
-    channel: "Where new tweets should be announced?"
-    theMessage: "Message when notifying a new tweet"
-    tweetLink: "Tweet Link"
+    title: "Notificar Tweets"
+    description: "Notifique o seu servidor quando o seu @ favorito do Twitter tweeta uma novidade incrível que você jamais deveria perder! ...ou quando elx resolve tweetar fotos de bichinhos fofos."
+    userName: "Nome de Usuário"
+    channel: "Aonde novos tweets serão anunciados?"
+    theMessage: "Mensagem ao notificar um novo tweet"
+    tweetLink: "Link do Tweet"
