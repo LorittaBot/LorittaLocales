@@ -33,7 +33,7 @@ commands:
       description: "Add emotes in your server by its image's link. Perfect if you are tired of downloading images to your computer just to add them to your server!"
       success: "Emoji successfully added!"
       limitReached: "The emoji limit (50 emojis) already has been reached!"
-      error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
+      error: "I was unable to add this emoji! Sorry :sob:"
       emoteTooBig: "This emote is too big! Discord allows emojis of a maximum of {0}."
     renameemoji:
       description: "Renames an emoji"
@@ -54,9 +54,9 @@ commands:
       honorableMentions:
         - "`MrPowerGamerBR#4185` If it wasn't for him, I wouldn't even exist! {3}"
         - "Everyone that helped me to be what I'm today!"
-        - "Todas as {0} pessoas que doaram para me ajudaram a ficar online!"
-        - "Todas as {1} pessoas que fizeram fan arts incríveis para mim, amo vocês. {4}"
-        - "E você, {2}, por estar falando comigo... continue sendo uma pessoa incrível! {5}"
+        - "All of the {0} people that donated so that I could stay online!"
+        - "All of the {1} people that made incredible fan-arts for me, I love you. {4}"
+        - "And you, {2}, for being talking to me... continue being an incredible person! {5}"
     inviteinfo:
       inThisServer: "Yes, I'm in the server!"
       notOnTheServer: "Sadly I'm not in the server..."
