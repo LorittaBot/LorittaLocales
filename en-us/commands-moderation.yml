@@ -24,6 +24,11 @@ commands:
     ban:
       punishAction: "Banned"
       punishName: "ban"
+      punishedBy: "Punished by"
+      punishmentReason: "Reason"
+    softban:
+      punishAction: "Soft Ban"
+      punishName: "soft ban"
     kick:
       punishAction: "Kicked"
       punishName: "kick"
@@ -39,7 +44,15 @@ commands:
       punishAction: Warn Removed
       punishName: "remove a warn"
       noWarnsFound: "The user doesn't have any warns to remove! Psst, did you know that you can see the warnlist of an user with {0}?"
+      notEnoughWarns: "The user has less than **{0}** warnings! Hey, did you know that you can see the list of warnings of a user with {1}?"
       warnRemoved: "Alright, the user had a warn removed! It would be nice if he read the server rules before he is punished again, right?"
+    warnlist:
+      description: "Show the warnings a user has"
+      common: "Warning"
+      title: "Warning List"
+      userDoesntHaveWarns: "{0} does not have warnings!"
+      nextPunishment: "In the next warning, the user will {0}!"
+      date: "Date"
     dashboard:
       description: "Sends the link to the dashboard so that you can configure or add Loritta"
     renamechannel:
@@ -69,3 +82,15 @@ commands:
     quickpunishment:
       enabled: "Quick punishments are now active! While punishing an user, I will not even ask if you really want to punish the user, it will punish without even caring about!... just don't complain to me after you punished someone you didn't mean to, okay?"
       disabled: "Quick punishments are now disabled! While punishing an user, you will need to confirm if you really want to punish that user or not... at least you can now avoid that remorse when punishing someone that didn't had to get that punishment."
+    clear:
+      description: "Clears the chat from the current text channel."
+      examples:
+        - "10"
+        - "35 @MrPowerGamerBR"
+      invalidClearRange: "I can only clear between 2 and 100 past messages!"
+      couldNotFindMessages: "I couldn't find any messages to be deleted... I can't delete messages that were sent more than two weeks ago due to Discord limitations!"
+      ignoredTooOldMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago!"
+      ignoredPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were pinned messages!"
+      ignoredTooOldAndPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago and {2} messages could not be deleted because they were fixed messages!"
+      success: "The chat was cleaned up by {0}!"
+      sucess: "The chat was cleaned up by {0}!"
