@@ -4,7 +4,7 @@ commands:
     drake:
       description: "Create a Drake meme using two users of your guild!"
     bolsodrake:
-      description: "Meme tem que ser de origem brasileira, talquei??"
+      description: "Meme needs to be from brazilian origin, y' know??"
     bolsoframe:
       description: "Look this image, okay??"
     terminator:
@@ -49,23 +49,23 @@ commands:
       description: "The number of people that understand the references of my commands, even if it is so obvious and desperate... it is tiny. You know who is, and if you don't, you can't get these references! Write something in the attendant's bandanna that is always in Drawn Mask videos!"
       examples:
         - "Take the Broom."
-        - "É Drawn Mask e não Draum Mésqui"
+        - "It is Drawn Mask, not Draun Mahski"
     canelladvd:
-      description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
+      description: "Ensure that Matheus Canella hold the best DVDs of the world for only USD$: 2,00 (iu es d cipher two points two comma zero zero!!!)"
     tobecontinued:
-      description: "*Você começa a escutar Roundabout tocando no fundo*"
+      description: "*You start to listen to Roundabout playing in background*"
     emojimashup:
-      description: "Combine e misture os emojis padrões do Discord para formar novos emojis jamais vistos antes! Atualmente apenas smileys e alguns outros emojis suportados, mas mesmo assim as possibilidades são praticamente infinitas!"
-      invalidEmoji: "Emoji `{0}` inválido! Se for realmente um emoji, eu provavelmente ainda não recortei o emoji para que possa fazer aquela colagem marota com ele... mas talvez em breve você poderá utilizar esse emoji em suas misturas incríveis!"
-      invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."
+      description: "Blend and mix the default emojis from discord to make new ones that was never saw anywhere! Currently only smileys and other emojis are supported, but the possibilities are almost unlimited!"
+      invalidEmoji: "Invalid emoji `{0}`! If this is really a emoji, I probably haven't recognized yet to make that cool edit with it... but soon maybe you can use this emoji with his best mixtures!"
+      invalidEmojiDiscord: "Emoji `{0}` is not a default Discord emoji! Unfortunately mixing custom emoji from Discord is too much difficult and very hard to work with, sorry that I can't mix your lovely custom emoji..."
     buckshirt:
-      description: "Coloque uma estampa na camisa do Buck Dewey. Crie uma nova moda em Beach City!"
+      description: "Place a stamp in the shirt of Buck Dewey. Create a new fashion in Beach City!"
     bobfire:
-      description: "Algumas imagens são úteis como lenha para o Bob Esponja"
+      description: "Some images are good as wood for Sponge Bob"
     passingpaper:
       description: "\"bruh, gimme the cheat sheet!\""
     tristerealidade:
-      description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
+      description: "Creates a new and sad reality with members of the server... Yeah, not always we win."
       slot:
         - 
           MALE: "THE GUY YOU LIKE"
@@ -92,6 +92,6 @@ commands:
       topText: "Die"
       bottomText: "plague"
     briggscover:
-      description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
+      description: "Look the new game that @GuilhermeBriggs purchased!"
       examples:
         - "@Loritta"
