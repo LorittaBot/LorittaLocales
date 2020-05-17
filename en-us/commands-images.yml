@@ -2,7 +2,7 @@
 commands:
   images:
     drake:
-      description: "Crie um meme do Drake com dois usuários da sua guild!"
+      description: "Create a Drake meme using two users of your guild!"
     bolsodrake:
       description: "Meme tem que ser de origem brasileira, talquei??"
     bolsoframe:
@@ -10,45 +10,45 @@ commands:
     terminator:
       description: "Art created by @tonmoh"
       examples:
-        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
+        - "People complaining that Lori is down | Lori, that made a break of 5 minutes to drink water"
     loridrake:
-      description: "Crie um meme do Drake, Loritta edition"
+      description: "Create a Drake meme, Loritta edition"
     bolsonaro:
-      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+      description: "What Bolsonaro is showing in television that is so interesting and beautiful?"
     sam:
-      description: "kk eae men o SAM é brabo, coloque o selo da South America Memes em uma imagem!"
+      description: "Ya YEET. SAM is brabo, put a seal from South America Memes in one image!"
     ata:
-      description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
+      description: "Mônica saw your image and reacted with the best way possible."
     loriata:
-      description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
+      description: "Loritta saw your image and reacted with the best way possible."
     chicoata:
-      description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
+      description: "Chico Bento saw your image and reacted with the best way possible."
     gessyata:
-      description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
+      description: "Gessy saw your image and reacted with the best way possible."
     susto:
-      description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
+      description: "Ahhhhh 😱! Create an image of me scared out about something!"
     studiopolistv:
-      description: "Será que o Eggman colocou algo de interessante em sua televisão?"
+      description: "Did Eggman put anything interesting in his television?"
     romerobritto:
-      description: "Faça o Romero Britto desenhar a sua maravilhosa arte!"
+      description: "Make Romero Britto draw your beautiful art!"
     wolverine:
-      description: "Quando você vê fotos do passado e começa a lembrar dos tempos bons do passado, as saudades daquilo que a gente viveu..."
+      description: "When you see past photos and remember the good old days, the nostalgia from the things we lived..."
     pepedream:
-      description: "Quando você acorda de um belo sonho, e descobre que o sonho não era real..."
+      description: "When you woke up from a good dream, and find out that the dream was not real..."
     lorisign:
-      description: "Faça eu segurar uma placa mostrando algo interessante e fofo!"
+      description: "Make me hold a sign showing something cute and interesting!"
     art:
-      description: "Qual arte extraordinária te anima?"
+      description: "Which extraordinary art cheers you up?"
     drawnword:
-      description: "eU sO crianSA i escRevO coIsas ToSCas"
+      description: "iM a cHiLd aNd I wRiTe bOriNg tHiNgs"
       examples:
-        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
+        - "i HatE cUsTarD bUt eVeRyOnE LikES dUnNO WhY"
     drawnmasksign:
-      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
+      description: "Make {0} hold a sign showing something cute and interesting!"
     atendente:
-      description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
+      description: "The number of people that understand the references of my commands, even if it is so obvious and desperate... it is tiny. You know who is, and if you don't, you can't get these references! Write something in the attendant's bandanna that is always in Drawn Mask videos!"
       examples:
-        - "Pega a Vassoura."
+        - "Take the Broom."
         - "É Drawn Mask e não Draum Mésqui"
     canelladvd:
       description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
