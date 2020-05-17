@@ -1,31 +1,31 @@
 ---
 website:
-  genericDescription: "Olá, eu me chamo Loritta! Apenas um simples bot para o Discord com funcionalidades únicas que você jamais viu antes! Feito para entretenimento, moderação, para te ajudar no dia-a-dia e muito mais!"
-  lorittaWebsite: "Website da Loritta"
+  genericDescription: "Hello, my name is Loritta! Just a simple Discord bot with unique features you've never seen before! Made for entertainment, moderation, to help you in day-to-day life and more!"
+  lorittaWebsite: "Loritta's Website"
   jumbotron:
-    hello: "Olá, eu sou a"
-    tagline: "Apenas um simples bot para o Discord"
-    addMe: "Me adicione!"
-    moreInfo: "Saiba Mais"
-    viewMoreFeatures: "Ver mais funcionalidades"
-    dashboard: "Painel de Controle"
+    hello: "Howdy, my name is"
+    tagline: "Yet another Discord bot"
+    addMe: "Add me!"
+    moreInfo: "Learn More"
+    viewMoreFeatures: "View more features"
+    dashboard: "Dashboard"
   home:
     intro:
-      title: "Transforme o seu servidor em um lugar fantástico"
-      everyServer: "Todos os servidores no Discord encontram os mesmos problemas."
-      membersWant: "Membros querem entretenimento, moderadores querem automatização... e você apenas quer descansar."
-      itIsThatEasy: "Deixar o seu servidor único e extraordinário nunca foi tão fácil!"
+      title: "Turn your server into a wonderful place"
+      everyServer: "All Discord servers find the same problems."
+      membersWant: "Members want entertainment, moderators want automation... and you just want to rest."
+      itIsThatEasy: "Making your server unique and extraordinary has never been easier!"
       description:
-        - "A sua vida é preciosa demais para ficar gastando o seu tempo com tranqueiras e bobagens, me deixe cuidar das partes chatas enquanto você se diverte em seu servidor!"
+        - "Your life is too precious to spend your time with useless junk, let me take care of the boring parts while you have fun on your server!"
         - "With features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization..."
         - "And everything thanks to a 16 year old girl trying to make the world a better place!"
     trust:
-      title: "Muitas pessoas gostam de mim!"
+      title: "Many people like me!"
     funnyCommands:
-      title: "Divertindo e engajando o seu servidor"
+      title: "Having fun and engaging your server"
       description:
-        - "Um dos meus maiores objetivos é conseguir deixar você (e os membros do seu servidor) mais felizes, mesmo que seja apenas um pequeno sorriso do seu rosto."
-        - "Por isto eu possuo vários comandos diferentes e engraçados para você se divertir e ter gargalhadas com eles! Como o avaliarwaifu, que dá nota a sua waifu; faustão, que invoca o nosso querido Faustão no seu servidor para relembrar as clássicas frases dele; ship, que permite shippar dois usuários do seu servidor; cepo, para destruir alguém no estilo Gugu Gaiteiro; tretanews, para você criar um vídeo \"não clickbait\"™ com membros do seu servidor e vários outros comandos divertidos e engraçados!"
+        - "One of my biggest goals is to make you (and your server members) happier, even if it's just a little smile on your face."
+        - "That is why I have several different and funny commands for you to have fun and laugh with them! How ratewaifu, who scores his waifu; faustão, which invokes our dear Faustão on his server to remember his classic phrases; ship, which allows you to ship two users of your server; cepo, to destroy someone in the Gugu Gaiteiro style; tretanews, for you to create a \"not clickbait\"™ video with members of your server and several other fun and funny commands!"
     chitChat:
       title: "Impulsione conversas em seu servidor"
       description:
