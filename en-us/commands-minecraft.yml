@@ -11,14 +11,14 @@ commands:
         - "acacia | Type of wood that | was added | on Minecraft | version 1.7.2! :3"
         - "dark oak | Super dark!"
     mcavatar:
-      description: "Mostra o avatar de uma conta do Minecraft"
+      description: "Shows the avatar of a Minecraft account"
     mcbody:
-      description: "Mostra o corpo de uma conta do Minecraft"
+      description: "Shows the body of a Minecraft account"
     mchead:
-      description: "Mostra a cabeça de uma conta do Minecraft"
+      description: "Shows the player's head of a Minecraft account"
     mcsweater:
-      description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
+      description: "Did you like my beautiful sweatshirt? Do you want to put the sweatshirt on a Minecraft skin? Then use this command!"
     mcskin:
-      description: "Mostra a skin de uma conta do Minecraft"
+      description: "Shows the skin of a Minecraft account"
     spigotmc:
-      description: "Pesquisa plugins no SpigotMC"
+      description: "Search plugins in SpigotMC"
