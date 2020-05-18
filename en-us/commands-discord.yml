@@ -2,7 +2,7 @@
 commands:
   discord:
     userinfo:
-      description: "Veja as informações sobre um usuário!"
+      description: "See the information of an user!"
       sharedServers: "Shared servers"
       accountCreated: "Account created at"
       accountJoined: "Joined at"
@@ -10,7 +10,7 @@ commands:
       permissions: "Permissions"
       joinPlace: "{0} place"
       boostingSince: "Boosting since"
-      discordId: "ID do Discord"
+      discordId: "Discord ID"
     channelinfo:
       description: "Shows information about a text channel"
       channelInfo: "Information for channel {0}"
@@ -32,7 +32,7 @@ commands:
       roleColor: "Role color"
       rolePermissions: "Permissions"
     emoji:
-      errorWhileDownloadingEmoji: "Você tem certeza que isso aí é um emoji válido? {0}"
+      errorWhileDownloadingEmoji: "Are you sure that's a valid emoji? {0}"
     addemoji:
       description: "Add emotes in your server by its image's link. Perfect if you are tired of downloading images to your computer just to add them to your server!"
       success: "Emoji successfully added!"
@@ -50,7 +50,7 @@ commands:
       description: "Shows the banner used on top of the current server's text channels"
       noBanner: "This server doesn't have a banner!"
     botinfo:
-      description: "Mostra informações interessantes (e algumas bem inúteis) sobre mim!"
+      description: "Shows interesting (and some very useless) information about me!"
       embedDescription:
         - "Hey, I call myself Loritta (or, how my close friends call me, \"Lori\"), I have 16 years old and I am only a simple Brazilian bot for Discord with several features never seen before! {6}"
         - "Right now I'm sharing fun in **{0} servers** with **{2} innovative commands**. I've already executed **{3} commands** in the last 24 hours and I woke up **{1}** before 😴. Since March 30, 2017 I try to make the world a better place! {8}"
@@ -72,7 +72,7 @@ commands:
       gabrielaCute: "Yeeeeah, Gabriela is cute as well. Sometimes I'm even jealous of her hair style, it is an awesome style and so beautiful."
       polluxCute: "Yes, Pollux also is cute. Always together celebrating our achievements!"
     serverinfo:
-      description: "Veja as informações do servidor do Discord atual!"
+      description: "See the current Discord server information!"
     servericon:
-      description: "Mostra o ícone do servidor atual!"
+      description: "Show the current server icon!"
       noIcon: "Awww, what a pity! The server doesn't have an icon to show... Wait, don't be sad! Here, look at this cute emote to cheer you up! {0}"

@@ -96,14 +96,14 @@ commands:
       examples:
         - "@Loritta"
     nyancat:
-      description: "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!"
+      description: "Nyan Cat, directly on your server! And you can order the same Nyan Cat's size when you order a sandwich on Subway!"
     jooj:
-      description: "Inverte uma imagem horizontalmente, baseando no lado esquerdo da imagem!"
+      description: "Reverse an image horizontally, based on the left side of the image!"
     ojjo:
-      description: "Inverte uma imagem horizontalmente, baseando no lado direito da imagem!"
+      description: "Reverse an image horizontally, based on the right side of the image!"
     getoverhere:
-      description: "Dê uma de Scorpion e dê um puxão em alguém!"
+      description: "Be like Scorpion and pull someone!"
     friendship:
-      description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
+      description: "Tell them that your friendship with someone has ended in a simple and easy way!"
     maniatitlecard:
-      description: "Crie um title card do Sonic Mania!"
+      description: "Create a Sonic Mania title card!"
