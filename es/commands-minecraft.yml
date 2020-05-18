@@ -10,3 +10,15 @@ commands:
         - "jungle | Floresta!"
         - "acacia | Madeira que | foi adicionada | no Minecraft | 1.7.2! :3"
         - "dark oak | Super escuro!"
+    mcavatar:
+      description: "Mostra o avatar de uma conta do Minecraft"
+    mcbody:
+      description: "Mostra o corpo de uma conta do Minecraft"
+    mchead:
+      description: "Mostra a cabeça de uma conta do Minecraft"
+    mcsweater:
+      description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
+    mcskin:
+      description: "Mostra a skin de uma conta do Minecraft"
+    spigotmc:
+      description: "Pesquisa plugins no SpigotMC"
