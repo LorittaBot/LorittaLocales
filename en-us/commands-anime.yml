@@ -1,0 +1,28 @@
+---
+commands:
+  anime:
+    mal:
+      anime:
+        description: "Shows information about animes in MyAnimeList"
+        score: "Score"
+        rank: "Rank"
+        popularity: "Popularity"
+        genres: "Genres"
+        source: "Source"
+        episodes: "Episodes"
+        notfound: "Anime not found"
+        type:
+          name: "Type"
+          tv: "TV"
+          special: "Special"
+          ova: "OVA"
+          ona: "ONA"
+          movie: "Movie"
+          unknown: "Unknown"
+        status:
+          name: "Status"
+          aired: "Premiered"
+          airing: "In premiere"
+          not_yet_aired: "Not yet premiered"
+          finished: "Finished"
+          unknown: "Unknown"
