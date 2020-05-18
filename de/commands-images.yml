@@ -95,3 +95,15 @@ commands:
       description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
       examples:
         - "@Loritta"
+    nyancat:
+      description: "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!"
+    jooj:
+      description: "Inverte uma imagem horizontalmente, baseando no lado esquerdo da imagem!"
+    ojjo:
+      description: "Inverte uma imagem horizontalmente, baseando no lado direito da imagem!"
+    getoverhere:
+      description: "Dê uma de Scorpion e dê um puxão em alguém!"
+    friendship:
+      description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
+    maniatitlecard:
+      description: "Crie um title card do Sonic Mania!"
