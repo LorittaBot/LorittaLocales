@@ -90,6 +90,12 @@ commands:
       description: "MORRE PRAGA"
       topText: "Morre"
       bottomText: "praga"
+    quelo:
+      description: "Quelo comê pocalia >w<"
+      template: "Quelo"
+      examples: 
+      - "comê pocalia >w<"
+      - "ser a melhor do mundo!"
     briggscover:
       description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
       examples:
