@@ -2,6 +2,7 @@
 commands:
   discord:
     userinfo:
+      description: "See the information of an user!"
       sharedServers: "Shared servers"
       accountCreated: "Account created at"
       accountJoined: "Joined at"
@@ -9,6 +10,7 @@ commands:
       permissions: "Permissions"
       joinPlace: "{0} place"
       boostingSince: "Boosting since"
+      discordId: "Discord ID"
     channelinfo:
       description: "Shows information about a text channel"
       channelInfo: "Information for channel {0}"
@@ -29,9 +31,11 @@ commands:
       roleMembers: "Members"
       roleColor: "Role color"
       rolePermissions: "Permissions"
+    emoji:
+      errorWhileDownloadingEmoji: "Are you sure that's a valid emoji? {0}"
     addemoji:
-      description: "Add emotes in your server by its image's link. Perfect if you are tired of downloading images to your computer just to add to your server!"
-      success: "Emoji added successfully!"
+      description: "Add emotes in your server by its image's link. Perfect if you are tired of downloading images to your computer just to add them to your server!"
+      success: "Emoji successfully added!"
       limitReached: "The emoji limit (50 emojis) already has been reached!"
       error: "I was unable to add this emoji! Sorry :sob:"
       emoteTooBig: "This emote is too big! Discord allows emojis of a maximum of {0}."
@@ -46,14 +50,15 @@ commands:
       description: "Shows the banner used on top of the current server's text channels"
       noBanner: "This server doesn't have a banner!"
     botinfo:
+      description: "Shows interesting (and some very useless) information about me!"
       embedDescription:
         - "Hey, I call myself Loritta (or, how my close friends call me, \"Lori\"), I have 16 years old and I am only a simple Brazilian bot for Discord with several features never seen before! {6}"
-        - "Right now I'm sharing fun in **{0} servers** with **{2} innovating commands**. I've already executed **{3} commands** in the last 24 hours and I woke up **{1}** before 😴. Since March 30, 2017 I try to make the world a better place! {8}"
+        - "Right now I'm sharing fun in **{0} servers** with **{2} innovative commands**. I've already executed **{3} commands** in the last 24 hours and I woke up **{1}** before 😴. Since March 30, 2017 I try to make the world a better place! {8}"
         - "I was made in **{4} [Kotlin](https://kotlinlang.org/)** using **{5} [JDA](https://github.com/DV8FromTheWorld/JDA)** and, if you want to see my source code (to see how I was coded), [click here](https://bit.ly/lorittagit)!"
         - "If you want to see my website, [click here](https://loritta.website/) and, if you want to add me in your server, [click here](https://loritta.website/dashboard)! {7}"
       honorableMentions:
         - "`MrPowerGamerBR#4185` If it wasn't for him, I wouldn't even exist! {3}"
-        - "Everyone that helped me to be built!"
+        - "Everyone that helped me to be what I'm today!"
         - "All of the {0} people that donated so that I could stay online!"
         - "All of the {1} people that made incredible fan-arts for me, I love you. {4}"
         - "And you, {2}, for being talking to me... continue being an incredible person! {5}"
@@ -62,9 +67,12 @@ commands:
       notOnTheServer: "Sadly I'm not in the server..."
     avatar:
       clickHere: "Click [here]({0}) to download the picture!"
-      lorittaCute: "Yes, I know I am so cute!"
+      lorittaCute: "Yes, I know that I'm so cute!"
       pantufaCute: "Yeah, Pantufinha is also very cute. Look how cutesy she is!"
       gabrielaCute: "Yeeeeah, Gabriela is cute as well. Sometimes I'm even jealous of her hair style, it is an awesome style and so beautiful."
       polluxCute: "Yes, Pollux also is cute. Always together celebrating our achievements!"
+    serverinfo:
+      description: "See the current Discord server information!"
     servericon:
-      noIcon: "Awww, what a pity! The server doesn't have an icon to show... Wait, don't be sad! Here, look this cute emote to cheer you up! {0}"
+      description: "Show the current server icon!"
+      noIcon: "Awww, what a pity! The server doesn't have an icon to show... Wait, don't be sad! Here, look at this cute emote to cheer you up! {0}"

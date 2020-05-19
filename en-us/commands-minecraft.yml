@@ -10,3 +10,15 @@ commands:
         - "jungle | Jungle!"
         - "acacia | Type of wood that | was added | on Minecraft | version 1.7.2! :3"
         - "dark oak | Super dark!"
+    mcavatar:
+      description: "Shows the avatar of a Minecraft account"
+    mcbody:
+      description: "Shows the body of a Minecraft account"
+    mchead:
+      description: "Shows the player's head of a Minecraft account"
+    mcsweater:
+      description: "Did you like my beautiful sweatshirt? Do you want to put the sweatshirt on a Minecraft skin? Then use this command!"
+    mcskin:
+      description: "Shows the skin of a Minecraft account"
+    spigotmc:
+      description: "Search plugins in SpigotMC"

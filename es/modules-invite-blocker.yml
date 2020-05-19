@@ -1,0 +1,6 @@
+---
+modules:
+  inviteBlocker:
+    activateInviteBlockerBypass: "Psiu, se você quer que o cargo de {0} tenha permissão para poder enviar convites sem que sejam bloqueados, clique em {1} que eu irei ativar para você!"
+    howToReEnableLater: "Se você mudar de ideia, você poderá alterar as permissões em {0}!"
+    bypassEnabled: "Prontinho! Agora eu não irei bloquear convites enviados por pessoas que possuem o cargo de {0}!"

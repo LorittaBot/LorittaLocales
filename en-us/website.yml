@@ -33,7 +33,7 @@ website:
     - "New Microsoft Edge: {3}"
     - "For more info, join the Loritta's Discord Server and contact the support staff: {0}"
   failedToLoadScripts:
-    - "Something gone wrong when loading Loritta website's JavaScript, website features may not work properly!"
+    - "Something went wrong when loading JavaScript from Loritta's website, website features may not work properly!"
     - "Check if your browser is updated (recommended: Mozilla Firefox, Google Chrome or the New Microsoft Edge) and check if your browser doesn't have a malicious extension or if it isn't blocking external requests."
     - "If the problem persists, join the Loritta's Discord Server and contact the support staff: {0}"
   errorTracker:
@@ -57,7 +57,7 @@ website:
       - "I swear to you she was here! I swear on my mother's soul... and... and on all that is most sacred in this world!"
       - "..."
       - "Oh, I don't know, the page is gone... maybe my friend's cat ate the page! I think the page tasted like pudding with a little bit of HTML tags. Hmm, delicious!"
-      - "So... Is too late to say sorry?"
+      - "So... Is too late to now to say sorry?"
   userBanned:
     title: "You are banned"
     description:

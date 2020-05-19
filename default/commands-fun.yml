@@ -52,6 +52,7 @@ commands:
       giveawayStillRunning: "O sorteio que você tentou rolar novos vencedores... bem, ainda está rolando! Se você está querendo finalizar o sorteio, utilize {0}"
       rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
     ship:
+      description: "Veja se um casal daria certo (ou não!)"
       newCouple: "Hmmm, será que nós temos um novo casal aqui?"
       bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
       value90: [
@@ -122,6 +123,7 @@ commands:
       tooMuchDices: "Eu tentei girar os dados mas são taaaaaantos que não coube na minha mesa e cairam no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que eles não caiam novamente."
       result: "rolou **{1}**... e conseguiu **{2}**!"
     ratewaifu:
+      description: "Receba uma nota para a sua Waifu!"
       note10:
       - "Simplesmente perfeita! Não trocaria de Waifu se fosse você!"
       note9:

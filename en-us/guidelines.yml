@@ -6,8 +6,8 @@ website:
       title: "What are the guidelines for?"
       description:
         - "Loritta's dream is to make the world a better place, entertaining and helping people along the way."
-        - "For her to be able to make her dream come true, there are her guidelines, so that only people who wish she can reach her sonhos can follow and have fun with her."
-        - "Note: We do not actively monitor and are not responsible for published activities or content; however, we expect owners of servers, mods and administrators to follow these guidelines on your servers And we can interfere if they are not folowed."
+        - "For her to be able to make her dream come true, there are guidelines, so that only people who wish she can reach her sonhos can follow and have fun with her."
+        - "Note: We do not actively monitor and are not responsible for published activities or content; however, we expect owners of servers, moderators and administrators to follow these guidelines on your servers And we can interfere if they are not followed."
         - "If server administrators purposely do not punish users who are actively breaking the guidelines, the server may lose the privilege of using Loritta."
     whatYouCanDo:
       title: "It’s great to do the following"
@@ -19,35 +19,35 @@ website:
       title: "The following actions aren't tolerated"
       description:
         - "Disrespecting the guidelines of the platform you are on. {platforms}"
-        - "Spreading lies (\"fake news\") about Loritta or related. Continuing to spread lies even after proving you are wrong means that you are someone who is an Douchebag."
+        - "Spreading lies (\"fake news\") about Loritta or related. Continuing to spread lies even after proving you are wrong means that you are someone who is an douchebag."
         - "Use NSFW (not safe for work) content in Loritta's functions."
-        - "Attempt to attack, harm or overthrow Loritta."
+        - "Attempt to attack, harm or tear down Loritta."
         - "Trying to get advantages by circumventing restrictions imposed by Loritta. If you need to do something out of the ordinary to get benefits against other users (Example: Create more accounts to get Rewards), then it is prohibited."
         - "Offend, curse or sexualize Loritta. {disrespect}"
         - "Using Loritta features to break the guidelines. {breaking}"
         - "Try to impersonate Loritta or impersonate someone of her team. {beyourself}"
-        - "Attempts to evade / circumvent punishments. If you try to do this, you will be punished again, with no chance of being disbanded."
+        - "Attempts to evade/circumvent punishments. If you try to do this, you will be punished again, with no chance of being disbanded."
         - "Plagiarize Loritta. You can be inspired by its features, but copying almost identically is prohibited."
       onPlatformBreak:
         - "If you find someone who is not respecting the platform guidelines, report to the platform team and, if applicable, report to the Loritta team."
       disrespect:
-        - "No, spreading hate free is not \"constructive criticism\" and trying to disguise your offenses calling as \"constructive criticism\" is no excuse for not being punished. If you want to make a Critic, be constructive and say what should be improved in the loritta instead of offending just to offend. Constructive criticism helps to improve the loritta and thus everyone wins, free hate nope."
-        - "We will not punish if it is a \"light\" curse (example: \"idiot\") but we will punish it if it is a \"heavy\" curse (example: \"bitch\", \"slut\"). We will also punish if the user has offended several times in a row (as this makes cursing just free hate)."
-        - "As we only punish if the user is reported, you will have no problems if you offend or curse on your private server that only has you and Loritta. But we will punish you if you are cursing in public servers."
+        - "No, spreading free hate is not \"constructive criticism\" and trying to disguise your offenses calling it as \"constructive criticism\" is no excuse for not being punished. If you want to make a critic, be constructive and say what should be improved in Loritta instead of offending just to offend. Constructive criticism helps to improve Loritta and thus everyone wins, free hate? Uh, nope."
+        - "We will not punish if it is a \"light\" curse (example: \"idiot\") but we will punish it if it is a \"heavy\" curse (example: \"bitch\", \"slut\"). We will also punish if the user has offended several times in a row (since this turns offenses into only free hate)."
+        - "As we only punish if the user is reported, you will have no problems if you offend or curse on your private server that only has you and Loritta. But we will punish you if you are offending in public servers."
         - "The reason for punishing such attitudes is to prevent other users from creating opinions based on lies and curses about it. And by the way, if you don't like it, so why would you need the privilege of using her?"
-        - "Loritta may just be a bot, but there are people who have worked hard to make her what she is today. Taking such actions disrespects their work. Imagine if you worked during years in something that is your dream, just so someone can start cursing it for no reason, without even explaining how you should improve your work."
+        - "Loritta may just be a bot, but there are people who have worked hard to make her what she is today. Taking such actions disrespects their work. Imagine if you worked during years in something that is your dream, just so someone can start offending it for no reason, without even explaining how you should improve your work."
         - "Remember that only Loritta's team can judge who Loritta really is. To say that you did \"a Loritta\" and she disrespected some of the guidelines mentioned is a lie and breaks the laws of content right."
       breaking:
         - "There are users who do not know that it is possible to do such things on Loritta, and therefore they place the blame on Loritta when they see her saying the wrong things instead of blaming the users who do this. Because of this, forcing Loritta to respond to offenses, inappropriate content or anything that breaks community guidelines is prohibited."
       beYourself:
         - "Change your name and avatar to the ones that Loritta uses. {fanarts}"
-        - "Create bots that have the same username and avatar that Loritta use."
+        - "Create bots that have the same user name and avatar that Loritta use."
         - "Inventing or spreading lies saying that you or your bot has something to do with Loritta or her team. {notjoke}"
         - "If a server has a bot that is impersonating Loritta, the owner of the server will be banned until he proves who added the bot to the server."
       useFanArts:
         - "You can use fan arts that you did for Lori, as long as you don't use her name. But before using fan art as an avatar, ask the fan art artist if you can use it."
       notJoke:
-        - "If you pass by Loritta just for \"joke\" is no excuse for not being punished."
+        - "If you pass yourself by Loritta just for \"joke\", is no excuse for not being punished."
     whatWillHappenIf:
       title: "What will happen if I break the rules?"
       ifYouBreak: "If you break any of the guidelines, you may receive one or more penalties from the list."

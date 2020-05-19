@@ -6,14 +6,14 @@ commands:
     punishedLog: "Punished by {0} - Reason: {1}"
     punishmentReason: "Reason"
     cantDeleteMessagesMoreThan7Days: "Sorry, but Discord doesn't allow me to delete messages sent more than 7 days ago when banning an user!"
-    cantDeleteMessagesLessThan0Days: "Sorry, but it's impossible to delete sent messages less than 0 days ago! (How this would work? Messages that aren't sent yet would be deleted in the future?)"
+    cantDeleteMessagesLessThan0Days: "Sorry, but it's impossible to delete sent messages less than 0 days ago! (And how this would work? Messages that aren't sent yet would be deleted in the future?)"
     roleTooLow: "I can't punish this user, my role's position is lower than the user to be punished!"
     roleTooLowHowToFix: "To fix this issue, move my role's position to the top on roles list, thanks!"
-    punisherRoleTooLow: "You can't punish this user, your role''s position is lower than the user to be punished!"
+    punisherRoleTooLow: "You can't punish this user, your role's position is lower than the user to be punished!"
     punisherRoleTooLowHowToFix: "To fix this issue, move your role's position to the top on roles list, thanks!"
-    successfullyPunished: "User punished. No one told you to break the rules, you douchebag!"
+    successfullyPunished: "User punished. No one told you to break the rules, you fool!"
     readyToPunish: "You are about to {0} {1} (`{2}` – `{3}`) from your server! To confirm, click on ✅"
-    silentTip: "Psst, wanting to punish the victim without them receiving the punishment via direct message and without appearing in the punishment channel? Then click on the \U0001F64A!"
+    silentTip: "Psst, wanting to punish the victim without them receiving the punishment via direct message and without appearing in the punishment channel? Then click on the 🙊!"
     skipConfirmationTip: "Tired of confirming your punishments? Then use {0} to skip the punishment confirmations, so you can feel the satisfaction of banning that annoying user while they are typing!"
     setPunishmentTime: "When will you want me to remove the punishment from this user? (`1 hour`,`5 minutes`, `12: 08/11/2020`, etc). If you want that this punishment be permanent, click in the 🔄!"
     reports:
@@ -24,6 +24,11 @@ commands:
     ban:
       punishAction: "Banned"
       punishName: "ban"
+      punishedBy: "Punished by"
+      punishmentReason: "Reason"
+    softban:
+      punishAction: "Soft Ban"
+      punishName: "soft ban"
     kick:
       punishAction: "Kicked"
       punishName: "kick"
@@ -37,15 +42,23 @@ commands:
       punishName: "warn"
     unwarn:
       punishAction: Warn Removed
-      punishName: "remove a warn"
-      noWarnsFound: "The user doesn't have any warns to remove! Psst, did you know that you can see the warnlist of an user with {0}?"
+      punishName: "remove a warning"
+      noWarnsFound: "The user doesn't have any warns to remove! Psst, did you know that you can see the warn list of an user with {0}?"
+      notEnoughWarns: "The user has less than **{0}** warnings! Hey, did you know that you can see the list of warnings of a user with {1}?"
       warnRemoved: "Alright, the user had a warn removed! It would be nice if he read the server rules before he is punished again, right?"
+    warnlist:
+      description: "Show the warnings a user has"
+      common: "Warning"
+      title: "Warning List"
+      userDoesntHaveWarns: "{0} does not have warnings!"
+      nextPunishment: "In the next warning, the user will {0}!"
+      date: "Date"
     dashboard:
       description: "Sends the link to the dashboard so that you can configure or add Loritta"
     renamechannel:
       description: "Renames text channels with space (Also can rename voice channels)"
       successfullyRenamed: "Channel successfully renamed!"
-      channelNotFound: "Channel not found! (Tried to find by its name, ID and mention and I didn't find it!)"
+      channelNotFound: "Channel not found! (Tried to find by its name, ID and mention and I couldn't find it!)"
       channelConflict: "There is two channels with the same name (or similar) with different types, try to use ID (or channel mention) rather than using channel name!"
       cantRename: "I wasn't able to rename the channel..."
     mute:
@@ -67,5 +80,18 @@ commands:
       successfullyUnmuted: "The user now knows how to speak again, I hope that this time this person say cool things to not get silenced again!"
       automaticallyExpired: "After a long time silenced... the user finally knows how to speak again! I hope this time he could speak cool and interesting things to not be muted again!"
     quickpunishment:
+      description: "Change whether you prefer that punishments are applied directly or whether they should have a confirmation before punishing!"
       enabled: "Quick punishments are now active! While punishing an user, I will not even ask if you really want to punish the user, it will punish without even caring about!... just don't complain to me after you punished someone you didn't mean to, okay?"
       disabled: "Quick punishments are now disabled! While punishing an user, you will need to confirm if you really want to punish that user or not... at least you can now avoid that remorse when punishing someone that didn't had to get that punishment."
+    clear:
+      description: "Clears the chat from the current text channel."
+      examples:
+        - "10"
+        - "35 @MrPowerGamerBR"
+      invalidClearRange: "I can only clear between 2 and 100 past messages!"
+      couldNotFindMessages: "I couldn't find any messages to be deleted... I can't delete messages that were sent more than two weeks ago due to Discord limitations!"
+      ignoredTooOldMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago!"
+      ignoredPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were pinned messages!"
+      ignoredTooOldAndPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago and {2} messages could not be deleted because they were fixed messages!"
+      success: "The chat was cleaned up by {0}!"
+      sucess: "The chat was cleaned up by {0}!"

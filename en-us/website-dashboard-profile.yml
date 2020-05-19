@@ -13,5 +13,5 @@ website:
         deleteMyAccount: "Delete my account"
         description:
           - "This action is irreversible! All of your data will deleted and you will lose everything you got from Loritta!"
-          - "After confirming, you can't revert it. This will delete your profile, sonhos, donator keys, reminders, reputations, marriage and much more, just delete your data if you sure of what are you doing!"
-          - "You will have to remove Loritta from your servers manually and stop using their commands or functions, if you use her again, she will be able to store data about you."
+          - "After confirming, you won't be able to revert it. This will delete your profile, sonhos, premium keys, reminders, reputations, marriage and much more, just delete your data if you sure of what are you doing!"
+          - "You will have to remove Loritta from your servers manually and stop using their commands or functions, if you use her again, she may store data about you again."

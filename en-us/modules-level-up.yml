@@ -1,8 +1,8 @@
 ---
 modules:
   levelUp:
-    title: "Level Up Rewards"
-    description: "Encourage users to chat on your server by giving them experience points while they discuss and chat on your server! By gaining experience, you can reward active users with roles and awards!"
+    title: "Levels by Experience"
+    description: "Encourage users to chat on your server by giving them experience points while they chat on your server! By gaining experience, you can reward active users with roles and awards!"
     howToDisableLevelNotifications: "You received this notification because you leveled up in {0}\n\nTired about notifications of level up by direct message? So use {1} and say goodbye to level up messages in your DM! {2}"
     channelTypes:
       disabled: "Disabled"
@@ -10,15 +10,15 @@ modules:
       directMessage: "Direct Message"
       differentChannel: "Custom Channel"
     levelUpAnnouncement:
-      title: "Level Up messages"
+      title: "Level Up Messages"
       description:
         - "You can set me to notify users when they level up."
       tellWhere: "Level Up Announcement"
-      theMessage: "Level Up messages"
+      theMessage: "Level Up Messages"
       channel: "Where the message will be announced?"
       onlyIfUserReceivedRoles:
         title: "Only notify if the user receives any reward"
-        subtext: "In case you have set up rewards when leveling up, I can only notify if the user received a new reward"
+        subtext: "In case you have set up rewards when leveling up, I can notify only if the user received a new reward"
       templates:
         default:
           title: "Default"
@@ -27,7 +27,7 @@ modules:
           title: "Embed"
           footer: "Keep trying to level up!"
     roleByXpLevel:
-      title: "Rewards for leveling up"
+      title: "Rewards for Leveling Up"
       whenUserGetsToXp: "When arriving at {0} XP (Level {1}), give the role {2}"
       description:
         - "Reward active users from your server with exclusive and unique roles."
@@ -51,7 +51,7 @@ modules:
     customRoleRate:
       title: "XP Rate for Roles"
       description:
-        - "You can configure which roles gain more or less experience than other members. Great for rewarding active members of your server with an experience boost when they chit-chat on your server!"
+        - "You can configure which roles gain more or less experience than other members. Great for rewarding active members of your server with an experience bonus for every message they send!"
       whenUserHasRoleRate: "Users with the role {0} will earn {1}x more XP"
     resetXp:
       title: "Reset XP"

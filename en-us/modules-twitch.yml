@@ -2,6 +2,6 @@
 modules:
   twitch:
     userName: "Channel Link"
-    channel: "Where will be announced when the channel goes live?"
+    channel: "Where the livestream will be announced when the channel goes live?"
     theMessage: "Message when the streamer goes live"
     channelLink: "Channel Link"

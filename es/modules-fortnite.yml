@@ -1,0 +1,9 @@
+---
+modules:
+  fortnite:
+    title: "Fortnite"
+    description: "Where are we dropping boys? Funcionalidades relacionadas ao Fortnite, para você ficar informado enquanto espera o ônibus de batalha partir!"
+    notifyItemRotation:
+      title: "Notificar quando a rotação de itens diária da loja for alterada"
+      subtext: "Abrir o Fortnite só para ver quais itens estão na rotação diária é chato, ative esta opção para que eu automaticamente anuncie quando a rotação for atualizada."
+      channel: "Canal aonde será anunciado as novas rotações de itens da loja"

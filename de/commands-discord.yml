@@ -1,0 +1,78 @@
+---
+commands:
+  discord:
+    userinfo:
+      description: "Veja as informações sobre um usuário!"
+      sharedServers: "Servidores compartilhados"
+      accountCreated: "Conta criada há"
+      accountJoined: "Entrou há"
+      joinPosition: "Posição de Entrada"
+      permissions: "Permissões"
+      joinPlace: "{0} lugar"
+      boostingSince: "Impulsionando desde"
+      discordId: "ID do Discord"
+    channelinfo:
+      description: "Mostra informações de um canal de texto"
+      channelInfo: "Informações do canal {0}"
+      channelMention: "Menção do canal"
+      channelCreated: "Canal criado há"
+      channelTopic: "Tópico do canal"
+      undefined: "Não definido"
+      notFound: "Canal não encontrado!"
+    roleinfo:
+      description: "Mostra informações de um cargo"
+      roleNotFound: "Tentei procurar por cargos mencionados, IDs, e nomes de cargos e não encontrei nenhum cargo!"
+      roleMention: "Menção"
+      roleCreated: "Data de criação"
+      roleID: "ID do Cargo"
+      roleHoisted: "Exibe separadamente na lista de membros"
+      roleIntegration: "Integração"
+      roleMentionable: "Mencionável"
+      roleMembers: "Membros"
+      roleColor: "Cor do cargo"
+      rolePermissions: "Permissões"
+    emoji:
+      errorWhileDownloadingEmoji: "Você tem certeza que isso aí é um emoji válido? {0}"
+    addemoji:
+      description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
+      success: "Emoji adicionado com sucesso!"
+      limitReached: "O limite de emojis (50 emojis) já foi batido!"
+      error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
+      emoteTooBig: "O emoji é grande demais! O Discord permite emojis de, no máximo, {0}."
+    renameemoji:
+      description: "Renomeia um emoji"
+      emoteNotFound: "Nenhum emoji encontrado!"
+      emoteNameLength32Error: "O nome que você quer renomear é maior do que 32 caracteres!"
+      emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
+      emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
+      renameSucess: "Emoji renomeado!"
+    guildbanner:
+      description: "Mostra o banner utilizado em cima dos canais de texto do servidor atual"
+      noBanner: "Esse servidor não tem banner!"
+    botinfo:
+      description: "Mostra informações interessantes (e algumas bem inúteis) sobre mim!"
+      embedDescription:
+        - "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\"), tenho 16 anos e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas antes! {6}"
+        - "Atualmente estou espalhando diversão em **{0} servidores** com **{2} comandos inovadores** e já executei **{3} comandos** nas últimas 24 horas e acordei a **{1}** atrás 😴. Desde 30 de Março de 2017 tentando transformar o mundo em um lugar melhor! {8}"
+        - "Eu fui criada em **{4} [Kotlin](https://kotlinlang.org/)** utilizando **{5} [JDA](https://github.com/DV8FromTheWorld/JDA)** e, se você quiser ver meu código-fonte (para ver como eu fui feita), [clique aqui](https://bit.ly/lorittagit)!"
+        - "Se você quiser dar uma passadinha no meu website, [clique aqui](https://loritta.website/) e, caso queira me adicionar no seu servidor, [clique aqui](https://loritta.website/dashboard)! {7}"
+      honorableMentions:
+        - "`MrPowerGamerBR#4185` Se não fosse por ele, eu nem iria existir! {3}"
+        - "Todas as pessoas que me ajudaram a ser desenvolvida!"
+        - "Todas as {0} pessoas que doaram para me ajudaram a ficar online!"
+        - "Todas as {1} pessoas que fizeram fan arts incríveis para mim, amo vocês. {4}"
+        - "E você, {2}, por estar falando comigo... continue sendo uma pessoa incrível! {5}"
+    inviteinfo:
+      inThisServer: "Sim, eu estou no servidor!"
+      notOnTheServer: "Infelizmente eu não estou no servidor..."
+    avatar:
+      clickHere: "Clique [aqui]({0}) para baixar a imagem!"
+      lorittaCute: "Sim, eu sei que eu sou muito fofa!"
+      pantufaCute: "Sim, a Pantufinha também é fofinha. Olha que cute cute iti malia"
+      gabrielaCute: "Sim, a Gabriela também é fofa. As vezes tenho até inveja do style do cabelo dela, é um estilo daora e muito bonito."
+      polluxCute: "Sim, a Pollux também é fofis. Sempre juntas comemorando as nossas conquistas!"
+    serverinfo:
+      description: "Veja as informações do servidor do Discord atual!"
+    servericon:
+      description: "Mostra o ícone do servidor atual!"
+      noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"

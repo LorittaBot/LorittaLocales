@@ -2,7 +2,7 @@
 loritta:
   modules:
     counter:
-      auditLogReason: "Update members count"
+      auditLogReason: "Update member counters"
       theme:
         default: "Default"
         red: "Red"

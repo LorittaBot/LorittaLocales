@@ -2,8 +2,8 @@
 discord:
   status:
     online: "Online"
-    idle: "AFK"
-    do-not-disturb: "Do not disturb"
+    idle: "Idle"
+    do-not-disturb: "Do Not Disturb"
     offline: "Offline"
   permissions:
     kickMembers: "Kick members"

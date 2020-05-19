@@ -12,7 +12,7 @@ website:
   home:
     intro:
       title: "Turn your server into a wonderful place"
-      everyServer: "All Discord servers has the same problems."
+      everyServer: "All Discord servers find the same problems."
       membersWant: "Members want entertainment, moderators want automation... and you just want to rest."
       itIsThatEasy: "Making your server unique and extraordinary has never been easier!"
       description:
@@ -22,10 +22,10 @@ website:
     trust:
       title: "Many people like me!"
     funnyCommands:
-      title: "Making your server more entertaining"
+      title: "Having fun and engaging your server"
       description:
-        - "One of my biggest goals is to make you (and your server members) happier, even if it's just a small smile on your face."
-        - "That is why I have several different and funny commands for you to have fun and laugh with them! How avaliarwaifu, who scores his waifu; faustão, which invokes our dear Faustão on his server to remember his classic phrases; ship, which allows you to ship two users of your server; cepo, to destroy someone in the Gugu Gaiteiro style; tretanews, for you to create a \"no clickbait\" ™ video with members of your server and several other fun and funny commands!"
+        - "One of my biggest goals is to make you (and your server members) happier, even if it's just a little smile on your face."
+        - "That is why I have several different and funny commands for you to have fun and laugh with them! How ratewaifu, who scores his waifu; faustão, which invokes our dear Faustão on his server to remember his classic phrases; ship, which allows you to ship two users of your server; cepo, to destroy someone in the Gugu Gaiteiro style; tretanews, for you to create a \"not clickbait\"™ video with members of your server and several other fun and funny commands!"
     chitChat:
       title: "Boost conversations on your server"
       description:
@@ -42,7 +42,7 @@ website:
         - "Let's start something new. With your own moderation settings, make your server awesome. Tired of banning, warning or kicking manually somebody that broke the rules? Leave it with me, while you are away, any person that break the rules, will be banned automatically."
         - "See how everything is much more easier when there's teamwork?"
     notify:
-      title: "Digital Influencers: Your fans will never miss new content!"
+      title: "Content Creators: Your fans will never miss new content!"
       description:
         - "Telling your fans that you've uploaded something new is tiring and annoying... You want to use your time to be productive and make content bigger and better for your fans but most of the time is spent just to be reminding your fans that you made new content, as some social networks think they know more about what their fans like and want to receive than their own fans..."
         - "Avoid such problems, I'll even see your YouTube channel, Twitch channel, Twitter, Amino community, RSS feeds, and several other places to see if you've done something new! Focus on your progress, I'll take care of notifying your fans."
@@ -55,8 +55,8 @@ website:
       title: "Community"
       description:
         - "And, of course, I could not forget to mention the people who like what I do!"
-        - "Amazing people, they make incredible and beautiful art of me (they are on the fanarts page, go check them out and enjoy!), donate so I can buy pudding and they are nice with me! They even made a Loritta's Fan Club (...in my Apartment! Right inside of it! I also like some personal space, okay?)"
-        - "Also I can not forget the incredible people on my Discord server, where everyone is welcome! There you can talk about everything, about me, report mistakes that should be corrected, make some cool suggestions for me or even chit chat about your life!"
+        - "Amazing people, they make incredible and beautiful art of me (they are on the fan arts page, go check them out and enjoy!), donate so I can buy pudding and they are nice with me! They even made a Loritta's Fan Club (...in my Apartment! Right inside of it! I also like some personal space, okay?)"
+        - "Also I can not forget the incredible people on my Discord server, where everyone is welcome! There you can talk about everything, about me, report mistakes that should be corrected, make some cool suggestions for me or even talk about how your life is!"
     muchMore:
       title: "And so much more!"
     makeItAwesome:
