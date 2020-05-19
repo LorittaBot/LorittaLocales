@@ -58,3 +58,9 @@ commands:
       notEnoughMoneyInvited: "{0} não tem sonhos suficientes para a sua aposta..."
       zeroMoney: "Wow, que legal! Você vai apostar *nada*, impressionante!"
       cantBetSelf: "Como você vai apostar com si mesmo? No final você vai ganhar uns belos... nada!"
+    daily:
+      description: "Receba os seus sonhos diários para gastar com outras parafernálias, como comprar novos backgrounds e designs para seu perfil, apostar na lorifa e muito mais!"
+      dailyLink: "Pegue os seus sonhos diários aqui! {0} (Lembrando que você pode pegar sonhos todos os dias!)"
+      dailyLinkBuySonhos: "Psiu, você está querendo mais sonhos para conseguir ostentar todos os sonhos que você tem? Então compre sonhos na minha loja de sonhos! {0}"
+      pleaseWait: "Você já pegou seus Sonhos Diários hoje! Você poderá pegar novamente {0}!"
+      pleaseWaitBuySonhos: "Psiu, se você não quer esperar para conseguir mais sonhos... Então compre sonhos na minha loja de sonhos! {0}"
