@@ -52,12 +52,13 @@ commands:
       clickToAcceptTheTransaction: "Clique em {0} para aceitar a transação!"
     flipcoinbet:
       description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
-      startBet: "{0}, {1} quer fazer uma aposta com você! Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
+      startBet: "{0}, {1} quer fazer uma aposta com você! Cada um irá pagar **{5} sonhos ({6} sonhos de taxa para jogar rs)**. Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
       congratulations: "Parabéns {0}, você ganhou **{1} sonhos**! Financiado por {2} rsrs"
       notEnoughMoneySelf: "Como você vai apostar uma quantidade que você não tem? Aposte menos se você não quer apostar algo que você nem tem!"
       notEnoughMoneyInvited: "{0} não tem sonhos suficientes para a sua aposta..."
       zeroMoney: "Wow, que legal! Você vai apostar *nada*, impressionante!"
       cantBetSelf: "Como você vai apostar com si mesmo? No final você vai ganhar uns belos... nada!"
+      youNeedToBetMore: "Você precisa apostar mais sonhos! Afinal, eu tenho que cobrar aquela taxa marotex para ajudar a manter a LorittaLand!"
     daily:
       description: "Receba os seus sonhos diários para gastar com outras parafernálias, como comprar novos backgrounds e designs para seu perfil, apostar na lorifa e muito mais!"
       dailyLink: "Pegue os seus sonhos diários aqui! {0} (Lembrando que você pode pegar sonhos todos os dias!)"
