@@ -1083,5 +1083,7 @@
   "SLAP_Response": "**{0} deu um tapa em {1}!**",
   "SLAP_Description": "Dê um tapa em alguém!",
   "KISS_Description": "Beije alguém!",
-  "DANCE_Description": "Dançe com alguém!"
+  "DANCE_Description": "Dançe com alguém!",
+  "BITE_Description": "Morda alguém!",
+  "BITE_Response": "**{0} mordeu {1}**"
 }
