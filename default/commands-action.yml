@@ -25,3 +25,7 @@ commands:
     headpat:
       description: "Faça cafuné em alguém"
       response: "**{0} fez cafuné em {1}!**"
+    bite:
+      description: "Morda alguém"
+      response: "**{0} mordeu {1}**"
+      responseAntiIdiot: "**Você realmente tentou morder uma garotinha de 16 anos?** {0} mordeu com muita força {1}!"
