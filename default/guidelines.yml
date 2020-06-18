@@ -27,6 +27,7 @@ website:
         - "Tentar se passar pela Loritta ou se passar por alguém da equipe dela. '{beyourself}'"
         - "Tentar evadir/burlar punições. Caso você tente fazer isto, você será punido novamente, sem chance de ser desbanido."
         - "Plagiar a Loritta. Você pode se inspirar em funcionalidades dela, mas copiar quase identicamente ela é proibido."
+        - "Pedir devolução de dinheiro após comprar algo relacionado a Loritta. Todos os pagamentos não são reembolsáveis pois são produtos virtuais. Se você precisa de suporte com algo relacionado a algum produto recomendamos que você primeiro entre em contato no nosso servidor de suporte."
       onPlatformBreak:
         - "Caso você encontre alguma pessoa que está desrespeitando as diretrizes da plataforma, reporte para a equipe da plataforma e, caso aplicável, reporte para a equipe da Loritta."
       disrespect:
@@ -41,7 +42,7 @@ website:
       beYourself:
         - "Trocar o seu nome e avatar para os mesmos que a Loritta utiliza. '{fanarts}'"
         - "Criar bots que possuem o mesmo nome e avatar que a Loritta utiliza."
-        - "Inventar ou espalhar mentiras dizendo que você ou o seu bot tem alguma relação com a Loritta ou com a equipe dela. {notjoke}"
+        - "Inventar ou espalhar mentiras dizendo que você ou o seu bot tem alguma relação com a Loritta ou com a equipe dela. '{notjoke}'"
         - "Caso um servidor tenha um bot que está se passando pela Loritta, o dono do servidor será banido até que ele prove quem adicionou o bot no servidor."
       useFanArts:
         - "Você pode utilizar fan arts que fizeram para a Lori, desde que você não use o mesmo nome dela. Mas antes de utilizar uma fan art como avatar, pergunte para o artista da fan art se você pode utilizá-lo."
