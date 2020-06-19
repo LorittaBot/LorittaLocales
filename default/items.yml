@@ -32,7 +32,7 @@ backgrounds:
     title: "Fundo Roxinho"
     description: *defaultBackground
 
-  # ===[ DEFAULT + LORITTA ]===
+  # ===[ DEFAULT + LORITTA + PANTUFA ]===
   random:
     title: "Aleatório"
     description: "Escolhe aleatoriamente um background quando visualizarem o seu perfil"
@@ -57,7 +57,25 @@ backgrounds:
   defaultPurpleLori:
     title: "Loritta Roxinha"
     description: *defaultBackgroundLori
-
+  defaultBluePantufa:
+    title: "Pantufa Azulada"
+    description: *defaultBackgroundLori
+  defaultRedPantufa:
+    title: "Pantufa Avermelhada"
+    description: *defaultBackgroundLori
+  defaultGreenPantufa:
+    title: "Pantufa Esverdeada"
+    description: *defaultBackgroundLori
+  defaultOrangePantufa:
+    title: "Pantufa Alaranjada"
+    description: *defaultBackgroundLori
+  defaultPinkPantufa:
+    title: "Pantufa Rosinha"
+    description: *defaultBackgroundLori
+  defaultPurplePantufa:
+    title: "Pantufa Roxinha"
+    description: *defaultBackgroundLori
+    
   # ===[ LORITTA ]===
   loriSextou:
     title: "Sextou!"
@@ -336,6 +354,12 @@ backgrounds:
   dioBrando:
     title: "Eu Dioooo"
     description: "Jonathan Joestar acusa Dio Brando de envenenar o pai dele"
+  stoneMask:
+    title: "Máscara de Pedra"
+    description: "Dio pega a máscara de pedra com poderes secretos"
+  lickOfLove:
+    title: "Lambida maravilhosa"
+    description: "Uma leve lambida"
 
   # ===[ MISC ]===
   porsche911Carrera:
@@ -542,3 +566,24 @@ backgrounds:
   easterStar:
     title: "Terra da Páscoa"
     description: "Aonde será que estão os ovos de páscoa?"
+  alanTriggered:
+    title: "Alanzoka Bravo"
+    description: "Em um dia belo, Felps ficou rindo de sua cara e acabou que ele ficou putasso com Alanzoka... as imagem são fortes, mas antes do acontecimento temos imagens dele com olhares sanguinários"
+  oakmont:
+    title: "Oakmont"
+    description: "Uma cidade pesqueira localizada na costa de Massachusetts. Oakmont não aparece em nenhum mapa"
+  rainingForest:
+    title: "Raining Forest"
+    description: "In the midst of disaster, the hope of it ending is gigantic..."
+  laureneaBoom:
+    title: "Boooom!"
+    description: "Alguma coisa colidiu com a terra causando uma mega explosão, mas o quê aconteceu?"
+  brandNAnimalMichiru:
+    title: "Mi-chi-ru!"
+    description: "Agora tente escrever isto!"
+  brandNAnimalCity:
+    title: "Brand New Animal!"
+    description: "Beastmen have been forced into hiding in Animacity"
+  brandNAnimalBaseball:
+    title: "Vamos jogar basebol?"
+    description: "Tanukis também são bem-vindos!"

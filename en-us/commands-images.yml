@@ -67,22 +67,22 @@ commands:
     tristerealidade:
       description: "Creates a new and sad reality with members of the server... Yeah, not always we win."
       slot:
-        - 
+        theGuyYouLike:
           MALE: "THE GUY YOU LIKE"
           FEMALE: "THE GIRL YOU LIKE"
-        - 
+        theFather:
           MALE: "{0} FATHER"
           FEMALE: "{0} MOTHER"
-        - 
+        theBrother:
           MALE: "{0} BROTHER"
           FEMALE: "{0} SISTER"
-        - 
+        theFirstLover:
           MALE: "{0} FIRST LOVE"
           FEMALE: "{0} FIRST LOVE"
-        - 
+        theBestFriend:
           MALE: "{0} BEST FRIEND"
           FEMALE: "{0} BEST FRIEND"
-        - 
+        you:
           MALE: "YOU"
           FEMALE: "YOU"
     ascii:
@@ -95,3 +95,15 @@ commands:
       description: "Look the new game that @GuilhermeBriggs purchased!"
       examples:
         - "@Loritta"
+    nyancat:
+      description: "Nyan Cat, directly on your server! And you can order the same Nyan Cat's size when you order a sandwich on Subway!"
+    jooj:
+      description: "Reverse an image horizontally, based on the left side of the image!"
+    ojjo:
+      description: "Reverse an image horizontally, based on the right side of the image!"
+    getoverhere:
+      description: "Be like Scorpion and pull someone!"
+    friendship:
+      description: "Tell them that your friendship with someone has ended in a simple and easy way!"
+    maniatitlecard:
+      description: "Create a Sonic Mania title card!"

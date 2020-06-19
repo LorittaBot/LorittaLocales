@@ -4,5 +4,8 @@ commands:
     language:
       description: "Did you know that I can speak in other languages? {0} Change the language I speak on your server!"
       pleaseSelectYourLanguage: "Choose your desired language!"
+      changeServerLanguageDescription: "To change the language I interact with on this server, react to the emoji with the new desired language."
+      changeLanguageDescription: "To change the language I interact with you, react to the emoji with the new language you want."
       translatedBy: "Translated by"
-      languageChanged: "Okay, now I'm going to speak in {0} on this server!"
+      languageChanged: "There you go, now I will go on {0} with you!"
+      serverLanguageChanged: "Okay, now I'm going to speak in {0} on this server!"

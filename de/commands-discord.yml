@@ -2,6 +2,7 @@
 commands:
   discord:
     userinfo:
+      description: "Veja as informações sobre um usuário!"
       sharedServers: "Servidores compartilhados"
       accountCreated: "Conta criada há"
       accountJoined: "Entrou há"
@@ -9,6 +10,7 @@ commands:
       permissions: "Permissões"
       joinPlace: "{0} lugar"
       boostingSince: "Impulsionando desde"
+      discordId: "ID do Discord"
     channelinfo:
       description: "Mostra informações de um canal de texto"
       channelInfo: "Informações do canal {0}"
@@ -29,6 +31,8 @@ commands:
       roleMembers: "Membros"
       roleColor: "Cor do cargo"
       rolePermissions: "Permissões"
+    emoji:
+      errorWhileDownloadingEmoji: "Você tem certeza que isso aí é um emoji válido? {0}"
     addemoji:
       description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
       success: "Emoji adicionado com sucesso!"
@@ -46,6 +50,7 @@ commands:
       description: "Mostra o banner utilizado em cima dos canais de texto do servidor atual"
       noBanner: "Esse servidor não tem banner!"
     botinfo:
+      description: "Mostra informações interessantes (e algumas bem inúteis) sobre mim!"
       embedDescription:
         - "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\"), tenho 16 anos e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas antes! {6}"
         - "Atualmente estou espalhando diversão em **{0} servidores** com **{2} comandos inovadores** e já executei **{3} comandos** nas últimas 24 horas e acordei a **{1}** atrás 😴. Desde 30 de Março de 2017 tentando transformar o mundo em um lugar melhor! {8}"
@@ -66,5 +71,8 @@ commands:
       pantufaCute: "Sim, a Pantufinha também é fofinha. Olha que cute cute iti malia"
       gabrielaCute: "Sim, a Gabriela também é fofa. As vezes tenho até inveja do style do cabelo dela, é um estilo daora e muito bonito."
       polluxCute: "Sim, a Pollux também é fofis. Sempre juntas comemorando as nossas conquistas!"
+    serverinfo:
+      description: "Veja as informações do servidor do Discord atual!"
     servericon:
+      description: "Mostra o ícone do servidor atual!"
       noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"

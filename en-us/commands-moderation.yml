@@ -80,6 +80,7 @@ commands:
       successfullyUnmuted: "The user now knows how to speak again, I hope that this time this person say cool things to not get silenced again!"
       automaticallyExpired: "After a long time silenced... the user finally knows how to speak again! I hope this time he could speak cool and interesting things to not be muted again!"
     quickpunishment:
+      description: "Change whether you prefer that punishments are applied directly or whether they should have a confirmation before punishing!"
       enabled: "Quick punishments are now active! While punishing an user, I will not even ask if you really want to punish the user, it will punish without even caring about!... just don't complain to me after you punished someone you didn't mean to, okay?"
       disabled: "Quick punishments are now disabled! While punishing an user, you will need to confirm if you really want to punish that user or not... at least you can now avoid that remorse when punishing someone that didn't had to get that punishment."
     clear:

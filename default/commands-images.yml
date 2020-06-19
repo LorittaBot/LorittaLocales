@@ -66,22 +66,22 @@ commands:
     tristerealidade:
       description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
       slot:
-        '0':
+        theGuyYouLike:
           MALE: "O CARA QUE VOCÊ GOSTA" 
           FEMALE: "A MINA QUE VOCÊ GOSTA"
-        '1':
+        theFather:
           MALE: "O PAI {0}" 
           FEMALE: "A MÃE {0}"
-        '2':
+        theBrother:
           MALE: "IRMÃO {0}" 
           FEMALE: "IRMÃ {0}"
-        '3':
+        theFirstLover:
           MALE: "PRIMEIRO AMOR {0}" 
           FEMALE: "PRIMEIRO AMOR {0}"
-        '4':
+        theBestFriend:
           MALE: "MELHOR AMIGO {0}" 
           FEMALE: "MELHOR AMIGA {0}"
-        '5':
+        you:
           MALE: "VOCÊ" 
           FEMALE: "VOCÊ"
     ascii:
@@ -94,3 +94,15 @@ commands:
       description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
       examples:
       - "@Loritta"
+    nyancat:
+      description: "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!"
+    jooj:
+      description: "Inverte uma imagem horizontalmente, baseando no lado esquerdo da imagem!"
+    ojjo:
+      description: "Inverte uma imagem horizontalmente, baseando no lado direito da imagem!"
+    getoverhere:
+      description: "Dê uma de Scorpion e dê um puxão em alguém!"
+    friendship:
+      description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
+    maniatitlecard:
+      description: "Crie um title card do Sonic Mania!"
