@@ -10,7 +10,7 @@ commands:
         genres: "Gêneros"
         source: "Origem"
         episodes: "Episódios"
-        notfound: "Anime não encontrado"
+        notfound: "Anime não encontrado!"
         type:
           name: "Tipo"
           tv: "TV"
