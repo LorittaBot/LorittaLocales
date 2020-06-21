@@ -32,7 +32,7 @@ backgrounds:
   defaultPurple:
     title: "Purple Background"
     description: Loritta's thoughts
-  #===[ DEFAULT + LORITTA ]===
+  #===[ DEFAULT + LORITTA + PANTUFA ]===
   random:
     title: "Random"
     description: "Chooses randomly a background when someone views your profile"
@@ -56,6 +56,24 @@ backgrounds:
     description: What's going on in her head?
   defaultPurpleLori:
     title: "Purple Loritta"
+    description: What's going on in her head?
+  defaultBluePantufa:
+    title: "Blue Slipper"
+    description: What's going on in her head?
+  defaultRedPantufa:
+    title: "Red Slipper"
+    description: What's going on in her head?
+  defaultGreenPantufa:
+    title: "Green Slipper"
+    description: What's going on in her head?
+  defaultOrangePantufa:
+    title: "Orange Slipper"
+    description: What's going on in her head?
+  defaultPinkPantufa:
+    title: "Pink Slipper"
+    description: What's going on in her head?
+  defaultPurplePantufa:
+    title: "Purple Slipper"
     description: What's going on in her head?
   #===[ LORITTA ]===
   loriSextou:
@@ -323,6 +341,12 @@ backgrounds:
   dioBrando:
     title: "Me Dioooo"
     description: "Jonathan Joestar accuses Dio Brando of poisoning his father"
+  stoneMask:
+    title: "Stone Mask"
+    description: "Dio takes the stone mask with secret powers"
+  lickOfLove:
+    title: "Wonderful lick"
+    description: "A light lick"
   #===[ MISC ]===
   porsche911Carrera:
     title: "Porsche 911 Carrera"
@@ -519,3 +543,24 @@ backgrounds:
   easterStar:
     title: "Easterland"
     description: "Where the Easter eggs are?"
+  alanTriggered:
+    title: "Angry Alanzoka"
+    description: "On a beautiful day, Felps was laughing at his face and it ended up that he got angry with Alanzoka... the images are strong, but before the event we have images of him with bloody eyes"
+  oakmont:
+    title: "Oakmont"
+    description: "A city located on the coast of Massachusetts. Oakmont does not appear on any maps"
+  rainingForest:
+    title: "Raining Forest"
+    description: "In the midst of disaster, the hope of it ending is gigantic..."
+  laureneaBoom:
+    title: "Boooom!"
+    description: "Something hit a land causing a mega explosion, but what happened?"
+  brandNAnimalMichiru:
+    title: "Mi-chi-ru!"
+    description: "Now try to write this!"
+  brandNAnimalCity:
+    title: "Brand New Animal!"
+    description: "Beastmen have been forced into hiding in Animacity"
+  brandNAnimalBaseball:
+    title: "Shall we play baseball?"
+    description: "Tanukis are also welcome!"
