@@ -3,13 +3,14 @@ commands:
     mal:
       anime:
         description: "Mostra informações de animes no MyAnimeList"
+        unknown: "Desconhecido"
         score: "Avaliação"
         rank: "Rank"
         popularity: "Popularidade"
         genres: "Gêneros"
         source: "Origem"
         episodes: "Episódios"
-        notfound: "Anime não encontrado"
+        notfound: "Anime não encontrado!"
         type:
           name: "Tipo"
           tv: "TV"
@@ -17,11 +18,9 @@ commands:
           ova: "OVA"
           ona: "ONA"
           movie: "Filme"
-          unknown: "Desconhecido"
         status:
           name: "Estado"
           aired: "Estreou"
           airing: "Em estreia"
           not_yet_aired: "Ainda não estreou"
           finished: "Finalizado"
-          unknown: "Desconhecido"
