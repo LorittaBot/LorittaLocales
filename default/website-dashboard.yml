@@ -6,3 +6,33 @@ website:
     member: "Membro"
     addLori: "Adicionar a Lori"
     configureLori: "Configurar a Lori"
+    advancedEditor: "Editor Avançado"
+    testMessage: "Testar Mensagem"
+    placeholders:
+      user:
+        name: "Mostra o nome do usuário que provocou a ação"
+        mention: "Menciona o usuário que provocou a ação"
+        nickname: "Mostra o nome do usuário no servidor, caso ele tenha mudado o apelido dele no servidor, irá aparecer o apelido dele, em vez do nome original"
+        discriminator: "Mostra o discriminator do usuário que provocou a ação"
+        id: "Mostra o ID do usuário que provocou a ação"
+        avatarUrl: "Mostra a URL do avatar do usuário"
+        tag: "Mostra a tag (Nome#Discriminator) do usuário que provocou a ação"
+      experience:
+        level: "O nível que o usuário está"
+        xp: "A quantidade de experiência que o usuário tem"
+        ranking: "Posição no ranking de experiência do usuário no servidor"
+        nextLevel: "Próximo nível de experiência do usuário"
+        nextLevelTotalXp: "Total de experiência necessária para o usuário conseguir evoluir para o próximo nível"
+        nextLevelRequiredXp: "Quanta experiência é necessária para o usuário conseguir evoluir para o próximo nível"
+      punishment:
+        reason: "Motivo da punição, caso nenhum motivo tenha sido especificado, isto estará vazio"
+        type: "Punição aplicada (ban, mute, kick, etc)"
+      staff:
+        name: "Mostra o nome do usuário da equipe que provocou a punição"
+        mention: "Menciona o usuário da equipe que provocou a punição"
+        nickname: "Mostra o nome do usuário da equipe no servidor que provocou a punição, caso ele tenha mudado o apelido dele no servidor, irá aparecer o apelido dele, em vez do nome original"
+        discriminator: "Mostra o discriminator do usuário da equipe que provocou a punição"
+        id: "Mostra o ID do usuário da equipe que provocou a punição"
+        avatarUrl: "Mostra a URL do avatar do usuário da equipe que provocou a punição"
+        tag: "Mostra a tag (Nome#Discriminator) do usuário da equipe que provocou a punição"
+

@@ -40,6 +40,20 @@ commands:
     clickHereToSeeAllMyCommands: "Clique aqui para ver todos os meus comandos!"
     youNeedToHavePermission: "Você precisa ter permissão para {0} para utilizar o comando"
     loriNeedToHavePermission: "Eu preciso de permissão para {0} para conseguir executar o comando"
+  youAreLorittaBanned:
+    - "Você está **banido**! ᕙ(⇀‸↼‶)ᕗ"
+    - ""
+    - "Que pena... o pobre usuário conseguiu fazer algo errado... será que é tãããão difícil assim seguir as minhas regras? {3}"
+    - ""
+    - "**Motivo:**"
+    - "> {0}"
+    - "**Duração:** {1}"
+    - ""
+    - "Se você deseja ser desbanido pois você acha que foi injusto (duvido que tenha sido injusto, rs) ou se você está arrependido (estar arrependido não significa que você será desbanido), tente fazer um appeal no meu servidor de suporte: {2}"
+    - ""
+    - "Mas lembre-se: estar arrependido não irá magicamente resolver todos os problemas da sua vida, suas ações tem consequências e, se você fez algo imperdoável, você não será desbanido... Ah, e se você está banido do meu servidor de suporte... bem, aí o problema não é meu! {4}"
+    - ""
+    - "Desculpe pela inconveniência... Ou, se você foi banido por um motivo justo, sofra com a inconveniência!! {5}"
   # DIVERSÃO
   entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
     vieirinha:
