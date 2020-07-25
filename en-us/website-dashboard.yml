@@ -7,3 +7,33 @@ website:
     member: "Member"
     addLori: "Invite Lori"
     configureLori: "Configure Lori"
+    advancedEditor: "Advanced Editor"
+    testMessage: "Test Message"
+    placeholders:
+      user:
+        name: "Shows the name of the user who caused the action"
+        mention: "Mentions the user who caused the action"
+        nickname: "Shows the name of the user in the server, if he has changed his nickname on the server, his nickname will appear instead of the original name"
+        discriminator: "Shows the discriminator of the user who caused the action"
+        id: "Shows the ID of the user who caused the action"
+        avatarUrl: "Shows the user's avatar URL"
+        tag: "Shows the tag (Name#Discriminator) of the user who caused the action"
+      experience:
+        level: "The level the user is"
+        xp: "The amount of experience the user has"
+        ranking: "Position of the user in the experience ranking on the server"
+        nextLevel: "Next level of experience of the user"
+        nextLevelTotalXp: "Total experience required for the user to progress to the next level"
+        nextLevelRequiredXp: "How much experience is required for the user to evolve to the next level"
+      punishment:
+        reason: "Reason for punishment, if no reason was specified, this will be empty"
+        type: "Punishment applied (ban, mute, kick, etc.)"
+      staff:
+        name: "Shows the name of the user of the team that caused the punishment"
+        mention: "Mention the user of the team that caused the punishment"
+        nickname: "Shows the user name of the team on the server that caused the punishment, if he has changed his nickname on the server, his nickname will appear instead of the original name"
+        discriminator: "Shows the discriminator of the team user who caused the punishment"
+        id: "Shows the user ID of the team that caused the punishment"
+        avatarUrl: "Shows the avatar URL of the team user who caused the punishment"
+        tag: "Shows the tag (Name#Discriminator) of the team user who caused the punishment"
+
