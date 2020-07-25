@@ -41,6 +41,20 @@ commands:
     clickHereToSeeAllMyCommands: "Click here to see all my commands!"
     youNeedToHavePermission: "You need to have {0} permissions use this command"
     loriNeedToHavePermission: "I need {0} permissions to execute this command"
+  youAreLorittaBanned:
+    - "You are **banned**! ᕙ(⇀‸↼‶)ᕗ"
+    - ""
+    - "What a shame... this poor user managed to do something wrong... is it soooooo hard to follow my rules? {3}"
+    - ""
+    - "**Reason:**"
+    - "> {0}"
+    - "**Duration:** {1}"
+    - ""
+    - "If you want to be unbanned because you think it was unfair (I doubt it was unfair, lol) or if you are sorry (being sorry does not mean you will be unbanned), try to make an appeal on my support server: {2}"
+    - ""
+    - "But remember: being sorry will not magically solve all your life's problems, your actions have consequences, and if you have done something unforgivable, you won't be unbanned... Oh, and if you are banned from my support server... well, then it's not my problem! {4}"
+    - ""
+    - "Sorry for the inconvenience... Or, if you were banned for a fair reason, suffer the inconvenience!! {5}"
   #DIVERSÃO
   entertainment:
     vieirinha:
