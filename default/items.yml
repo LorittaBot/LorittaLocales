@@ -12,6 +12,7 @@ sets:
   landscapes: "Paisagens"
   sonic: "Sonic the Hedgehog"
   jojo: "JoJo's Bizarre Adventure"
+  transformice: "Transformice"
 backgrounds:
   defaultBlue:
     title: "Fundo Azulado"
@@ -587,3 +588,51 @@ backgrounds:
   brandNAnimalBaseball:
     title: "Vamos jogar basebol?"
     description: "Tanukis também são bem-vindos!"
+  transformiceClass:
+    title: "Volta às Aulas"
+    description: "Nossa, quantos ratinhos! Sentiram falta das aulas turma?"
+  stevenUniverseThePast:
+    title: "Lembranças do Passado"
+    description: "Relembre um dos acontecimentos mais importantes na história Gem."
+  starAngryPigeon:
+    title: "Pombo Raivoso"
+    description: "Tá olhando o que? Nunca viu um pombo comer pipoca não? grrrr"
+  cute_black_cat:
+    title: "Gatinho Fofo"
+    description: "Ele parece estar concentrado olhando pra algo, talvez ele esteja olhando pra você e falando \"Por favor compre meu background :3\". Vai negar essa oferta?"
+  dollars:
+    title: "Dólares"
+    description: "Ostentar reais todo mundo consegue, mas ostentar dólares?"
+  reais:
+    title: "Reais"
+    description: "Ostentação fora do normal"
+  loriDailyShop:
+    title: "Loja Diária"
+    description: "Sim sim, se eu fosse você eu compraria este background!"
+  wumpusSummer:
+    title: "Wumpus de Férias"
+    description: "Wumpus is vibin right now"
+  paintToolSaiDisgraca:
+    title: "Paint Tool SAI Disgraça"
+    description: "Sai disgraça, eu quero dormir @#$%!"
+  elisahTransformice:
+    title: "Elisah"
+    description: "Shaman, preciso da sua ajuda!"
+  ednaldoPereira:
+    title: "Ednaldo Pereira"
+    description: "Você não vale nada"
+  lofiGirlDay:
+    title: "Lofi Hip-hop Study Girl"
+    description: "Songs to study and relax."
+  winkingDoggo:
+    title: "Shiba Piscando"
+    description: "Cachorros.. Eles são tão fofinhos e se você concorda comigo compre esse background desse lindo doguinho piscando o olho para você :3"
+  brawlStarsJessieNani:
+    title: "Jessie & Nani"
+    description: "Calma, Peep! É apenas a torreta da Jessie."
+  hkDarkAbyss:
+    title: "Abismo Sombrio"
+    description: "Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis."
+  stevenUniverseStarryNight:
+    title: "Noite Estrelada"
+    description: "Quem não aceitaria morar num lugar assim?"

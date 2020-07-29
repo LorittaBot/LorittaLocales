@@ -23,6 +23,7 @@ commands:
         sparklypower: "SparklyPower"
         inactiveDailyTax: "taxa de inatividade da conta no daily"
         coinFlipBet: "apostas de sonhos girando uma moeda"
+        stocks: "Loritta's Home Broker"
     raffle:
       lastWinner: "Último ganhador: {0} ({1} Sonhos; {2} Prêmio Final)"
     scratchcard:
@@ -70,3 +71,49 @@ commands:
       description: "Veja as pessoas mais ricas de sonhos da LorittaLand"
     sonhostoplocal:
       description: "Veja se você está convivendo com pessoas cheias de sonhos no seu servidor"
+    broker:
+      description: "Compre e venda ações da vida real com sonhos! Claro, você não irá ganhar ou perder dinheiro real se você comprar ou vender ações, mas o sentimento de tristeza após perder dinheiro com uma ação é o mesmo"
+      invalidTickerId: "Ticker ID inexistente"
+      title: "Preços de Ações"
+      explanation:
+      - "Compre ações quando estão na baixa, venda ações quando estiverem em alta! Enquanto você não vai ganhar ou perder dinheiro real se você comprar ou vender ações, o sentimento de você ter perdido sonhos em uma ação é o mesmo. {4}"
+      - ""
+      - "**Você pode comprar ações utilizando** `{0}`"
+      - "**Você pode vender ações utilizando** `{1}`"
+      - "**Para ver seu portfólio de ações, use** `{2}`"
+      - ""
+      - "Tickers com {3} estão inativos pois a bolsa está fechada, você pode comprar/vender ações enquanto está fechada, mas o valor não irá mudar até a bolsa reabrir!"
+      buyExample: "{0}corretora comprar Ticker Quantidade"
+      sellExample: "{0}corretora vender Ticker Quantidade"
+      portfolioExample: "{0}corretora portfólio"
+      invalidTickerId: "Ticker inexistente! Veja a lista de tickers que você pode comprar ações em `{0}`"
+      stocks:
+        one: "ação"
+        multiple: "ações"
+    brokerBuy:
+      description: "Compre ações com sonhos pelo Home Broker da Loritta"
+      baseExample: "{0}corretora"
+      zeroValue: "Wow, que legal! Você vai comprar *nenhuma* ação, impressionante!"
+      successfullyBought: "Você comprou **{0} {1}** de `{2}`! Agora basta ficar de olho em `{3}` para ver se vale a pena vender as suas ações ou não! Boa sorte!!"
+      notEnoughMoney: "Você não tem sonhos suficientes para comprar a ação!"
+    brokerSell:
+      description: "Venda ações por sonhos da Loritta"
+      zeroValue: "Wow, que legal! Você vai vender *nenhuma* ação, impressionante!"
+      notEnoughStocks: "Você não tem ações suficientes de `{0}` para vender!"
+      successfullySold: "Você vendeu **{0} {1}** de `{2}`! {3}"
+      successfullySoldProfit: "Com a venda, você **ganhou {0} sonhos (lucro de {1} sonhos)**!"
+      successfullySoldLoss: "Com a venda, você **perdeu {0} sonhos (perda de {1} sonhos)**! Nem todos os dias a gente sai ganhando... Sempre fique de olho no `{1}` para saber se vale a pena vender!"
+      successfullySoldNeutral: "Você não ganhou e nem perdeu nada com a sua venda."
+    brokerPortfolio:
+      description: "Veja o seu portfólio de ações que você comprou pelo Home Broker da Loritta"
+      title: "Seu Portfólio de Ações"
+      youHaveStocksInThisTicker: "Você tem **{0} {1}** neste ticker. Você gastou **{2} sonhos** neste ticker, se você vendesse todas as ações deste ticker agora, você ganharia **{3} sonhos ({4})**"
+    sonhos:
+      youHaveSonhos: "Você tem **{0,number,#} {1}**! {2}"
+      userHasSonhos: "{0} tem **{1,number,#} {2}**! {3}"
+      currentRankPosition: "Você está em **#{0,number,#} lugar** no ranking, veja outros ostentadores em `{1}`"
+      userCurrentRankPosition: "E sabia que {0} está em **#{1,number,#} lugar** no ranking? Veja outros ostentadores em `{2}`"
+      sonhosRankingCommand: "{0}sonhos top"
+      sonhos:
+        one: "sonho"
+        multiple: "sonhos"
