@@ -67,3 +67,7 @@ commands:
       dailyLinkBuySonhos: "Hey, are you wanting more sonhos to show off all the sonhos you have? Then buy sonhos in my sonhos shop! {0}"
       pleaseWait: "You've got your Daily Sonhos today! You can get it again in about {0}!"
       pleaseWaitBuySonhos: "Yo, if you don't wanna wait to get more sonhos... Then buy sonhos in my sonhos shop! {0}"
+    sonhostop:
+      description: "See LorittaLand's sonhos richest people"
+    sonhostoplocal:
+      description: "See if you're living with people full of sonhos on your server"
