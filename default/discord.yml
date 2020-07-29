@@ -37,3 +37,4 @@ discord:
     messageTTS: "Enviar mensagens em TTS"
     viewChannel: "Ver canais"
     voiceStream: "Ao vivo"
+    viewGuildInsights: "Ver desempenho do servidor"
