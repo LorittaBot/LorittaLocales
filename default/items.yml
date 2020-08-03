@@ -13,6 +13,8 @@ sets:
   sonic: "Sonic the Hedgehog"
   jojo: "JoJo's Bizarre Adventure"
   transformice: "Transformice"
+  brawlStars: "Brawl Stars"
+  devilMayCry: "Devil May Cry"
 backgrounds:
   defaultBlue:
     title: "Fundo Azulado"
@@ -636,3 +638,30 @@ backgrounds:
   stevenUniverseStarryNight:
     title: "Noite Estrelada"
     description: "Quem não aceitaria morar num lugar assim?"
+  transformiceCarnival:
+    title: "Carnaval de Ratos"
+    description: "Peguem as suas melhores fantasias, dancem e chamem seus amigos, pois chegou o Carnaval!"
+  desertStreet:
+    title: "Estrada deserta"
+    description: "Pode não ter carros, mas tem sentimentos."
+  minecraftAlbinoFox:
+    title: "Raposa Albina"
+    description: "A neve não é tão fria para ela quanto parece."
+  brawlStarsIsland:
+    title: "Carl & Colt"
+    description: "No fim, roubamos o tesouro."
+  nyanCat:
+    title: "Nyan Cat"
+    description: "O clássico gato cinza feito em pixel art voando no espaço em loop soltando arco-íris. Nya~"
+  devilMayCryNero:
+    title: "Nero"
+    description: "Bang, bang, bang, pull my Devil Trigger!"
+  workingTable:
+    title: "Mesa de Trabalho"
+    description: "Mais um dia de trabalho, parece que temos um café bem gostoso e uma bela vista, talvez seja o necessário para menos stress."
+  stevenUniverseEmpireCity:
+    title: "Empire City"
+    description: "O que acontece em Empire City, nunca dorme."
+  fluffyPudding:
+    title: "Pudim"
+    description: "O que temos para a sobremesa? Parece que temos um lindo pudim! Hmm... Já sei, vai ser a estampa da minha camisa!"
