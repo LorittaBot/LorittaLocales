@@ -25,9 +25,11 @@ commands:
       punishName: "banir"
       punishedBy: "Punido por"
       punishmentReason: "Motivo"
-    softban:
-      punishAction: "Soft Ban"
-      punishName: "soft banir"
+    baninfo:
+      title: "Informações do Banimento"
+      user: "Usuário"
+      reason: "Motivo"
+      description: "Veja o banimento do usuário!"
     kick:
       punishAction: "Expulso"
       punishName: "expulsar"
