@@ -26,10 +26,12 @@ commands:
       punishedBy: "Punido por"
       punishmentReason: "Motivo"
     baninfo:
-      title: "Informações do Banimento"
-      user: "Usuário"
-      reason: "Motivo"
       description: "Veja o banimento do usuário!"
+      title: "Informações do Banimento"
+      user: "Usuário Banido"
+      reason: "Motivo"
+      userId: "ID do Usuário"
+      banDoesNotExist: "Este usuário não está banido!"
     kick:
       punishAction: "Expulso"
       punishName: "expulsar"
