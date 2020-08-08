@@ -25,9 +25,13 @@ commands:
       punishName: "banir"
       punishedBy: "Punido por"
       punishmentReason: "Motivo"
-    softban:
-      punishAction: "Soft Ban"
-      punishName: "soft banir"
+    baninfo:
+      description: "Veja o banimento do usuário!"
+      title: "Informações do Banimento"
+      user: "Usuário Banido"
+      reason: "Motivo"
+      userId: "ID do Usuário"
+      banDoesNotExist: "Este usuário não está banido!"
     kick:
       punishAction: "Expulso"
       punishName: "expulsar"
@@ -93,4 +97,3 @@ commands:
         ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
         ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
         success: "Chat limpo por {0}!"
-        sucess: "Chat limpo por {0}!"
