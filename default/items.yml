@@ -15,6 +15,8 @@ sets:
   transformice: "Transformice"
   brawlStars: "Brawl Stars"
   devilMayCry: "Devil May Cry"
+  leagueOfLegends: "League of Legends"
+  adventureTime: "Hora de Aventura"
 backgrounds:
   defaultBlue:
     title: "Fundo Azulado"
@@ -665,3 +667,12 @@ backgrounds:
   fluffyPudding:
     title: "Pudim"
     description: "O que temos para a sobremesa? Parece que temos um lindo pudim! Hmm... Já sei, vai ser a estampa da minha camisa!"
+  stickLights:
+    title: "Galhos de Luz"
+    description: "Brilhe do seu jeito."
+  lofiWarmAfternoon:
+    title: "Lofi Warm Afternoon"
+    description: "Songs to study and relax."
+  adventureTimeDonutsValley:
+    title: "Vale das Rosquinhas"
+    description: "Desfrute das guloseimas que nascem neste campo."
