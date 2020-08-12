@@ -22,7 +22,7 @@ modules:
       templates:
         default:
           title: "Default"
-          content: "Congratulations '{@user}', you are now level **'{level}'** (*'{xp}' XP*)! {0}"
+          content: "Congratulations \\'{@user}\\', you are now level **\\'{level}\\'** (*\\'{xp}\\' XP*)! {0}"
         embed:
           title: "Embed"
           footer: "Keep trying to level up!"

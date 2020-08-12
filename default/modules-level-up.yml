@@ -23,7 +23,7 @@ modules:
       templates:
         default:
           title: "Padrão"
-          content: "Parabéns '{@user}', você passou para o nível **'{level}'** (*'{xp}' XP*)! {0}"
+          content: "Parabéns \\'{@user}\\', você passou para o nível **\\'{level}\\'** (*\\'{xp}\\' XP*)! {0}"
         embed:
           title: "Embed"
           footer: "Continue tentando subir de nível!"
