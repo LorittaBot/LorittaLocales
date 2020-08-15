@@ -50,6 +50,7 @@ commands:
       notEnoughWarns: "O usuário tem menos que **{0}** avisos! Psiu, sabia que você pode ver a lista de avisos de um usuário com {1}?"
       warnRemoved: "Prontinho, o usuário teve um aviso removido! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
       allWarnsRemoved: "Prontinho, todos os avisos do usuário foram removidos! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
+      allUsersWarnsRemoved: "Prontinho, a lista de warns do seu servidor foi removida! Que tal eles lerem as regras do servidor antes que eles tenham que ser punidos de novo?"
     warnlist:
       description: "Mostra os avisos que um usuário possui"
       common: "Aviso"
