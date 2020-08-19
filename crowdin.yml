@@ -1,3 +1,4 @@
 files:
   - source: /default/*.yml
     translation: /%two_letters_code%/%original_file_name%
+    ignore: [ "/%two_letters_code%/translators.yml" ]
