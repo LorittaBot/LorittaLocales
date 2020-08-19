@@ -8,7 +8,7 @@
 
 Loritta's localization files, bringing Loritta's cuteness to everyone around the world!
 
-If you want to contribute and help translating Loritta, go to [our Crowdin instance](https://loritta.crowdin.com/loritta)!
+If you want to contribute and help translating Loritta, go to [our Crowdin page](https://loritta.crowdin.com/loritta)!
 
 Thanks to Crowdin for providing us with a Open Source license, helping us to bring Loritta to everyone around the world! 💫
 
