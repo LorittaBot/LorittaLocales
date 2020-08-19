@@ -3,8 +3,6 @@ loritta:
   inheritsFromLanguageId: "default"
   languageName: "English"
   languageShort: "en-us"
-  translationAuthors:
-    - "297153970613387264"
   save: "Save"
   saving: "Saving"
   loading: "Loading"
