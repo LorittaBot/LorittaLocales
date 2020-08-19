@@ -676,3 +676,21 @@ backgrounds:
   adventureTimeDonutsValley:
     title: "Vale das Rosquinhas"
     description: "Desfrute das guloseimas que nascem neste campo."
+  gatinhoDeTouca:
+    title: "Gatinho de Touca"
+    description: "Cadê o meu leitinho?"
+  sunVaporwave:
+    title: "Vaporwave do Sol"
+    description: "Apenas um Vaporware do sol. Bem-vindo aos anos 80 e 90."
+  cafezinho:
+    title: "Cafézinho"
+    description: "Nada melhor do que um café bem quentinho depois do trabalho."
+  sorvetinho:
+    title: "Sorvetinho"
+    description: "Nada que um sorvetinho bem gelado não resolva."
+  docinho:
+    title: "Docinho"
+    description: "Nada melhor do que um docinho para adoçar o momento."
+  melancia:
+    title: "Melancia"
+    description: "Nada melhor do que uma fruta que sacia a sua sede e a sua fome."

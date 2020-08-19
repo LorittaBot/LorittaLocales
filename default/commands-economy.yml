@@ -98,6 +98,7 @@ commands:
       zeroValue: "Wow, que legal! Você vai comprar *nenhuma* ação, impressionante!"
       successfullyBought: "Você comprou **{0} {1}** de `{2}`! Agora basta ficar de olho em `{3}` para ver se vale a pena vender as suas ações ou não! Boa sorte!!"
       notEnoughMoney: "Você não tem sonhos suficientes para comprar a ação!"
+      tooManyStocks: "Você já possui muitas ações! Você pode ter, no máximo, {0} ações."
     brokerSell:
       description: "Venda ações por sonhos da Loritta"
       zeroValue: "Wow, que legal! Você vai vender *nenhuma* ação, impressionante!"
