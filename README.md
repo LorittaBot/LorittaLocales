@@ -1,10 +1,6 @@
-# LorittaLocales
-🌎 Loritta's localization files, bringing Loritta's cuteness to everyone around the world!
-
-
 <p align="center">
 <h1 align="center">🌎 Loritta Locales 🌎</h1>
-<a href="https://loritta.crowdin.com/loritta"><img src="https://badges.crowdin.net/e/6c10e98cefdc325e76bd33fb9952e616/localized.svg></a>
+<a href="https://loritta.crowdin.com/loritta"><img src="https://badges.crowdin.net/e/6c10e98cefdc325e76bd33fb9952e616/localized.svg"></a>
 </p>
 
 Loritta's localization files, bringing Loritta's cuteness to everyone around the world!
