@@ -1,5 +1,13 @@
 commands:
   misc:
+    language:
+      description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
+      pleaseSelectYourLanguage: "Escolha a linguagem desejada!"
+      changeServerLanguageDescription: "Para alterar a linguaguem que eu interajo nesse servidor, reaja no emoji com a nova linguagem desejada."
+      changeLanguageDescription: "Para alterar a linguaguem que eu interajo com você, reaja no emoji com a nova linguagem desejada."
+      translatedBy: "Traduzido por"
+      languageChanged: "Prontinho, agora eu irei em {0} com você!"
+      serverLanguageChanged: "Prontinho, agora eu irei falar em {0} neste servidor!"
     donate:
       howToHelp: "Obrigada por querer me ajudar a ficar online! {1}\n\nSem a sua ajuda, eu não iria conseguir ficar online. (Afinal, sem dinheiro = sem hospedagem para eu ficar online {2})\n\nPara doar é simples e fácil! Apenas [acesse a página de doação no meu website]({0}), lá mostra todas as vantagens que você pode receber doando! {3}"
     help:
