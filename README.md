@@ -12,6 +12,6 @@ If you want to contribute and help translating Loritta, go to [our Crowdin page]
 
 Thanks to Crowdin for providing us with a Open Source license, helping us to bring Loritta to everyone around the world! 💫
 
-If you helped to translate Loritta to another language and you want to be credited, create a Pull Request adding your Discord ID to the `/{language-folder}/translators.yml` (check a example `default` folder!) list, on the Pull Request, please add a link to your Crowdin profile. Credited users are shown in the `+language` command and receive a special role on Loritta's Support Server!
+If you helped to translate Loritta to another language and you want to be credited, create a Pull Request adding your Discord ID to the `/{language-folder}/translators.yml` (check an example in the `default` folder!) list, on the Pull Request, please add a link to your Crowdin profile. Credited users are shown in the `+language` command and receive a special role on Loritta's Support Server!
 
 Keep in mind that we will only accept if we think that you helped and if your contribution was substancial! You won't be accepted if you only helped with a few translations or if we needed to clean up a lot of your translations (please don't use Google Translate, we know if you used it).
