@@ -38,3 +38,4 @@ discord:
     messageTTS: "Send TTS messages"
     viewChannel: "View Channels"
     voiceStream: "Go Live"
+    viewGuildInsights: "View Server Insights"
