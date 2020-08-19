@@ -1,6 +1,14 @@
 ---
 commands:
   misc:
+    language:
+      description: "Did you know that I can speak in other languages? {0} Change the language I speak on your server!"
+      pleaseSelectYourLanguage: "Choose your desired language!"
+      changeServerLanguageDescription: "To change the language I speak on this server, react to the emoji with the new desired language."
+      changeLanguageDescription: "To change the language I speak with you, react to the emoji with the new language you want."
+      translatedBy: "Translated by"
+      languageChanged: "There you go, now I'm going to speak in {0} with you!"
+      serverLanguageChanged: "There you go, now I'm going to speak in {0} on this server!"
     donate:
       howToHelp: "Thanks for wanting to help me get online! {1}\n\nWithout your help, I wouldn't be able to get online. (After all, no money = no hosting for me to get online {2})\n\nTo donate is simple and easy! Just [access the donation page on my website]({0}), there shows all the advantages you can receive by donating! {3}"
     help:
