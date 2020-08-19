@@ -52,7 +52,7 @@ commands:
     botinfo:
       description: "Shows interesting (and some very useless) information about me!"
       embedDescription:
-        - "Howdy, my name is (or, how my close friends call me, \"Lori\"), I'm 16 years old and I'm yet another simple bot for Discord with several features that you've never seen before! {6}"
+        - "Howdy, my name is Loritta (or, how my close friends call me, \"Lori\"), I'm 16 years old and I'm yet another simple bot for Discord with several features that you've never seen before! {6}"
         - "Right now I'm sharing fun in **{0} servers** with **{2} innovative commands**. I've already executed **{3} commands** in the last 24 hours and I woke up **{1}** before 😴. Since March 30, 2017 I try to make the world a better place! {8}"
         - "I was made in **{4} [Kotlin](https://kotlinlang.org/)** using **{5} [JDA](https://github.com/DV8FromTheWorld/JDA)** and, if you want to see my source code (to see how I was coded), [click here](https://bit.ly/lorittagit)!"
         - "If you want to see my website, [click here](https://loritta.website/) and, if you want to add me in your server, [click here](https://loritta.website/dashboard)! {7}"
