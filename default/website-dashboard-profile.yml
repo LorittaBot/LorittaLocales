@@ -14,5 +14,7 @@ website:
         - "Esta ação é irreversível! Todos os seus dados serão deletados e você irá perder tudo que você conseguiu na Loritta!"
         - "Após confirmar, você não poderá reverter a ação. A ação irá deletar seu perfil, sonhos, keys de doador, lembretes, reputações, casamentos e muito mais, apenas delete seus dados caso você tenha realmente certeza do que está fazendo!"
         - "Você terá que remover a Loritta de seus servidores manualmente e parar de utilizar comandos ou funções dela, ao utilizá-la novamente, ela poderá a guardar dados sobre você."
-        - "Ao ser banido, a sua conta será temporariamente suspensa por três dias!"
+        yourAccountWillBeSuspendedWarning: "Se você decidir deletar os dados da sua conta, a sua conta será temporariamente suspensa por três dias!"
+        warningDescription:
+        - "Deletar os dados da sua conta não irá resolver problemas que estão acontecendo comigo no seu servidor! Caso você esteja enfrentando problemas, entre no nosso servidor de suporte para que a gente possa te ajudar!"
         bannedAccountDueToDeletion: "Suspenso temporariamente devido a solicitação de deletar os dados de sua conta"
