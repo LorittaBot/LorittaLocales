@@ -221,3 +221,7 @@ commands:
       - "ter chamado alguém com o pronome errado"
       - "ter votado no Bolsonaro"
       - "ter votado no Haddad"
+    hungergames:
+      description: "Cria uma simulação personalizada de BrantSteele Hunger Games com os usuários que você escolher, sem você precisar ficar copiando e salvando avatar de cada pessoa só para colocar no simulador! Você precisa incluir 24 pessoas para poder iniciar a simulação, caso você não inclua pessoas suficientes, usuários aleatórios do servidor serão incluidos."
+      simulationCreated: "Simulação de Hunger Games criada! Boa sorte aos jogadores na simulação. {0}"
+      doesntHaveEnoughUsers: "Não encontrei usuários suficientes para criar a simulação... Tente mencionar os usuários que irão participar da simulação. Ah, e não se esqueça que precisa de 24 pessoas diferentes para criar a simulação!"
