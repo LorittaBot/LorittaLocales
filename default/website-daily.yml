@@ -1,6 +1,6 @@
 website:
   daily:
-    pleaseCompleteReCaptcha: "Por favor, complete o reCAPTCHA para receber o seu prêmio! Ao coletar o prêmio, informações sobre o seu navegador, seu email e IP poderão ser guardados."
+    pleaseCompleteReCaptcha: "Por favor, complete o reCAPTCHA para receber o seu prêmio! Ao coletar o prêmio, informações sobre o seu navegador, seu email e IP poderão ser guardados. Não use VPN ou proxies para pegar o prêmio, já que faz você correr o risco de ser banido!"
     thisShouldNeverHappen: "Isto jamais deve acontecer! Mas pelo visto aconteceu, whoops... Status Code: {0}"
     notLoggedIn: "Você precisa entrar na sua conta do Discord antes de receber o seu prêmio!"
     alreadyReceivedDailyReward: "Você já recebeu o seu prêmio diário hoje! Você poderá pegar novamente {0}!"
