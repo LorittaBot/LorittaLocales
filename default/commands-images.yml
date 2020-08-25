@@ -106,3 +106,5 @@ commands:
       description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
     maniatitlecard:
       description: "Crie um title card do Sonic Mania!"
+    carlyaaah:
+      description: "\"A gente perdeu o iCarly.com e alguém já comprou... a pessoa que comprou se chama \"Amanda Valdez\"\""

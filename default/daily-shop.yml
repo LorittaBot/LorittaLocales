@@ -2,3 +2,6 @@ website:
   dailyShop:
     title: "Loja Diária"
     new: "Novo!"
+    untilTheNextShopUpdate: "até a loja atualizar"
+    itemAlreadyBought: "Comprado!"
+    partOfTheSet: "Parte do conjunto {0}"

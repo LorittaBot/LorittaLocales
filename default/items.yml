@@ -17,7 +17,64 @@ sets:
   devilMayCry: "Devil May Cry"
   leagueOfLegends: "League of Legends"
   adventureTime: "Hora de Aventura"
+profileDesigns:
+  name: "Design para Perfil"
+  defaultDark:
+    title: "Padrão Escuro"
+    description: "O clássico perfil da Loritta"
+  modernBlurple:
+    title: "Modernidade Roxa"
+    description: "Modernidade é muito mais chique que simplicidade"
+  msn:
+    title: "MSN"
+    description: "Nostalgia"
+  orkut:
+    title: "Orkut"
+    description: "Nostalgia"
+  plainWhite:
+    title: "Simplesmente Branco"
+    description: &defaultPlainProfile "Simplicidade é muito mais chique que modernidade"
+  plainOrange:
+    title: "Simplesmente Laranja"
+    description: *defaultPlainProfile
+  plainPurple:
+    title: "Simplesmente Roxo"
+    description: *defaultPlainProfile
+  plainAqua:
+    title: "Simplesmente Azul"
+    description: *defaultPlainProfile
+  plainGreen:
+    title: "Simplesmente Verde"
+    description: *defaultPlainProfile
+  plainGreenHearts:
+    title: "Simplesmente Verde com Flores"
+    description: *defaultPlainProfile
+  cowboy:
+    title: "Cowboy"
+    description: "Yee haw"
+  nextGenDark:
+    title: "Próxima Geração Versão Escura"
+    description: "Futurístico"
+  monicaAta:
+    title: "Mônica Ata"
+    description: "ata"
+  loriAta:
+    title: "Loritta Ata"
+    description: "ata"
+  undertaleBattle:
+    title: "Undertale Battle"
+    description: "Stay Determined!"
+  halloween2019:
+    title: "Evento de Halloween 2019"
+    description: "Feliz Halloween!"
+  christmas2019:
+    title: "Evento de Natal 2019"
+    description: "Feliz Natal!"
+  lorittaChristmas2019:
+    title: "Evento de Loritta Natal 2019"
+    description: "Feliz Natal!"
 backgrounds:
+  name: "Fundo para Perfil"
   defaultBlue:
     title: "Fundo Azulado"
     description: &defaultBackground "Os pensamentos da Loritta"
