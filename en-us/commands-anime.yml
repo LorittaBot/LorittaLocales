@@ -21,7 +21,7 @@ commands:
           movie: "Movie"
         status:
           name: "Status"
-          aired: "Premiered"
-          airing: "In premiere"
-          not_yet_aired: "Not yet premiered"
+          aired: "Aired"
+          airing: "Airing"
+          not_yet_aired: "Not yet aired"
           finished: "Finished"
