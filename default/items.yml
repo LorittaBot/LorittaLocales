@@ -71,7 +71,7 @@ profileDesigns:
     title: "Evento de Natal 2019"
     description: "Feliz Natal!"
   lorittaChristmas2019:
-    title: "Evento de Loritta Natal 2019"
+    title: "Loritta de Natal 2019"
     description: "Feliz Natal!"
 backgrounds:
   name: "Fundo para Perfil"
@@ -751,3 +751,33 @@ backgrounds:
   melancia:
     title: "Melancia"
     description: "Nada melhor do que uma fruta que sacia a sua sede e a sua fome."
+  meAndTheBoys:
+    title: "Me and The Boys"
+    description: "Me and the boys waiting for you to buy this background"
+  mcLarenSenna:
+    title: "McLaren Senna"
+    description: "Olha, uma McLaren Senna! Achamos uma das 500 unidades produzidas, e ainda por cima é um carro fabricado na Inglaterra! Que homenagem, hein."
+  leagueOfLegendsStarGuardians:
+    title: "Guardiãs Estelares"
+    description: "Não tenha medo, pequena estrela! Nós Guardiãs viemos ao resgate."
+  laranjaAzeda:
+    title: "Laranja Azeda"
+    description: "\"Esta laranja está muito boa. Quer um pedaço?\", me disseram..."
+  kurama:
+    title: "Kurama"
+    description: "Já ouviu falar na Kurama? Imagine humanizada!"
+  pizza:
+    title: "Pizza"
+    description: "Duvido que você resistiria a uma pizza desta."
+  leagueOfLegendsPopStars:
+    title: "K/DA Pop Stars"
+    description: "Te desejamos sorte, ninguém ninguém pode nos derrubar, mas eles bem que poderiam tentar."
+  snowBeetle:
+    title: "Fusca na Neve"
+    description: "Um Volkswagen Fusca ano 1978 coberto de neve. Real ou brinquedo?"
+  justMarshmallows:
+    title: "Apenas Marshmallows"
+    description: "Nossa, você é tão fofa que parece até o background de marshmallow da Loritta."
+  bandanaNinja:
+    title: "Bandana Ninja"
+    description: "Aqui, pegue-a como uma recompensa por se graduar na academia. Siga em frente e vire um ninja incrível!"
