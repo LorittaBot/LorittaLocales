@@ -1,0 +1,4 @@
+modules:
+  welcomer:
+    tooManyUsersJoining: "Tem tantos membros entrando no servidor em um curto período de tempo que eu achei melhor enviar tudo em um arquivo para evitar que o canal fique cheio de mensagens!"
+    tooManyUsersLeaving: "Tem tantos membros saindo do servidor em um curto período de tempo que eu achei melhor enviar tudo em um arquivo para evitar que o canal fique cheio de mensagens! Espero que sejam apenas pessoas chatas que estão saindo do servidor ;w;"
