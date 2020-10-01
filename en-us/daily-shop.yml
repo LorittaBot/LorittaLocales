@@ -3,3 +3,6 @@ website:
   dailyShop:
     title: "Daily Shop"
     new: "New!"
+    untilTheNextShopUpdate: "until the store updates"
+    itemAlreadyBought: "Bought!"
+    partOfTheSet: "Part of the {0} set"
