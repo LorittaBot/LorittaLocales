@@ -8,7 +8,7 @@ website:
     blacklistedEmail: "You are using a potentially malicious email!"
     blacklistedIp: "You are using a potentially malicious IP! If you are using VPNs or proxies, disable them before trying to get your reward!"
     unverifiedAccount: "You haven't verified your Discord account yet! Please check your account email before picking up your reward!"
-    invalidReCaptcha: "invalid reCAPTCHA! Try reloading the page, switching browsers and, if you are using VPNs or proxies, disable before trying to get your reward!"
+    invalidReCaptcha: "Invalid reCAPTCHA! Try reloading the page, switching browsers and, if you are using VPNs or proxies, disable before trying to get your reward!"
     congratulations: "Congratulations! Today you won..."
     youEarnedMoreSonhos: "You won x{0} more sonhos, thanks to..."
     sponsoredStatus: "You would win {0} sonhos, but thanks to {1}'s sponsorship you won {2}!"
