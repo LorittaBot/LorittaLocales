@@ -2,7 +2,7 @@ commands:
   misc:
     dbl:
       description: "Mostra informações sobre como me ajudar no Discord Bot List!"
-      info: "Você quer me ajudar a crescer e ser um bot melhor? Então vote em mim no Discord Bot List! <:discordbotlist:338808864352763904>\n\nCada voto ajuda a me divulgar para outras pessoas no Discord Bot List, e quanto mais pessoas me usam, mais popular eu ficarei!\n\nE é claro, se você votar você irá receber uma badge especial no `{0}perfil`! Legal, né? Que tal você se juntar a todas as outras {1} pessoas que votaram também e que me ajudaram a crescer? <:lori_blobnom:412582340272062464>\n\n{2}\n\nSua badge irá aparecer em no máximo até 60 segundos após votar! 😉"
+      info: "Você quer me ajudar a crescer e ser um bot melhor? Então vote em mim no Discord Bot List! <:discordbotlist:338808864352763904>\n\nCada voto ajuda a me divulgar para outras pessoas no Discord Bot List, e quanto mais pessoas me usam, mais popular eu ficarei!\n\nE é claro, se você votar você irá receber uma badge especial no `{0}perfil`! Legal, né? Que tal você se juntar a todas as outras pessoas que votaram também e que me ajudaram a crescer? <:lori_blobnom:412582340272062464>\n\n{1}\n\nSua badge irá aparecer em no máximo até 60 segundos após votar! 😉"
     language:
       description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
       pleaseSelectYourLanguage: "Escolha a linguagem desejada!"
