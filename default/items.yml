@@ -781,3 +781,6 @@ backgrounds:
   bandanaNinja:
     title: "Bandana Ninja"
     description: "Aqui, pegue-a como uma recompensa por se graduar na academia. Siga em frente e vire um ninja incrível!"
+  bandageHeart:
+    title: "Coração Ferido"
+    description: "Com o tempo ele vai se curar, tendo ajuda de alguém ou não."
