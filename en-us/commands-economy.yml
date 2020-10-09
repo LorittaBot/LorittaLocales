@@ -50,7 +50,7 @@ commands:
         - "After that you'll have to sleep to get more sonhos lol... Get the joke? Huh?"
         - "I love sonhos too, but I'm still not Robin Hood to be giving out my money"
         - "I'm not jealous of these sonhos, if I wanted I could give the same amount to myself!"
-      clickToAcceptTheTransaction: "Click {0} to accept the transaction!"
+      clickToAcceptTheTransaction: "To confirm the transaction, you and {0} must click {1}!"
     flipcoinbet:
       description: "The classic \"Flip a coin and see if gets heads or tails!\", but now involving sonhos! I'm not responsible if you lose all your sonhos in bets"
       startBet: "{0}, {1} wants to make a bet with you! Each one will pay **{5} sonhos ({6} fee sonhos to play)**. If it fall **{2}**, you will win **{3} sonhos**, if it fall **{4}**, {1} will win **{3} dreams**! So what, are you gonna face it?"
