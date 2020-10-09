@@ -26,9 +26,13 @@ commands:
       punishName: "ban"
       punishedBy: "Punished by"
       punishmentReason: "Reason"
-    softban:
-      punishAction: "Soft Ban"
-      punishName: "soft ban"
+    baninfo:
+      description: "Check out the user's ban information!"
+      title: "Ban information"
+      user: "Banned user"
+      reason: "Reason"
+      userId: "User ID"
+      banDoesNotExist: "This user is not banned!"
     kick:
       punishAction: "Kicked"
       punishName: "kick"
@@ -94,4 +98,3 @@ commands:
       ignoredPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were pinned messages!"
       ignoredTooOldAndPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago and {2} messages could not be deleted because they were fixed messages!"
       success: "The chat was cleaned up by {0}!"
-      sucess: "The chat was cleaned up by {0}!"
