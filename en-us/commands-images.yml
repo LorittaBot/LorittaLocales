@@ -107,3 +107,7 @@ commands:
       description: "Tell them that your friendship with someone has ended in a simple and easy way!"
     maniatitlecard:
       description: "Create a Sonic Mania title card!"
+    carlyaaah:
+      description: "\"We lost iCarly.com and someone else already bought it... somebody named \"Amanda Valdez\"\""
+    petpet:
+      description: "Pat an image"
