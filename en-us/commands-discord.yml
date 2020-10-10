@@ -37,7 +37,7 @@ commands:
       description: "Add emotes in your server by its image's link. Perfect if you are tired of downloading images to your computer just to add them to your server!"
       success: "Emoji successfully added!"
       limitReached: "The emoji limit (50 emojis) already has been reached!"
-      error: "I was unable to add this emoji! Sorry for the inconvenience :sob:"
+      error: "I was unable to add this emoji! Sorry :sob:"
       emoteTooBig: "This emote is too big! Discord allows emojis of a maximum of {0}."
     renameemoji:
       description: "Renames an emoji"
