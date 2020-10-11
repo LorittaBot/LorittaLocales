@@ -25,6 +25,7 @@ commands:
         coinFlipBet: "apostas de sonhos girando uma moeda"
         stocks: "Loritta's Home Broker"
         guessNumber: "apostas de adivinhar números"
+        emojiFight: "rinha de emojis"
     raffle:
       lastWinner: "Último ganhador: {0} ({1} Sonhos; {2} Prêmio Final)"
     scratchcard:
@@ -145,6 +146,7 @@ commands:
       - "**Prêmio:** Nada! Se está procurando prêmios, vá em `{1}emojifight bet`"
       - "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
       - "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+      participants: "Participantes ({0}):"
       wonBet: "O {0} de {1} saiu vitorioso na rinha! Obrigada a todos os emojis que lutaram na rinha, eles agora estão descansando para a próxima rinha!"
       needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
     emojifightbet:
@@ -156,3 +158,16 @@ commands:
       - "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
       wonBetTaxed: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** ({3} de taxa) e os {4} perdedores perderam {5} sonhos!"
       wonBet: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** e os {4} perdedores perderam {5} sonhos!"
+    flipcoinbetstats:
+      description: "Veja estatísticas de pessoas que apostam sonhos girando uma moeda, e ainda por cima receba um sermão falando que é bom aprender sobre probabilidade e estatística e que não existe jeito de bugar para ganhar!"
+      yourStats: "**Suas Estatísticas**"
+      statsOfUser: "**Estatísticas de {0}**"
+      playedMatches: "**Partidas Jogadas:** {0}"
+      wonMatches: "**Vitórias ({0,number,#.##%}):** {1}"
+      lostMatches: "**Derrotas ({0,number,#.##%}):** {1}"
+      wonSonhos: "**Sonhos ganhos:** {0}"
+      lostSonhos: "**Sonhos perdidos:** {0}"
+      totalSonhos: "**Total de sonhos:** {0}"
+      probabilityExplanation: "De acordo com estatísticas, quanto mais a pessoa jogar, mais perto de 50% as vitórias/derrotas irão estar."
+      bugsDoesntExist: "Não existe \"bug do coin flip\", e quem acredita que existe são apenas pessoas que nunca tiveram aula de probabilidade e estatística! <https://youtu.be/eFyAyz6Xy6g>"
+      playerHasNeverPlayed: "O usuário nunca jogou uma partida de apostas de sonhos!"
