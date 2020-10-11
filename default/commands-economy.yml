@@ -24,6 +24,7 @@ commands:
         inactiveDailyTax: "taxa de inatividade da conta no daily"
         coinFlipBet: "apostas de sonhos girando uma moeda"
         stocks: "Loritta's Home Broker"
+        guessNumber: "apostas de adivinhar números"
     raffle:
       lastWinner: "Último ganhador: {0} ({1} Sonhos; {2} Prêmio Final)"
     scratchcard:
@@ -121,3 +122,18 @@ commands:
       sonhos:
         one: "sonho"
         multiple: "sonhos"
+    guessnumber:
+      description: "Chute um número de 1 até 10, se for o número que eu estou pensando, eu irei te recompensar com sonhos! Mas se você perder... aí você que terá que me dar sonhos."
+      youWin: "Parabéns, você acertou o número que eu estava pensando! Como recompensa, eu te **dei {0} sonhos**!"
+      youLose:
+      - "Que pena, eu estava pensando no número {0}... Você **perdeu {1} sonhos**!"
+      - "Eu *poderia* ter pensado no seu número, mas eu pensei em {0}... Você **perdeu {1} sonhos**!"
+      - "Acho que a sorte *não* está do seu lado, eu pensei em {0}... Você **perdeu {1} sonhos**!"
+      - "Pensei em vários números diferentes mas gostei mais do {0}... Você **perdeu {1} sonhos**!"
+      - "Parabéns, você errou o número! Eu estava pensando em {0}... Você **perdeu {1} sonhos**!"
+      - "Você perdeu, eu ganhei! O número era {0} e você **perdeu {1} sonhos**!"
+      - "Sabia que eu gostei do número {0}? Você **perdeu {1} sonhos**!"
+      - "Não existe bug, você só não tem sorte bb. Eu pensei no número {0} e você **perdeu {1} sonhos**!"
+      - "Faça aí a sua mágica para ter sorte, pois você está sem sorte hoje! Eu pensei no número {0} e você **perdeu {1} sonhos**!"
+      - "Você chegou perto, maaaaas não foi dessa vez amigue! Eu pensei no número {0} e, já que eu ganhei, você **perdeu {1} sonhos**!"
+      numberNotInRange: "Você precisa colocar um número entre 1 e 10 para participar! A não ser se você quer perder sonhos colocando um número que eu jamais irei adivinhar."
