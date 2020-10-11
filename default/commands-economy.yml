@@ -137,3 +137,22 @@ commands:
       - "Faça aí a sua mágica para ter sorte, pois você está sem sorte hoje! Eu pensei no número {0} e você **perdeu {1} sonhos**!"
       - "Você chegou perto, maaaaas não foi dessa vez amigue! Eu pensei no número {0} e, já que eu ganhei, você **perdeu {1} sonhos**!"
       numberNotInRange: "Você precisa colocar um número entre 1 e 10 para participar! A não ser se você quer perder sonhos colocando um número que eu jamais irei adivinhar."
+    emojifight:
+      description: "Faça uma rinha de emojis com os seus amigos, o emoji mais forte ganha a rinha!"
+      fightTitle: "Rinha de Emoji"
+      fightDescription:
+      - "**Preço para participar da rinha:** Nada! É uma rinha apenas para se divertir! {0}"
+      - "**Prêmio:** Nada! Se está procurando prêmios, vá em `{1}emojifight bet`"
+      - "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
+      - "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+      wonBet: "O {0} de {1} saiu vitorioso na rinha! Obrigada a todos os emojis que lutaram na rinha, eles agora estão descansando para a próxima rinha!"
+      needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
+    emojifightbet:
+      description: "Faça uma rinha de emojis com os seus amigos valendo sonhos, o emoji mais forte ganha a rinha!"
+      fightDescription:
+      - "**Preço para participar da rinha:** {0} sonhos"
+      - "**Prêmio:** {1} sonhos"
+      - "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
+      - "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+      wonBetTaxed: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** ({3} de taxa) e os {4} perdedores perderam {5} sonhos!"
+      wonBet: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** e os {4} perdedores perderam {5} sonhos!"
