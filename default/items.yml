@@ -784,3 +784,9 @@ backgrounds:
   bandageHeart:
     title: "Coração Ferido"
     description: "Com o tempo ele vai se curar, tendo ajuda de alguém ou não."
+  lostSouls:
+    title: "Lost Souls"
+    description: "Almas perdidas em busca de redenção."
+  amongUsSkyBridge:
+    title: "Sky Bridge"
+    description: "Anyone can be the impostor."
