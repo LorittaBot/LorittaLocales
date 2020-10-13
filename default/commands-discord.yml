@@ -10,6 +10,10 @@ commands:
     joinPlace: "{0} lugar"
     boostingSince: "Impulsionando desde"
     discordId: "ID do Discord"
+    discordTag: "Tag do Discord"
+    unknownUser: "Eu não conheço nenhum usuário relacionado à `{0}`... 😢"
+    roles: "Cargos"
+    noRoles: "Nenhum cargo..."
   channelinfo:
     description: "Mostra informações de um canal de texto"
     channelInfo: "Informações do canal {0}"
