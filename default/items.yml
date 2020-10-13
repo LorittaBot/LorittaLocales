@@ -424,6 +424,9 @@ backgrounds:
     description: "Uma leve lambida"
 
   # ===[ MISC ]===
+  brawlStarsVirus:
+    title: "Vírus no Arcade"
+    description: "Apenas a Bibi e a Tara podem nos salvar!"
   porsche911Carrera:
     title: "Porsche 911 Carrera"
     description: "Porsche 911 Carrera de 1989, faz parte da antiga época em que os 911 eram quadradinhos"
