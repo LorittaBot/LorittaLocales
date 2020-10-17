@@ -16,3 +16,16 @@ commands:
       triadic: "Triadic"
       complementary: "Complementary"
       analogous: "Analogous"
+  remindme:
+    description: "Do you need to remember to feed your doggo? Or perhaps you want to create a reminder so in the future you can see if you will accomplish all your this year''s \"Life Goals\"? Then create a reminder!"
+    examples:
+      - "feed dog"
+      - "list"
+    cancel: "Reminder cancelled!"
+    success: "I will remind you in **{0}/{1}/{2,number,#}** **{3}:{4}**!"
+    sethour: "When do you want me to remind you? (`1 hour`, `5 minutes`, `12:00 11/08/2018`, etc)"
+    yourreminders: "Your Reminders"
+    remindat: "I will remind you at",
+    createdinguild: "Created in",
+    remindintextchannel: "I will remind you in",
+    reminderremoved: "Reminder removed!"

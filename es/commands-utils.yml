@@ -13,3 +13,16 @@ commands:
       triadic: "Triádica"
       complementary: "Complementárias"
       analogous: "Análogas"
+  remindme:
+    description: "¿Necesitas acordarte de darle comida al perro? ¿Tal vez usted quiera marcar un recordatorio para que en el futuro usted pueda ver si consiguió hacer todos los \"Life Goals\" de este año? ¡Entonces cree un recordatorio!"
+    examples:
+      - "darle comida al perro"
+      - "lista"
+    cancel: "¡Recordatorio cancelado!"
+    success: "Te recordaré en **{0}/{1}/{2,number,#}** a las **{3}:{4}**!"
+    sethour: "¿Cuando vas a querer que te avise de este recordatorio? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc)"
+    yourreminders: "Sus Recordatorios"
+    remindat: "Te recordaré a las",
+    createdinguild: "Creado en",
+    remindintextchannel: "Voy a avisar en",
+    reminderremoved: "¡Recordatorio eliminado!",
