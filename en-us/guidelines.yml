@@ -45,7 +45,7 @@ website:
         - "Change your name and avatar to the same ones Loritta uses. %fanarts%"
         - "Create bots that have the same user name and avatar that Loritta use."
         - "Inventing or spreading lies by saying that you or your bot have something to do with a Loritta or her team. %notjoke%"
-        - "If a server has a bot that is impersonating Loritta, the owner of the server will be banned until he proves who added the bot to the server."
+        - "If a server has a bot that is impersonating Loritta, the owner of the server will be banned until they prove who added the bot to the server."
       useFanArts:
         - "You can use fan arts that you did for Lori, as long as you don't use her name. But before using fan art as an avatar, ask the fan art artist if you can use it."
       notJoke:

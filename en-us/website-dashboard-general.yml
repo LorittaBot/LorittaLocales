@@ -12,13 +12,13 @@ website:
         title: "Warn when I'm not allowed to speak on a channel"
         subtext: "If I am unable to send a message on a channel due to lack of permissions, I will notify via direct message to the server staff. Useful for debugging problems."
       tellUserWhenUsingUnknownCommand:
-        title: "Warn the user when he executes an unknown command"
-        subtext: "If a user executes a non-existent command, I will warn him that I do not have the desired command, recommend which command he probably meant to use and, if the user wants to know all my commands, that he uses my help command."
+        title: "Warn the user when they execute an unknown command"
+        subtext: "If a user executes a non-existent command, I will tell them that I don't have the desired command, recommend the one they probably meant to use and, and tell them if they want to know all my commands, they should use my help command."
       blacklistedChannels:
         title: "Channels that will be blacklisted from using commands"
         subtext: "In these channels I will ignore commands, as if I am not even there! (Even though I'm watching your messages for XP, hihi ~) If you want to configure which specific roles can bypass this restriction, configure it in the permissions section."
       tellUserWhenUsingCommandsOnABlacklistedChannel:
-        title: "Send message to the user when he executes commands on blacklisted channels"
+        title: "Send message to the user when they execute commands on blacklisted channels"
         subtext: "If you have configured channels that are blacklisted from using commands, you can enable this, so that when a user tries to execute a command on blacklisted channels, I warn that it is not possible to execute commands on that channel."
       messageWhenUsingACommandInABlockedChannel:
         title: "Message when executing a command on a blacklisted channel"

@@ -49,7 +49,7 @@ commands:
       punishName: "remove a warning"
       noWarnsFound: "The user doesn't have any warns to remove! Psst, did you know that you can see the warn list of an user with {0}?"
       notEnoughWarns: "The user has less than **{0}** warnings! Hey, did you know that you can see the list of warnings of a user with {1}?"
-      warnRemoved: "Alright, the user had a warn removed! It would be nice if he read the server rules before he is punished again, right?"
+      warnRemoved: "Alright, the user had a warn removed! It would be nice if they read the server rules before they get punished again, right?"
     warnlist:
       description: "Show the warnings a user has"
       common: "Warning"
@@ -82,7 +82,7 @@ commands:
       punishAction: "Removed Mute"
       punishName: "remove mute"
       successfullyUnmuted: "The user now knows how to speak again, I hope that this time this person say cool things to not get silenced again!"
-      automaticallyExpired: "After a long time silenced... the user finally knows how to speak again! I hope this time he could speak cool and interesting things to not be muted again!"
+      automaticallyExpired: "After a long time silenced... the user finally knows how to speak again! I hope this time they can talk about cool and interesting things to not be muted again!"
     quickpunishment:
       description: "Change whether you prefer that punishments are applied directly or whether they should have a confirmation before punishing!"
       enabled: "Quick punishments are now active! While punishing an user, I will not even ask if you really want to punish the user, it will punish without even caring about!... just don't complain to me after you punished someone you didn't mean to, okay?"
