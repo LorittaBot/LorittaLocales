@@ -104,7 +104,7 @@ commands:
   #MODERAÇÃO
   moderation:
     unmute:
-      sucessfullyUnmuted: "The user relearned how to speak again, I hope this time he could speak interesting and cool things to not be muted again!"
+      sucessfullyUnmuted: "The user relearned how to speak again, I hope this time they can talk about interesting and cool things so they don't get muted again!"
   #DISCORD
   discord:
     emojiInfo:
