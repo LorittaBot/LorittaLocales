@@ -1,4 +1,4 @@
----
+W---
 commands:
   utils:
     calc:
@@ -20,9 +20,9 @@ commands:
       - "lista"
     cancel: "¡Recordatorio cancelado!"
     success: "Te recordaré en **{0}/{1}/{2,number,#}** a las **{3}:{4}**!"
-    sethour: "¿Cuando vas a querer que te avise de este recordatorio? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc)"
-    yourreminders: "Sus Recordatorios"
-    remindat: "Te recordaré a las",
-    createdinguild: "Creado en",
-    remindintextchannel: "Voy a avisar en",
-    reminderremoved: "¡Recordatorio eliminado!",
+    setHour: "¿Cuando vas a querer que te avise de este recordatorio? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc)"
+    yourReminders: "Sus Recordatorios"
+    remindAt: "Te recordaré a las",
+    createdInGuild: "Creado en",
+    remindInTextChannel: "Voy a avisar en",
+    reminderRemoved: "¡Recordatorio eliminado!",
