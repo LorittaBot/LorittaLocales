@@ -22,7 +22,7 @@ commands:
       success: "Eu irei te lembrar em **{0}/{1}/{2,number,#}** às **{3}:{4}**!"
       setHour: "Quando você irá querer que eu te avise deste lembrete? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc)"
       yourReminders: "Seus lembretes"
-      remindAt: "Eu irei te lembrar às",
-      createdInGuild: "Criado na",
-      remindInTextChannel: "Irei avisar no",
+      remindAt: "Eu irei te lembrar às"
+      createdInGuild: "Criado na"
+      remindInTextChannel: "Irei avisar no"
       reminderRemoved: "Lembrete removido!"

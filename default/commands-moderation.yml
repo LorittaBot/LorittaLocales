@@ -21,10 +21,12 @@ commands:
       nsfwReport: "Conteúdo NSFW (Conteúdo NSFW em canais normais ou avatares com conteúdo NSFW)"
       pleaseReportUrl: "https://l.lori.fun/trust-and-safety-br"
     ban:
+      description: "Bane um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
       punishAction: "Banido"
       punishName: "banir"
       punishedBy: "Punido por"
       punishmentReason: "Motivo"
+      randomReason: "Algum motivo bastante aleatório"
     baninfo:
       description: "Veja o banimento do usuário!"
       title: "Informações do Banimento"
@@ -33,17 +35,25 @@ commands:
       userId: "ID do Usuário"
       banDoesNotExist: "Este usuário não está banido!"
     kick:
+      description: "Expulsa um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
       punishAction: "Expulso"
       punishName: "expulsar"
     unban:
+      description: "Retira o ban de um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+      examples:
+        - "159985870458322944"
+        - "159985870458322944 Pediu desculpas pelo o que aconteceu, e prometeu que o que aconteceu não irá se repetir."
+        - "395935916952256523 Bani sem querer, desculpa!"
       punishAction: "Desbanido"
       punishName: "desbanir"
       userIsInTheGuild: "Eu sei que é muito bom ter aquele sentimento alegre que você tem quando você desbane alguém, mas... o usuário que você tentou desbanir já está no servidor!"
       successfullyUnbanned: "Prontinho, o usuário foi desbanido! Só espero que ele não quebre as regras novamente."
     warn:
+      description: "Dá um aviso para um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
       punishAction: "Avisado"
       punishName: "avisar"
     unwarn:
+      description: "Remove um aviso de um usuário do seu servidor"
       punishAction: Retirado um Aviso
       punishName: "retirar um aviso"
       noWarnsFound: "O usuário não possui nenhum aviso para você remover! Psiu, sabia que você pode ver a lista de avisos de um usuário com {0}?"
@@ -62,15 +72,17 @@ commands:
       description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
       successfullyRenamed: "Canal renomeado com sucesso!"
       channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
-      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de canal!"
+      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de can al!"
       cantRename: "Não consegui renomear o canal..."
     mute:
+      description: "Silencia um usuário por um período de tempo determinado"
       punishAction: "Silenciado"
       punishName: "silenciar"
       duration: "Duração"
       forever: "Permanente"
-      negativeTime: O tempo que você me passou está agora no passado! Talvez você seja um viajante no tempo (se for, por favor me diga se eu sou famosa no futuro!) ou o tempo que levou para eu receber a sua mensagem foi maior que o tempo que você desejou silenciar o usuário... De qualquer jeito, desculpe pela inconveniência.
+      negativeTime: "O tempo que você me passou está agora no passado! Talvez você seja um viajante no tempo (se for, por favor me diga se eu sou famosa no futuro!) ou o tempo que levou para eu receber a sua mensagem foi maior que o tempo que você desejou silenciar o usuário... De qualquer jeito, desculpe pela inconveniência."
       roleName: "Silenciado"
+      couldntEditChannel: "Eu não consegui criar permissões para não poderem falar no cargo nos canais {0}, provavelmente porque eu não tenho permissão para gerenciar o canal naqueles canais, para corrigir, corrija as permissões nos tais canais e tente silenciar alguém!"
     lock:
       description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
       denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
@@ -78,6 +90,7 @@ commands:
       description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
       allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
     unmute:
+      description: "Remove o silenciamento de um usuário do seu servidor"
       punishAction: "Retirado o Silenciamento"
       punishName: "remover o silenciamento"
       successfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
@@ -87,13 +100,32 @@ commands:
       enabled: "As punições rápidas foram ativadas! Ao punir um usuário, eu nem irei te perguntar se você realmente quer punir o usuário, vai punir direto sem dó e nem piedade! ...só não venha reclamar depois que você não queria ter punido aquele usuário, okay?"
       disabled: "As punições rápidas foram desativadas! Ao punir um usuário, você deverá confirmar se você realmente vai querer punir ele ou não... pelo ou menos assim você irá evitar aquele remorso ao punir alguém que não deveria ter levado aquela punição."
     clear:
-        description: "Limpa o chat do canal de texto atual."
-        examples: 
+      description: "Limpa o chat do canal de texto atual."
+      examples:
         - "10"
         - "35 @MrPowerGamerBR"
-        invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
-        couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
-        ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
-        ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-        ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-        success: "Chat limpo por {0}!"
+      invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
+      couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
+      ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
+      ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+      ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+      success: "Chat limpo por {0}!"
+    roleId:
+      description: "Pega o ID de um cargo do Discord"
+      examples:
+        - 'Moderadores'
+      identifiers: "IDs dos cargos..."
+      emptyRoles: "Nenhum cargo..."
+      rolesThatContains: "Cargos que contém `{0}`..."
+    say:
+      description: "Faça eu falar alguma coisa!"
+      examples:
+        - 'Eu sou fofa! ;3'
+      messageSentBy: "Mensagem enviada por {0}"
+      messageSuccessfullySent: "Mensagem enviada no {0} com sucesso!"
+      iDontHavePermissionToTalkIn: "Eu não tenho permissão para falar no {0}!"
+      youDontHavePermissionToTalkIn: "Você não tem permissão para falar no {0}!"
+    slowmode:
+      description: "Ativa o 'modo lento' no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
+      enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
+      disabledInChannel: "{0} não está mais no modo lento!"
