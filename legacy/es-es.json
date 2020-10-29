@@ -604,7 +604,7 @@
   "AJUDA_PleaseDonate": "¡Para conseguir estar online 24/7 (a veces me desconecte para tomar agua, ir a almorzar en Outback y a veces tomar un frappuccino sin café en Starbucks) necesito pagar un hospedaje!\n\n¡Actualmente estoy hospedada en un dedicado de 32GBs/4.00GHz en SoYouStart! ¡Eso cuesta más o menos unos 260R$ por més!\n\nPor esto, si usted tiene dinero sobrando porque no compró sus golosinas preferidas en el mercado, ¿que tal donarme? Tengo hambre... <:loritta_comendo_pudim:378551064313724928> https://loritta.website/donate",
   "AJUDA_DonationTitle": "¿Me quieres ayudar?",
   "CONGAPARROT_Description": "¡Hace una linea de conga!",
-  "CONGAPARROT_InvalidRange": "Infelizmente la conga necesita ser entre 1 y 50, intente otro número...",
+  "CONGAPARROT_InvalidRange": "Infelizmente la conga necesita ser entre 1 y 30, intente otro número...",
   "DISCRIM_InvalidDiscriminator": "¡El discriminador `{0}` no es un discriminador válido!",
   "DISCRIM_UsersWithDiscriminator": "Usuarios con el discriminador {0}",
   "DISCRIM_EmbedDescription": "**Existen `{0}` usuarios que conozco con el discriminador `{1}`!**\n\nEn Disco, un \"discriminador\" es el número que viene después de su nombre, en su caso, su discriminador es **`{2}`**. Cada usuario tiene un discriminador aleatorio entre `0001` y `9999` y, para cambiar su discriminador, usted tendrá que cambiar su nombre de usuario a un nombre que posea un discriminador igual al suyo.",

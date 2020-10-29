@@ -604,7 +604,7 @@
   "AJUDA_PleaseDonate": "To keep me online 24/7 (well, sometimes I'm offline to drink water, go lunch at Outback and sometimes drink an frappuccino without coffee at Starbucks) it is necessary to pay a server for me!\n\nCurrently I''m hosted in a dedicated server of 32GBs/4.00GHz at SoYouStart! This costs approximately 82 USD per month!\n\nSo, if you have a bit of money laying around because you decided to not buy that sandwich that looked a bit musty in Vieirinha's Bar, why not donate to me? I''m hungry... <:loritta_comendo_pudim:378551064313724928> https://loritta.website/donate",
   "AJUDA_DonationTitle": "Do you want to help me?",
   "CONGAPARROT_Description": "Does a beautiful line of conga! (parrots included)",
-  "CONGAPARROT_InvalidRange": "Try another number between 1 and 50...",
+  "CONGAPARROT_InvalidRange": "Unfortunately, the conga has to be between 1 and 30, try another number...",
   "DISCRIM_InvalidDiscriminator": "`{0}` is not a valid discriminator!",
   "DISCRIM_UsersWithDiscriminator": "Users with discriminator {0}",
   "DISCRIM_EmbedDescription": "**I know `{0}` users with the discriminator `{1}`!**\n\nIn Discord, a \"discriminator\" is the number that suffixes your username, in your case, your discriminator is **`{2}`**. Every user has a random discriminator between `0001` and `9999`, to change your discriminator, you need to change your username to another username that has the same discriminator as yours.",

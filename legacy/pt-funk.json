@@ -606,7 +606,7 @@
   "[Translate!]AJUDA_PleaseDonate": "Para eu conseguir ficar online 24/7 (bem que as vezes eu fico offline para ir tomar água, ir almoçar no Outback e as vezes tomar um frappuccino sem café no Starbucks) eu preciso pagar uma hospedagem mensal!\n\nAtualmente eu estou hospedada em um dedicado de 32GBs/4.00GHz na SoYouStart! Isso custa mais ou menos uns 260R$ por mês!\n\nPor isto, se você tiver alguma grana de sobrando porque você resolveu não comprar aquele pão de queijo que parecia estar meio mofado lá no Barzinho do Vieirinha, que tal doar para mim? Eu estou com fome... <:loritta_comendo_pudim:378551064313724928> https://loritta.website/donate",
   "[Translate!]AJUDA_DonationTitle": "Quer me ajudar?",
   "[Translate!]CONGAPARROT_Description": "Faça uma linha de conga!",
-  "[Translate!]CONGAPARROT_InvalidRange": "Infelizmente a conga precisa ser entre 1 e 50, tente outro número...",
+  "[Translate!]CONGAPARROT_InvalidRange": "Infelizmente a conga precisa ser entre 1 e 30, tente outro número...",
   "[Translate!]DISCRIM_InvalidDiscriminator": "O discriminador `{0}` não é um discriminador válido!",
   "[Translate!]DISCRIM_UsersWithDiscriminator": "Usuários com o discriminador {0}",
   "[Translate!]DISCRIM_EmbedDescription": "**Existem `{0}` usuários que eu conheço com o discriminador `{1}`!**\n\nNo Discord, um \"discriminador\" é o número que vem após o seu nome, no seu caso, o seu discriminador é **`{2}`**. Cada usuário tem um discriminador aleatório entre `0001` e `9999` e, para alterar o seu discriminador, você terá que alterar o seu nome de usuário para um nome que possua um discriminador igual ao seu.",
