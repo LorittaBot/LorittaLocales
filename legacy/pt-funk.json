@@ -380,8 +380,6 @@
   "UTBATTLE_DESCRIPTION": "Cria um balão de fala igual ao do Undertale para dar aquela nostalgia",
   "[Translate!]UTBATTLE_INVALID": "Monstro `{0}` não é válido! **Lista de monstros válidos:** `{1}`",
   "UTBOX_DESCRIPTION": "Cria uma caixa de diálogo igual ao do Undertale para relembrar os bons e velhos tempos",
-  "LEMBRAR_DESCRIPTION": "Tá entertido no pancadão e precisa lembrar de dar comida para o dog? Talvez você queira marcar um lembrete para que consiga cumprir suas tarefas pontualmente... Então crie um lembrete!",
-  "LEMBRAR_SUCCESS": "Eu irei te dar um toque em {0}/{1}/{2} às {3}:{4} bele?",
   "[Translate!]KYM_DESCRIPTION": "Procura um meme no KnowYourMeme",
   "[Translate!]KYM_COULDNT_FIND": "Não encontrei nada relacionado a `{0}`!",
   "[Translate!]KYM_NO_DESCRIPTION": "Sem descrição...",
