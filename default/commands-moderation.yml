@@ -106,10 +106,8 @@ commands:
         - "35 @MrPowerGamerBR"
       invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
       couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
-      ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
-      ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-      ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-      success: "Chat limpo por {0}!"
+      success: "O chat foi limpo com sucesso por {0}!"
+      ignoredMessages: "Beep-boop! Aparentemente **{0}** mensagens não puderam ser limpas, por serem muito antigas ou estarem fixadas."
     roleId:
       description: "Pega o ID de um cargo do Discord"
       examples:
