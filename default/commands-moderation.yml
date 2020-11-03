@@ -72,7 +72,7 @@ commands:
       description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
       successfullyRenamed: "Canal renomeado com sucesso!"
       channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
-      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de can al!"
+      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de canal!"
       cantRename: "Não consegui renomear o canal..."
     mute:
       description: "Silencia um usuário por um período de tempo determinado"
