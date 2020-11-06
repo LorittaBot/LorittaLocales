@@ -1,0 +1,51 @@
+---
+comandos:
+  fortnite:
+    tienda:
+      FeaturedItems: "Artículos destacados"
+      dailyItems: "Elementos diarios"
+      descripción: "Muestra la tienda de Fortnite: Battle Royale"
+      creatorCode: "Código de creador: {0}"
+      localeId: "en"
+    articulo:
+      descripción: "Muestra información sobre Fortnite: Battle Royale emotes, máscaras, sprays, emoticonos y mucho más"
+      unknownItem: "No encontré nada llamado {0} en los elementos de Fortnite ..."
+      multipleItems: "Parece que varios elementos tienen el mismo nombre! Seleccione el elemento que desea ver la información"
+      tipo: "Tipo"
+      rareza: "Rareza"
+      battlePass: "Pase de batalla (Capítulo {0} Temporada {1})"
+      starterPack: "Paquete de inicio"
+      tienda: "Tienda"
+      firstWin: "First Victory Royale (Capítulo {0} temporada {1})"
+      firstWinAny: "First Victory Royale (cualquier temporada)"
+      promoción: "Promociones"
+      precio de coste"
+      fuente: "Fuente"
+      alreadyReleased: "¿Ya ha sido lanzado?"
+    notificar:
+      descripción: "Averigua cuándo un artículo vuelve a la tienda diaria de Fortnite: Battle Royale"
+      itemsThatYouWantToBeNotified: "Elementos que me pediste que te notificara"
+      removeTrack: "Ha eliminado {0} de los elementos que desea que se le notifique".
+      trackingSuccess: "Se te notificará en tus mensajes directos cuando {0} regrese a la tienda diaria. ¡No olvides verificar si tus DM están activados para no perderte la notificación!"
+      nextItem: "Tenga cuidado, solicitó ser notificado sobre un artículo que aún no se ha lanzado, todavía no sé si estará en la tienda de artículos o si se usará en alguna promoción, paquete inicial o una batalla ¡pasar!"
+      notInItemShop: "¡El artículo que me pidió que le notificara no se vende en la tienda diaria de Fortnite! Solo notifico artículos que están en la rotación diaria de la tienda de artículos, ya que intentar notificarle sobre artículos de pases de batalla o artículos promocionales sería completamente inútil, como intentar beber Coca-Cola dietética mientras te comes una hamburguesa gigante extra sólo porque quieres \ "perder peso \" ".
+      howToAddOrRemove: "Para agregar o eliminar un elemento de su lista de elementos, use {0}"
+      howToAddOrRemoveCommand: "{0} fnnotificar el nombre del elemento"
+    estadísticas:
+      descripción: "Muestra las estadísticas de un jugador de Fortnite: Battle Royale"
+      unknownPlayer: "No encontré nada llamado {0} en Fortnite ... Recuerda, debes ingresar tu nombre de usuario de Epic Games, no Xbox Live, PlayStation Network u otros".
+      gana: "Victorias"
+      killDeathRatio: "K / D"
+      eliminaciones: "Eliminaciones"
+      averageElims: "Elims promedio"
+      matchPlayed: "Partidos jugados"
+      timePlaying: "Tiempo jugado"
+      MatchCount: "{0} coincidencias"
+      elimina: "Elims"
+      puntaje"
+      solo: "Solo"
+      dúos: "Dúos"
+      escuadrón: "Escuadrón"
+      retumbar: "Team Rumble"
+    Noticias:
+      descripción: "Muestra las noticias de Fortnite: Battle Royale"
