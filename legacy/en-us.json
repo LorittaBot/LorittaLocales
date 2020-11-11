@@ -770,7 +770,7 @@
   "WARN_DoesntHaveWarns": "The user has no warning for you to remove!",
   "[Translate!]WARN_NextPunishment": "No próximo aviso, o usuário será {0}!",
   "WARN_WarnRemoved": "Warning removed!",
-  "WARN_Description": "Give a warning to a user of your server, you can customize the actions of this command (such as sending the message of the punishment directly, sending a punishment channel, among other things) on [my website] (https: //loritta.website/dashboard/)!",
+  "WARN_Description": "Give a warning to a user of your server, you can customize the actions of this command (such as sending the message of the punishment directly, sending a punishment channel, among other things) on [my website](https: //loritta.website/dashboard/)!",
   "UNWARN_Description": "Removes a warning from a user of your server",
   "DASHBOARD_Privacy": "Privacy",
   "DASHBOARD_HideSharedServers": "Hide shared servers",
