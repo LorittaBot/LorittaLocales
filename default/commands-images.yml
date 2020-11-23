@@ -110,3 +110,21 @@ commands:
       description: "\"A gente perdeu o iCarly.com e alguém já comprou... a pessoa que comprou se chama \"Amanda Valdez\"\""
     petpet:
       description: "Faça cafuné em uma imagem"
+    ednaldotv:
+      description: "Mas o que será que o Ednaldo Pereira está assistindo de tão interessante e maravilhoso em sua televisão?"
+    ednaldobandeira:
+      description: "Faça uma imagem do Ednaldo Pereira mostrando algo maravilhoso em sua bandeira!"
+    cortesflow:
+      description: "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
+      embedTitle: "Gerador de Thumbnails do Cortes do Flow"
+      embedDescription:
+      - "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
+      - ""
+      - "**Como usar?** `{0}`"
+      - "**Exemplo:** `{1}`"
+      howToUseExample: "{0}cortesflow FundoDaThumbnail Texto aqui"
+      commandExample: "{0}cortesflow monark-stop \"adm mandou parar de fazer baderna\""
+      thumbnailSelection: "`{0}` [\\[fonte\\]]({1})"
+      findOutThumbnailSource: "Quer saber de qual corte veio a thumbnail? Então clique em \"fonte\"!"
+      youNeedToAddText: "A não ser se você deseja uma thumbnail vazia... Você precisa colocar o texto que você deseja que apareça na thumbnail!"
+      unknownType: "Tipo de fundo para a thumbnail desconhecido! Para ver a lista de tipos suportados use `{0}cortesflow`"

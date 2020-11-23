@@ -24,6 +24,7 @@ commands:
   commandNotSupportedInThisPlatform: "Comando não é suportado nesta plataforma... It is too late now to say sorry?"
   commandDisabled: "Você não pode utilizar este comando aqui! Ele foi desativado pela equipe do servidor, desculpe pela inconveniência..."
   howToReEnableCommands: "Psiu, você pode reativar o comando em {0}!"
+  invalidRankingPage: "Você pode gostar de ir ao infinito e além... mas eu não gosto! Você só pode ver as páginas 1 até 100 do ranking!"
   arguments:
     text: "texto"
     number: "número"

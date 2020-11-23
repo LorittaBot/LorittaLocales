@@ -79,3 +79,5 @@ commands:
   servericon:
     description: "Mostra o ícone do servidor atual!"
     noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"
+  say:
+    messageSentBy: "Mensagem enviada por {0}"

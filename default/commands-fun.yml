@@ -37,6 +37,7 @@ commands:
       oneWinner: "Parabéns {0} por ganhar o sorteio {1}!"
       multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
       giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
+      giveawayCreatedBy: "Sorteio criado por {0}"
     giveawayend:
       description: "\"Meu Deus, o sorteio vai demorar muito para acabar!\" você exclama, com tom de desespero, \"Lori me ajude, meus membros vão ficar pistola caso eu tenha que fazer outro sorteio!\". Finalize sorteios antes da hora, para evitar a horda de membros reclamando que você colocou o horário errado!"
       giveawayInvalidArguments: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: {0}"
