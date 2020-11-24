@@ -72,7 +72,7 @@ commands:
       description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
       successfullyRenamed: "Canal renomeado com sucesso!"
       channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
-      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de can al!"
+      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar o nome do canal!"
       cantRename: "Não consegui renomear o canal..."
     mute:
       description: "Silencia um usuário por um período de tempo determinado"
@@ -106,10 +106,8 @@ commands:
         - "35 @MrPowerGamerBR"
       invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
       couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
-      ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
-      ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-      ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-      success: "Chat limpo por {0}!"
+      success: "O chat foi limpo com sucesso por {0}!"
+      ignoredMessages: "Beep-boop! Aparentemente **{0}** mensagens não puderam ser limpas, por serem muito antigas ou estarem fixadas."
     roleId:
       description: "Pega o ID de um cargo do Discord"
       examples:
