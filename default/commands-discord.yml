@@ -80,6 +80,7 @@ commands:
       threadCount: "Número de Threads"
       environment: "Ambiente"
       love: "Amor"
+      crowdin: "🏁 Crowdin"
     inviteinfo:
       inThisServer: "Sim, eu estou no servidor!"
       notOnTheServer: "Infelizmente eu não estou no servidor..."

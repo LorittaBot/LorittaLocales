@@ -14,6 +14,8 @@ commands:
       personalLanguageTip: "Você sabia que você pode definir um idioma pessoal para que eu possa falar no seu idioma invés de falar no idioma do servidor? Use esse comando na minha DM!"
       personalLanguageRemovalTip: "Clique no {0} se deseja redefinir seu idioma pessoal!"
       removedPersonalLanguage: "Você redefiniu seu idioma pessoal! Isso quer dizer que agora eu vou falar no idioma do servidor que você está me usando!"
+      helpUsTranslate: "🏁 Quer ajudar a me traduzir?"
+      crowdinLink: "https://loritta.crowdin.com/loritta"
     donate:
       howToHelp: "Obrigada por querer me ajudar a ficar online! {1}\n\nSem a sua ajuda, eu não iria conseguir ficar online. (Afinal, sem dinheiro = sem hospedagem para eu ficar online {2})\n\nPara doar é simples e fácil! Apenas [acesse a página de doação no meu website]({0}), lá mostra todas as vantagens que você pode receber doando! {3}"
       description: "Lista das adoráveis pessoas que me ajudam a cada mês para me manter online!"
