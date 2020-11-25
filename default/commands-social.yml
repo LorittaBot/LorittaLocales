@@ -3,7 +3,7 @@ commands:
     youAreNotMarried: "A tua alma ainda não encontrou outra alma para passar o resto da vida com ela... Você só pode usar funcionalidades de pessoas casados após se {0} com alguém! {1}"
     profile:
       profileshop: "Compre novos perfis em {0}"
-    topreputation: 
+    topreputation:
       description: "Veja os usuários que deram, ou receberam, mais reputações!"
       received: "recebidas"
       given: "dadas"
@@ -15,6 +15,7 @@ commands:
     reputation:
       reputationLink: "Quase pronto! Para dar a reputação, confirme ela em {0}"
       success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"
+      invalidUser: "Usuário inválido!"
     divorce:
       prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"
       pleaseConfirm: "Caso você realmente tenha certeza que o casamento jamais irá dar certo, clique em {0}... eu irei te deixar em paz enquanto você pensa se realmente vale a pena fazer isso."
@@ -32,13 +33,13 @@ commands:
       enabledNotifications: "Você ativou as notificações de level up via mensagem direta!"
       disabledNotifications: "Você desativou as notificações de level up via mensagem direta!"
     repList:
-        description: "Veja as suas reputações enviadas ou recebidas!"
-        title: "Histórico de Reputações"
-        otherUserRepList: "Histórico de Reputações de {0}"
-        noReps: "Nenhuma reputação enviada ou recebida para poder aparecer aqui..."
-        reputationsTotalDescription: "Total de {0} reputações recebidas e {1} reputações enviadas"
-        receivedReputationByLoritta: "{0} foi uma pessoa incrível e ganhou uma reputação minha!"
-        receivedReputation: "Reputação recebida de {0}"
-        receivedReputationWithContent: "Reputação recebida de {0} com a mensagem: {1}"
-        sentReputation: "Reputação enviada para {0}"
-        sentReputationWithContent: "Reputação enviada para {0} com a mensagem: {1}"
+      description: "Veja as suas reputações enviadas ou recebidas!"
+      title: "Histórico de Reputações"
+      otherUserRepList: "Histórico de Reputações de {0}"
+      noReps: "Nenhuma reputação enviada ou recebida para poder aparecer aqui..."
+      reputationsTotalDescription: "Total de {0} reputações recebidas e {1} reputações enviadas"
+      receivedReputationByLoritta: "{0} foi uma pessoa incrível e ganhou uma reputação minha!"
+      receivedReputation: "Reputação recebida de {0}"
+      receivedReputationWithContent: "Reputação recebida de {0} com a mensagem: {1}"
+      sentReputation: "Reputação enviada para {0}"
+      sentReputationWithContent: "Reputação enviada para {0} com a mensagem: {1}"

@@ -12,9 +12,9 @@ commands:
     punisherRoleTooLowHowToFix: "Para que você possa punir, suba o seu cargo para o topo na lista de cargos, obrigada!"
     successfullyPunished: "Usuário punido. Ninguém mandou quebrar as regras, seu boboca!"
     readyToPunish: "Você está prestes a {0} {1} (`{2}` – `{3}`) do seu servidor! Para confirmar, clique no ✅"
-    silentTip: "Psiu, querendo punir sem que a vítima receba a punição via mensagem direta e sem que apareça no canal da punições? Então clique no 🙊!"
+    silentTip: "Psiu, querendo punir sem que a vítima receba a punição via mensagem direta e sem que apareça no canal da punições? Então clique no \U0001F64A!"
     skipConfirmationTip: "Cansado de confirmar as suas punições? Então use {0} para burlar as confirmações de punições, para que você possa sentir a satisfação de banir aquele usuário chato enquanto ele está digitando um textão para te xingar!"
-    setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no 🔄!"
+    setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no \U0001F504!"
     reports:
       pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
       raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
@@ -126,6 +126,7 @@ commands:
       iDontHavePermissionToTalkIn: "Eu não tenho permissão para falar no {0}!"
       youDontHavePermissionToTalkIn: "Você não tem permissão para falar no {0}!"
     slowmode:
-      description: "Ativa o 'modo lento' no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
+      description: "Ativa o \"modo lento\" no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
       enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
       disabledInChannel: "{0} não está mais no modo lento!"
+    rolecommands-moderation: "Pega o ID de um cargo do Discord"

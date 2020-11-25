@@ -9,8 +9,8 @@ commands:
     terminator:
       description: "Arte feita por @tonmoh"
       examples:
-      - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
-    loridrake: 
+        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
+    loridrake:
       description: "Crie um meme do Drake, Loritta edition"
     bolsonaro:
       description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
@@ -25,7 +25,7 @@ commands:
     gessyata:
       description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
     susto:
-      description: "Ahhhhh 😱! Crie uma imagem de mim tomando susto sobre alguma coisa!"
+      description: "Ahhhhh \U0001F631! Crie uma imagem de mim tomando susto sobre alguma coisa!"
     studiopolistv:
       description: "Será que o Eggman colocou algo de interessante em sua televisão?"
     romerobritto:
@@ -41,14 +41,14 @@ commands:
     drawnword:
       description: "eU sO crianSA i escRevO coIsas ToSCas"
       examples:
-      - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
+        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
     drawnmasksign:
       description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
     atendente:
       description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
       examples:
-      - "Pega a Vassoura."
-      - "É Drawn Mask e não Draum Mésqui"
+        - "Pega a Vassoura."
+        - "É Drawn Mask e não Draum Mésqui"
     canelladvd:
       description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
     tobecontinued:
@@ -67,22 +67,22 @@ commands:
       description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
       slot:
         theGuyYouLike:
-          MALE: "O CARA QUE VOCÊ GOSTA" 
+          MALE: "O CARA QUE VOCÊ GOSTA"
           FEMALE: "A MINA QUE VOCÊ GOSTA"
         theFather:
-          MALE: "O PAI {0}" 
+          MALE: "O PAI {0}"
           FEMALE: "A MÃE {0}"
         theBrother:
-          MALE: "IRMÃO {0}" 
+          MALE: "IRMÃO {0}"
           FEMALE: "IRMÃ {0}"
         theFirstLover:
-          MALE: "PRIMEIRO AMOR {0}" 
+          MALE: "PRIMEIRO AMOR {0}"
           FEMALE: "PRIMEIRO AMOR {0}"
         theBestFriend:
-          MALE: "MELHOR AMIGO {0}" 
+          MALE: "MELHOR AMIGO {0}"
           FEMALE: "MELHOR AMIGA {0}"
         you:
-          MALE: "VOCÊ" 
+          MALE: "VOCÊ"
           FEMALE: "VOCÊ"
     ascii:
       description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
@@ -93,7 +93,7 @@ commands:
     briggscover:
       description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
       examples:
-      - "@Loritta"
+        - "@Loritta"
     nyancat:
       description: "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!"
     jooj:
@@ -104,6 +104,10 @@ commands:
       description: "Dê uma de Scorpion e dê um puxão em alguém!"
     friendship:
       description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
+      ended: "acabou"
+      now: "Agora"
+      isMy: "é o(a) meu(minha)"
+      bestFriend: "melhor amigo(a)"
     maniatitlecard:
       description: "Crie um title card do Sonic Mania!"
     carlyaaah:
@@ -118,13 +122,64 @@ commands:
       description: "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
       embedTitle: "Gerador de Thumbnails do Cortes do Flow"
       embedDescription:
-      - "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
-      - ""
-      - "**Como usar?** `{0}`"
-      - "**Exemplo:** `{1}`"
+        - "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
+        - ""
+        - "**Como usar?** `{0}`"
+        - "**Exemplo:** `{1}`"
       howToUseExample: "{0}cortesflow FundoDaThumbnail Texto aqui"
       commandExample: "{0}cortesflow monark-stop \"adm mandou parar de fazer baderna\""
       thumbnailSelection: "`{0}` [\\[fonte\\]]({1})"
       findOutThumbnailSource: "Quer saber de qual corte veio a thumbnail? Então clique em \"fonte\"!"
       youNeedToAddText: "A não ser se você deseja uma thumbnail vazia... Você precisa colocar o texto que você deseja que apareça na thumbnail!"
       unknownType: "Tipo de fundo para a thumbnail desconhecido! Para ver a lista de tipos suportados use `{0}cortesflow`"
+    ripvida:
+      description: "Um inocente doggo viu uma imagem que fez ele repensar a vida dele..."
+      file: "doge_vida.png"
+    friends:
+      description: "Obrigado por serem **VOCÊ NÃO** os melhores amigos de todos!"
+    cepo:
+      description: "Destrua alguém no estilo Gugu Gaiteiro!"
+    contentawarescale:
+      description: "Aplica efeito de content aware scale (seam carver) em uma imagem"
+    demon:
+      description: "Vá embora, demônio!\n\nAnimação original por CptNameless"
+    god:
+      description: "Coloca alguém em uma pesquisa do Google sobre \"Deus\""
+    gods:
+      description: "Caralho, olha os Deuses mano!"
+    discordping:
+      description: "Mostre a sua reação quando você recebe uma notificação inútil do Discord!"
+    gang:
+      description: "Gangue da quebrada"
+    gumballliftup:
+      description: "\"Sabe o que eu faço quando me sinto para baixo?\""
+    invert:
+      description: "Inverte a cor de uma imagem"
+    knuxthrow:
+      description: "\"Você não pode encostar na Esmeralda Mestre!\", Faça o Knuckles jogar algo para longe!"
+    laranjo:
+      description: "Crie um meme do Laranjo!"
+    lava:
+      description: "O chão é...? Decida o que você quiser!"
+    reverselava:
+      description: "O chão é...? Decida o que você quiser!"
+    forgive:
+      description: "Um monstro desses merece perdão?"
+    perfect:
+      description: "Será que \"Nada é perfeito\" mesmo?"
+    firstwords:
+      description: "Ai meu deus... as primeiras palavras do bebê!"
+    reasons:
+      description: "Qual é a sua razão para viver?"
+    swing:
+      description: "Acerte alguém com uma marreta!\n\nAnimação original por CptNameless"
+    everygrouphas:
+      description: "Todo grupo tem..."
+      file: "todogrupotem_default.png"
+      everygrouphas: "Todo grupo tem..."
+    tretanews:
+      description: "VOOOOOOOCÊ ESTÁ ASSISTINDO TRETA NEWS ENTÃO VAMOS DIRETO PARA AS NOTÍCIAS"
+    triggered:
+      description: "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!"
+    trump:
+      description: "O que será que o senhor presidente Trump está mostrando hoje?"

@@ -3,9 +3,9 @@ commands:
     ditty:
       description: "Combine letras com rítimos para criar a sua própria música para você escutar e se divertir!"
       examples:
-      - "swlukestheme roblox sucks a lot because fortnite is better but minecraft is awesome"
-      - "babyshark hit or miss I guess they never miss huh"
-      - "lista"
+        - "swlukestheme roblox sucks a lot because fortnite is better but minecraft is awesome"
+        - "babyshark hit or miss I guess they never miss huh"
+        - "lista"
       music: "música"
     randomsam:
       description: "kk eae men o SAM é brabo. Mostra memes aleatórios da página do South America Memes no Instagram."
@@ -56,54 +56,16 @@ commands:
       description: "Veja se um casal daria certo (ou não!)"
       newCouple: "Hmmm, será que nós temos um novo casal aqui?"
       bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
-      value90: [
-        "😍 %ship% Os dois se amam! 😍",
-        "💗 %ship% Casal mais perfeito? Impossível! 💗",
-        "☠ %ship% Nem a *dona* morte separa! 😂",
-        "😋 %ship% Casal mais perfeito que eu! 😋",
-        "😚 %ship% Casal? Casal que nada! Eles já são casados! 😚"
-      ]
-      value80: [
-        "😏 %ship% Mas esses dois já se conhecem faz muito tempo... 😏",
-        "😊 %ship% Claro que os dois são um lindo casal! 😊",
-        "😜 %ship% Casal mais grudento que Despacito! 😜",
-        "😄 %ship% Se os dois já não namoram eu estaria surpresa! 😄"
-      ]
-      value70: [
-        "🙂 %ship% Prevejo um casal fofo se formando! 🙂",
-        "😄 %ship% Só precisa de um pouco mais de conversa para rolar! 😜",
-        "😊 %ship% Os dois foram feitos um para o outro! 😊",
-        "😄 %ship% Sim! 😄"
-      ]
-      value60: [
-        "🙂 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... 😏",
-        "😊 %ship% Tem um pouco de interesses compatíveis aí 😊",
-        "🙂 %ship% Eu aprovo esse casal! 🙂",
-        "😄 %ship% Sim! 😄"
-      ]
-      value50: [
-        "😶 %ship% Amigos... Mas talvez né... 😏",
-        "😊 %ship% Talvez... Só precisa o/a %user% querer! 😶",
-        "😶 %ship% Eu queria ver esse casal funcionar 😶"
-      ]
-      value40: [
-        "😶 %ship% É... talvez, eu acho... 🙁",
-        "😶 %ship% Nada é impossível, mas... 🙁",
-        "😶 %ship% Se os dois quiserem, talvez dê certo... Mas... 😶"
-      ]
-      value30: [
-        "😕 %ship% Acho que não seria um belo casal... 🙁",
-        "😶 %ship% Parece que só são conhecidos... 😶"
-      ]
-      value20: [
-        "😐 %ship% Se o(a) %user% não tivesse deixado na friendzone... 😐"
-      ]
-      value10: [
-        "😐 %ship% Eu queria muito falar que é possível, mas... 😢"
-      ]
-      value0: [
-        "😭 %ship% As possibilidades de ter este casal são quase impossíveis! 😭"
-      ]
+      value90: ["\U0001F60D %ship% Os dois se amam! \U0001F60D", "\U0001F497 %ship% Casal mais perfeito? Impossível! \U0001F497", "☠ %ship% Nem a *dona* morte separa! \U0001F602", "\U0001F60B %ship% Casal mais perfeito que eu! \U0001F60B", "\U0001F61A %ship% Casal? Casal que nada! Eles já são casados! \U0001F61A"]
+      value80: ["\U0001F60F %ship% Mas esses dois já se conhecem faz muito tempo... \U0001F60F", "\U0001F60A %ship% Claro que os dois são um lindo casal! \U0001F60A", "\U0001F61C %ship% Casal mais grudento que Despacito! \U0001F61C", "\U0001F604 %ship% Se os dois já não namoram eu estaria surpresa! \U0001F604"]
+      value70: ["\U0001F642 %ship% Prevejo um casal fofo se formando! \U0001F642", "\U0001F604 %ship% Só precisa de um pouco mais de conversa para rolar! \U0001F61C", "\U0001F60A %ship% Os dois foram feitos um para o outro! \U0001F60A", "\U0001F604 %ship% Sim! \U0001F604"]
+      value60: ["\U0001F642 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... \U0001F60F", "\U0001F60A %ship% Tem um pouco de interesses compatíveis aí \U0001F60A", "\U0001F642 %ship% Eu aprovo esse casal! \U0001F642", "\U0001F604 %ship% Sim! \U0001F604"]
+      value50: ["\U0001F636 %ship% Amigos... Mas talvez né... \U0001F60F", "\U0001F60A %ship% Talvez... Só precisa o/a %user% querer! \U0001F636", "\U0001F636 %ship% Eu queria ver esse casal funcionar \U0001F636"]
+      value40: ["\U0001F636 %ship% É... talvez, eu acho... \U0001F641", "\U0001F636 %ship% Nada é impossível, mas... \U0001F641", "\U0001F636 %ship% Se os dois quiserem, talvez dê certo... Mas... \U0001F636"]
+      value30: ["\U0001F615 %ship% Acho que não seria um belo casal... \U0001F641", "\U0001F636 %ship% Parece que só são conhecidos... \U0001F636"]
+      value20: ["\U0001F610 %ship% Se o(a) %user% não tivesse deixado na friendzone... \U0001F610"]
+      value10: ["\U0001F610 %ship% Eu queria muito falar que é possível, mas... \U0001F622"]
+      value0: ["\U0001F62D %ship% As possibilidades de ter este casal são quase impossíveis! \U0001F62D"]
     akinator:
       description: "O Akinator pode ler a sua mente e dizer qual personagem você está pensando! Será que você irá conseguir ganhar dele?"
       question: "Questão {0}"
@@ -126,103 +88,140 @@ commands:
     ratewaifu:
       description: "Receba uma nota para a sua Waifu!"
       note10:
-      - "Simplesmente perfeita! Não trocaria de Waifu se fosse você!"
+        - "Simplesmente perfeita! Não trocaria de Waifu se fosse você!"
       note9:
-      - "Uma Waifu excelente, ótima escolha"
+        - "Uma Waifu excelente, ótima escolha"
       note8:
-      - "Uma Waifu que acerta em todos os pontos bons da vida."
+        - "Uma Waifu que acerta em todos os pontos bons da vida."
       note7:
-      - "Nem todas as Waifus são perfeitas, mas qual seria a graça de viver com alguém perfeito?"
+        - "Nem todas as Waifus são perfeitas, mas qual seria a graça de viver com alguém perfeito?"
       note6:
-      - "Se fosse nota de escola sua Waifu ela seria \"acima da média\""
+        - "Se fosse nota de escola sua Waifu ela seria \"acima da média\""
       note5:
-      - "Nem tão ruim, nem tão boa, bem \"normal\""
+        - "Nem tão ruim, nem tão boa, bem \"normal\""
       note4:
-      - "Não que a sua Waifu seja ruim, pelo contrário! Ela tem potencial para ser algo mais *interessante*!"
+        - "Não que a sua Waifu seja ruim, pelo contrário! Ela tem potencial para ser algo mais *interessante*!"
       note3:
-      - "Sua Waifu precisa de mais substância."
+        - "Sua Waifu precisa de mais substância."
       note2:
-      - "Não é por nada não mas, se eu fosse você, eu trocaria de Waifu..."
+        - "Não é por nada não mas, se eu fosse você, eu trocaria de Waifu..."
       note1:
-      - "Sem chance, troca de Waifu hoje mesmo para garantir sua sanidade."
+        - "Sem chance, troca de Waifu hoje mesmo para garantir sua sanidade."
       note0:
-      - "Troque de Waifu por favor."
+        - "Troque de Waifu por favor."
       noteLoritta:
-      - "Sou perfeita!"
-      - "Sou perfeita amigx!"
-      - "Procure por perfeição no dicionário, você irá encontrar \"Loritta\""
+        - "Sou perfeita!"
+        - "Sou perfeita amigx!"
+        - "Procure por perfeição no dicionário, você irá encontrar \"Loritta\""
       notePollux:
-      - "Uma amiga 10/10, ela é muito legal e criativa! (Sério, você já viu o que ela consegue fazer? Fico até impressionada! Até fico triste ao olhar como alguns comandos dela são bonitos e as coisas que eu faço são... bem, feias...)"
+        - "Uma amiga 10/10, ela é muito legal e criativa! (Sério, você já viu o que ela consegue fazer? Fico até impressionada! Até fico triste ao olhar como alguns comandos dela são bonitos e as coisas que eu faço são... bem, feias...)"
       notePantufa:
-      - "A minha melhor amiga, a Pantufinha é minha amiga de infância! Beijos amigs."
+        - "A minha melhor amiga, a Pantufinha é minha amiga de infância! Beijos amigs."
       noteTatsumaki:
-      - "Uma das minhas inspirações, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "Uma das minhas inspirações, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
       noteMantaro:
-      - "Nunca conversei muito com a Mantaro, mas eu sei que o criador dela é gente boa."
+        - "Nunca conversei muito com a Mantaro, mas eu sei que o criador dela é gente boa."
       noteMee6:
-      - "Uma das minhas inspirações e um dos bots mais antigos e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "Uma das minhas inspirações e um dos bots mais antigos e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
       noteDyno:
-      - "Uma das minhas inspirações e um dos bots mais populares na área de administração e logging de eventos do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "Uma das minhas inspirações e um dos bots mais populares na área de administração e logging de eventos do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
       noteMudae:
-      - "E você ganha personagens, e você também ganha personagens, e você também ganha mais personagens... todos merecem coletar personagens!"
+        - "E você ganha personagens, e você também ganha personagens, e você também ganha mais personagens... todos merecem coletar personagens!"
       noteNadeko:
-      - "Uma das minhas inspirações e um dos bots mais customizáveis e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+        - "Uma das minhas inspirações e um dos bots mais customizáveis e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
       noteUnbelievaBoat:
-      - "Muitas pessoas amam ele devido ao sistema extremamente extenso de economia dele, e se eu não desse 10/10 para ele, meu espírito capitalista iria ficar boladex..."
+        - "Muitas pessoas amam ele devido ao sistema extremamente extenso de economia dele, e se eu não desse 10/10 para ele, meu espírito capitalista iria ficar boladex..."
       noteChinoKafuu:
-      - "Um bot bem legalzin com funcionalidades top top"
+        - "Um bot bem legalzin com funcionalidades top top"
       noteGroovy:
-      - "O melhor bot para músicas que existe!"
+        - "O melhor bot para músicas que existe!"
       noteLorrita:
-      - "Aprenda a escrever o meu nome corretamente."
-      - "Tá precisando de um oftalmologista para aprender a ler o meu nome corretamente?"
-      - "Volta pra escola porque você faltou nas aulas de leitura e escrita."
+        - "Aprenda a escrever o meu nome corretamente."
+        - "Tá precisando de um oftalmologista para aprender a ler o meu nome corretamente?"
+        - "Volta pra escola porque você faltou nas aulas de leitura e escrita."
       result: "Eu dou nota **{0}** para `{1}`! **{2}**"
     flipcoin:
       heads: "Cara"
       tails: "Coroa"
+      description: "Gire uma moeda e veja se irá cair cara ou coroa! Perfeito para descobrir quem irá ir primeiro em uma partida de futebas"
     cancelled:
       description: "A sua mana foi canceladx pelas militantes do Twitter! Ah, mas qual foi o motivo do cancelamento?"
       wasCancelled: "{0} foi cancelado(a) por {1}"
       reasons:
-      - "ser atraente demais"
-      - "ter charme demais"
-      - "ser uma pessoa horrível"
-      - "ser uma grande gostosa"
-      - "ser boy lixo"
-      - "ser comunista"
-      - "debochar demais"
-      - "ser inteligente demais"
-      - "ser padrãozinho"
-      - "pedir muito biscoito"
-      - "ser corno"
-      - "ser uma delícia"
-      - "ser gado demais"
-      - "não ser ninguém"
-      - "ser poser"
-      - "ser insuportável"
-      - "ser insensível"
-      - "não fazer nada"
-      - "ser trouxa"
-      - "se atrasar sempre"
-      - "ser impaciente demais"
-      - "ter virado o Coronga"
-      - "ser BV"
-      - "ter muita preguiça"
-      - "ser inútil"
-      - "ser inadimplente no Serasa"
-      - "contar muita piada ruim"
-      - "procrastinar demais"
-      - "se considerar incancelável"
-      - "ser menor de idade"
-      - "ser velho"
-      - "ser amigo do Felipe Neto"
-      - "mentir para os seus fãs"
-      - "esquecer de dar créditos para um artista"
-      - "ter chamado alguém com o pronome errado"
-      - "ter votado no Bolsonaro"
-      - "ter votado no Haddad"
+        - "ser atraente demais"
+        - "ter charme demais"
+        - "ser uma pessoa horrível"
+        - "ser uma grande gostosa"
+        - "ser boy lixo"
+        - "ser comunista"
+        - "debochar demais"
+        - "ser inteligente demais"
+        - "ser padrãozinho"
+        - "pedir muito biscoito"
+        - "ser corno"
+        - "ser uma delícia"
+        - "ser gado demais"
+        - "não ser ninguém"
+        - "ser poser"
+        - "ser insuportável"
+        - "ser insensível"
+        - "não fazer nada"
+        - "ser trouxa"
+        - "se atrasar sempre"
+        - "ser impaciente demais"
+        - "ter virado o Coronga"
+        - "ser BV"
+        - "ter muita preguiça"
+        - "ser inútil"
+        - "ser inadimplente no Serasa"
+        - "contar muita piada ruim"
+        - "procrastinar demais"
+        - "se considerar incancelável"
+        - "ser menor de idade"
+        - "ser velho"
+        - "ser amigo do Felipe Neto"
+        - "mentir para os seus fãs"
+        - "esquecer de dar créditos para um artista"
+        - "ter chamado alguém com o pronome errado"
+        - "ter votado no Bolsonaro"
+        - "ter votado no Haddad"
     hungergames:
       description: "Cria uma simulação personalizada de BrantSteele Hunger Games com os usuários que você escolher, sem você precisar ficar copiando e salvando avatar de cada pessoa só para colocar no simulador! Você precisa incluir 24 pessoas para poder iniciar a simulação, caso você não inclua pessoas suficientes, usuários aleatórios do servidor serão incluidos."
       simulationCreated: "Simulação de Hunger Games criada! Boa sorte aos jogadores na simulação. {0}"
       doesntHaveEnoughUsers: "Não encontrei usuários suficientes para criar a simulação... Tente mencionar os usuários que irão participar da simulação. Ah, e não se esqueça que precisa de 24 pessoas diferentes para criar a simulação!"
+    bembolada:
+      description: "\"Hai minasan genki deska!\" Diretamente do Loop Infinito para o seu servidor no Discord!\n\nA bem bolada da semana é a seguinte..."
+    faustao:
+      description: "Invoque o querido Faustão no seu servidor!"
+    rockpaperscissors:
+      description: "Jogue Pedra, Papel ou Tesoura! (jankenpon, ou a versão abrasileirada: jokenpô)"
+      win: "Parabéns, você ganhou!"
+      lose: "Que pena... você perdeu, mas o que vale é a intenção!"
+      draw: "Empate! Que tal uma revanche?"
+      maybeDraw: "Empate...?"
+      jesusChrist: "JESUS CRISTO"
+      invalidChoice: "Que pena... você perdeu, dá próxima vez escolha algo que seja válido, ok?"
+    quality:
+      description: "Cria uma mensagem com Q U A L I D A D E & S I N C R O N I A"
+    tiodopave:
+      description: "É pá vê ou pá cume?"
+    twitch:
+      description: "Procura informações sobre um canal no Twitch"
+      views: "Visualizações"
+    vaporwave:
+      description: "Cria uma mensagem com ａｅｓｔｈｅｔｉｃｓ"
+    vaporquality:
+      description: "Quando você mistura Q U A L I D A D E e ａｅｓｔｈｅｔｉｃｓ"
+    vemdezap:
+      whatIsTheMood: "Qual será o seu humor do zap?"
+      moodHappy: "Feliz"
+      moodAngry: "Bravo"
+      moodSassy: "Tarado"
+      moodSad: "Triste"
+      moodSick: "Doente"
+      whatIsTheLevel: "Qual será a intensidade do seu zap?"
+      level1: "Zap força fraca"
+      level2: "Zap força média"
+      level3: "Isso que é zap bb"
+      level4: "Zap monstrão"
+      level5: "Zap topper d+"
