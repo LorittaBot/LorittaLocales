@@ -108,6 +108,7 @@ commands:
       now: "Agora"
       isMy: "é o(a) meu(minha)"
       bestFriend: "melhor amigo(a)"
+      friendWith: "A amizade com {0}"
     maniatitlecard:
       description: "Crie um title card do Sonic Mania!"
     carlyaaah:
@@ -179,7 +180,11 @@ commands:
       everygrouphas: "Todo grupo tem..."
     tretanews:
       description: "VOOOOOOOCÊ ESTÁ ASSISTINDO TRETA NEWS ENTÃO VAMOS DIRETO PARA AS NOTÍCIAS"
+      dislikes: "Não Gostei"
+      like: "Gostei"
     triggered:
       description: "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!"
     trump:
       description: "O que será que o senhor presidente Trump está mostrando hoje?"
+    textcraft:
+      description: "Crie um texto bonito e supimpa! Fontes disponíveis: {0}"
