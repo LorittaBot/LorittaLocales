@@ -26,5 +26,8 @@ commands:
       released: "Criado em"
       lastUpdated: "Última atualização"
       download: "Download"
+      couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+      results: "Resultados para `{0}`"
+      testedVersions: "Versões Testadas"
     mcadvancement:
       description: "Crie uma conquista do Minecraft!"

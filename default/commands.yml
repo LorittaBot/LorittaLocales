@@ -25,6 +25,11 @@ commands:
   commandDisabled: "Você não pode utilizar este comando aqui! Ele foi desativado pela equipe do servidor, desculpe pela inconveniência..."
   howToReEnableCommands: "Psiu, você pode reativar o comando em {0}!"
   invalidRankingPage: "Você pode gostar de ir ao infinito e além... mas eu não gosto! Você só pode ver as páginas 1 até 100 do ranking!"
+  loriPermissionDJ: "DJ"
+  loriMissingPermission: "Você não tem permissão de `{0}` para poder executar o comando... 😢"
+  loriMissingPermissionCanConfigure: "Você pode adicionar a permissão necessária para usar este comando no meu painel! <{0}dashboard/>"
+  cantUseInPrivate: "Você não pode usar este comando em mensagens privadas!"
+  lorittaBadNickname: "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!"
   arguments:
     text: "texto"
     number: "número"
