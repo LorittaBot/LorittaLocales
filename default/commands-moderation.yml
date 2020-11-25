@@ -125,6 +125,7 @@ commands:
       messageSuccessfullySent: "Mensagem enviada no {0} com sucesso!"
       iDontHavePermissionToTalkIn: "Eu não tenho permissão para falar no {0}!"
       youDontHavePermissionToTalkIn: "Você não tem permissão para falar no {0}!"
+      cannotBeUsedIn: "Comandos não podem ser utilizados no {0}!"
     slowmode:
       description: "Ativa o \"modo lento\" no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
       enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
