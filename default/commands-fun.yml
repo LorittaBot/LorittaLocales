@@ -201,6 +201,7 @@ commands:
       maybeDraw: "Empate...?"
       jesusChrist: "JESUS CRISTO"
       invalidChoice: "Que pena... você perdeu, dá próxima vez escolha algo que seja válido, ok?"
+      chosen: "Você escolheu {0}, eu escolhi {1}"
     quality:
       description: "Cria uma mensagem com Q U A L I D A D E & S I N C R O N I A"
     tiodopave:
@@ -208,10 +209,11 @@ commands:
     twitch:
       description: "Procura informações sobre um canal no Twitch"
       views: "Visualizações"
+      couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
     vaporwave:
       description: "Cria uma mensagem com ａｅｓｔｈｅｔｉｃｓ"
     vaporquality:
-      description: "Quando você mistura Q U A L I D A D E e ａｅｓｔｈｅｔｉｃｓ"
+      description: "Quando você mistura Q U A Ls I D A D E e ａｅｓｔｈｅｔｉｃｓ"
     vemdezap:
       whatIsTheMood: "Qual será o seu humor do zap?"
       moodHappy: "Feliz"
@@ -225,3 +227,6 @@ commands:
       level3: "Isso que é zap bb"
       level4: "Zap monstrão"
       level5: "Zap topper d+"
+    gamejolt:
+      description: "Pesquise games no GameJolt!"
+      resultsFor: "Resultados para `{0}`" 
