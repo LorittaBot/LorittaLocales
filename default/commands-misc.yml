@@ -17,6 +17,7 @@ commands:
     donate:
       howToHelp: "Obrigada por querer me ajudar a ficar online! {1}\n\nSem a sua ajuda, eu não iria conseguir ficar online. (Afinal, sem dinheiro = sem hospedagem para eu ficar online {2})\n\nPara doar é simples e fácil! Apenas [acesse a página de doação no meu website]({0}), lá mostra todas as vantagens que você pode receber doando! {3}"
       description: "Lista das adoráveis pessoas que me ajudam a cada mês para me manter online!"
+      thanks: "Obrigada a todas as pessoas nesta lista abaixo por me ajudarem a ficar online!"
       doYouWannaHelp: "Você também quer ajudar?"
     help:
       lorittaHelp: "Ajuda da Loritta"
@@ -33,5 +34,6 @@ commands:
       description: "Mostra todos os comandos disponíveis que eu posso executar, lembrando que isto só irá mostrar os comandos habilitados no servidor que você executou a ajuda!"
     choose:
       description: "Precisando de ajuda para escolher alguma coisa? Então deixe-me escolher para você!"
+      result: "Eu escolhi `{0}`!"
     ping:
       description: "Um comando de teste para ver se eu estou funcionando, recomendo que você deixe isto ligado para testar!"

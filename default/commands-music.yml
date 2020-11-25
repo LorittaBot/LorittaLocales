@@ -2,3 +2,5 @@ commands:
   music:
     lyrics:
       description: "Está passando vergonha porque você esqueceu como é a letra da sua música favorita? Tentando entender o que estão falando na música que você está escutando? Então pergunte para mim qual é a letra da música!"
+      couldntFind: "Eu não consegui encontrar a letra dessa música..."
+      sorryForTheInconvenience: "Desculpe pela inconveniência..."

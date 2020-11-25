@@ -108,6 +108,7 @@ commands:
       now: "Agora"
       isMy: "é o(a) meu(minha)"
       bestFriend: "melhor amigo(a)"
+      friendWith: "A amizade com {0}"
     maniatitlecard:
       description: "Crie um title card do Sonic Mania!"
     carlyaaah:
@@ -152,13 +153,13 @@ commands:
     gang:
       description: "Gangue da quebrada"
     gumballliftup:
-      description: "\"Sabe o que eu faço quando me sinto para baixo?\""
+      description: "Sabe o que eu faço quando me sinto para baixo?"
       subtitle1: "Sabe o que eu faço quando me sinto para baixo?"
       subtitle2: "Eu olho pra isso"
     invert:
       description: "Inverte a cor de uma imagem"
     knuxthrow:
-      description: "\"Você não pode encostar na Esmeralda Mestre!\", Faça o Knuckles jogar algo para longe!"
+      description: "Você não pode encostar na Esmeralda Mestre!, Faça o Knuckles jogar algo para longe!"
     laranjo:
       description: "Crie um meme do Laranjo!"
     lava:
@@ -181,9 +182,11 @@ commands:
       everygrouphas: "Todo grupo tem..."
     tretanews:
       description: "VOOOOOOOCÊ ESTÁ ASSISTINDO TRETA NEWS ENTÃO VAMOS DIRETO PARA AS NOTÍCIAS"
-      likes: "Gostei"
       dislikes: "Não Gostei"
+      likes: "Gostei"
     triggered:
       description: "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!"
     trump:
       description: "O que será que o senhor presidente Trump está mostrando hoje?"
+    textcraft:
+      description: "Crie um texto bonito e supimpa! Fontes disponíveis: {0}"

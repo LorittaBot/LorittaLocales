@@ -1,5 +1,6 @@
 commands:
   minecraft:
+    unknownPlayer: "`{0}` não é um player válido!"
     mcsign:
       description: "Escreve um texto em uma placa do Minecraft!"
       examples:
@@ -19,6 +20,7 @@ commands:
       description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
       invalidSkin: "Isto não é uma skin válida! Uma skin válida possui `64x32` de tamanho (formato 1.8) ou `32x32` de tamanho (formato 1.7)!"
       done: "prontinho! Agora é só baixar a sua nova skin com o meu lindo moletom e se divertir!"
+      uploadToMojang: "Caso você tenha uma conta de Minecraft original, clique no link para enviar automaticamente a skin para a sua conta!"
     mcskin:
       description: "Mostra a skin de uma conta do Minecraft"
     spigotmc:
@@ -36,7 +38,11 @@ commands:
       advancementMade: "Progresso Feito!"
     mcstatus:
       description: "Verifica se os servidores da Mojang estão online"
+      mojangStatus: "Status da Mojang"
     mcuuid:
       description: "Pega a UUID de um usuário"
+      result: "A UUID de `{0}`: `{1}`"
+      invalid: "Player não encontrado! Tem certeza que `{0}` é uma conta válida?"
     mcofflineuuid:
       description: "Pega a UUID offline (ou seja, de servidores sem autenticação da Mojang) de um player"
+      result: "**UUID offline (sem autenticação da Mojang) de `{0}`:** `{1}`"
