@@ -21,7 +21,34 @@ profileDesigns:
   name: "Design para Perfil"
   defaultDark:
     title: "Padrão Escuro"
-    description: "O clássico perfil da Loritta"
+    description: &defaultProfileDesign "O clássico perfil da Loritta"
+  defaultBlurple:
+    title: "Padrão Azoroxo"
+    description: *defaultProfileDesign
+  defaultRed:
+    title: "Padrão Vermelho"
+    description: *defaultProfileDesign
+  defaultBlue:
+    title: "Padrão Azul"
+    description: *defaultProfileDesign
+  defaultGreen:
+    title: "Padrão Verde"
+    description: *defaultProfileDesign
+  defaultPurple:
+    title: "Padrão Roxo"
+    description: *defaultProfileDesign
+  defaultPink:
+    title: "Padrão Rosa"
+    description: *defaultProfileDesign
+  defaultOrange:
+    title: "Padrão Laranja"
+    description: *defaultProfileDesign
+  defaultYellow:
+    title: "Padrão Amarelo"
+    description: *defaultProfileDesign
+  defaultLight:
+    title: "Padrão Claro"
+    description: *defaultProfileDesign
   modernBlurple:
     title: "Modernidade Roxa"
     description: "Modernidade é muito mais chique que simplicidade"
