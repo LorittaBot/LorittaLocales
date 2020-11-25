@@ -26,7 +26,7 @@ commands:
   howToReEnableCommands: "Psiu, você pode reativar o comando em {0}!"
   invalidRankingPage: "Você pode gostar de ir ao infinito e além... mas eu não gosto! Você só pode ver as páginas 1 até 100 do ranking!"
   loriPermissionDJ: "DJ"
-  loriMissingPermission: "Você não tem permissão de `{0}` para poder executar o comando... 😢"
+  loriMissingPermission: "Você não tem permissão de `{0}` para poder executar o comando... \U0001F622"
   loriMissingPermissionCanConfigure: "Você pode adicionar a permissão necessária para usar este comando no meu painel! <{0}dashboard/>"
   cantUseInPrivate: "Você não pode usar este comando em mensagens privadas!"
   lorittaBadNickname: "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!"
@@ -61,56 +61,59 @@ commands:
     - ""
     - "Desculpe pela inconveniência... Ou, se você foi banido por um motivo justo, sofra com a inconveniência!! {5}"
   # DIVERSÃO
+
   entertainment: # O nome não é "fun" porque "fun" é uma palavra reservada em Kotlin
     vieirinha:
       description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
       examples:
-      - "Você me ama?"
-      - "Sonic é melhor que Mario?"
-      - "Eu irei ganhar na loteria neste ano?"
+        - "Você me ama?"
+        - "Sonic é melhor que Mario?"
+        - "Eu irei ganhar na loteria neste ano?"
       responses:
-      - "Vai incomodar outra pessoa, obrigado."
-      - "Não sei, mas eu sei que eu moro lá no Cambuci."
-      - "Do jeito que eu vejo, sim."
-      - "Hmmmm... 🤔"
-      - "Não posso falar sobre isso."
-      - "Não."
-      - "Sim."
-      - "Eu responderia, mas não quero ferir seus sentimentos."
-      - "Provavelmente sim"
-      - "Provavelmente não"
-      - "Minhas fontes dizem que sim"
-      - "Minhas fontes dizem que não"
-      - "Você pode acreditar nisso"
-      - "Minha resposta é não"
-      - "Minha resposta é sim"
-      - "Do jeito que eu vejo, não."
-      - "Melhor não falar isto para você agora..."
-      - "Sim, com certeza!"
-      - "Também queria saber..."
-      - "A minha resposta não importa, o que importa é você seguir o seu coração. 😘"
-      - "Talvez..."
-      - "Acho que sim."
-      - "Acho que não."
-      - "Talvez sim."
-      - "Talvez não."
-      - "Sim!"
-      - "Não!"
-      - "¯\\_(ツ)_/¯"
+        - "Vai incomodar outra pessoa, obrigado."
+        - "Não sei, mas eu sei que eu moro lá no Cambuci."
+        - "Do jeito que eu vejo, sim."
+        - "Hmmmm... \U0001F914"
+        - "Não posso falar sobre isso."
+        - "Não."
+        - "Sim."
+        - "Eu responderia, mas não quero ferir seus sentimentos."
+        - "Provavelmente sim"
+        - "Provavelmente não"
+        - "Minhas fontes dizem que sim"
+        - "Minhas fontes dizem que não"
+        - "Você pode acreditar nisso"
+        - "Minha resposta é não"
+        - "Minha resposta é sim"
+        - "Do jeito que eu vejo, não."
+        - "Melhor não falar isto para você agora..."
+        - "Sim, com certeza!"
+        - "Também queria saber..."
+        - "A minha resposta não importa, o que importa é você seguir o seu coração. \U0001F618"
+        - "Talvez..."
+        - "Acho que sim."
+        - "Acho que não."
+        - "Talvez sim."
+        - "Talvez não."
+        - "Sim!"
+        - "Não!"
+        - "¯\\_(ツ)_/¯"
     vemDeZap:
-      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é 🔝 com as 9inhas do zapzap!"
+      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é \U0001F51D com as 9inhas do zapzap!"
       examples:
-      - "vem de zap bb"
-      - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
-      - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
+        - "vem de zap bb"
+        - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk"
+        - "zapzap é melhor que o discord, lá a gente tem número de novinhxs!"
   images:
     bolsoDrake:
       description: "Meme tem que ser de origem brasileira, talquei?"
   # MODERAÇÃO
+
   moderation:
     unmute:
       sucessfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
   # DISCORD
+
   discord:
     emojiInfo:
       description: "Mostra as informações de um emoji"
@@ -133,15 +136,17 @@ commands:
     emoji:
       notFoundId: "Enquanto {0} parece ser um ID válido para um emoji... Eu não consegui encontrar ele na minha lista de emojis! Eu só consigo pegar informações de um emoji a partir de um ID caso eu esteja no servidor em que o emoji está..."
   # ECONOMIA
+
   economy:
     raffle:
       quantity-bigger-than-allowed: "Você só pode apostar no máximo **{0} tickets** por rodada!"
       hasTooManyTickets: "Você já tem tickets demais! Guarde um pouco do seu dinheiro para a próxima rodada!"
       cantBuyTooManyTickets: "Você não pode apostar tantos tickets assim! Você pode apostar, no máximo, mais **{0} tickets**!"
   # MISCELÂNEA
+
   miscellaneous:
     ajuda:
-      errorWhileOpeningDm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png 🤷"
+      errorWhileOpeningDm: "Eu queria enviar a ajuda para você, mas eu queria saber como eu vou enviar sendo que você desativou as mensagens privadas entre pessoas de servidores que você conhece. http://i.imgur.com/Z1HwW2j.png \U0001F937"
     fanArts:
       description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
       madeBy: "Fan Art feita por {0}"

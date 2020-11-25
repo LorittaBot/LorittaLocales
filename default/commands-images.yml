@@ -153,6 +153,8 @@ commands:
       description: "Gangue da quebrada"
     gumballliftup:
       description: "\"Sabe o que eu faço quando me sinto para baixo?\""
+      subtitle1: "Sabe o que eu faço quando me sinto para baixo?"
+      subtitle2: "Eu olho pra isso"
     invert:
       description: "Inverte a cor de uma imagem"
     knuxthrow:
@@ -179,6 +181,8 @@ commands:
       everygrouphas: "Todo grupo tem..."
     tretanews:
       description: "VOOOOOOOCÊ ESTÁ ASSISTINDO TRETA NEWS ENTÃO VAMOS DIRETO PARA AS NOTÍCIAS"
+      likes: "Gostei"
+      dislikes: "Não Gostei"
     triggered:
       description: "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!"
     trump:

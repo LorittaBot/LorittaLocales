@@ -8,6 +8,9 @@ commands:
       lastUpdate: "Última atualização"
       maxPlayers: "Quantidade máxima"
       genre: "Gênero"
+      likes: "Gostei"
+      dislikes: "Não Gostei"
+      createdAt: "Criado em"
     rbuser:
       description: "Pesquisa informações sobre um jogador do Roblox"
       couldntFind: "Não consegui encontrar um usuário chamado `{0}`..."

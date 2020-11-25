@@ -1,0 +1,6 @@
+commands:
+  undertale:
+    utbattle:
+      description: "Cria um balão de fala igual ao do Undertale"
+    utbox:
+      description: "Cria uma caixa de diálogo igual ao do Undertale"

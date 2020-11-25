@@ -28,3 +28,31 @@ commands:
       createdInGuild: "Criado na"
       remindInTextChannel: "Irei avisar no"
       reminderRemoved: "Lembrete removido!"
+    dicio:
+      description: "Procure o significado de uma palavra no dicionário!"
+    encode:
+      originalText: "Texto Original"
+      encodedText: "Texto Codificado"
+    knowyourmeme:
+      description: "Procura um meme no KnowYourMeme"
+      noDescription: "Sem descrição..."
+    money:
+      description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
+      invalidCurrency: "`{0}` não é uma moeda válida! \U0001F4B8\n**Moedas válidas:** {1}"
+    morse:
+      description: "Codifica/Decodifica uma mensagem em código morse"
+      failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
+    ocr:
+      description: "Pega o texto em uma imagem usando OCR"
+    packageinfo:
+      description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
+    weather:
+      description: "Verifique a temperatura de uma cidade!"
+      temperature: "Temperatura"
+      humidity: "Umidade"
+      windSpeed: "Velocidade do Vento"
+      airPressure: "Pressão do Ar"
+    translate:
+      description: "Traduz uma frase para outra linguagem"
+    wikipedia:
+      description: "Mostra uma versão resumida de uma página do Wikipedia"

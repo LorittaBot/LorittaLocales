@@ -17,6 +17,8 @@ commands:
       description: "Mostra a cabeça de uma conta do Minecraft"
     mcsweater:
       description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
+      invalidSkin: "Isto não é uma skin válida! Uma skin válida possui `64x32` de tamanho (formato 1.8) ou `32x32` de tamanho (formato 1.7)!"
+      done: "prontinho! Agora é só baixar a sua nova skin com o meu lindo moletom e se divertir!"
     mcskin:
       description: "Mostra a skin de uma conta do Minecraft"
     spigotmc:
@@ -31,3 +33,10 @@ commands:
       testedVersions: "Versões Testadas"
     mcadvancement:
       description: "Crie uma conquista do Minecraft!"
+      advancementMade: "Progresso Feito!"
+    mcstatus:
+      description: "Verifica se os servidores da Mojang estão online"
+    mcuuid:
+      description: "Pega a UUID de um usuário"
+    mcofflineuuid:
+      description: "Pega a UUID offline (ou seja, de servidores sem autenticação da Mojang) de um player"
