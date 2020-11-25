@@ -3,12 +3,12 @@ commands:
     mcsign:
       description: "Escreve um texto em uma placa do Minecraft!"
       examples:
-      - "Isto é um texto | em uma placa! | | Legal né?"
-      - "spruce | Escrito com | madeiras 100% | de pinheiro!"
-      - "birch | Também é possível | utilizar | outros tipos | de madeira!"
-      - "jungle | Floresta!"
-      - "acacia | Madeira que | foi adicionada | no Minecraft | 1.7.2! :3"
-      - "dark oak | Super escuro!"
+        - "Isto é um texto | em uma placa! | | Legal né?"
+        - "spruce | Escrito com | madeiras 100% | de pinheiro!"
+        - "birch | Também é possível | utilizar | outros tipos | de madeira!"
+        - "jungle | Floresta!"
+        - "acacia | Madeira que | foi adicionada | no Minecraft | 1.7.2! :3"
+        - "dark oak | Super escuro!"
     mcavatar:
       description: "Mostra o avatar de uma conta do Minecraft"
     mcbody:
@@ -21,3 +21,10 @@ commands:
       description: "Mostra a skin de uma conta do Minecraft"
     spigotmc:
       description: "Pesquisa plugins no SpigotMC"
+      contributors: "Contribuidores"
+      downloads: "Downloads"
+      released: "Criado em"
+      lastUpdated: "Última atualização"
+      download: "Download"
+    mcadvancement:
+      description: "Crie uma conquista do Minecraft!"
