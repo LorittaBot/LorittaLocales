@@ -1,0 +1,11 @@
+modules:
+  eventLog:
+    avatarChanged: "**{0} alterou o avatar**"
+    userID: "ID do usuário: {0}"
+    messageDeleted: "**Mensagem de texto deletada**\n\n**Canal de texto:** {1}\n\n**Mensagem:**\n```\n{0}```"
+    messageDeletedUploads: "**Arquivos anexados:**"
+    bulkDeleted: "**Mensagens de texto deletadas**"
+    banned: "{0} foi banido!"
+    unbanned: "{0} foi desbanido!"
+    noNickname: "Nenhum apelido"
+    nicknameChanged: "**Nickname de {0} foi alterado**\n\n**Antigo nickname:** `{0}`\n**Novo nickname:** `{1}`"
