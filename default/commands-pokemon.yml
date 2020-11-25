@@ -1,5 +1,6 @@
 commands:
-  pokedex:
+  pokemon:
+    pokedex:
     description: "Pesquisa informações sobre um Pokémon"
     types: "Tipos"
     addedInGen: "Adicionado na Geração"
