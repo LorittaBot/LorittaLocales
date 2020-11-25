@@ -3,6 +3,13 @@ commands:
     youAreNotMarried: "A tua alma ainda não encontrou outra alma para passar o resto da vida com ela... Você só pode usar funcionalidades de pessoas casados após se {0} com alguém! {1}"
     profile:
       profileshop: "Compre novos perfis em {0}"
+      description: "Mostra o seu perfil!"
+      lorittaDescription: "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\") e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas!"
+      totalXP: "XP Total"
+      guildXP: "XP no {0}"
+      economy: "Sonhos"
+      aboutMe: "Sobre Mim"
+      profile: "Perfil"
     topreputation:
       description: "Veja os usuários que deram, ou receberam, mais reputações!"
       received: "recebidas"
@@ -16,7 +23,12 @@ commands:
       reputationLink: "Quase pronto! Para dar a reputação, confirme ela em {0}"
       success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"
       invalidUser: "Usuário inválido!"
+      description: "Dê reputação para outro usuário!"
+      self: "Você não pode dar reputação para si mesmo, bobinho!"
+      wait: "Você precisa esperar **{0}** antes de poder dar outra reputação!"
+      success: "deu um ponto de reputação para {0}!"
     divorce:
+      description: "E cadê o amor? Divorcie da pessoa que você está casada atualmente!"
       prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"
       pleaseConfirm: "Caso você realmente tenha certeza que o casamento jamais irá dar certo, clique em {0}... eu irei te deixar em paz enquanto você pensa se realmente vale a pena fazer isso."
       divorced: "Então é isso, foi uma aventura e tanto, né? ...calma! Não chore, eu sei que divorciar de alguém é triste... se você continuar a chorar, eu também irei... {0} Da próxima vez, ame alguém que realmente te mereça e que te respeite, e não qualquer pessoa por aí... Melhor estar sozinho e ser feliz, do que estar em um relacionamento ruim."
@@ -43,3 +55,31 @@ commands:
       receivedReputationWithContent: "Reputação recebida de {0} com a mensagem: {1}"
       sentReputation: "Reputação enviada para {0}"
       sentReputationWithContent: "Reputação enviada para {0} com a mensagem: {1}"
+    afk:
+      description: "Irá ficar um tempo longe do teclado? Então ative o modo AFK para que todos saibam que você não poderá responder a mensagem!"
+      afkOff: "Modo AFK desativado!"
+      afkOn: "Modo AFK ativado! Para a sua conveniência, o modo AFK será automaticamente desativado quando você falar algo no chat! 😉"
+    background:
+      description: "Que tal dar uma renovada no papel de parede do seu perfil?"
+    editxp:
+      description: "Edita o XP de um usuário"
+      moreThanZero: "XP precisa ser maior que 0!"
+      success: "XP de {0} foi alterado com sucesso!"
+    gender:
+      description: "Altera o seu gênero"
+      whatAreYou: "Então... você é o que?"
+      whyShouldYouSelect: "Estou curiosa... você é o que? Um homem ou uma mulher... ou talvez nenhum dos dois!\n\nEu quero saber para que eu possa melhorar as minhas respostas á você, como nos comandos de ações!"
+      successfullyChanged: "Gênero alterado com sucesso!"
+    marry:
+      description: "O amor está no ar! Case com a sua crush ou com a sua webnamorada! Cada casamento custa **7500 Sonhos** para cada um, e, todo o dia, você precisa pagar **100 Sonhos** para manter o casamento!"
+      cantMarryYourself: "Você não pode se casar com você mesmo, bobinho!"
+      loritta: "Eu nem te amo para querer casar com você, e além do mais, eu nem tenho idade para casar."
+      alreadyMarried: "Você já está casado com outra pessoa! Use `{0}divorciar` antes de se casar com outra pessoa!"
+      alreadyMarriedOther: "{0} já está casado!"
+      insufficientFunds: "Infelizmente casamentos são caros e necessitam de dinheiro para acontecer... Você precisa de mais **{0} Sonhos** para poder casar!"
+      insufficientFundsOther: "Infelizmente casamentos são caros e necessitam de dinheiro para acontecer... {0} precisa de mais **{1} Sonhos** para poder casar!"
+    rank:
+      description: "Veja o ranking do servidor atual!"
+    aboutme:
+      description: "Altere o \"Sobre Mim\" no comando de perfil!"
+      changed: "Sua mensagem de perfil foi alterada para `{0}`!"
