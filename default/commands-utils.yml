@@ -28,3 +28,44 @@ commands:
       createdInGuild: "Criado na"
       remindInTextChannel: "Irei avisar no"
       reminderRemoved: "Lembrete removido!"
+    dicio:
+      description: "Procure o significado de uma palavra no dicionário!"
+    encode:
+      description: "Precisando encriptografar algo? Querendo transformar o seu texto em outra coisa? Então codifique ele! Codificações suportadas: {0}"
+      invalidMethod: "`{0}` não é um método de codificação válido!"
+      originalText: "Texto Original"
+      encodedText: "Texto Original"
+    knowyourmeme:
+      description: "Procura um meme no KnowYourMeme"
+      couldntFind: "Não encontrei nada relacionado a `{0}`!"
+      noDescription: "Sem descrição..."
+      origin: "Origem"
+      date: "Data"
+      unknown: "Desconhecido"
+    money:
+      description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
+      invalidCurrency: "`{0}` não é uma moeda válida! 💸\n**Moedas válidas:** {1}"
+      converted: "💵 **{0} {1} para {2}**: {3} {2}"
+    morse:
+      description: "Codifica/Decodifica uma mensagem em código morse"
+      toFrom: "Morse para Texto"
+      fromTo: "Texto para Morse"
+      fail: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
+    ocr:
+      description: "Pega o texto em uma imagem usando OCR"
+      couldntFind: "Não encontrei nenhum texto nesta imagem..."
+    packageinfo:
+      description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
+      invalid: "Código `{0}` não é um código de rastreio válido!"
+      couldntFind: "Não encontrei o objeto `{0}` no banco de dados do Correios!"
+    wheather:
+      description: "Verifique a temperatura de uma cidade!"
+      forecastFor: "Previsão do tempo para {0}, {1}"
+      temperature: "Temperatura"
+      humidity: "Umidade"
+      airVelocity: "Velocidade do Vento"
+      pressure: "Pressão do Ar"
+      current: "Atual"
+      max: "Máxima"
+      min: "Mínima"
+      couldntFind: "Não encontrei nenhuma cidade chamada `{0}`!"  
