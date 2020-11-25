@@ -80,11 +80,17 @@ commands:
       threadCount: "Número de Threads"
       environment: "Ambiente"
       love: "Amor"
+      title: "Olá, eu me chamo Loritta!"
+      javaVersion: "Versão do Java"
     inviteinfo:
       inThisServer: "Sim, eu estou no servidor!"
       notOnTheServer: "Infelizmente eu não estou no servidor..."
       description: "Mostra informações sobre um convite do Discord"
       whoInvited: "Quem Convidou"
+      doesntExists: "Convite `{0}` não existe!"
+      none: "Nenhum..."
+      active: "Ativos"
+      channelInvite: "Canal do Invite"
     avatar:
       description: "Mostra o avatar de um usuário do Discord"
       clickHere: "Clique [aqui]({0}) para baixar a imagem!"
@@ -102,6 +108,9 @@ commands:
       createdAt: "Criado em"
       joinedAt: "Entrei aqui em"
       members: "Membros"
+      unknownGuild: "Eu não conheço nenhuma guild com o ID `{0}`... 😢"
+      channels: "Canais"
+      voiceChannels: "Voz"
     servericon:
       description: "Mostra o ícone do servidor atual!"
       noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"
@@ -109,6 +118,8 @@ commands:
       messageSentBy: "Mensagem enviada por {0}"
     invite:
       info: "Envia o link do convite para me adicionar em outros servidores!"
+      inviteInfo: "Você quer me adicionar em outros servidores/guilds do Discord? Então clique [aqui]({0}) para me adicionar em outro servidor!\n\nSe você quiser configurar algumas coisas (como o meu prefixo, comandos ativados, etc) então acesse o painel de administração clicando [aqui]({1})!\n\nE, é claro, entre na minha guild para dar sugestões, reportar bugs e muito mais! {2}"
     removeemoji:
       description: "Remove um emoji do seu servidor"
       noEmojiRemoved: "Nenhum emoji da sua lista de emojis foi deletado... \U0001F62D Você tem certeza que estes emojis são deste servidor?"
+      success: "{0} {1} foram deletados com sucesso!"
