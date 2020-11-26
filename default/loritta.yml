@@ -21,6 +21,9 @@ loritta:
   date:
     aFewMilliseconds: "alguns milissegundos"
     year: "ano"
+    years: "anos"
+    month: "mês"
+    months: "meses" 
     day: "dia"
     days: "dias"
     hour: "hora"
@@ -29,3 +32,5 @@ loritta:
     minutes: "minutos"
     second: "segundo"
     seconds: "segundos"
+  imageUploadNoPerm: "Eu não tenho permissão para enviar arquivos neste canal!"
+
