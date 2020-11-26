@@ -118,7 +118,12 @@ commands:
       messageSentBy: "Mensagem enviada por {0}"
     invite:
       info: "Envia o link do convite para me adicionar em outros servidores!"
-      inviteInfo: "Você quer me adicionar em outros servidores/guilds do Discord? Então clique [aqui]({0}) para me adicionar em outro servidor!\n\nSe você quiser configurar algumas coisas (como o meu prefixo, comandos ativados, etc) então acesse o painel de administração clicando [aqui]({1})!\n\nE, é claro, entre na minha guild para dar sugestões, reportar bugs e muito mais! {2}"
+      inviteInfo: 
+        - "Você quer me adicionar em outros servidores/guilds do Discord? Então clique [aqui]({0}) para me adicionar em outro servidor!" 
+        - ""
+        - "Se você quiser configurar algumas coisas (como o meu prefixo, comandos ativados, etc) então acesse o painel de administração clicando [aqui]({1})!"
+        - ""
+        - "E, é claro, entre na minha guild para dar sugestões, reportar bugs e muito mais! {2}"
     removeemoji:
       description: "Remove um emoji do seu servidor"
       noEmojiRemoved: "Nenhum emoji da sua lista de emojis foi deletado... \U0001F62D Você tem certeza que estes emojis são deste servidor?"
