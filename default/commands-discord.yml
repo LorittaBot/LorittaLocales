@@ -66,6 +66,7 @@ commands:
         - "Todas as {0} pessoas que doaram para me ajudaram a ficar online!"
         - "Todas as {1} pessoas que fizeram fan arts incríveis para mim, amo vocês. {4}"
         - "E você, {2}, por estar falando comigo... continue sendo uma pessoa incrível! {5}"
+      crowdin: "🏁 Crowdin"
       honorableMentionsTitle: "Menções Honrosas"
       lorittaCreatedBy: "Loritta foi criada por MrPowerGamerBR"
       lorittaVersion: "Versão da Loritta"
