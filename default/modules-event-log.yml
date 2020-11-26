@@ -9,3 +9,6 @@ modules:
     unbanned: "{0} foi desbanido!"
     noNickname: "Nenhum apelido"
     nicknameChanged: "**Nickname de {0} foi alterado**\n\n**Antigo nickname:** `{0}`\n**Novo nickname:** `{1}`"
+    messageEdited: "**{0} editou uma mensagem de texto**\n\n**Canal de texto:** {3}\n\n**Antiga mensagem:** ```\n{1}```\n**Nova mensagem:** ```\n{2}```"
+    joinedVoiceChannel: "{0} entrou no canal de voz `{1}`"
+    leftVoiceChannel: "{0} saiu do canal de voz `{1}`"

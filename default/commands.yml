@@ -1,4 +1,7 @@
 commands:
+  helpCommandName: "ajuda"
+  commandsInDirectMessage: "Olá {0}! Em mensagens diretas você não precisa usar nenhum prefixo para falar comigo! Para ver o que eu posso fazer, use `{1}`!"
+  unknownCommand: "Comando `{0}` não existe! Se você quiser ver todos os meus comandos, use `{1}`"
   noValidImageFound: "Desculpe, mas eu não achei nenhuma imagem que eu possa usar! Eu tento pegar imagens em links, imagens anexadas, avatares de usuários mencionados, emojis... mas eu não achei nada disso na sua mensagem. {0}"
   didYouMeanCommand: "Mas eu acho que você queria escrever `{0}`"
   pleaseWaitCooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
@@ -151,3 +154,9 @@ commands:
       description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
       madeBy: "Fan Art feita por {0}"
       thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
+  mention:
+    response: "Olá {0}! Meu prefixo neste servidor é `{1}`, para ver o que eu posso fazer, use `{1}ajuda`!"
+    responseEveryoneBlocked: "Olá {0}! Meu prefixo neste servidor é `{1}` mas como bloquearam que `@everyone` não possa usar meus comandos, então infelizmente ninguém consegue usar meus comandos aqui... 😢 Para ver o que eu posso fazer, use `ajuda` em uma conversa privada comigo!"
+    responseRoleBlocked: "Olá {0}! Meu prefixo neste servidor é `{1}` mas o seu cargo {2} não permite utilizar meus comandos! Para ver o que eu posso fazer, use `ajuda` em uma conversa privada comigo!"
+    responseBlocked: "Olá {0}! Meu prefixo neste servidor é `{1}` mas os meus comandos estão bloqueados no canal atual! Para ver o que eu posso fazer, use `{1}ajuda` no {2}!"
+    responseBlockedNoChannels: "Olá {0}! Meu prefixo neste servidor é `{1}` mas os meus comandos estão bloqueados no canal atual! Para ver o que eu posso fazer, use `ajuda` em uma conversa privada comigo!"
