@@ -29,6 +29,14 @@ commands:
     raffle:
       lastWinner: "Último ganhador: {0} ({1} Sonhos; {2} Prêmio Final)"
       description: "Aposte seus sonhos na minha rifa!"
+      notEnoughMoney: "Você precisa ter **+{0} Sonhos** para poder comprar {1} ticket{2}!"
+      youBoughtAnTicket: "Você comprou {0} ticket{1} por **{2} Sonhos**! Agora é só sentar e relaxar até o resultado da rifa sair!"
+      wantMoreChances: "Querendo mais chances de ganhar? Que tal comprar outro ticket? 😉 `{0}rifa comprar [quantidade]`"
+      currentPrize: "Prêmio atual: **{0} Sonhos**"
+      boughtTickets: "Tickets comprados: **{0} Tickets**"
+      usersParticipating: "Pessoas participando: **{0} Pessoas**"
+      resultsIn: "Resultado irá sair daqui a **{0}**!"
+      buyAnTicketFor: "Compre um ticket por **250 Sonhos** usando `{0}rifa comprar`!"
     scratchcard:
       description: "Está com sorte? Então compre uma Raspadinha da Loritta. Talvez se a sua sorte for grande, você irá conseguir dobrar ou até quadriplicar a sua quantidade de sonhos!"
     scratchcardtop:
@@ -56,6 +64,8 @@ commands:
       clickToAcceptTheTransaction: "Para confirmar a transação, você e {0} devem clicar em {1}!"
       doYouThinkImPoor: "Você *acha* que eu sou pobre para transferir só isso para mim? Não sou mendiga para aceitar essa merrequinha aí. 2bj"
       description: "Lembra daquela paçoca que o seu amigo tinha te comprado? Que tal pagar ela usando a minha economia? \U0001F609"
+      insufficientFunds: "Você não tem {0} suficientes para realizar esta transação!"
+      transitionComplete: "Transação realizada com sucesso! {0} recebeu **{1} {2}**!"
     flipcoinbet:
       description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
       startBet: "{0}, {1} quer fazer uma aposta com você! Cada um irá pagar **{5} sonhos ({6} sonhos de taxa para jogar rs)**. Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"

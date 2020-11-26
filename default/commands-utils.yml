@@ -48,11 +48,17 @@ commands:
       description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
     weather:
       description: "Verifique a temperatura de uma cidade!"
+      forecastFor: "Previsão do tempo para {0}, {1}"
       temperature: "Temperatura"
       humidity: "Umidade"
       windSpeed: "Velocidade do Vento"
       airPressure: "Pressão do Ar"
+      current: "Atual"
+      max: "Máxima"
+      min: "Mínima"
+      couldntFind: "Não encontrei nenhuma cidade chamada `{0}`!"
     translate:
       description: "Traduz uma frase para outra linguagem"
     wikipedia:
       description: "Mostra uma versão resumida de uma página do Wikipedia"
+      couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"

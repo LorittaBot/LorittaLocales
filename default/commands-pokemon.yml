@@ -3,6 +3,7 @@ commands:
     pokedex:
       description: "Pesquisa informações sobre um Pokémon"
       types: "Tipos"
+      addedInGen: "Adicionado na Geração"
       number: "Número na Pokédex"
       abilities: "Habilidades"
       baseExp: "Base EXP"
