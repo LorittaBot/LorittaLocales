@@ -6,7 +6,7 @@ commands:
       dailyItems: "Daily Items"
       description: "Shows the Fortnite: Battle Royale store"
       creatorCode: "Creator Code: {0}"
-      localeId: "en"
+      localeId: "pt-BR"
     item:
       description: "Shows information about Fortnite: Battle Royale emotes, skins, sprays, emoticons and much more"
       unknownItem: "I didn't found anything called {0} on the Fortnite items..."
