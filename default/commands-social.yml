@@ -26,7 +26,6 @@ commands:
       description: "Dê reputação para outro usuário!"
       repSelf: "Você não pode dar reputação para si mesmo, bobinho!"
       wait: "Você precisa esperar **{0}** antes de poder dar outra reputação!"
-      success: "deu um ponto de reputação para {0}!"
     divorce:
       description: "E cadê o amor? Divorcie da pessoa que você está casada atualmente!"
       prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"

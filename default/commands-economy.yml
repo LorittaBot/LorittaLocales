@@ -11,7 +11,7 @@ commands:
       genericSent: "Enviou {0} sonhos para {1}"
       types:
         bomDiaECia: "Bom Dia & Cia"
-        profile: "perfil"
+        profile: "layout para perfil"
         shipEffect: "efeitos de ship"
         marriage: "casamento"
         marriageTax: "taxa de casamento"
