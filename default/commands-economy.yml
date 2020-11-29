@@ -27,7 +27,7 @@ commands:
         guessNumber: "apostas de adivinhar números"
         emojiFight: "rinha de emojis"
     raffle:
-      lastWinner: "Último ganhador: `{0}` ({1} Sonhos)"
+      lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
       description: "Aposte seus sonhos na minha rifa!"
       notEnoughMoney: "Você precisa ter **+{0} Sonhos** para poder comprar {1} ticket{2}!"
       youBoughtAnTicket: "Você comprou {0} ticket{1} por **{2} Sonhos**! Agora é só sentar e relaxar até o resultado da rifa sair!"
