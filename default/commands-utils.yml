@@ -39,6 +39,7 @@ commands:
     money:
       description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
       invalidCurrency: "`{0}` não é uma moeda válida! \U0001F4B8\n**Moedas válidas:** {1}"
+      converted: "**{0} {1} para {2}**: {3} {2}"
     morse:
       description: "Codifica/Decodifica uma mensagem em código morse"
       failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
