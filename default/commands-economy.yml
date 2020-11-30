@@ -37,6 +37,8 @@ commands:
       usersParticipating: "Pessoas participando: **{0} Pessoas**"
       resultsIn: "Resultado irá sair daqui a **{0}**!"
       buyAnTicketFor: "Compre um ticket por **250 Sonhos** usando `{0}rifa comprar`!"
+      congratulations: "Parabéns!"
+      youEarned: "Você ganhou **{0} Sonhos** na Rifa!"
     scratchcard:
       description: "Está com sorte? Então compre uma Raspadinha da Loritta. Talvez se a sua sorte for grande, você irá conseguir dobrar ou até quadriplicar a sua quantidade de sonhos!"
     scratchcardtop:
