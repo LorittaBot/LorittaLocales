@@ -100,16 +100,15 @@ commands:
       enabled: "As punições rápidas foram ativadas! Ao punir um usuário, eu nem irei te perguntar se você realmente quer punir o usuário, vai punir direto sem dó e nem piedade! ...só não venha reclamar depois que você não queria ter punido aquele usuário, okay?"
       disabled: "As punições rápidas foram desativadas! Ao punir um usuário, você deverá confirmar se você realmente vai querer punir ele ou não... pelo ou menos assim você irá evitar aquele remorso ao punir alguém que não deveria ter levado aquela punição."
     clear:
-      description: "Limpa o chat do canal de texto atual."
+      description: "Escolha um número de um a 1.000 mensagens para serem limpas de pessoas específicas ou não."
       examples:
         - "10"
         - "35 @MrPowerGamerBR"
-      invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
       couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
-      ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
-      ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-      ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
-      success: "Chat limpo por {0}!"
+      invalidClearRange: "Eu só consigo limpar entre 2 até 1000 mensagens passadas!"
+      operationQueued: "Aparentemente este servidor já tem uma operação de remoção de mensagens ocorrendo, espere um pouco."
+      success: "O chat teve {0} mensagens deletadas por {1}!"
+      successButIgnoredMessages: "Porém, {0} mensagens foram ignoradas por serem muito antigas, estarem fixadas ou não ."
     roleId:
       description: "Pega o ID de um cargo do Discord"
       examples:
