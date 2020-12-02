@@ -31,6 +31,7 @@ commands:
     dicio:
       description: "Procure o significado de uma palavra no dicionário!"
     encode:
+      description: "Precisando encriptografar algo? Querendo transformar o seu texto em outra coisa? Então codifique ele! Codificações suportadas: {0}"
       originalText: "Texto Original"
       encodedText: "Texto Codificado"
     knowyourmeme:
