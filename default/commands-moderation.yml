@@ -108,7 +108,7 @@ commands:
       invalidClearRange: "Eu só consigo limpar entre 2 até 1000 mensagens passadas!"
       operationQueued: "Aparentemente este servidor já tem uma operação de remoção de mensagens ocorrendo, espere um pouco."
       success: "O chat teve {0} mensagens deletadas por {1}!"
-      successButIgnoredMessages: "Porém, {0} mensagens foram ignoradas por serem muito antigas, estarem fixadas ou não ."
+      successButIgnoredMessages: "Porém, {0} mensagens foram ignoradas por serem muito antigas, estarem fixadas ou não seguirem o filtro definido."
     roleId:
       description: "Pega o ID de um cargo do Discord"
       examples:
