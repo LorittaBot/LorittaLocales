@@ -45,6 +45,7 @@ commands:
       failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
     ocr:
       description: "Pega o texto em uma imagem usando OCR"
+      couldntFind: "**Não encontrei nenhum texto nesta imagem...**"
     packageinfo:
       description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
     weather:
