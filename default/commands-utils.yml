@@ -49,6 +49,7 @@ commands:
       couldntFind: "Não encontrei nenhum texto nesta imagem..."
     packageinfo:
       description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
+      couldntFind: "Não encontrei o objeto `{0}` no banco de dados do Correios!"
     weather:
       description: "Verifique a temperatura de uma cidade!"
       forecastFor: "Previsão do tempo para {0}, {1}"
