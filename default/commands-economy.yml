@@ -106,6 +106,10 @@ commands:
       invalidTickerId: "Ticker inexistente! Veja a lista de tickers que você pode comprar ações em `{0}`"
       outOfSession: "Você não pode comprar ou vender ações que estão inativas! Você precisa esperar que ela esteja ativa para poder comprar ou vender!"
       alreadyExecutingAction: "Você já tem uma ação pendente! Espere ela acabar para poder realizar outra ordem!"
+      priceBeforeMarketClose: "**Preço antes do fechamento:** {0}"
+      buyPrice: "**Compra:** {0}"
+      sellPrice: "**Venda:** {0}"
+      footer: "Dados do TradingView • Ao utilizar a corretora da LorittaLand, nós poderemos utilizar as suas ordens na bolsa para estatísticas e usos aplicados na bolsa de valores da vida real!"
       stocks:
         one: "ação"
         multiple: "ações"
