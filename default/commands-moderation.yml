@@ -102,8 +102,8 @@ commands:
     clear:
       description: "Escolha um número de um a 1.000 mensagens para serem limpas de pessoas específicas ou não."
       examples:
-        - "10 from:297153970613387264"
-        - "35 from:360162870069166080 and contains:Nsfw"
+        - "10 de:297153970613387264"
+        - "35 texto aqui de:360162870069166080"
       targetOption: "de"
       couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
       invalidClearRange: "Eu só consigo limpar entre 2 até 1000 mensagens passadas!"
