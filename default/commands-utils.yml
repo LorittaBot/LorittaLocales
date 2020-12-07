@@ -4,6 +4,16 @@ commands:
       description: "Calcula uma expressão aritmética"
       invalid: "Desculpe, mas eu não acho que `{0}` seja uma expressão aritmética... Ou talvez seja a minha burrice, afinal, eu estou perdendo o meu tempo no Discord em vez de prestar atenção na aula."
       result: "**Resultado:** `{0}`"
+      examples: 
+        - "2 + 2"
+        - "40 - 10"
+        - "5 * 5"
+        - "100 / 5"
+        - "(sqrt(10) * 4) / 12"
+        - "cos(0)"
+        - "sin(90)"
+        - "tan(45)"
+        - "10 % 2"
     anagram:
       description: "Crie um anagrama de uma palavra!"
       result: "**O seu anagrama é...** `{0}`"
@@ -30,7 +40,14 @@ commands:
       reminderRemoved: "Lembrete removido!"
     dicio:
       description: "Procure o significado de uma palavra no dicionário!"
+      meaningOf: "Significado de {0}"
+      wordNotFound: "Palavra não encontrada no meu dicionário!"
+      synonym: "Sinônimos"
+      phrase: "Frase"
+      antonyms: "Antônimos"
     encode:
+      description: "Precisando encriptografar algo? Querendo transformar o seu texto em outra coisa? Então codifique ele! Codificações suportadas: {0}"
+      invalidMethod: "`{0}` não é um método de codificação válido!"
       originalText: "Texto Original"
       encodedText: "Texto Codificado"
     knowyourmeme:
@@ -38,16 +55,24 @@ commands:
       noDescription: "Sem descrição..."
     money:
       description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
+      examples: 
+        - "USD BRL"
+        - "USD BRL 5"
+        - "USD BRL 19.99"
       invalidCurrency: "`{0}` não é uma moeda válida! \U0001F4B8\n**Moedas válidas:** {1}"
       converted: "**{0} {1} para {2}**: {3} {2}"
     morse:
       description: "Codifica/Decodifica uma mensagem em código morse"
+      fromTo: "Texto para Morse"
+      toFrom: "Morse para Texto"
       failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
     ocr:
       description: "Pega o texto em uma imagem usando OCR"
       couldntFind: "Não encontrei nenhum texto nesta imagem..."
     packageinfo:
       description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
+      couldntFind: "Não encontrei o objeto `{0}` no banco de dados do Correios!"
+      invalid: "Código `{0}` não é um código de rastreio válido!"
     weather:
       description: "Verifique a temperatura de uma cidade!"
       forecastFor: "Previsão do tempo para {0}, {1}"
@@ -64,3 +89,6 @@ commands:
     wikipedia:
       description: "Mostra uma versão resumida de uma página do Wikipedia"
       couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+      examples: 
+        - "Minecraft"
+        - "[en] Shantae"
