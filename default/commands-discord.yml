@@ -85,9 +85,14 @@ commands:
       title: "Olá, eu me chamo Loritta!"
       javaVersion: "Versão do Java"
     inviteinfo:
+      description: "Mostra informações sobre um convite do Discord"
+      examples: 
+        - "V7Kbh4z"
+        - "https://discord.gg/ZWt5mKB"
+        - "https://discord.gg/JYN6g2s"
+        - "https://discord.gg/A7mnkJJ"
       inThisServer: "Sim, eu estou no servidor!"
       notOnTheServer: "Infelizmente eu não estou no servidor..."
-      description: "Mostra informações sobre um convite do Discord"
       whoInvited: "Quem Convidou"
       doesntExists: "Convite `{0}` não existe!"
       none: "Nenhum..."
