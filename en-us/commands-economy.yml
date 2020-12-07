@@ -12,7 +12,7 @@ commands:
       genericSent: "Sent {0} sonhos to {1}"
       types:
         bomDiaECia: "Bom Dia & Cia"
-        profile: "profile"
+        profile: "profile layout"
         shipEffect: "ship effects"
         marriage: "marriage"
         marriageTax: "marriage fees"
@@ -28,7 +28,18 @@ commands:
         guessNumber: "guessing numbers bets"
         emojiFight: "emoji fight"
     raffle:
-      lastWinner: "Last winner: {0} ({1} Sonhos; {2} Final Prize)"
+      lastWinner: "Last winner **`{0}` ({1} Sonhos)**"
+      description: "Bet your sonhos in my raffle!"
+      notEnoughMoney: "You need to have **+{0} Sonhos** to buy {1} ticket{2}!"
+      youBoughtAnTicket: "You bought {0} tickets{1} for **{2} Sonhos**! Now just wait and relax until the results come out!"
+      wantMoreChances: "Want more chances to win? What about buying another ticket? 😉 `{0}raffle buy [amount]`"
+      currentPrize: "Current prize: **{0} Sonhos**"
+      boughtTickets: "Bought tickets: **{0} Tickets**"
+      usersParticipating: "Users participating: **{0} Users**"
+      resultsIn: "Result will come out in **{0}**!"
+      buyAnTicketFor: "Buy a ticket for 250 Sonhos** using `{0}rifa comprar`!"
+      congratulations: "Congratulations!"
+      youEarned: "You earned **{0} Sonhos** in the Raffle!"
     scratchcard:
       description: "Feeling lucky? Buy a scratch card from Loritta. Maybe if you have great luck, you can double or even quadruplicate your sonhos amount!"
     scratchcardtop:
@@ -54,6 +65,10 @@ commands:
         - "I love sonhos too, but I'm still not Robin Hood to be giving out my money"
         - "I'm not jealous of these sonhos, if I wanted I could give the same amount to myself!"
       clickToAcceptTheTransaction: "To confirm the transaction, you and {0} must click {1}!"
+      doYouThinkImPoor: "Do you *think* I'm that poor to transfer just that to me? I'm not homeless to have to accept that. xoxo"
+      description: "Remember that snack your friend bought to you? What about paying them back using my economy? \U0001F609"
+      insufficientFunds: "You don't have {0} sonhos to complete this transaction!"
+      transitionComplete: "Transaction completed! {0} received **{1} {2}**!"
     flipcoinbet:
       description: "The classic \"Flip a coin and see if gets heads or tails!\", but now involving sonhos! I'm not responsible if you lose all your sonhos in bets"
       startBet: "{0}, {1} wants to make a bet with you! Each one will pay **{5} sonhos ({6} fee sonhos to play)**. If it fall **{2}**, you will win **{3} sonhos**, if it fall **{4}**, {1} will win **{3} dreams**! So what, are you gonna face it?"
@@ -91,6 +106,10 @@ commands:
       portfolioExample: "{0} broker portfolio"
       outOfSession: "You can't buy or sell shares that are inactive! You need to wait for it to be active before you can buy or sell!"
       alreadyExecutingAction: "You already have a pending stock! Wait for it to finish before you can make another order!"
+      priceBeforeMarketClose: "**Price before closure:** {0}"
+      buyPrice: "**Buy:** {0}"
+      sellPrice: "**Sell:** {0}"
+      footer: "Data from TradingView • By using LorittaLand's broker, we can use your orders for statistics and uses applied in the real life stock market!"
       stocks:
         one: "stock"
         multiple: "stocks"
@@ -123,9 +142,11 @@ commands:
       sonhos:
         one: "sonho"
         multiple: "sonhos"
+      description: "See how many Sonhos you have!"
     guessnumber:
       description: "Guess a number between 1 and 10, if the number matches the one I'm thinking, I'll reward you with sonhos! But if you lose... then you'll have to give me sonhos."
       youWin: "Congratulations, you guessed the number I was thinking! As a reward, **you gained {0} sonhos**!"
+      notEnoughSonhos: "You don't have enough sonhos to guess a number!"
       youLose:
         - "Too bad, I was thinking of the number {0}... You **lost {1} sonhos**!"
         - "I *could* have thought of that number, but I thought of {0}... You **lost {1} sonhos**!"

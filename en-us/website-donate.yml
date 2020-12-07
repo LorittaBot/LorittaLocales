@@ -1,26 +1,26 @@
 ---
 website:
   donate:
-    title: "Donate"
+    title: "Premium"
     needYourHelp: "I need your help!"
     stayAwesome: "I want to stay awesome, but I need of money to help me to stay online!"
     introDonate:
       - "Are you seeing this? It's like how I feel when I have no money to pay my rent."
       - "To make me to stay online, it''s needed to pay <b>more of R$: 400,00 all months</b>... and that without count another''s costs used to invest on awesome features that you can use!"
-      - "If you want to see me remaining online, then please, from the bottom of my heart... <b>donate</b>, doesn't matter if you will only donate R$: 1,00, all donation is welcome and, of course, you will be a wonderful person (with much fame and glory!)."
-      - "Ah, of course: donating is <i>optional</i>, so don't fell bad if you can't donate!"
-    donateNow: "Donate now!"
+      - "If you want me to continue online, how about buying premium? Every premium purchase is welcomed, and, of course, you'll be an amazing person (with lots of fame and glory!)."
+      - "Oh, and of course: Buying premium is <i>optional</i> and you can keep using Loritta without paying absolutely nothing, so don't feel bad if you can't buy!"
+    donateNow: "Buy Now!"
     viewPlans: "Check out our Premium Plans!"
     renewPlan: "Renew Plan"
     buyPlan: "Buy Plan"
-    donationBenefits: "Donation Benefits"
+    donationBenefits: "Premium Benefits"
     donateWithoutAnyRewards: "You don't have enough money to donate but you still want to help Loritta, even if you aren't going to receive any premium rewards?"
     benefitsExplain: "To thank for your donation, we have some perks for you! Every benefit lasts for a month after your donation."
     benefitsSponsor: "Do you wish to grow your server and receive Loritta's donor benefits? Then see the advantages of becoming a sponsor, you get all the benefits and on top of that you gain publicity in one of Discord's cutest bots!"
     activeDonators: "Active donors"
     inactiveDonators: "Inactive donors"
     thanksToEveryone: "Thank you all that helped me!"
-    areYouGoingToDonate: "Ownt, will you donate? :3"
+    areYouGoingToDonate: "Ownt, are you going to buy? :3"
     topDonatorsOnThisMonth: "Top Donators On This Month"
     topDonatorsLifetime: "Lifetime Top Donators"
     rewards:
@@ -41,3 +41,20 @@ website:
       essential: "Essential"
       recommended: "Recommended"
       complete: "Complete"
+    beforeBuyingTerms:
+      title: "Before buying..."
+      youAgreeTo: "By buying something, you agree that:"
+      terms:
+        - "We do not offer refunds for the products sold, since they're virtual products."
+        - "Buying something on the website doesn't make you immune to bans and won't get you unbanned."
+        - "You might be banned if you ask for a refund after having already received the product."
+        - "If you have any problem with the products, contact Loritta's support so we can help you!"
+        - "Everything bought has no monetary value outside of Loritta, Loritta's team is not responsible for third-party sales."
+        - "That Loritta is very cute :3"
+      agree: "I agree"
+    mfaDisabled:
+      title: "Hold up!"
+      close: "Close"
+      description:
+        - "For your own safety, you have to enable two-factor authentication on your Discord account before being able to buy something."
+        - "After enabling here, come back to proceed with your purchase!"
