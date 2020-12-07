@@ -1,0 +1,5 @@
+---
+modules:
+  welcomer:
+    tooManyUsersJoining: "There are so many members joining the server in a short period of time I thought it would be better to send everything in one file to avoid flooding the channel!"
+    tooManyUsersLeaving: "There are so many members leaving the server in a short period of time I thought it would be better to send everything in one file to avoid flooding the channel! I hope it's just annoying people leaving the server ;w;"
