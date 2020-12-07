@@ -15,5 +15,7 @@ website:
           - "This action is irreversible! All of your data will deleted and you will lose everything you got from Loritta!"
           - "After confirming, you won't be able to revert it. This will delete your profile, sonhos, premium keys, reminders, reputations, marriage and much more, just delete your data if you sure of what are you doing!"
           - "You will have to remove Loritta from your servers manually and stop using their commands or functions, if you use her again, she may store data about you again."
-          - "Upon being banned, your account will be temporarily suspended for three days!"
+        yourAccountWillBeSuspendedWarning: "If you decide to delete your account data, your account will be temporarily suspended for three days (72 hours)!"
+        warningDescription:
+          - "Deleting your account data won't solve issues you're having with me in your server! If you're facing problems, join our support server so we can help you!"
         bannedAccountDueToDeletion: "Temporarily suspended due to request to delete your account data"
