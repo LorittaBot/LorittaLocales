@@ -68,6 +68,7 @@ commands:
       description: "Lembra daquela paçoca que o seu amigo tinha te comprado? Que tal pagar ela usando a minha economia? \U0001F609"
       insufficientFunds: "Você não tem {0} suficientes para realizar esta transação!"
       transitionComplete: "Transação realizada com sucesso! {0} recebeu **{1} {2}**!"
+      sellDisallowedWarning: "**Não se esqueça:** É proibido o comércio de produtos que possuem valores reais (Nitro, dinheiro real, invites, conteúdo ilegal/NSFW, etc) por sonhos, você será banido de usar a Loritta caso faça! Veja todas as regras em <{0}>."
     flipcoinbet:
       description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
       startBet: "{0}, {1} quer fazer uma aposta com você! Cada um irá pagar **{5} sonhos ({6} sonhos de taxa para jogar rs)**. Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
