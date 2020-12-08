@@ -70,7 +70,7 @@ commands:
       whyShouldYouSelect: "Estou curiosa... você é o que? Um homem ou uma mulher... ou talvez nenhum dos dois!\n\nEu quero saber para que eu possa melhorar as minhas respostas á você, como nos comandos de ações!"
       successfullyChanged: "Gênero alterado com sucesso!"
     marry:
-      description: "O amor está no ar! Case com a sua crush ou com a sua webnamorada! Cada casamento custa **7500 Sonhos** para cada um, e, todo o dia, você precisa pagar **100 Sonhos** para manter o casamento!"
+      description: "O amor está no ar! Case com a sua crush ou com a sua webnamorada! Cada casamento custa **7500 Sonhos** para cada um, e, todo o dia, você precisa pagar **250 Sonhos** para manter o casamento!"
       cantMarryYourself: "Você não pode se casar com você mesmo, bobinho!"
       marryLoritta: "Eu nem te amo para querer casar com você, e além do mais, eu nem tenho idade para casar."
       alreadyMarried: "Você já está casado com outra pessoa! Use `{0}divorciar` antes de se casar com outra pessoa!"
