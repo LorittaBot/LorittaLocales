@@ -1,0 +1,6 @@
+---
+economy:
+  currency:
+    name:
+      singular: "Sonho"
+      plural: "Sonhos"
