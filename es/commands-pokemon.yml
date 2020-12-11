@@ -1,0 +1,16 @@
+---
+commands:
+  pokemon:
+    pokedex:
+      description: "Busca informaciones acerca de un Pokémon"
+      types: "Tipos"
+      addedInGen: "Agregado en Generación"
+      number: "Número en la Pokédex"
+      abilities: "Habilidades"
+      baseExp: "Base EXP"
+      effortPoints: "Puntos de Esfuerzo"
+      captureRate: "Tasa de Captura"
+      baseHappiness: "Base felicidad"
+      growthRate: "Tasa de crecimiento"
+      training: "Formación"
+      evolutions: "Evoluciones"
