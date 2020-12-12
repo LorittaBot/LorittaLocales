@@ -1,7 +1,7 @@
 ---
 modules:
   twitch:
-    userName: "Link do Canal"
-    channel: "Aonde será anunciado quando o canal entrar ao vivo?"
-    theMessage: "Mensagem ao entrar ao vivo"
-    channelLink: "Link do Canal"
+    userName: "Enlace de canal"
+    channel: "¿Dónde se anunciará cuando el canal se active?"
+    theMessage: "Mensaje cuando va a vivir"
+    channelLink: "Enlace de canal"
