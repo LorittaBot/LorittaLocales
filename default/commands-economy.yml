@@ -4,7 +4,6 @@ commands:
       description: "Veja todas as transações que você recebeu e realizou!"
       title: "Suas Transações"
       otherUserTransactions: "Transações de {0}"
-      receivedMoneyCoinflip: "Recebeu {0} sonhos ao apostar com {1}"
       sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
       genericReceived: "Recebeu {0} sonhos no {1}"
       genericSent: "Enviou {0} sonhos para {1}"
