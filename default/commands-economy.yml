@@ -4,8 +4,7 @@ commands:
       description: "Veja todas as transações que você recebeu e realizou!"
       title: "Suas Transações"
       otherUserTransactions: "Transações de {0}"
-      sentMoneySonhos: "Enviou {0} sonhos para {1}"
-      receivedMoneySonhos: "Recebeu {0} sonhos de {1}"
+      receivedMoneyCoinflip: "Recebeu {0} sonhos ao apostar com {1}"
       sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
       genericReceived: "Recebeu {0} sonhos no {1}"
       genericSent: "Enviou {0} sonhos para {1}"
@@ -26,6 +25,12 @@ commands:
         stocks: "Loritta's Home Broker"
         guessNumber: "apostas de adivinhar números"
         emojiFight: "rinha de emojis"
+      payment:
+        sent: "Enviou {0} sonhos para {1}"
+        received: "Recebeu {0} sonhos de {1}"
+      coinflip:
+        sent: "Recebeu {0} sonhos apostando com {1}"
+        received: "Enviou {0} sonhos apostando com {1}"
     raffle:
       lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
       description: "Aposte seus sonhos na minha rifa!"
