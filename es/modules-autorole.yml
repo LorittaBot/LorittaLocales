@@ -1,7 +1,7 @@
 ---
 modules:
   autorole:
-    giveRoleAfter: "Depois de quanto tempo o cargo será dado? (Segundos)"
+    giveRoleAfter: "¿Después de cuanto tiempo este cargo será dado? (Segundos)"
     giveOnlyAfterMessageWasSent:
-      title: "Dar os cargos após o usuário enviar alguma mensagem no servidor"
-      subtitle: "Os cargos só serão entregues após o usuário enviar uma mensagem em qualquer canal de texto do seu servidor. Recomendamos que deixe ativado, assim o usuário terá que respeitar o nível de verificação do seu servidor, já que usuários com cargos burlam o nível de verificação do Discord."
+      title: "Dar las posiciones después que el usuario envíe algún mensaje en el servidor"
+      subtitle: "Los cargos solo serán entregados después que el usuario envíe un mensaje en cualquier canal de texto de tu servidor. Recomendamos que lo dejes activado, así el usuario tendrá que respetar el nivel de verificación de tu servidor, por que los usuarios con roles sobrepasan el nivel de verificación de Discord."
