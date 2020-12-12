@@ -28,7 +28,7 @@ commands:
       payment:
         sent: "Enviou {0} sonhos para {1}"
         received: "Recebeu {0} sonhos de {1}"
-      coinflip:
+      coinFlipBet:
         sent: "Recebeu {0} sonhos apostando com {1}"
         received: "Enviou {0} sonhos apostando com {1}"
     raffle:
