@@ -1,0 +1,10 @@
+---
+website:
+  custom-commands:
+    commandTypeQuestion: "¿Cuál comanda tú desea crear?"
+    textCommandType: "Comando de Texto"
+    textCommandTypeDescription: "Un comando que envía un mensaje defecto al usarlo"
+    modal:
+      name: "Nombre del comando"
+      warning: "¡Importante! No ingrese el prefijo del servidor con el nombre del comando, esta acción puede resultar en un mal funcionamiento del comando."
+      message: "Mensaje"
