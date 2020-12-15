@@ -3,4 +3,4 @@ loritta:
   modules:
     afk:
       userIsAfk: "{0} está AFK!"
-      usersAreAfk: "{0} estão AFK!"
+      usersAreAfk: "{0} están AFK!"

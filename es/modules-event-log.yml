@@ -1,0 +1,34 @@
+---
+modules:
+  eventLog:
+    avatarChanged: "**{0} cambio su avatar**"
+    userID: "ID del usuario: {0}"
+    messageDeleted:
+      - "**Mensaje de texto eliminado**"
+      - ""
+      - "**Canal de texto:** {1}"
+      - ""
+      - "**Mensaje:**"
+      - ""
+      - "```{0}```"
+    messageDeletedUploads: "**Archivos adjuntos:**"
+    bulkDeleted: "**Mensajes de texto eliminados**"
+    banned: "¡{0} fue baneado!"
+    unbanned: "¡{0} fue desbaneado!"
+    noNickname: "Sin apodo"
+    nicknameChanged:
+      - "**Apodo de {0} fue cambiado**"
+      - ""
+      - "**Antiguo apodo:** `{0}`"
+      - "**Nuevo Apodo:** `{1}`"
+    messageEdited:
+      - "**{0} editó un mensaje de texto**"
+      - ""
+      - "**Canal de texto:** {3}"
+      - ""
+      - "**Antigua mensaje:**"
+      - "```{1}```"
+      - "**Nueva mensaje:**"
+      - "```{2}```"
+    joinedVoiceChannel: "{0} entró en el canal de voz `{1}`"
+    leftVoiceChannel: "{0} salió del canal de voz `{1}`"

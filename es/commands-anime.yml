@@ -1,0 +1,27 @@
+---
+commands:
+  anime:
+    mal:
+      anime:
+        description: "Muestra información de anime en MyAnimeList"
+        unknown: "Desconocido"
+        score: "Evaluación"
+        rank: "Rank"
+        popularity: "Popularidad"
+        genres: "Géneros"
+        source: "Fuente"
+        episodes: "Episodios"
+        notfound: "¡Anime no encontrado!"
+        type:
+          name: "Escriba"
+          tv: "TV"
+          special: "Especial"
+          ova: "OVA"
+          ona: "ONA"
+          movie: "Película"
+        status:
+          name: "Estado"
+          aired: "Debutado"
+          airing: "En debut"
+          not_yet_aired: "Aún no publicado"
+          finished: "Terminado"
