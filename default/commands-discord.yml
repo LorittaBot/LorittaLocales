@@ -104,6 +104,7 @@ commands:
       verificationLevel: "Nível de Verificação"
       features: "Recursos Exclusivos"
       owner: "Dono"
+      ownerFemale: "Dona"
       region: "Região"
       textChannels: "Texto"
       createdAt: "Criado em"
