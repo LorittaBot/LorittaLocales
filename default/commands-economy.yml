@@ -73,6 +73,7 @@ commands:
       description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
       startBet: "{0}, {1} quer fazer uma aposta com você! Cada um irá pagar **{5} sonhos ({6} sonhos de taxa para jogar rs)**. Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
       startBetNoTax: "{0}, {1} quer fazer uma aposta com você! Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! Como {5} é um usuário premium recomendado, essa daqui vai por conta da casa, sem nenhuma taxa! E aí, vai encarar?"
+      clickToAcceptTheBet: "Para confirmar a aposta, você e {0} devem clicar em {1}!"
       congratulations: "Parabéns {0}, você ganhou **{1} sonhos**! Financiado por {2} rsrs"
       notEnoughMoneySelf: "Como você vai apostar uma quantidade que você não tem? Aposte menos se você não quer apostar algo que você nem tem!"
       notEnoughMoneyInvited: "{0} não tem sonhos suficientes para a sua aposta..."
