@@ -43,6 +43,8 @@ commands:
     morse:
       description: "Codifica/Decodifica uma mensagem em código morse"
       failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
+      toFrom: "Morse para Texto"
+      fromTo: "Texto para Morse"
     ocr:
       description: "Pega o texto em uma imagem usando OCR"
       couldntFind: "Não encontrei nenhum texto nesta imagem..."
