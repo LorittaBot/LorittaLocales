@@ -1,28 +1,28 @@
 ---
 commands:
   actions:
-    clickToRetribute: "Clique em {0} para retribuir!"
+    clickToRetribute: "¡Haga clic en {0} para corresponder!"
     examples:
       - "297153970613387264"
       - "@MrPowerGamerBR"
     slap:
-      description: "Use esse comando se alguém está merecendo levar uns tapas"
-      response: "**{0} deu um tapa em {1}!**"
-      responseAntiIdiot: "**Como você consegue dormir à noite depois de tentar bater uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
+      description: "Use este comando si alguien merece ser abofeteado"
+      response: "** {0} abofeteó {1}! **"
+      responseAntiIdiot: "** ¿Cómo puedes dormir por la noche después de intentar golpear a una niña como yo? ** {0} abofeteó {1} bien merecido!"
     kiss:
-      description: "Use esse comando para beijar alguém"
-      response: "**{0} beijou {1}!**"
-      responseAntiIdiot: "Nah, quero te beijar não... mas eu ainda gosto de você como um amigx!"
+      description: "Usa este comando para besar alguien"
+      response: "** {0} besó {1}! **"
+      responseAntiIdiot: "No, no quiero besarte... ¡pero todavía me gustas como amigx!"
     attack:
-      description: "Use esse comando para atacar alguém"
-      response: "**{0} atacou {1}!**"
-      responseAntiIdiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"
+      description: "Usa este comando para atacar a alguien"
+      response: "**{0} atacó {1}!**"
+      responseAntiIdiot: "** ¿Cómo te atreves a intentar hacerme esto? ** {0} atacado {1}!"
     hug:
-      description: "Use esse comando para dar um abraço carinhoso em alguém"
-      response: "**{0} abraçou {1}!**"
+      description: "Usa este comando para darle a alguien un cálido abrazo"
+      response: "**{0} abrazó {1}!**"
     dance:
-      description: "Use esse comando para dançar com alguém"
-      response: "**{0} dançou com {1}!**"
+      description: "Usa este comando para bailar con alguien"
+      response: "**{0} bailó con {1}!**"
     headpat:
-      description: "Faça cafuné em alguém"
-      response: "**{0} fez cafuné em {1}!**"
+      description: "Abrazar a alguien"
+      response: "**{0} acarició {1}!**"
