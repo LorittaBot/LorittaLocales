@@ -3,15 +3,19 @@ website:
   dashboard:
     profile:
       sectionNames:
-        yourServers: "Seus Servidores"
-        profileLayout: "Layout do Perfil"
-        shipEffects: "Editar valores do Ship"
-        sonhosShop: "Lojinha de Sonhos"
-        logout: "Sair"
-        deleteAccount: "Deletar Conta"
+        yourServers: "Tus Servidores"
+        profileLayout: "Diseño del Perfil"
+        shipEffects: "Editar valores del Ship"
+        sonhosShop: "Tienda de Sonhos"
+        logout: "Salir"
+        deleteAccount: "Borrar Cuenta"
       deleteAccount:
-        deleteMyAccount: "Deletar a minha conta"
+        deleteMyAccount: "Borrar mi cuenta"
         description:
-          - "Esta ação é irreversível! Todos os seus dados serão deletados e você irá perder tudo que você conseguiu na Loritta!"
-          - "Após confirmar, você não poderá reverter a ação. A ação irá deletar seu perfil, sonhos, keys de doador, lembretes, reputações, casamentos e muito mais, apenas delete seus dados caso você tenha realmente certeza do que está fazendo!"
-          - "Você terá que remover a Loritta de seus servidores manualmente e parar de utilizar comandos ou funções dela, ao utilizá-la novamente, ela poderá a guardar dados sobre você."
+          - "Esta operación es irreversible! Todos tus datos serán borrados e perderás todo lo que conseguiste en Loritta!"
+          - "Después de confirmar, no podrás revertir esta operación. Esta borrará tu perfil, sonhos, keys de donador, recordatorios, reputaciones, matrimonios y mucho más, solo borra tus datos si estás totalmente seguro de lo que haces!"
+          - "Tendrás que quitar a Loritta de tus servidores manualmente y parar de utilizar comandos o funciones de ella, al usarla de nuevo, ella podrá guardar datos sobre ti."
+        yourAccountWillBeSuspendedWarning: "¡Si decides borrar los datos de tu cuenta, tu cuenta será suspendida temporalmente por (72 horas)!"
+        warningDescription:
+          - "Borrar los datos de tu cuenta no resolverá problemas que están pasando conmigo en tu servidor! Si estás teniendo problemas conmigo, entra en nuestro servidor de soporte para que te podamos ayudar!"
+        bannedAccountDueToDeletion: "Estás suspendido temporariamente por la solicitud de borrar los datos de tu cuenta"
