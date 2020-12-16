@@ -1,9 +1,39 @@
 ---
 website:
   dashboard:
-    owner: "Dono"
+    owner: "Dueño"
     administrator: "Administrador"
-    manager: "Gerência"
-    member: "Membro"
-    addLori: "Adicionar a Lori"
-    configureLori: "Configurar a Lori"
+    manager: "Gestiona"
+    member: "Miembro"
+    addLori: "Agregar a Lori"
+    configureLori: "Configurar Lori"
+    advancedEditor: "Editor Avanzado"
+    testMessage: "Probar Mensaje"
+    placeholders:
+      user:
+        name: "Muestra el nombre de usuario que provocó la operación"
+        mention: "Menciona el usuario que provocó la operación"
+        nickname: "Muestra el nombre de usuario en el servidor, si él cambió su apodo en el servidor, aparecerá su apodo, en vez de su nombre original"
+        discriminator: "Muestra el discriminador del usuario que provocó la operación"
+        id: "Muestra el ID del usuario que provocó la operación"
+        avatarUrl: "Muestra la URL de la foto de perfil del usuario"
+        tag: "Muestra la etiqueta (Nombre#Discriminator) del usuario que provocó la operación"
+      experience:
+        level: "Muestra el nivel que el usuario estás"
+        xp: "Cantidad de experiencia que el usuario tiene"
+        ranking: "Posición en la clasificación de experiencia del usuario en el servidor"
+        nextLevel: "Próximo nivel de experiencia del usuario"
+        nextLevelTotalXp: "Total de experiencia necesaria para que el usuario evolucione para el próximo nivel"
+        nextLevelRequiredXp: "Cantidad de experiencia necesaria para que el usuario evolucione para el próximo nivel"
+      punishment:
+        reason: "Motivo del castigo, si ningún motivo fue especificado, este estará vacío"
+        type: "Castigo aplicado (Ban, mute, kick, etc.)"
+      staff:
+        name: "Muestra el nombre de usuario de quien provocó el castigo"
+        mention: "Menciona el usuario que provocó el castigo"
+        nickname: "Muestra el nombre de usuario de quien provocó el castigo en el servidor, si él cambió su apodo en el servidor, aparecerá su apodo, en vez de su nombre original"
+        discriminator: "Muestra el discriminator del usuario que provocó el castigo"
+        id: "Muestra el ID del usuario que provocó el castigo"
+        avatarUrl: "Muestra la URL de la foto de perfil del usuario que provocó el castigo"
+        tag: "Muestra la etiqueta (Nombre#Discriminator) del usuario que provocó el castigo"
+
