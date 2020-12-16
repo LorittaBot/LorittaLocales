@@ -2,53 +2,53 @@
 commands:
   category:
     fun:
-      name: "Diversão"
-      description: "Quer um pouco de entreterimento? Quer animar o chat do seu servidor com várias coisas engraçadas e aleatórias? Então use os comandos de diversão!"
+      name: "Diversión"
+      description: "¿Quieres un poco de entretenimento? \n¿Quieres animar el chat de tu servidor con muchas cosas divertidas y aleatorias?  Entonces usa los divertidos comandos!"
     images:
       name: "Photoshop"
-      description: "Crie imagens 😂👌🔥🔝 no conforto do seu servidor no Discord! Só não vá sair igual doido querendo criar várias imagens, infelizmente não tenho escravos para ficar criando as imagens no Photoshop rapidamente."
+      description: "¡Crea 😂👌🔥🔝 imágenes desde la comodidad de tu servidor en Discord! Simplemente no te vuelvas loco como si quisieras crear varias imágenes, desafortunadamente no tengo esclavos para seguir creando las imágenes en Photoshop rápidamente."
     minecraft:
       name: "Minecraft"
-      description: "Comandos relacionados ao Minecraft"
+      description: "Comandos relacionados con Minecraft"
     pokemon:
-      name: "Pokémon"
-      description: "Comandos relacionados ao Pokémon"
+      name: "Pokémon "
+      description: "Comandos relacionados con Pokémon "
     undertale:
       name: "Undertale"
-      description: "Comandos relacionados ao Undertale"
+      description: "Comandos relacionados con Undertale"
     roblox:
-      name: "ROBLOX"
-      description: "Comandos relacionados ao ROBLOX"
+      name: "Roblox"
+      description: "C Comandos relacionados con ROBLOX"
     anime:
       name: "Anime"
-      description: "Comandos relacionados a Anime"
+      description: "Comandos relacionados con el anime"
     discord:
-      name: "Discord"
-      description: "Comandos relacionados ao Discord"
+      name: "Discordia"
+      description: "Comandos relacionados con la Discord"
     fortnite:
       name: "Fortnite"
-      description: "Where are we dropping boys? Comandos relacionados ao Fortnite, para você ficar informado enquanto espera o ônibus de batalha partir!"
+      description: "Dónde estamos dejando caer chicos? ¡Comandos relacionados con Fortnite, para que puedas mantenerte informado mientras esperas que salga el autobús de batalla!"
     misc:
-      name: "Miscelânea"
-      description: "Comandos que não se encaixam em uma categoria específica"
+      name: "Miscelânea "
+      description: "Comandos que no encajan en una categoría específica"
     admin:
-      name: "Administração"
-      description: "Comandos para facilitar a sua vida de moderador em seus servidores/guilds!"
+      name: "Administración"
+      description: "¡Comandos para facilitar la vida de tu moderador en tus servidores / gremios!"
     utils:
-      name: "Utilitários"
-      description: "Comandos úteis para facilitar e agilizar a sua vida!"
+      name: "Utilidades"
+      description: "Comandos útiles para hacer tu vida más fácil y más rápida!"
     social:
       name: "Social"
-      description: "Humanos são criaturas sociáveis e precisam de interação social. E para isto você pode interagir com a sua família, amigos, vizinhos e até mesmo com os membros do seu servidor no Discord. E, acredite, os meus comandos são um ótimo instrumento para interagir com outras pessoas!"
+      description: "Los humanos son criaturas sociables y necesitan interacción social. Y para esto, puede interactuar con su familia, amigos, vecinos e incluso miembros de su servidor en Discord. Y créeme !"
     music:
       name: "Música"
-      description: "Comandos relacionados ao meu sistema de música"
+      description: "Comandos relacionados con mi sistema de música"
     economy:
-      name: "Economia"
-      description: "Comandos relacionados a minha economia!"
+      name: "Economía"
+      description: "¡Comandos relacionados con mi economía!"
     action:
-      name: "Ações"
-      description: "Beijos, tapas, abraços e carinhos! Está com dificuldade de demonstrar o que você realmente está sentindo e precisa de uma GIF para ajudar? Sem problemas, eu tenho uma pasta reservada para todas as ações que você deseja executar no chat!"
+      name: "Acciones"
+      description: "¡Besos, bofetadas, abrazos y caricias! ¿Tiene problemas para mostrar lo que realmente siente y necesita un GIF para ayudarlo? ¡No hay problema, tengo una carpeta reservada para todas las acciones que desea realizar en el chat!"
     magic:
-      name: "Mágica"
-      description: "Comandos que você jamais deverá ver na sua vida, se você está vendo isto... Você é mágico!"
+      name: "Magia"
+      description: "Comandos que nunca deberías ver en tu vida, si estás viendo esto... ¡Eres mágico!"
