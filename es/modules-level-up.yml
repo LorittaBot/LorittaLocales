@@ -1,63 +1,63 @@
 ---
 modules:
   levelUp:
-    title: "Níveis por Experiência"
-    description: "Incentive usuários a conversarem dando experiência ao mandarem mensagens no seu servidor. Você pode recompensar usuários com prêmios e vantagens, assim deixando o seu servidor mais ativo e divertido!"
-    howToDisableLevelNotifications: "Você recebeu esta notificação pois você subiu de nível em {0}\n\nCansado de receber notificações de level up via mensagem direta? Então utilize {1} e diga adeus a mensagens de level up na sua DM! {2}"
+    title: "Niveles por experiencia"
+    description: "Estimula tus usuarios a hablar dando experiencia al mandar mensajes en tu servidor. ¡Puedes recompensarlos con premios y ventajas, dejando así tu servidor más activo y divertido!"
+    howToDisableLevelNotifications: "Recibiste esta notificación porque subiste de nivel en {0}\n\n¿Cansado de recibir notificaciones al subir del nivel por mensaje directo? Entonces utiliza {1} y decir adiós a esos mensajes en tu MD! {2}"
     channelTypes:
-      disabled: "Desativado"
-      sameChannel: "Canal Atual"
-      directMessage: "Mensagem Direta"
+      disabled: "Desactivado"
+      sameChannel: "Canal Actual"
+      directMessage: "Mensaje Directo"
       differentChannel: "Canal Personalizado"
     levelUpAnnouncement:
-      title: "Mensagens ao Subir de Nível"
+      title: "Mensajes al subir de nivel"
       description:
-        - "Você pode configurar para que eu notifique usuários quando eles subirem de nível."
-      tellWhere: "Anúncio ao Subir de Nível"
-      theMessage: "Mensagem ao Subir de Nível"
-      channel: "Aonde a mensagem será anunciada?"
+        - "Puedes configurar para que yo notifique a los usuarios cuando suban de nivel."
+      tellWhere: "Anúncio al subir de nivel"
+      theMessage: "Mensajes al subir de nivel"
+      channel: "¿Dónde el mensaje será anunciado?"
       onlyIfUserReceivedRoles:
-        title: "Apenas notificar caso o usuário receba alguma recompensa"
-        subtext: "Caso você tenha configurado recompensas ao subir de nível, eu posso notificar apenas se o usuário recebeu alguma recompensa"
+        title: "Solo notificar si el usuario recibe alguna recompensa"
+        subtext: "Dado el caso de que hayas configurado recompensas al subir de nivel, puedo notificar el usuario solamente si recibió alguna recompensa"
       templates:
         default:
-          title: "Padrão"
-          content: "Parabéns \\'{@user}\\', você passou para o nível **\\'{level}\\'** (*\\'{xp}\\' XP*)! {0}"
+          title: "Por defecto"
+          content: "Felicidades \\'{@user}\\', subiste para el nivel **\\'{level}\\'** (*\\'{xp}\\' XP*)! {0}"
         embed:
           title: "Embed"
-          footer: "Continue tentando subir de nível!"
+          footer: "Continua intentando subir de nivel!"
     roleByXpLevel:
-      title: "Recompensas ao Subir de Nível"
-      whenUserGetsToXp: "Ao chegar em {0} XP (Nível {1}), dar o cargo {2}"
+      title: "Recompensas al Subir de Nivel"
+      whenUserGetsToXp: "Cuando llegue a {0} XP (Nivel {1}), dar él role {2}"
       description:
-        - "Recompense usuários ativos do seu servidor com cargos únicos e exclusivos."
+        - "Recompense usuarios activos de tu servidor con roles únicos y exclusivas."
     noXpRoles:
-      title: "Cargos que não irão receber experiência"
+      title: "Roles que no recibirán experiencia"
       description:
-        - "Cargos que estão na lista não irão ganhar experiência. Perfeito para usuários que acham engraçado \"spammar\" e \"floodar\" seu servidor com mensagens aleatórias toscas só para ganhar mais experiência."
+        - "Roles que están en esta lista, no recibirán experiencia. Perfecto para esos usuarios que les encanta \"spammear\" y hacer \"flood\" en tu servidor con mensajes aleatorio solo para ganar experiencia."
     noXpChannels:
-      title: "Canais que não irão dar experiência"
+      title: "Canales que no darán experiencia"
       description:
-        - "Canais que estão nesta lista não irão dar experência para usuários que falarem neles. Útil para bloquear canais criados para \"spam\" ou \"flood\", assim evitando que usuários ganhem experiência no seu servidor apenas mandando mensagens aleatórias toscas sem realmente conversar."
+        - "Canales que están en esta lista no darán experiencia para los usuarios que hablen en ellos. Útil para bloquear canales creados con el fin de \"spam\" o \"flood\" así evitando que usuarios ganen experiencia en tu servidor solamente mandado mensajes aleatorios sin realmente hablar."
     roleGiveType:
-      title: "Estilo de Recompensas por Cargo"
+      title: "Estilo de Recompensas por Role"
       types:
         stack:
-          title: "Empilhar recompensas anteriores"
-          description: "Ao subir de nível, todas as recompensas que o usuário recebeu são mantidas"
+          title: "Juntar con recompensas anteriores"
+          description: "Al subir de nivel, todas las recompensas que el usuario haya recibido son mantenidas"
         remove:
-          title: "Remover recompensas anteriores"
-          description: "Ao subir de nível, todas as recompensas que o usuário recebeu são removidas"
+          title: "Quitar recompensas anteriores"
+          description: "Al subir de nivel, todas las recompensas que el usuario haya recibido son removidas"
     customRoleRate:
-      title: "Taxa de XP para Cargos"
+      title: "Tarifa de XP para Roles"
       description:
-        - "Você pode configurar que cargos específicos ganhem mais/menos experiência que outros membros. Ótimo para recompensar membros ativos do seu servidor com um bônus de experiência a cada mensagem que eles enviam!"
-      whenUserHasRoleRate: "Usuários com o cargo {0} irão ganhar {1}x mais XP"
+        - "Puedes configurar que roles específicos ganen más/menos experiencia que otros miembros. ¡Útil para recompensar miembros activos de tu servidor con experiencia bonus a cada mensaje que ellos envían!"
+      whenUserHasRoleRate: "Usuarios con el role {0} ganarán {1}x más XP"
     resetXp:
-      title: "Zerar XP"
-      clearAll: "Zerar o XP de todos os usuários"
-      cancel: "Deixe para lá, mudei de ideia"
-      areYouSure: "Você tem certeza?"
+      title: "Reiniciar XP"
+      clearAll: "Reiniciar la XP de todos los usuarios"
+      cancel: "Olvídalo, cambié de opinión"
+      areYouSure: "¿Estás seguro?"
       description:
-        - "Esta ação é irreversível! Todos os membros do seu servidor terão os seus níveis e experiência revertidos para 0!"
-        - "Após confirmar, você não poderá reverter a ação. A ação apenas reverte o nível e a experiência, você terá que reverter as recompensas ganhas ao subirem de nível manualmente."
+        - "¡Esta operación es irreversible! ¡Todos los miembros de tu servidor tendrán sus niveles y experiencia revertidos para 0!"
+        - "Después de confirmar, no podrás revertir esta operación. Esta solamente revierte el nivel y la experiencia, tú tendrás que revertir las recompensas ganadas al subir de nivel manualmente."
