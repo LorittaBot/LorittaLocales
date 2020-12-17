@@ -113,6 +113,9 @@ commands:
       unknownGuild: "Eu não conheço nenhuma guild com o ID `{0}`... 😢"
       channels: "Canais"
       voiceChannels: "Voz"
+      boosts: "Boosts"
+      boostCount: "Quantidade de boosts"
+      boostTier: "Nível de boosts"
     servericon:
       description: "Mostra o ícone do servidor atual!"
       noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"
