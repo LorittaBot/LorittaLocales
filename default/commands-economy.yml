@@ -129,7 +129,7 @@ commands:
       boughtStocksWhileSelling: "Você comprou ou vendeu ações deste ticker enquanto esta ação estava pendente! Tente novamente e desculpe pela inconveniência!"
       successfullySold: "Você vendeu **{0} {1}** de `{2}`! {3}"
       successfullySoldProfit: "Com a venda, você **ganhou {0} sonhos (lucro de {1} sonhos)**!"
-      successfullySoldLoss: "Com a venda, você **ganhou {0} sonhos (perda de {1} sonhos)**! Nem todos os dias a gente sai ganhando... Sempre fique de olho no `{1}` para saber se vale a pena vender!"
+      successfullySoldLoss: "Com a venda, você **ganhou {0} sonhos (perda de {1} sonhos)**! Nem todos os dias a gente sai ganhando... Sempre fique de olho no `{2}` para saber se vale a pena vender!"
       successfullySoldNeutral: "Você não ganhou e nem perdeu nada com a sua venda."
     brokerPortfolio:
       description: "Veja o seu portfólio de ações que você comprou pelo Home Broker da Loritta"
