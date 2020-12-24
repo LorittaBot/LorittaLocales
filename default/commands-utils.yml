@@ -68,3 +68,4 @@ commands:
     wikipedia:
       description: "Mostra uma versão resumida de uma página do Wikipedia"
       couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+      invalidLanguage: "Você não colocou uma linguagem válida do Wikipedia! **Linguagens:** {0}"
