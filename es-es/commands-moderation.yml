@@ -1,4 +1,0 @@
-commands:
-  moderation:
-    dashboard:
-      description: "Envia el link del Dashboard para agregar/configurar a Loritta"
