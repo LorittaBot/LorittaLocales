@@ -6,7 +6,7 @@ commands:
   loriDoesntHavePermissionDiscord: "I wanted to do this command, but unfortunately I don't have permissions to {0}... {1} Ask someone from staff to give that permission to me! Thank you! {2}"
   commandOnlyForOwner: "Only special people can use this command :3"
   userDoesntHavePermissionDiscord: "You don't have permissions to use this command! To be able to use it, you need to have permissions to {0}!"
-  userDoesNotExist: "I searched everywhere, but I couldn't found anyone named {0}! Remember, I search user by ID, mentions and names."
+  userDoesNotExist: "I searched everywhere, but I couldn't found anyone named `{0}`! Remember, I search user by ID, mentions and names."
   errorWhileExecutingCommand: "Oopsie! Something went wrong when running this command... {0} Sorry for the inconvenience. {1}"
   ifYouLikeMyFeaturesAndWantToHelp: "If you like my features and want to help me, please, {0}"
   pleaseUpvote: "vote for me! For every vote you win rewards (like sonhos!)! You can vote every 12 hours so... why not start voting now? Oh, and of course, thanks for the help! {0}"
