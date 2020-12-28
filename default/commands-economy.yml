@@ -9,6 +9,10 @@ commands:
       sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
       genericReceived: "Recebeu {0} sonhos no {1}"
       genericSent: "Enviou {0} sonhos para {1}"
+      page: "Página"
+      totalTransactions: "Total de Transações"
+      pageDoesNotExist: "Eu procurei até no infinito e além, mas pelo visto as páginas acabam aqui..."
+      unknownTransactions: "Parece que essa pessoa nunca fez uma transação de sonhos na vida dela!"
       types:
         bomDiaECia: "Bom Dia & Cia"
         profile: "layout para perfil"
