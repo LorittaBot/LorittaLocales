@@ -6,7 +6,7 @@ commands:
       otherUserTransactions: "Transações de {0}"
       sentMoneySonhos: "Enviou {0} sonhos para {1}"
       receivedMoneySonhos: "Recebeu {0} sonhos de {1}"
-      sentMoneySonhosOnCoinflipBet: "Enviou {0} sonhos para {1} em apostas de sonhos girando uma moeda"
+      sentMoneySonhosOnCoinFlipBet: "Enviou {0} sonhos para {1} em apostas de sonhos girando uma moeda"
       receivedMoneySonhosOnCoinFlipBet: "Recebeu {0} sonhos de {1} em apostas de sonhos girando uma moeda"
       sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
       genericReceived: "Recebeu {0} sonhos no {1}"

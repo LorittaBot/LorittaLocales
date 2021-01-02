@@ -13,7 +13,7 @@ commands:
       giveawayDuration: "Por quanto tempo irá durar o sorteio? (`5 minutos`, `1 hora 30 minutos`, `7 dias`, etc)"
       giveawayReaction: "Qual emoji deverá ser usado nas reações do sorteio?"
       giveawayChannel: "Em qual canal será realizado o sorteio?"
-      giveawayWinnerCount: "Quantas pessoas vão poder ganhar o sorteio? (Você pode colocar no mínimo 1 pessoa e no máximo 20 pessoas!)"
+      giveawayWinnerCount: "Quantas pessoas vão poder ganhar o sorteio? (Você pode colocar no mínimo 1 pessoa e no máximo 100 pessoas!)"
       giveawayDoYouWantAutomaticRole: "Você deseja que o vencedor ganhe cargos automaticamente? (Imagine... você poderia dar um cargo de `subornou para ganhar o sorteio` automaticamente para ele!)"
       giveawayMentionRoles: "Quais cargos serão dados para quem ganhar o sorteio?"
       giveawayNoValidRoles: "Nenhum cargo válido foi encontrado! Você tem certeza que você escreveu corretamente?"
@@ -24,6 +24,7 @@ commands:
       multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
       giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
       giveawayCreatedBy: "Sorteio criado por {0}"
+      giveawayWinnerCountNotInRange: "Precisa ter, no mínimo, um ganhador e, no máximo, cem ganhadores!"
     giveawayend:
       description: "\"Meu Deus, o sorteio vai demorar muito para acabar!\" você exclama, com tom de desespero, \"Lori me ajude, meus membros vão ficar pistola caso eu tenha que fazer outro sorteio!\". Finalize sorteios antes da hora, para evitar a horda de membros reclamando que você colocou o horário errado!"
       giveawayInvalidArguments: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: {0}"
