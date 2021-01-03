@@ -8,6 +8,7 @@ commands:
       receivedMoneySonhos: "Recebeu {0} sonhos de {1}"
       sentMoneySonhosOnCoinFlipBet: "Enviou {0} sonhos para {1} em apostas de sonhos girando uma moeda"
       receivedMoneySonhosOnCoinFlipBet: "Recebeu {0} sonhos de {1} em apostas de sonhos girando uma moeda"
+      receivedMoneySonhosOnDiscordBotList: "Recebeu {0} sonhos em votos no Discord Bot List"
       sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
       genericReceived: "Recebeu {0} sonhos no {1}"
       genericSent: "Enviou {0} sonhos para {1}"
@@ -31,7 +32,6 @@ commands:
         stocks: "Loritta's Home Broker"
         guessNumber: "apostas de adivinhar números"
         emojiFight: "rinha de emojis"
-        discordBots: "discord bot list"
     raffle:
       lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
       description: "Aposte seus sonhos na minha rifa!"
