@@ -31,6 +31,7 @@ commands:
         stocks: "Loritta's Home Broker"
         guessNumber: "apostas de adivinhar números"
         emojiFight: "rinha de emojis"
+        discordBots: "discord bot list"
     raffle:
       lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
       description: "Aposte seus sonhos na minha rifa!"
