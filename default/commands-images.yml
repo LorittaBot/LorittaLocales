@@ -190,3 +190,5 @@ commands:
       description: "O que será que o senhor presidente Trump está mostrando hoje?"
     textcraft:
       description: "Crie um texto bonito e supimpa! Fontes disponíveis: {0}"
+    riptv:
+      description: "Eis que você está pistola com algo que está na sua TV, e você tem a vontade de atirar na tela para ver se resolve o problema"

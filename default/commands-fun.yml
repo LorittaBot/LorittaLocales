@@ -1,19 +1,5 @@
 commands:
   fun:
-    ditty:
-      description: "Combine letras com rítimos para criar a sua própria música para você escutar e se divertir!"
-      examples:
-        - "swlukestheme roblox sucks a lot because fortnite is better but minecraft is awesome"
-        - "babyshark hit or miss I guess they never miss huh"
-        - "lista"
-      music: "música"
-    randomsam:
-      description: "kk eae men o SAM é brabo. Mostra memes aleatórios da página do South America Memes no Instagram."
-    randomtiktok:
-      description: "No tédio? Quer ver pessoas fazendo coisas toscas? Então veja um TikTok aleatório que talvez (sinceramente tem muito TikTok sem graça, sorry TikTokeiros!) alegre o seu dia!"
-      noTikTokFound: "Nenhum TikTok foi encontrado, talvez isto seja um bug!"
-    gabriela:
-      hasBadWord: "Que feio, para que perguntar essas coisas para ela?"
     giveawaymenu:
       description: "Menu com todos os comandos relacionados ao sistema de sorteios"
       categoryTitle: "Sorteios"
@@ -27,7 +13,7 @@ commands:
       giveawayDuration: "Por quanto tempo irá durar o sorteio? (`5 minutos`, `1 hora 30 minutos`, `7 dias`, etc)"
       giveawayReaction: "Qual emoji deverá ser usado nas reações do sorteio?"
       giveawayChannel: "Em qual canal será realizado o sorteio?"
-      giveawayWinnerCount: "Quantas pessoas vão poder ganhar o sorteio? (Você pode colocar no mínimo 1 pessoa e no máximo 20 pessoas!)"
+      giveawayWinnerCount: "Quantas pessoas vão poder ganhar o sorteio? (Você pode colocar no mínimo 1 pessoa e no máximo 100 pessoas!)"
       giveawayDoYouWantAutomaticRole: "Você deseja que o vencedor ganhe cargos automaticamente? (Imagine... você poderia dar um cargo de `subornou para ganhar o sorteio` automaticamente para ele!)"
       giveawayMentionRoles: "Quais cargos serão dados para quem ganhar o sorteio?"
       giveawayNoValidRoles: "Nenhum cargo válido foi encontrado! Você tem certeza que você escreveu corretamente?"
@@ -38,6 +24,7 @@ commands:
       multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
       giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
       giveawayCreatedBy: "Sorteio criado por {0}"
+      giveawayWinnerCountNotInRange: "Precisa ter, no mínimo, um ganhador e, no máximo, cem ganhadores!"
     giveawayend:
       description: "\"Meu Deus, o sorteio vai demorar muito para acabar!\" você exclama, com tom de desespero, \"Lori me ajude, meus membros vão ficar pistola caso eu tenha que fazer outro sorteio!\". Finalize sorteios antes da hora, para evitar a horda de membros reclamando que você colocou o horário errado!"
       giveawayInvalidArguments: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: {0}"
@@ -66,19 +53,6 @@ commands:
       value20: ["\U0001F610 %ship% Se o(a) %user% não tivesse deixado na friendzone... \U0001F610"]
       value10: ["\U0001F610 %ship% Eu queria muito falar que é possível, mas... \U0001F622"]
       value0: ["\U0001F62D %ship% As possibilidades de ter este casal são quase impossíveis! \U0001F62D"]
-    akinator:
-      description: "O Akinator pode ler a sua mente e dizer qual personagem você está pensando! Será que você irá conseguir ganhar dele?"
-      question: "Questão {0}"
-      isThisYourCharacter: "É esse o personagem que você está pensando?"
-      akinatorWon: "Excelente! Eu venci mais uma vez. Eu amo jogar esse jogo com você! {0}"
-      akinatorLost: "Bravo! Você conseguiu me derrotar."
-      goBack: "Voltar a pergunta anterior"
-      answers:
-        'yes': "Sim"
-        'no': "Não"
-        probablyYes: "Provavelmente Sim"
-        probablyNot: "Provavelmente Não"
-        dontKnow: "Não sei"
     roll:
       description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
       howMuchSides: "Quantos lados o dado que eu irei rolar terá"
@@ -230,6 +204,3 @@ commands:
       level3: "Isso que é zap bb"
       level4: "Zap monstrão"
       level5: "Zap topper d+"
-    gamejolt:
-      description: "Pesquise games no GameJolt!"
-      resultsFor: "Resultados para `{0}`" 
