@@ -8,7 +8,7 @@ commands:
   loriDoesntHavePermissionDiscord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
   commandOnlyForOwner: "Apenas pessoas especiais podem usar este comando :3"
   userDoesntHavePermissionDiscord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
-  userDoesNotExist: "Eu procurei em todo o lugar, mas não encontrei nenhum usuário que se chame {0}! Lembre-se, eu procuro usuários por IDs, menções e nomes."
+  userDoesNotExist: "Eu procurei em todo o lugar, mas não encontrei nenhum usuário que se chame {0}! Lembre-se, eu procuro usuários por IDs, menções e nomes  userSameMention: "Eu estou vendo que você quer transferir o seu dinheiro para você mesmo? Acho que não precisa né?!"
   errorWhileExecutingCommand: "Alguma coisa deu extremamente errada ao executar este comando... {0} Desculpe pela inconveniência. {1}"
   ifYouLikeMyFeaturesAndWantToHelp: "Se você gosta de usar as minhas funcionalidades e quer me ajudar, por favor, {0}"
   pleaseUpvote: "vote em mim! A cada voto que você dá você ganha recompensas (como sonhos!)! Você pode votar a cada 12 horas então... que tal começar votando agora? Ah, e é claro, obrigada pela ajuda! {0}"
