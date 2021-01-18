@@ -8,6 +8,7 @@ commands:
       receivedMoneySonhos: "Recebeu {0} sonhos de {1}"
       sentMoneySonhosOnCoinFlipBet: "Enviou {0} sonhos para {1} em apostas de sonhos girando uma moeda"
       receivedMoneySonhosOnCoinFlipBet: "Recebeu {0} sonhos de {1} em apostas de sonhos girando uma moeda"
+      receivedMoneySonhosOnDiscordBotList: "Recebeu {0} sonhos em votos no Discord Bot List"
       sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
       genericReceived: "Recebeu {0} sonhos no {1}"
       genericSent: "Enviou {0} sonhos para {1}"

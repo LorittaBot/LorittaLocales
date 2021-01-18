@@ -138,5 +138,4 @@ commands:
         - "E, é claro, entre na minha guild para dar sugestões, reportar bugs e muito mais! {2}"
     removeemoji:
       description: "Remove um emoji do seu servidor"
-      noEmojiRemoved: "Nenhum emoji da sua lista de emojis foi deletado... \U0001F62D Você tem certeza que estes emojis são deste servidor?"
       success: "{0} {1} foram deletados com sucesso!"
