@@ -14,6 +14,7 @@ commands:
       unknownUser: "Eu não conheço nenhum usuário relacionado à `{0}`... \U0001F622"
       roles: "Cargos"
       noRoles: "Nenhum cargo..."
+      badges: "Emblemas"
     channelinfo:
       description: "Mostra informações de um canal de texto"
       channelInfo: "Informações do canal {0}"
@@ -84,9 +85,14 @@ commands:
       title: "Olá, eu me chamo Loritta!"
       javaVersion: "Versão do Java"
     inviteinfo:
+      description: "Mostra informações sobre um convite do Discord"
+      examples:
+        - "V7Kbh4z |-| Mostra as informações de um convite pelo código"
+        - "https://discord.gg/ZWt5mKB |-| Mostra as informações de um convite pelo link"
+        - "https://discord.com/invite/jjjM5tPwS9 |-| Mostra as informações de um convite pelo link longo"
+        - "sparklypower |-| Mostra as informações de um convite pela URL personalizada"
       inThisServer: "Sim, eu estou no servidor!"
       notOnTheServer: "Infelizmente eu não estou no servidor..."
-      description: "Mostra informações sobre um convite do Discord"
       whoInvited: "Quem Convidou"
       doesntExists: "Convite `{0}` não existe!"
       none: "Nenhum..."
@@ -94,6 +100,10 @@ commands:
       channelInvite: "Canal do Invite"
     avatar:
       description: "Mostra o avatar de um usuário do Discord"
+      examples:
+        - "|-| Mostra o seu próprio avatar"
+        - "@Loritta |-| Mostra o avatar da pessoa mais linda que existe neste mundo!"
+        - "123170274651668480 |-| Mostra o avatar de um usuário pelo ID"
       clickHere: "Clique [aqui]({0}) para baixar a imagem!"
       lorittaCute: "Sim, eu sei que eu sou muito fofa!"
       pantufaCute: "Sim, a Pantufinha também é fofinha. Olha que cute cute iti malia"

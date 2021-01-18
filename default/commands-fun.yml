@@ -41,6 +41,10 @@ commands:
       rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
     ship:
       description: "Veja se um casal daria certo (ou não!)"
+      examples:
+        - "297153970613387264 265640832093257729 |-| Faz um ship com duas pessoas pelo ID delas"
+        - "@Loritta |-| Você pode até tentar shipar comigo, mas eu não quero namorar e nem casar com você, gosto de você apenas como amigx!"
+        - "Cremosa |-| Em vez de tentar conquistar a cremosa, se iluda pensando que você irá namorar com ela vendo o seu ship com ela!"
       newCouple: "Hmmm, será que nós temos um novo casal aqui?"
       bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
       value90: ["\U0001F60D %ship% Os dois se amam! \U0001F60D", "\U0001F497 %ship% Casal mais perfeito? Impossível! \U0001F497", "☠ %ship% Nem a *dona* morte separa! \U0001F602", "\U0001F60B %ship% Casal mais perfeito que eu! \U0001F60B", "\U0001F61A %ship% Casal? Casal que nada! Eles já são casados! \U0001F61A"]
@@ -55,12 +59,26 @@ commands:
       value0: ["\U0001F62D %ship% As possibilidades de ter este casal são quase impossíveis! \U0001F62D"]
     roll:
       description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+      examples:
+        - "|-| Gira um dado de 6 lados"
+        - "12 |-| Gira um dado de 12 lados"
+        - "24 |-| Gira um dado de 24 lados"
+        - "2d20 |-| Gira dois dados de 20 lados"
+        - "3d5 |-| Gira três dados de 5 lados"
+        - "4d10 |-| Gira quatro dados de 10 lados"
+        - "5..10 |-| Gira um dado com valores de 5 até 10"
+        - "10d100..999 |-| Gira 10 dados com valores de 100 até 999"
+        - "6 * 10 |-| Gira um dado de 6 lados e multiplica o valor final por 10"
       howMuchSides: "Quantos lados o dado que eu irei rolar terá"
       invalidBound: "Eu tentei girar o dado mas... ele evaporou! Sumiu! Acho que ele sumiu porque você criou um dado inválido... me diga, como você queria que eu girasse ele?"
       tooMuchDices: "Eu tentei girar os dados mas são taaaaaantos que não coube na minha mesa e cairam no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que eles não caiam novamente."
       result: "rolou **{1}**... e conseguiu **{2}**!"
     ratewaifu:
       description: "Receba uma nota para a sua Waifu!"
+      examples:
+        - "Loritta |-| Recebe a nota para a garota mais perfeita que existe!"
+        - "361977144445763585 |-| Recebe a nota de um usuário pelo ID"
+        - "Pudim |-| Pudim também é uma waifu... n-né?~"
       note10:
         - "Simplesmente perfeita! Não trocaria de Waifu se fosse você!"
       note9:
@@ -120,6 +138,9 @@ commands:
       description: "Gire uma moeda e veja se irá cair cara ou coroa! Perfeito para descobrir quem irá ir primeiro em uma partida de futebas"
     cancelled:
       description: "A sua mana foi canceladx pelas militantes do Twitter! Ah, mas qual foi o motivo do cancelamento?"
+      examples:
+        - "@Loritta |-| Cancela um usuário pela menção... manas, me ajudem! Uma pessoa tão doce como eu não pode ser cancelada!"
+        - "234395307759108106 |-| Cancela um usuário pelo ID"
       wasCancelled: "{0} foi cancelado(a) por {1}"
       reasons:
         - "ser atraente demais"
@@ -169,6 +190,10 @@ commands:
       description: "Invoque o querido Faustão no seu servidor!"
     rockpaperscissors:
       description: "Jogue Pedra, Papel ou Tesoura! (jankenpon, ou a versão abrasileirada: jokenpô)"
+      examples:
+        - "pedra |-| Joga Pedra no jogo, boa sorte!"
+        - "papel |-| Joga Papel no jogo, boa sorte!"
+        - "tesoura |-| Joga Tesoura no jogo, boa sorte!"
       win: "Parabéns, você ganhou!"
       lose: "Que pena... você perdeu, mas o que vale é a intenção!"
       draw: "Empate! Que tal uma revanche?"
@@ -181,17 +206,34 @@ commands:
       scissors: "tesoura"
     quality:
       description: "Cria uma mensagem com Q U A L I D A D E & S I N C R O N I A"
+      examples:
+        - "qualidade & sincronia |-| Transforma a mensagem em Q U A L I D A D E & S I N C R O N I A"
     tiodopave:
       description: "É pá vê ou pá cume?"
     twitch:
       description: "Procura informações sobre um canal no Twitch"
+      examples:
+        - "mrpowergamerbr |-| Mostra informações do canal \"mrpowergamerbr\" na Twitch"
+        - "ninja |-| Mostra informações do canal \"ninja\" na Twitch"
+        - "sypherpk |-| Mostra informações do canal \"sypherpk\" na Twitch"
+        - "callmekevin |-| Mostra informações do canal \"callmekevin\" na Twitch"
+        - "coloniacontraatacalive |-| Mostra informações do canal \"coloniacontraatacalive\" na Twitch"
       views: "Visualizações"
       couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
     vaporwave:
       description: "Cria uma mensagem com ａｅｓｔｈｅｔｉｃｓ"
+      examples:
+        - "Windows 95 |-| Transforma a mensagem em Ｗｉｎｄｏｗｓ 95"
     vaporquality:
       description: "Quando você mistura Q U A L I D A D E e ａｅｓｔｈｅｔｉｃｓ"
+      examples:
+        - "kk eae men o SAM é brabo |-| Transforma a mensagem em Ｋ Ｋ   Ｅ Ａ Ｅ   Ｍ Ｅ Ｎ ,   Ｏ   Ｓ Ａ Ｍ   É   Ｂ Ｒ Ａ Ｂ Ｏ "
     vemdezap:
+      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é \U0001F51D com as 9inhas do zapzap!"
+      examples:
+        - "vem de zap bb |-| Zapifica \"vem de zap bb\""
+        - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk |-| Zapifica a mensagem clássica do Emojo"
+        - "zapzap é melhor que o discord, lá a gente tem número de novinhxs! |-| Zapifica uma mentira"
       whatIsTheMood: "Qual será o seu humor do zap?"
       moodHappy: "Feliz"
       moodAngry: "Bravo"
@@ -204,3 +246,38 @@ commands:
       level3: "Isso que é zap bb"
       level4: "Zap monstrão"
       level5: "Zap topper d+"
+    vieirinha:
+      description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
+      examples:
+        - "Você me ama? |-| Pergunta para o Vieirinha se ele te ama"
+        - "Sonic é melhor que Mario? |-| Pergunta para o Vieirinha se Sonic é melhor que Mario (mesmo que todos saibam que Sonic é melhor)"
+        - "Eu irei ganhar na loteria neste ano? |-| Pergunta para o Vieirinha se você irá ganhar na loteria neste ano... Mas não confie muito na resposta dele"
+      responses:
+        - "Vai incomodar outra pessoa, obrigado."
+        - "Não sei, mas eu sei que eu moro lá no Cambuci."
+        - "Do jeito que eu vejo, sim."
+        - "Hmmmm... \U0001F914"
+        - "Não posso falar sobre isso."
+        - "Não."
+        - "Sim."
+        - "Eu responderia, mas não quero ferir seus sentimentos."
+        - "Provavelmente sim"
+        - "Provavelmente não"
+        - "Minhas fontes dizem que sim"
+        - "Minhas fontes dizem que não"
+        - "Você pode acreditar nisso"
+        - "Minha resposta é não"
+        - "Minha resposta é sim"
+        - "Do jeito que eu vejo, não."
+        - "Melhor não falar isto para você agora..."
+        - "Sim, com certeza!"
+        - "Também queria saber..."
+        - "A minha resposta não importa, o que importa é você seguir o seu coração. \U0001F618"
+        - "Talvez..."
+        - "Acho que sim."
+        - "Acho que não."
+        - "Talvez sim."
+        - "Talvez não."
+        - "Sim!"
+        - "Não!"
+        - "¯\\_(ツ)_/¯"

@@ -1,5 +1,16 @@
 commands:
   images:
+    singleImageExamples:
+      - "|-| Edição com a imagem mais recente do chat ou, se você responder uma mensagem que possui uma imagem, ela será utilizada"
+      - "@Loritta |-| Edição com o avatar mais fofo que você já viu!"
+      - "123170274651668480 |-| Edição com o avatar de um usuário pelo ID"
+      - "https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+      - "🍮 |-| Edição com a imagem do emoji"
+    twoImagesExamples:
+      - "@Mantaro @Loritta |-| Edição com os avatares mais fofos que você já viu!"
+      - "123170274651668480 297153970613387264 |-| Edição com os avatares de usuários pelo ID"
+      - "https://i.imgur.com/UglkKMD.png https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites \"seguros\"!)"
+      - "🍮 🍞 |-| Edição com as imagens de emojis"
     drake:
       description: "Crie um meme do Drake com dois usuários da sua guild!"
     bolsodrake:
@@ -96,6 +107,12 @@ commands:
         - "@Loritta"
     nyancat:
       description: "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!"
+      examples:
+        - "|-| Um Nyan Cat beeeeem pequeninho"
+        - "cat |-| O Nyan Cat no seu tamanho natural"
+        - "caaaaaaaaaaaat |-| Uau, um Nyan Cat grandinho!"
+        - "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat |-| Okay, acho que já estamos exagerando no tamanho"
+        - "dog |-| Também amamos Nyan Cachorros!"
     jooj:
       description: "Inverte uma imagem horizontalmente, baseando no lado esquerdo da imagem!"
     ojjo:
@@ -192,3 +209,5 @@ commands:
       description: "Crie um texto bonito e supimpa! Fontes disponíveis: {0}"
     riptv:
       description: "Eis que você está pistola com algo que está na sua TV, e você tem a vontade de atirar na tela para ver se resolve o problema"
+    attackonheart:
+      description: "Faça um vídeo do Erwin se assustando com uma imagem de sua preferência!"

@@ -32,8 +32,12 @@ commands:
         guessNumber: "apostas de adivinhar números"
         emojiFight: "rinha de emojis"
     raffle:
-      lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
       description: "Aposte seus sonhos na minha rifa!"
+      examples:
+        - "|-| Mostra as informações da rifa atual"
+        - "comprar |-| Compra um ticket na rifa, boa sorte!"
+        - "comprar 100 |-| Compra cem tickets na rifa, quantos mais tickets, mais a chance de você ganhar!"
+      lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
       notEnoughMoney: "Você precisa ter **+{0} Sonhos** para poder comprar {1} ticket{2}!"
       youBoughtAnTicket: "Você comprou {0} ticket{1} por **{2} Sonhos**! Agora é só sentar e relaxar até o resultado da rifa sair!"
       wantMoreChances: "Querendo mais chances de ganhar? Que tal comprar outro ticket? 😉 `{0}rifa comprar [quantidade]`"
@@ -50,6 +54,10 @@ commands:
       description: "Veja os usuários que ganharam mais sonhos na raspadinha!"
       wonTickets: "{0} sonhos / {1} tickets"
     pay:
+      description: "Lembra daquela paçoca que o seu amigo tinha te comprado? Que tal pagar ela usando a minha economia? \U0001F609"
+      examples:
+        - "@Loritta 100 |-| Envia cem sonhos para a pessoa mais humilde em toda a galáxia!"
+        - "292953664492929025 100k |-| Envia 100000 sonhos para um usuário pelo ID"
       selfAccountIsTooNew: "Calma lá né, a sua conta é muito novinha! Para você transferir sonhos, você precisa esperar {0} dias antes de começar a transferir sonhos."
       otherAccountIsTooNew: "Eu sei que as vezes é legal ajudar os outros... Mas {0} criou a conta faz pouco tempo! Precisa esperar {1} dias antes de {0} poder começar a receber sonhos."
       selfAccountNeedsToGetDaily: "Parece que você ainda não pegou o seu daily hoje, você só poderá enviar sonhos após você ter pego o daily hoje. Que tal pegar agora? {0}"
@@ -81,7 +89,6 @@ commands:
         - "Pelo ou menos consegui sonhos sem precisar me vender igual @#$%, jamais faria isso... diferente de outras @ por aí..."
       clickToAcceptTheTransaction: "Para confirmar a transação, você e {0} devem clicar em {1}!"
       doYouThinkImPoor: "Você *acha* que eu sou pobre para transferir só isso para mim? Não sou mendiga para aceitar essa merrequinha aí. 2bj"
-      description: "Lembra daquela paçoca que o seu amigo tinha te comprado? Que tal pagar ela usando a minha economia? \U0001F609"
       insufficientFunds: "Você não tem {0} suficientes para realizar esta transação!"
       transitionComplete: "Transação realizada com sucesso! {0} recebeu **{1} {2}**!"
       sellDisallowedWarning: "**Não se esqueça:** É proibido o comércio de produtos que possuem valores reais (Nitro, dinheiro real, invites, conteúdo ilegal/NSFW, etc) por sonhos, você será banido de usar a Loritta caso faça! Veja todas as regras em <{0}>. Não se esqueça que, ao aceitar a transação, você não conseguirá pedir os sonhos de volta e a equipe não irá te ajudar a pegar eles de volta, então apenas envie sonhos para pessoas confiáveis!"
@@ -152,6 +159,10 @@ commands:
       title: "Seu Portfólio de Ações"
       youHaveStocksInThisTicker: "Você tem **{0} {1}** neste ticker. Você gastou **{2} sonhos** neste ticker, se você vendesse todas as ações deste ticker agora, você ganharia **{3} sonhos ({4})**"
     sonhos:
+      description: "Veja quantos sonhos você tem!"
+      examples:
+        - "@Loritta |-| Mostra os sonhos da pessoa mais afortunada do planeta terra!"
+        - "395935916952256523 |-| Mostra os sonhos de um usuário pelo ID"
       youHaveSonhos: "Você tem **{0,number,#} {1}**! {2}"
       userHasSonhos: "{0} tem **{1,number,#} {2}**! {3}"
       currentRankPosition: "Você está em **#{0,number,#} lugar** no ranking, veja outros ostentadores em `{1}`"
@@ -160,7 +171,6 @@ commands:
       sonhos:
         one: "sonho"
         multiple: "sonhos"
-      description: "Veja quantos sonhos você tem!"
     guessnumber:
       description: "Chute um número de 1 até 10, se for o número que eu estou pensando, eu irei te recompensar com sonhos! Mas se você perder... aí você que terá que me dar sonhos."
       youWin: "Parabéns, você acertou o número que eu estava pensando! Como recompensa, eu te **dei {0} sonhos**!"

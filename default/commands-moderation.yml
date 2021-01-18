@@ -15,6 +15,12 @@ commands:
     silentTip: "Psiu, querendo punir sem que a vítima receba a punição via mensagem direta e sem que apareça no canal da punições? Então clique no \U0001F64A!"
     skipConfirmationTip: "Cansado de confirmar as suas punições? Então use {0} para burlar as confirmações de punições, para que você possa sentir a satisfação de banir aquele usuário chato enquanto ele está digitando um textão para te xingar!"
     setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no \U0001F504!"
+    punishmentExamples:
+      - "159985870458322944 |-| Pune o usuário pelo ID"
+      - "213466096718708737 Quebrar as regras do servidor |-| Pune o usuário pelo ID e com um motivo"
+      - "271394014358405121 270904126974590976 234395307759108106 Quebrar as regras do servidor |-| Pune vários usuários pelo ID e com um motivo"
+      - "172002275412279296 Quebrar as regras do servidor | f |-| Pune o usuário pelo ID, com um motivo e não pede a confirmação da punição"
+      - "235148962103951360 Quebrar as regras do servidor | s |-| Pune o usuário pelo ID, com um motivo e não notifica a punição"
     reports:
       pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
       raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
@@ -125,7 +131,10 @@ commands:
     say:
       description: "Faça eu falar alguma coisa!"
       examples:
-        - 'Eu sou fofa! ;3'
+        - "A Loritta é muito bonita! |-| Envia uma mensagem no canal no qual o comando foi executado, e obrigada por me chamar de bonita!"
+        - "#bate-papo Olá mundo! |-| Envia uma mensagem no canal que foi mencionado"
+        - "297732013006389252 Olá mundo! |-| Envia uma mensagem em outro canal pelo ID do canal"
+        - "{ \"embed\": { \"description\": \"Olá mundo\", \"color\": -16727585 } } |-| Envia uma mensagem com embed usando o código JSON do embed"
       messageSentBy: "Mensagem enviada por {0}"
       messageSuccessfullySent: "Mensagem enviada no {0} com sucesso!"
       iDontHavePermissionToTalkIn: "Eu não tenho permissão para falar no {0}!"
@@ -133,6 +142,10 @@ commands:
       cannotBeUsedIn: "Comandos não podem ser utilizados no {0}!"
     slowmode:
       description: "Ativa o \"modo lento\" no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
+      examples:
+        - "5 |-| Altera o modo lento do chat para 5 segundos"
+        - "3 |-| Altera o modo lento do chat para 3 segundos, mostrando que é possível alterar o tempo para algo que não é possível colocar pelo Discord"
+        - "69 |-| Altera o modo lento do chat para 69 segundos (nice)"
       enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
       disabledInChannel: "{0} não está mais no modo lento!"
     rolecommands-moderation: "Pega o ID de um cargo do Discord"
