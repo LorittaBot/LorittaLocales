@@ -93,9 +93,11 @@ commands:
     lock:
       description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
       denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
+      channelAlreadyIsLocked: "Este canal já está bloqueado! Use `{0}unlock` para destravar!"
     unlock:
       description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
       allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
+      channelAlreadyIsUnlocked: "Este canal já está desbloqueado! Use `{0}lock` para travar!"
     unmute:
       description: "Remove o silenciamento de um usuário do seu servidor"
       punishAction: "Retirado o Silenciamento"
