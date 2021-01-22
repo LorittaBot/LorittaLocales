@@ -181,7 +181,12 @@ commands:
         - "ter votado no Bolsonaro"
         - "ter votado no Haddad"
     hungergames:
-      description: "Cria uma simulação personalizada de BrantSteele Hunger Games com os usuários que você escolher, sem você precisar ficar copiando e salvando avatar de cada pessoa só para colocar no simulador! Você precisa incluir 24 pessoas para poder iniciar a simulação, caso você não inclua pessoas suficientes, usuários aleatórios do servidor serão incluidos."
+      description: "Cria uma simulação personalizada de BrantSteele Hunger Games com os usuários que você escolher, sem você precisar ficar copiando e salvando avatar de cada pessoa só para colocar no simulador! Você precisa incluir 24 pessoas para poder iniciar a simulação, caso você não inclua pessoas suficientes, usuários aleatórios do servidor serão incluidos. Que a sorte esteja sempre ao seu favor!"
+      examples:
+        - "|-| Cria uma simulação com 24 pessoas aleatórias do servidor"
+        - "@Loritta |-| Cria uma simulação com a pessoa mais charmosa que você já viu e com mais 23 pessoas aleatórias do servidor"
+        - "297153970613387264 123170274651668480 |-| Cria uma simulação com dois usuários pelo ID e com mais 22 pessoas aleatórias do servidor"
+        - "297153970613387264 481282441294905344 270904126974590976 155149108183695360 294882584201003009 234395307759108106 424606447867789312 595445930677895188 213466096718708737 159985870458322944 160105994217586689 432610292342587392 640593174171090984 201503408652419073 239631525350604801 271394014358405121 172002275412279296 292953664492929025 469610550159212554 235088799074484224 276060004262477825 547905866255433758 235148962103951360 365975655608745985 |-| Cria uma simulação com 24 usuários pelo ID... Um Hunger Games apenas de bots! E é claro que eu irei ganhar!"
       simulationCreated: "Simulação de Hunger Games criada! Boa sorte aos jogadores na simulação. {0}"
       doesntHaveEnoughUsers: "Não encontrei usuários suficientes para criar a simulação... Tente mencionar os usuários que irão participar da simulação. Ah, e não se esqueça que precisa de 24 pessoas diferentes para criar a simulação!"
     bembolada:

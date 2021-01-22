@@ -1,6 +1,18 @@
 commands:
   minecraft:
     unknownPlayer: "`{0}` não é um player válido!"
+    skinPlayerNameExamples:
+      - "Loritta |-| Usa a skin da pessoa mais bela que existe!"
+      - "MrPowerGamerBR |-| Usa a skin da conta \"MrPowerGamerBR\""
+      - "yNilzinha_ |-| Usa a skin da conta \"yNilzinha_\""
+      - "Monerk |-| Usa a skin da conta \"Monerk\", a skin do Monark. Ponte ponte!"
+      - "JackSucksAtLife |-| Usa a skin da conta \"JackSucksAtLife\""
+    playerNameExamples:
+      - "Loritta |-| Usa a conta da pessoa mais majestosa que existe!"
+      - "PeterStark000 |-| Usa a conta \"PeterStark000\""
+      - "viniccius13 |-| Usa a conta \"viniccius13\""
+      - "AuthenticGames |-| Usa a conta \"AuthenticGames\""
+      - "rezendeevil |-| Usa a conta \"rezendeevil\", a conta do Rezende. Sabia que ele é amigo de uma raposa?"
     mcsign:
       description: "Escreve um texto em uma placa do Minecraft!"
       examples:
@@ -35,6 +47,11 @@ commands:
       testedVersions: "Versões Testadas"
     mcadvancement:
       description: "Crie uma conquista do Minecraft!"
+      examples:
+        - "@Loritta Ser uma visionária! |-| Edição com o avatar mais fofo que você já viu, e obrigada pelo elogio!"
+        - "287894637165936640 Adicionei um bot! |-| Edição com o avatar de um usuário pelo ID"
+        - "https://i.imgur.com/jxiRrNN.png Usei uma imagem no comando! |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+        - "🍞 Comi um pão hoje! |-| Edição com a imagem do emoji, demonstrando como você ama pão"
       advancementMade: "Progresso Feito!"
     mcstatus:
       description: "Verifica se os servidores da Mojang estão online"

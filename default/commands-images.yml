@@ -9,7 +9,7 @@ commands:
     twoImagesExamples:
       - "@Mantaro @Loritta |-| Edição com os avatares mais fofos que você já viu!"
       - "123170274651668480 297153970613387264 |-| Edição com os avatares de usuários pelo ID"
-      - "https://i.imgur.com/UglkKMD.png https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites \"seguros\"!)"
+      - "https://i.imgur.com/UglkKMD.png https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
       - "🍮 🍞 |-| Edição com as imagens de emojis"
     drake:
       description: "Crie um meme do Drake com dois usuários da sua guild!"
@@ -20,7 +20,12 @@ commands:
     terminator:
       description: "Arte feita por @tonmoh"
       examples:
-        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água"
+        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água |-| Edição com os textos que você inseriu, o \"|\" é usado para separar o texto e tudo que vem antes do \"|\" irá aparecer no topo, enquanto tudo que vem depois do \"|\" irá aparecer em baixo"
+        - "Minha mãe me chamando pra jantar | Eu depois de ter jantado várias no Twitter |-| Edição mostrando a vida de uma tweeteira militante"
+        - "\"lori gostosa eu namoro ela rsrs\" | Lori apenas tentando viver a vida |-| Edição mostrando as crianças de 9 anos que ficam me atazanando"
+        - "Pessoas que dormem sem roupa | Todo mundo na festa do pijama |-| Edição com uma visão nada agradável... ou agradável, dependendo de quem é, rs"
+        - "Eu chegando em casa | Teu pai de calcinha |-| Edição com uma visão nada agradável"
+        - "Esqueleto com arma | Menina embaixo da mesa |-| Edição com um texto bem meta"
     loridrake:
       description: "Crie um meme do Drake, Loritta edition"
     bolsonaro:
@@ -52,20 +57,24 @@ commands:
     drawnword:
       description: "eU sO crianSA i escRevO coIsas ToSCas"
       examples:
-        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ"
+        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ |-| Edição com o texto, imitando uma criansa de 6 anus"
     drawnmasksign:
       description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
     atendente:
       description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
       examples:
-        - "Pega a Vassoura."
-        - "É Drawn Mask e não Draum Mésqui"
+        - "Pega a Vassoura. |-| Edição com o texto, sabia que esse era o texto original na imagem que o Drawn Mask fez, e é uma referência a Tropa de Elite?"
+        - "É Drawn Mask e não Draum Mésqui |-| Edição com o texto, confirmando como é a escrita correta de \"Drawn Mask\""
     canelladvd:
       description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
     tobecontinued:
       description: "*Você começa a escutar Roundabout tocando no fundo*"
     emojimashup:
       description: "Combine e misture os emojis padrões do Discord para formar novos emojis jamais vistos antes! Atualmente apenas smileys e alguns outros emojis suportados, mas mesmo assim as possibilidades são praticamente infinitas!"
+      examples:
+        - "😎 😂 |-| Faz mashup com dois emojis, usando os olhos do primeiro emoji e a boca do segundo emoji"
+        - "🤠 😭 😎 |-| Faz mashup com três emojis, usando a base do primeiro emoji, olhos do segundo emoji e a boca do terceiro emoji"
+        - "💩 🤑 😘 😅 |-| Faz mashup com quatro emojis, usando a base do primeiro emoji, olhos do segundo emoji, boca do terceiro emoji e detalhes do quarto emoji"
       invalidEmoji: "Emoji `{0}` inválido! Se for realmente um emoji, eu provavelmente ainda não recortei o emoji para que possa fazer aquela colagem marota com ele... mas talvez em breve você poderá utilizar esse emoji em suas misturas incríveis!"
       invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."
     buckshirt:
@@ -97,6 +106,11 @@ commands:
           FEMALE: "VOCÊ"
     ascii:
       description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
+      examples:
+        - "@Loritta |-| Edição com o avatar mais fofo que você já viu!"
+        - "123231508625489920 colorize |-| Edição com o avatar de um usuário pelo ID, o resultado será colorido"
+        - "272031079001620490 dither |-| Edição com o avatar de um usuário pelo ID, o resultado terá dithering"
+        - "123231508625489920 colorize dither |-| Edição com o avatar de um usuário pelo ID, o resultado será colorido e terá dithering"
     morrepraga:
       description: "MORRE PRAGA"
       topText: "Morre"
@@ -128,6 +142,10 @@ commands:
       friendWith: "A amizade com {0}"
     maniatitlecard:
       description: "Crie um title card do Sonic Mania!"
+      examples:
+        - "Palmtree Panic |-| Cria um title card escrito \"Palmtree Panic\""
+        - "Friend |-| Cria um title card escrito \"Friend\"... que aí vira \"Friendzone\"! Perfeito para quando a cremosa te deixa"
+        - "Loritta | Headquarters |-| Cria um title card escrito \"Loritta Headquarters\", o \"|\" é usado para pular a linha no title card"
     carlyaaah:
       description: "\"A gente perdeu o iCarly.com e alguém já comprou... a pessoa que comprou se chama \"Amanda Valdez\"\""
     petpet:
@@ -138,6 +156,12 @@ commands:
       description: "Faça uma imagem do Ednaldo Pereira mostrando algo maravilhoso em sua bandeira!"
     cortesflow:
       description: "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
+      examples:
+        - "|-| Mostra todas as thumbnails disponíveis para você usar no comando"
+        - "monark-stop \"adm mandou parar de fazer baderna\" |-| Edição com a thumbnail \"monark-stop\" com o texto \"adm mandou parar de fazer baderna\""
+        - "monark-discussion \"ééééééééé eu discordo\" |-| Edição com a thumbnail \"monark-discussion\", simulando como é o Monark no Flow"
+        - "igor-angry \"caralho\" |-| Edição com a thumbnail \"igor-angry\", simulando como é o Igor3k no Flow"
+        - "mitico-succ \"Topo tudo por sonhos\" |-| Edição com a thumbnail \"mitico-succ\" com o texto \"Topo tudo por sonhos\""
       embedTitle: "Gerador de Thumbnails do Cortes do Flow"
       embedDescription:
         - "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
@@ -155,6 +179,9 @@ commands:
       file: "doge_vida.png"
     friends:
       description: "Obrigado por serem **VOCÊ NÃO** os melhores amigos de todos!"
+      examples:
+        - "|-| Edição com 6 pessoas aleatórias do servidor"
+        - "297153970613387264 390927821997998081 481901252007952385 270904126974590976 802161969238376468 271394014358405121 159985870458322944 213466096718708737 234395307759108106 |-| Edição com o avatar de usuários pelo ID"
     cepo:
       description: "Destrua alguém no estilo Gugu Gaiteiro!"
     contentawarescale:
@@ -165,10 +192,14 @@ commands:
       description: "Coloca alguém em uma pesquisa do Google sobre \"Deus\""
     gods:
       description: "Caralho, olha os Deuses mano!"
+      examples:
+        - "Quando você é nível 4 e vê pessoas de nível 100 jogando |-| Edição com o texto \"Quando você é nível 4 e vê pessoas de nível 100 jogando\""
     discordping:
       description: "Mostre a sua reação quando você recebe uma notificação inútil do Discord!"
     gang:
-      description: "Gangue da quebrada"
+      description: "\"Lá vem o Chaves, Chaves, Chaves. Se não tá atento a sua bombeta vai perder, héééé\". Faça uma edição com os seus amigos da quebrada! Vídeo original: https://youtu.be/ihGgl62B0Xo"
+      examples:
+        - "297153970613387264 159985870458322944 155149108183695360 270904126974590976 213466096718708737 |-| Edição com os avatares de usuários pelo ID. Essa é a nossa gangue da quebrada! Okay, na verdade é a gangue dos bots..."
     gumballliftup:
       description: "Sabe o que eu faço quando me sinto para baixo?"
       subtitle1: "Sabe o que eu faço quando me sinto para baixo?"
@@ -181,24 +212,39 @@ commands:
       description: "Crie um meme do Laranjo!"
     lava:
       description: "O chão é...? Decida o que você quiser!"
+      examples:
+        - "@Loritta são bots indecentes |-| Edição com o avatar mais lindo que você já viu e com o texto \"O chão são bots indecentes\". Afinal, eu sou um bot lindo com coisas lindas!"
+        - "395935916952256523 são bots que gostam de baderna |-| Edição com o avatar de um usuário pelo ID e com o texto \"O chão são bots que gostam de baderna\""
+        - "270904126974590976 são memes bons |-| Edição com o avatar de um usuário pelo ID e com o texto \"O chão são memes bons\""
     reverselava:
       description: "O chão é...? Decida o que você quiser!"
+      examples:
+        - "@Loritta são oportunidades de se enaltecer |-| Edição com o avatar mais magnífico que você já viu e com o texto \"O chão são oportunidades de se enaltecer\""
+        - "390927821997998081 são amigos da Loritta |-| Edição com o avatar de um usuário pelo ID e com o texto \"são amigos da Loritta\""        
     forgive:
       description: "Um monstro desses merece perdão?"
     perfect:
       description: "Será que \"Nada é perfeito\" mesmo?"
     firstwords:
       description: "Ai meu deus... as primeiras palavras do bebê!"
+      examples:
+        - "Lorrita |-| Eu irei gerar a imagem com a palavra \"Lorrita\". A propósito, quem é essa impostora?"
+        - "abacaxi é bom na pizza |-| Eu irei gerar a imagem com a frase \"abacaxi é bom na pizza\""
     reasons:
       description: "Qual é a sua razão para viver?"
     swing:
       description: "Acerte alguém com uma marreta!\n\nAnimação original por CptNameless"
     everygrouphas:
       description: "Todo grupo tem..."
+      examples:
+      - "@MrPowerGamerBR @Nightdavisao @Arth @Kaike Carlos @DanielaGC_ @hechfx |-| Edição com os avatares de usuários pela menção"
       file: "todogrupotem_default.png"
       everygrouphas: "Todo grupo tem..."
     tretanews:
       description: "VOOOOOOOCÊ ESTÁ ASSISTINDO TRETA NEWS ENTÃO VAMOS DIRETO PARA AS NOTÍCIAS"
+      examples:
+        - "@Loritta @Koya |-| Cria um Treta News com as duas pessoas mencionadas (mesmo que eu seja incancelável!)"
+        - "235088799074484224 234395307759108106 |-| Cria um Treta News com dois usuários pelo ID"
       dislikes: "Não Gostei"
       likes: "Gostei"
     triggered:

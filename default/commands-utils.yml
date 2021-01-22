@@ -24,6 +24,10 @@ commands:
       stats: "A palavra `{0}` possui **{1} anagramas diferentes**!"
     colorinfo:
       description: "Veja informações sobre uma cor!"
+      examples:
+        - "89, 45, 161 |-| Mostra as informações sobre a cor em RGB"
+        - "#a36cfd |-| Mostra as informações sobre a cor em hexadecimal"
+        - "-4744728 |-| Mostra as informações sobre a cor em decimal"
       shades: "Tons"
       tints: "Matizes"
       triadic: "Triádica"
@@ -54,9 +58,6 @@ commands:
         - "sha256 Loritta é muito fofa! |-| Criptografa \"Loritta é muito fofa!\" em SHA256"
       originalText: "Texto Original"
       encodedText: "Texto Codificado"
-    knowyourmeme:
-      description: "Procura um meme no KnowYourMeme"
-      noDescription: "Sem descrição..."
     money:
       description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
       examples:
@@ -81,6 +82,9 @@ commands:
       couldntFind: "Não encontrei o objeto `{0}` no banco de dados do Correios!"
     weather:
       description: "Verifique a temperatura de uma cidade!"
+      examples:
+        - "São Paulo |-| Mostra o clima da cidade de São Paulo"
+        - "New York |-| Mostra o clima da cidade de Nova Iorque"
       forecastFor: "Previsão do tempo para {0}, {1}"
       temperature: "Temperatura"
       humidity: "Umidade"
@@ -92,7 +96,13 @@ commands:
       couldntFind: "Não encontrei nenhuma cidade chamada `{0}`!"
     translate:
       description: "Traduz uma frase para outra linguagem"
+      examples:
+        - "pt I love pudding |-| Traduz a frase em Inglês para Português"
+        - "en Eu amo pudim |-| Traduz a frase em Português para Inglês"
     wikipedia:
       description: "Mostra uma versão resumida de uma página do Wikipedia"
+      examples:
+        - "Pudim |-| Mostra a página da Wikipédia sobre Pudim"
+        - "[en] Pudding |-| Mostra a página em inglês da Wikipédia sobre Pudim"
       couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
       invalidLanguage: "Você não colocou uma linguagem válida do Wikipedia! **Linguagens:** {0}"

@@ -54,6 +54,9 @@ commands:
       disabledNotifications: "Você desativou as notificações de level up via mensagem direta!"
     repList:
       description: "Veja as suas reputações enviadas ou recebidas!"
+      examples:
+        - "@Loritta |-| Mostra a lista das reputações que a pessoa mais colega do Discord! Deve ser por isso que eu tenho tantas reputações..."
+        - "276060004262477825 |-| Mostra a lista de reputações de um usuário pelo ID"
       title: "Histórico de Reputações"
       otherUserRepList: "Histórico de Reputações de {0}"
       noReps: "Nenhuma reputação enviada ou recebida para poder aparecer aqui..."

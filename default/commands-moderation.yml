@@ -16,11 +16,12 @@ commands:
     skipConfirmationTip: "Cansado de confirmar as suas punições? Então use {0} para burlar as confirmações de punições, para que você possa sentir a satisfação de banir aquele usuário chato enquanto ele está digitando um textão para te xingar!"
     setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no \U0001F504!"
     punishmentExamples:
-      - "159985870458322944 |-| Pune o usuário pelo ID"
-      - "213466096718708737 Quebrar as regras do servidor |-| Pune o usuário pelo ID e com um motivo"
-      - "271394014358405121 270904126974590976 234395307759108106 Quebrar as regras do servidor |-| Pune vários usuários pelo ID e com um motivo"
-      - "172002275412279296 Quebrar as regras do servidor | f |-| Pune o usuário pelo ID, com um motivo e não pede a confirmação da punição"
-      - "235148962103951360 Quebrar as regras do servidor | s |-| Pune o usuário pelo ID, com um motivo e não notifica a punição"
+      - "@Loritta |-| Pune um usuário pela menção... só não me puna, okay? ;w;"
+      - "159985870458322943 |-| Pune o usuário pelo ID"
+      - "213466096718708736 Quebrar as regras do servidor |-| Pune o usuário pelo ID e com um motivo"
+      - "271394014358405120 270904126974590975 234395307759108105 Quebrar as regras do servidor |-| Pune vários usuários pelo ID e com um motivo"
+      - "172002275412279295 Quebrar as regras do servidor | f |-| Pune o usuário pelo ID, com um motivo e não pede a confirmação da punição"
+      - "235148962103951361 Quebrar as regras do servidor | s |-| Pune o usuário pelo ID, com um motivo e não notifica a punição"
     reports:
       pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
       raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
@@ -35,6 +36,8 @@ commands:
       randomReason: "Algum motivo bastante aleatório"
     baninfo:
       description: "Veja o banimento do usuário!"
+      examples:
+        - "213466096718708737 |-| Mostra as informações do banimento de um meliante pelo ID"
       title: "Informações do Banimento"
       user: "Usuário Banido"
       reason: "Motivo"
@@ -61,6 +64,13 @@ commands:
       punishName: "avisar"
     unwarn:
       description: "Remove um aviso de um usuário do seu servidor"
+      examples:
+        - "@Loritta |-| Remove o último aviso do usuário pela menção... então, eu espero que você não tenha me avisado para precisar usar o unwarn em mim!"
+        - "437808476106784770 |-| Remove o último aviso do usuário pelo ID"
+        - "395788326835322882 3 |-| Remove um aviso em específico (no caso, o terceiro warn) do usuário"
+        - "716390085896962058 Se arrepender e aprender com seus erros |-| Remove o último aviso  do usuário pelo ID e com um motivo"
+        - "272031079001620490 Se arrepender e aprender com seus erros | f |-| Remove o último aviso do usuário pelo ID, com um motivo e não pede a confirmação da punição"
+        - "214486492909666305 Se arrepender e aprender com seus erros | s |-| Remove o último aviso do usuário pelo ID, com um motivo e não notifica a punição"
       punishAction: Retirado um Aviso
       punishName: "retirar um aviso"
       noWarnsFound: "O usuário não possui nenhum aviso para você remover! Psiu, sabia que você pode ver a lista de avisos de um usuário com {0}?"
@@ -68,6 +78,9 @@ commands:
       warnRemoved: "Prontinho, o usuário teve um aviso removido! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
     warnlist:
       description: "Mostra os avisos que um usuário possui"
+      examples:
+        - "@Loritta |-| Mostra os avisos do usuário pela menção, mas é claro que você não vai encontrar avisos em mim, eu sou educada demais para quebrar regras!"
+        - "116275390695079945 |-| Mostra os avisos do usuário pelo ID"
       common: "Aviso"
       title: "Lista de Avisos"
       userDoesntHaveWarns: "{0} não possui avisos!"
@@ -75,8 +88,16 @@ commands:
       date: "Data"
     dashboard:
       description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
+      examples:
+        - "|-| Envia o link o painel da Loritta e, se você tiver permissão para acessar o painel, irá enviar o link para acessar o painel do seu servidor"
+        - "🙅 |-| Envia o link do painel da Loritta independentemente se você possui permissão ou não"
     renamechannel:
       description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
+      examples:
+        - "#general bate-papo |-| Renomeia o canal pela menção"
+        - "297732013006389252 bate-papo |-| Renomeia o canal pelo ID"
+        - "lorota-pantufa lorota & pantufa |-| Renomeia o canal pelo nome dele, espaços serão substituidos por \"-\""
+        - "bate-papo 😎|bate-papo |-| Renomeia o canal pelo nome dele"
       successfullyRenamed: "Canal renomeado com sucesso!"
       channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
       channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de can al!"
@@ -98,6 +119,13 @@ commands:
       allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
     unmute:
       description: "Remove o silenciamento de um usuário do seu servidor"
+      examples:
+        - "@Loritta |-| Remove o silenciamento pela menção... mas porque você me mutou?"
+        - "159985870458322944 |-| Remove o silenciamento do usuário pelo ID"
+        - "213466096718708737 Se arrepender e aprender com seus erros |-| Remove o silenciamento do usuário pelo ID e com um motivo"
+        - "271394014358405121 270904126974590976 234395307759108106 Se arrepender e aprender com seus erros |-| Remove o silenciamento de vários usuários pelo ID e com um motivo"
+        - "172002275412279296 Se arrepender e aprender com seus erros | f |-| Remove o silenciamento do usuário pelo ID, com um motivo e não pede a confirmação da punição"
+        - "235148962103951360 Se arrepender e aprender com seus erros | s |-| Remove o silenciamento do usuário pelo ID, com um motivo e não notifica a punição"
       punishAction: "Retirado o Silenciamento"
       punishName: "remover o silenciamento"
       successfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"

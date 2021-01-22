@@ -1,5 +1,12 @@
 commands:
   fortnite:
+    itemsExamples:
+      - "Tsuki |-| Usa a \"Tsuki\" no comando, sabia que a Tsuki é um robô igual eu? Já a parte de ser uma estudante com roupa de colégio japonês eu não sei..."
+      - "Glow |-| Usa a \"Glow\" no comando"
+      - "Savor the W |-| Usa o \"Savor the W\" no comando"
+      - "Andarilho |-| Usa o \"Andarilho\" no comando"
+      - "Avião de Papel |-| Usa o \"Avião de Papel\" no comando"
+      - "CID_693_Athena_Commando_M_BuffCat |-| Usa o item com ID no comando, no caso esse ID é o desejo secreto de como um furry queria ser na vida real"
     shop:
       featuredItems: "Itens em Destaque"
       dailyItems: "Itens Diários"
@@ -32,6 +39,10 @@ commands:
       howToAddOrRemoveCommand: "{0}fnnotify Nome do Item"
     stats:
       description: "Mostra os stats de um jogador do Fortnite: Battle Royale"
+      examples:
+        - "MrPowerGamerBR |-| Mostra os stats da conta \"MrPowerGamerBR\""
+        - "Ninja |-| Mostra os stats da conta \"Ninja\". Ponpon dashite shimaeba ii no, zenzen shinai no tsumaranai desho~ ♫"
+        - "SypherPK |-| Mostra os stats da conta \"SypherPK\". Você já viu o livro de \"How to Win\" dele?"
       unknownPlayer: "Eu não encontrei nada chamado {0} no Fortnite... Lembre-se, você precisa colocar o nome do usuário da Epic Games, e não o nome da Xbox Live, PlayStation Network, entre outros."
       wins: "Vitórias"
       killDeathRatio: "K/D"

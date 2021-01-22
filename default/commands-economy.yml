@@ -95,6 +95,9 @@ commands:
       sellDisallowedWarning: "**Não se esqueça:** É proibido o comércio de produtos que possuem valores reais (Nitro, dinheiro real, invites, conteúdo ilegal/NSFW, etc) por sonhos, você será banido de usar a Loritta caso faça! Veja todas as regras em <{0}>. Não se esqueça que, ao aceitar a transação, você não conseguirá pedir os sonhos de volta e a equipe não irá te ajudar a pegar eles de volta, então apenas envie sonhos para pessoas confiáveis!"
     flipcoinbet:
       description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
+      examples:
+        - "@Loritta 1337 |-| Aposta 1337 sonhos com a pessoa mais otimista que você já conheceu! Não chore se perder, ok?"
+        - "351760430991147010 100 |-| Aposta 100 sonhos com um usuário pelo ID"
       startBet: "{0}, {1} quer fazer uma aposta com você! Cada um irá pagar **{5} sonhos ({6} sonhos de taxa para jogar rs)**. Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
       startBetNoTax: "{0}, {1} quer fazer uma aposta com você! Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! Como {5} é um usuário premium recomendado, essa daqui vai por conta da casa, sem nenhuma taxa! E aí, vai encarar?"
       clickToAcceptTheBet: "Para confirmar a aposta, você e {0} devem clicar em {1}!"
@@ -174,6 +177,9 @@ commands:
         multiple: "sonhos"
     guessnumber:
       description: "Chute um número de 1 até 10, se for o número que eu estou pensando, eu irei te recompensar com sonhos! Mas se você perder... aí você que terá que me dar sonhos."
+      examples:
+        - "10 |-| Chuta o número 10, será que você irá acertar o chute?"
+        - "3 |-| Chuta o número 3, será que você conseguirá adivinhar corretamente o número?"
       youWin: "Parabéns, você acertou o número que eu estava pensando! Como recompensa, eu te **dei {0} sonhos**!"
       notEnoughSonhos: "Você não tem sonhos suficientes para adivinhar um número!"
       youLose:
@@ -201,6 +207,9 @@ commands:
       needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
     emojifightbet:
       description: "Faça uma rinha de emojis com os seus amigos valendo sonhos, o emoji mais forte ganha a rinha!"
+      examples:
+        - "100 |-| Aposta 100 sonhos na rinha, todos os usuários terão que pagar 100 sonhos para entrar na rinha"
+        - "2500 |-| Aposta 2500 sonhos na rinha, todos os usuários terão que pagar 2500 sonhos para entrar na rinha"
       fightDescription:
         - "**Preço para participar da rinha:** {0} sonhos"
         - "**Prêmio:** {1} sonhos"
@@ -210,6 +219,10 @@ commands:
       wonBet: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** e os {4} perdedores perderam {5} sonhos!"
     flipcoinbetstats:
       description: "Veja estatísticas de pessoas que apostam sonhos girando uma moeda, e ainda por cima receba um sermão falando que é bom aprender sobre probabilidade e estatística e que não existe jeito de bugar para ganhar!"
+      examples:
+        - "|-| Visualiza as suas estatísticas de apostas de giro de moedas"
+        - "@Loritta |-| Visualiza as estatísticas de apostas de giro de moedas da pessoa mais sortuda que já apostou!"
+        - "236167700777271297 |-| Visualiza as estatísticas de apostas de giro de moedas de um usuário pelo ID"
       yourStats: "**Suas Estatísticas**"
       statsOfUser: "**Estatísticas de {0}**"
       playedMatches: "**Partidas Jogadas:** {0}"
