@@ -23,6 +23,7 @@ commands:
     undertale:
       name: "Undertale"
       description:
+        - "You're gonna have a bad time."
         - "Comandos relacionados ao Undertale"
     roblox:
       name: "ROBLOX"
@@ -48,7 +49,7 @@ commands:
     admin:
       name: "Administração"
       description:
-        - "Comandos para facilitar a sua vida de moderador em seus servidores/guilds!"
+        - "Comandos para facilitar a sua vida de moderador em seus servidores!"
     utils:
       name: "Utilitários"
       description:
@@ -64,7 +65,8 @@ commands:
     action:
       name: "Ações"
       description:
-        - "Beijos, tapas, abraços e carinhos! Está com dificuldade de demonstrar o que você realmente está sentindo e precisa de uma GIF para ajudar? Sem problemas, eu tenho uma pasta reservada para todas as ações que você deseja executar no chat!"
+        - "Beijos, tapas, abraços e carinhos!"
+        - "Está com dificuldade para expressar o que você realmente está sentido e precisa de uma GIF para ajudar? Sem problemas, eu tenho uma pasta reservada  para todas as ações que você deseja executar no chat!"
     magic:
       name: "Mágica"
       description:

@@ -178,4 +178,3 @@ commands:
         - "69 |-| Altera o modo lento do chat para 69 segundos (nice)"
       enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
       disabledInChannel: "{0} não está mais no modo lento!"
-    rolecommands-moderation: "Pega o ID de um cargo do Discord"
