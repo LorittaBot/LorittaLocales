@@ -33,6 +33,8 @@ commands:
   loriMissingPermissionCanConfigure: "Você pode adicionar a permissão necessária para usar este comando no meu painel! <{0}dashboard/>"
   cantUseInPrivate: "Você não pode usar este comando em mensagens privadas!"
   lorittaBadNickname: "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!"
+  commandAlreadyBeingExecutedInGuild: "Opa, parece que alguém executou o comando mas eu ainda não acabei de executar ele! Como ele é pesado, espere acabar a execução do outro usuário para você poder usar! Desculpe pela inconveniência..."
+  youNeedToGetDailyRewardBeforeDoingThisAction: "Então... Sei que é chato, mas você precisa pegar o seu prêmio diário de hoje antes de poder continuar! `{0}daily`"
   arguments:
     text: "texto"
     number: "número"

@@ -146,8 +146,6 @@ commands:
         - "Palmtree Panic |-| Cria um title card escrito \"Palmtree Panic\""
         - "Friend |-| Cria um title card escrito \"Friend\"... que aí vira \"Friendzone\"! Perfeito para quando a cremosa te deixa"
         - "Loritta | Headquarters |-| Cria um title card escrito \"Loritta Headquarters\", o \"|\" é usado para pular a linha no title card"
-    carlyaaah:
-      description: "\"A gente perdeu o iCarly.com e alguém já comprou... a pessoa que comprou se chama \"Amanda Valdez\"\""
     petpet:
       description: "Faça cafuné em uma imagem"
     ednaldotv:
@@ -255,5 +253,3 @@ commands:
       description: "Crie um texto bonito e supimpa! Fontes disponíveis: {0}"
     riptv:
       description: "Eis que você está pistola com algo que está na sua TV, e você tem a vontade de atirar na tela para ver se resolve o problema"
-    attackonheart:
-      description: "Faça um vídeo do Erwin se assustando com uma imagem de sua preferência!"
