@@ -22,3 +22,6 @@ commands:
       followers: "Seguidores"
       friends: "Amigos"
       favoriteGames: "Jogos Favoritos"
+      examples:
+        - "cazum8"
+        - "lol738236"
