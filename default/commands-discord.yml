@@ -55,6 +55,14 @@ commands:
       emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
       emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
       renameSucess: "Emoji renomeado!"
+    emojiinfo:
+      description: "Mostra as informações de um emoji"
+      aboutEmoji: "Sobre o Emoji"
+      emojiName: "Nome do Emoji"
+      emojiId: "ID do Emoji"
+      mention: "Menção"
+      emojiCreated: "Criado há"
+      seenAt: "Avistado em"
     guildbanner:
       description: "Mostra o banner utilizado em cima dos canais de texto do servidor atual"
       noBanner: "Esse servidor não tem banner!"

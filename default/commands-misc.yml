@@ -42,3 +42,7 @@ commands:
       result: "Eu escolhi `{0}`!"
     ping:
       description: "Um comando de teste para ver se eu estou funcionando, recomendo que você deixe isto ligado para testar!"
+    fanArts:
+      description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
+      madeBy: "Fan Art feita por {0}"
+      thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
