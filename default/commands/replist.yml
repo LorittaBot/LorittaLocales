@@ -1,0 +1,13 @@
+description: "Veja as suas reputações enviadas ou recebidas!"
+examples:
+- "@Loritta |-| Mostra a lista das reputações que a pessoa mais colega do Discord! Deve ser por isso que eu tenho tantas reputações..."
+- "276060004262477825 |-| Mostra a lista de reputações de um usuário pelo ID"
+noReps: "Nenhuma reputação enviada ou recebida para poder aparecer aqui..."
+otherUserRepList: "Histórico de Reputações de {0}"
+receivedReputation: "Reputação recebida de {0}"
+receivedReputationByLoritta: "{0} foi uma pessoa incrível e ganhou uma reputação minha!"
+receivedReputationWithContent: "Reputação recebida de {0} com a mensagem: {1}"
+reputationsTotalDescription: "Total de {0} reputações recebidas e {1} reputações enviadas"
+sentReputation: "Reputação enviada para {0}"
+sentReputationWithContent: "Reputação enviada para {0} com a mensagem: {1}"
+title: "Histórico de Reputações"

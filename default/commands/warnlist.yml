@@ -1,0 +1,9 @@
+common: "Aviso"
+date: "Data"
+description: "Mostra os avisos que um usuário possui"
+examples:
+- "@Loritta |-| Mostra os avisos do usuário pela menção, mas é claro que você não vai encontrar avisos em mim, eu sou educada demais para quebrar regras!"
+- "116275390695079945 |-| Mostra os avisos do usuário pelo ID"
+nextPunishment: "No próximo aviso, o usuário será {0}!"
+title: "Lista de Avisos"
+userDoesntHaveWarns: "{0} não possui avisos!"

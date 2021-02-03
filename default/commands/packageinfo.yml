@@ -1,0 +1,2 @@
+couldntFind: "Não encontrei o objeto `{0}` no banco de dados do Correios!"
+description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"

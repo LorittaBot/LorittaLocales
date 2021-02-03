@@ -1,0 +1,3 @@
+channelAlreadyIsLocked: "Este canal já está bloqueado! Use `{0}unlock` para destravar!"
+denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
+description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"

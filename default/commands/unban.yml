@@ -1,0 +1,9 @@
+description: "Retira o ban de um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+examples:
+- "159985870458322944"
+- "159985870458322944 Pediu desculpas pelo o que aconteceu, e prometeu que o que aconteceu não irá se repetir."
+- "395935916952256523 Bani sem querer, desculpa!"
+punishAction: "Desbanido"
+punishName: "desbanir"
+successfullyUnbanned: "Prontinho, o usuário foi desbanido! Só espero que ele não quebre as regras novamente."
+userIsInTheGuild: "Eu sei que é muito bom ter aquele sentimento alegre que você tem quando você desbane alguém, mas... o usuário que você tentou desbanir já está no servidor!"

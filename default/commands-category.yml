@@ -1,72 +1,152 @@
+# This file stores all the locales related to command categories (names and descriptions) and locale keys used by multiple commands in the category 
 commands:
   category:
     fun:
       name: "Diversão"
       description:
         - "Quer um pouco de entreterimento? Quer animar o chat do seu servidor com várias coisas engraçadas e aleatórias? Então use os comandos de diversão!"
+    
     images:
       name: "Imagens"
       description:
         - "Crie imagens 😂👌🔥🔝 no conforto do seu servidor no Discord! Só não vá sair igual doido querendo criar várias imagens, infelizmente não tenho escravos para ficar criando as imagens no Photoshop rapidamente."
+      singleImageExamples:
+        - "|-| Edição com a imagem mais recente do chat ou, se você responder uma mensagem que possui uma imagem, ela será utilizada"
+        - "@Loritta |-| Edição com o avatar mais fofo que você já viu!"
+        - "123170274651668480 |-| Edição com o avatar de um usuário pelo ID"
+        - "https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+        - "🍮 |-| Edição com a imagem do emoji"
+      twoImagesExamples:
+        - "@Mantaro @Loritta |-| Edição com os avatares mais fofos que você já viu!"
+        - "123170274651668480 297153970613387264 |-| Edição com os avatares de usuários pelo ID"
+        - "https://i.imgur.com/UglkKMD.png https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+        - "🍮 🍞 |-| Edição com as imagens de emojis"
+    
     videos:
       name: "Vídeos"
       description:
         - "Comandos relacionados a Vídeos"
+      unknownPlayer: "`{0}` não é um player válido!"
+      skinPlayerNameExamples:
+        - "Loritta |-| Usa a skin da pessoa mais bela que existe!"
+        - "MrPowerGamerBR |-| Usa a skin da conta \"MrPowerGamerBR\""
+        - "yNilzinha_ |-| Usa a skin da conta \"yNilzinha_\""
+        - "Monerk |-| Usa a skin da conta \"Monerk\", a skin do Monark. Ponte ponte!"
+        - "JackSucksAtLife |-| Usa a skin da conta \"JackSucksAtLife\""
+      playerNameExamples:
+        - "Loritta |-| Usa a conta da pessoa mais majestosa que existe!"
+        - "PeterStark000 |-| Usa a conta \"PeterStark000\""
+        - "viniccius13 |-| Usa a conta \"viniccius13\""
+        - "AuthenticGames |-| Usa a conta \"AuthenticGames\""
+        - "rezendeevil |-| Usa a conta \"rezendeevil\", a conta do Rezende. Sabia que ele é amigo de uma raposa?"
+
     minecraft:
       name: "Minecraft"
       description:
         - "Comandos relacionados ao Minecraft"
+    
     pokemon:
       name: "Pokémon"
       description:
         - "Comandos relacionados ao Pokémon"
+    
     undertale:
       name: "Undertale"
       description:
         - "You're gonna have a bad time."
         - "Comandos relacionados ao Undertale"
+    
     roblox:
       name: "ROBLOX"
       description:
         - "Comandos relacionados ao ROBLOX"
+    
     anime:
       name: "Anime"
       description:
         - "Comandos relacionados a Anime"
+    
     discord:
       name: "Discord"
       description:
         - "Comandos relacionados ao Discord"
+    
     fortnite:
       name: "Fortnite"
       description:
         - "Where are we dropping boys and girls?"
         - "Comandos relacionados ao Fortnite, para você ficar informado sobre a loja, stats e curiosidades enquanto espera o ônibus de batalha partir!"
+      itemsExamples:
+        - "Tsuki |-| Usa a \"Tsuki\" no comando, sabia que a Tsuki é um robô igual eu? Já a parte de ser uma estudante com roupa de colégio japonês eu não sei..."
+        - "Glow |-| Usa a \"Glow\" no comando"
+        - "Savor the W |-| Usa o \"Savor the W\" no comando"
+        - "Andarilho |-| Usa o \"Andarilho\" no comando"
+        - "Avião de Papel |-| Usa o \"Avião de Papel\" no comando"
+        - "CID_693_Athena_Commando_M_BuffCat |-| Usa o item com ID no comando, no caso esse ID é o desejo secreto de como um furry queria ser na vida real"
+    
     misc:
       name: "Miscelânea"
       description:
         - "Comandos que não se encaixam em uma categoria específica"
-    admin:
-      name: "Administração"
+    
+    moderation:
+      name: "Moderação"
       description:
         - "Comandos para facilitar a sua vida de moderador em seus servidores!"
+      youGotPunished: "Você foi {0} de {1}"
+      punishedBy: "Punido por"
+      punishedLog: "Punido por {0} — Motivo: {1}"
+      punishmentReason: "Motivo"
+      cantDeleteMessagesMoreThan7Days: "Desculpe, mas o Discord não me permite deletar mensagens enviadas a mais de 7 dias ao banir um usuário!"
+      cantDeleteMessagesLessThan0Days: "Desculpe, mas é impossível deletar mensagens enviadas a menos de 0 dias! (E como isso funcionaria? As mensagens ainda não enviadas do usuário seriam deletadas no futuro?)"
+      roleTooLow: "Eu não posso punir este usuário, meu cargo é menor que o do usuário a ser punido!"
+      roleTooLowHowToFix: "Para que eu possa punir, suba o meu cargo para o topo na lista de cargos, obrigada!"
+      punisherRoleTooLow: "Você não pode punir este usuário, seu cargo é menor que o do usuário a ser punido!"
+      punisherRoleTooLowHowToFix: "Para que você possa punir, suba o seu cargo para o topo na lista de cargos, obrigada!"
+      successfullyPunished: "Usuário punido. Ninguém mandou quebrar as regras, seu boboca!"
+      readyToPunish: "Você está prestes a {0} {1} (`{2}` – `{3}`) do seu servidor! Para confirmar, clique no ✅"
+      silentTip: "Psiu, querendo punir sem que a vítima receba a punição via mensagem direta e sem que apareça no canal da punições? Então clique no \U0001F64A!"
+      skipConfirmationTip: "Cansado de confirmar as suas punições? Então use {0} para burlar as confirmações de punições, para que você possa sentir a satisfação de banir aquele usuário chato enquanto ele está digitando um textão para te xingar!"
+      setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no \U0001F504!"
+      punishmentExamples:
+        - "@Loritta |-| Pune um usuário pela menção... só não me puna, okay? ;w;"
+        - "159985870458322943 |-| Pune o usuário pelo ID"
+        - "213466096718708736 Quebrar as regras do servidor |-| Pune o usuário pelo ID e com um motivo"
+        - "271394014358405120 270904126974590975 234395307759108105 Quebrar as regras do servidor |-| Pune vários usuários pelo ID e com um motivo"
+        - "172002275412279295 Quebrar as regras do servidor | f |-| Pune o usuário pelo ID, com um motivo e não pede a confirmação da punição"
+        - "235148962103951361 Quebrar as regras do servidor | s |-| Pune o usuário pelo ID, com um motivo e não notifica a punição"
+      reports:
+        pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
+        raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
+        nsfwReport: "Conteúdo NSFW (Conteúdo NSFW em canais normais ou avatares com conteúdo NSFW)"
+        pleaseReportUrl: "https://l.lori.fun/trust-and-safety-br"
+        
     utils:
       name: "Utilitários"
       description:
         - "Comandos úteis para facilitar e agilizar a sua vida!"
+    
     social:
       name: "Social"
       description:
         - "Humanos são criaturas sociáveis e precisam de interação social. E para isto você pode interagir com a sua família, amigos, vizinhos e até mesmo com os membros do seu servidor no Discord. E, acredite, os meus comandos são um ótimo instrumento para interagir com outras pessoas!"
+      youAreNotMarried: "A tua alma ainda não encontrou outra alma para passar o resto da vida com ela... Você só pode usar funcionalidades de pessoas casados após se {0} com alguém! {1}"
+    
     economy:
       name: "Economia"
       description:
         - "Comandos relacionados a minha economia!"
+    
     action:
       name: "Ações"
       description:
         - "Beijos, tapas, abraços e carinhos!"
         - "Está com dificuldade para expressar o que você realmente está sentido e precisa de uma GIF para ajudar? Sem problemas, eu tenho uma pasta reservada  para todas as ações que você deseja executar no chat!"
+      clickToRetribute: "Clique em {0} para retribuir!"
+      examples:
+      - "297153970613387264"
+      - "@MrPowerGamerBR"
+    
     magic:
       name: "Mágica"
       description:

@@ -1,0 +1,4 @@
+description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
+examples:
+- "|-| Envia o link o painel da Loritta e, se você tiver permissão para acessar o painel, irá enviar o link para acessar o painel do seu servidor"
+- "\U0001f645 |-| Envia o link do painel da Loritta independentemente se você possui permissão ou não"

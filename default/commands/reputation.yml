@@ -1,0 +1,9 @@
+description: "Dê reputação para outro usuário!"
+examples:
+- "@Loritta |-| Dá uma reputação para a pessoa que mais merece uma reputação no mundo todo!"
+- "761931447207460864 |-| Dá uma reputação para um usuário pelo ID"
+invalidUser: "Usuário inválido!"
+repSelf: "Você não pode dar reputação para si mesmo, bobinho!"
+reputationLink: "Quase pronto! Para dar a reputação, confirme ela em {0}"
+success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"
+wait: "Você precisa esperar **{0}** antes de poder dar outra reputação!"

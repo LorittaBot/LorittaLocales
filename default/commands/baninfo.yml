@@ -1,0 +1,9 @@
+banDoesNotExist: "Este usuário não está banido!"
+description: "Veja o banimento do usuário!"
+examples:
+- "213466096718708737 |-| Mostra as informações do banimento de um meliante pelo ID"
+noReasonSpecified: "Nenhum motivo informado."
+reason: "Motivo"
+title: "Informações do Banimento"
+user: "Usuário Banido"
+userId: "ID do Usuário"

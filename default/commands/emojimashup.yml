@@ -1,0 +1,7 @@
+description: "Combine e misture os emojis padrões do Discord para formar novos emojis jamais vistos antes! Atualmente apenas smileys e alguns outros emojis suportados, mas mesmo assim as possibilidades são praticamente infinitas!"
+examples:
+- "\U0001f60e \U0001f602 |-| Faz mashup com dois emojis, usando os olhos do primeiro emoji e a boca do segundo emoji"
+- "\U0001f920 \U0001f62d \U0001f60e |-| Faz mashup com três emojis, usando a base do primeiro emoji, olhos do segundo emoji e a boca do terceiro emoji"
+- "\U0001f4a9 \U0001f911 \U0001f618 \U0001f605 |-| Faz mashup com quatro emojis, usando a base do primeiro emoji, olhos do segundo emoji, boca do terceiro emoji e detalhes do quarto emoji"
+invalidEmoji: "Emoji `{0}` inválido! Se for realmente um emoji, eu provavelmente ainda não recortei o emoji para que possa fazer aquela colagem marota com ele... mas talvez em breve você poderá utilizar esse emoji em suas misturas incríveis!"
+invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."

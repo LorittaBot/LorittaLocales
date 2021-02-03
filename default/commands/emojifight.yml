@@ -1,0 +1,10 @@
+description: "Faça uma rinha de emojis com os seus amigos, o emoji mais forte ganha a rinha!"
+fightDescription:
+- "**Preço para participar da rinha:** Nada! É uma rinha apenas para se divertir! {0}"
+- "**Prêmio:** Nada! Se está procurando prêmios, vá em `{1}emojifight bet`"
+- "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
+- "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+fightTitle: "Rinha de Emoji"
+needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
+participants: "Participantes ({0}):"
+wonBet: "O {0} de {1} saiu vitorioso na rinha! Obrigada a todos os emojis que lutaram na rinha, eles agora estão descansando para a próxima rinha!"

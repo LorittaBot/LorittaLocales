@@ -1,0 +1,13 @@
+airPressure: "Pressão do Ar"
+couldntFind: "Não encontrei nenhuma cidade chamada `{0}`!"
+current: "Atual"
+description: "Verifique a temperatura de uma cidade!"
+examples:
+- "São Paulo |-| Mostra o clima da cidade de São Paulo"
+- "New York |-| Mostra o clima da cidade de Nova Iorque"
+forecastFor: "Previsão do tempo para {0}, {1}"
+humidity: "Umidade"
+max: "Máxima"
+min: "Mínima"
+temperature: "Temperatura"
+windSpeed: "Velocidade do Vento"

@@ -1,0 +1,3 @@
+description: "Expulsa um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+punishAction: "Expulso"
+punishName: "expulsar"

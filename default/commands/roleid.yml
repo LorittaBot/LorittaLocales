@@ -1,0 +1,6 @@
+description: "Pega o ID de um cargo do Discord"
+emptyRoles: "Nenhum cargo..."
+examples:
+- "Moderadores"
+identifiers: "IDs dos cargos..."
+rolesThatContains: "Cargos que contém `{0}`..."

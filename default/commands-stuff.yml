@@ -1,0 +1,1816 @@
+    cantDeleteMessagesLessThan0Days: "Desculpe, mas é impossível deletar mensagens enviadas a menos de 0 dias! (E como isso funcionaria? As mensagens ainda não enviadas do usuário seriam deletadas no futuro?)"
+    cantDeleteMessagesMoreThan7Days: "Desculpe, mas o Discord não me permite deletar mensagens enviadas a mais de 7 dias ao banir um usuário!"
+    clickToRetribute: "Clique em {0} para retribuir!"
+    punishedBy: "Punido por"
+    punishedLog: "Punido por {0} — Motivo: {1}"
+    punisherRoleTooLow: "Você não pode punir este usuário, seu cargo é menor que o do usuário a ser punido!"
+    punisherRoleTooLowHowToFix: "Para que você possa punir, suba o seu cargo para o topo na lista de cargos, obrigada!"
+    punishmentReason: "Motivo"
+    readyToPunish: "Você está prestes a {0} {1} (`{2}` – `{3}`) do seu servidor! Para confirmar, clique no ✅"
+    roleTooLow: "Eu não posso punir este usuário, meu cargo é menor que o do usuário a ser punido!"
+    roleTooLowHowToFix: "Para que eu possa punir, suba o meu cargo para o topo na lista de cargos, obrigada!"
+    setPunishmentTime: "Quando você irá querer que eu remova a punição do usuário? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc). Caso você queira que a punição seja permanente, clique no \U0001F504!"
+    silentTip: "Psiu, querendo punir sem que a vítima receba a punição via mensagem direta e sem que apareça no canal da punições? Então clique no \U0001F64A!"
+    skipConfirmationTip: "Cansado de confirmar as suas punições? Então use {0} para burlar as confirmações de punições, para que você possa sentir a satisfação de banir aquele usuário chato enquanto ele está digitando um textão para te xingar!"
+    successfullyPunished: "Usuário punido. Ninguém mandou quebrar as regras, seu boboca!"
+    unknownPlayer: "`{0}` não é um player válido!"
+    youAreNotMarried: "A tua alma ainda não encontrou outra alma para passar o resto da vida com ela... Você só pode usar funcionalidades de pessoas casados após se {0} com alguém! {1}"
+    youGotPunished: "Você foi {0} de {1}"
+    aboutme:
+      description: "Altere o \"Sobre Mim\" no comando de perfil!"
+      examples:
+        - "Eu gosto da Loritta! |-| Altera o seu \"Sobre Mim\" para idolatrar a pessoa mais incrível que existe no universo"
+        - "Olá, eu sou uma pessoa muito legal que gosta de gatinhos fofos |-| Altera o seu \"Sobre Mim\" para algo que não infla o meu ego"
+      changed: "Sua mensagem de perfil foi alterada para `{0}`!"
+
+    addemoji:
+      description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
+      success: "Emoji adicionado com sucesso!"
+      limitReached: "O limite de emojis (50 emojis) já foi batido!"
+      error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
+      emoteTooBig: "O emoji é grande demais! O Discord permite emojis de, no máximo, {0}."
+
+    afk:
+      description: "Irá ficar um tempo longe do teclado? Então ative o modo AFK para que todos saibam que você não poderá responder a mensagem!"
+      examples:
+        - "|-| Marca que você está fora do teclado e, ao te marcarem, irá aparecer que você está AFK"
+        - "almoço |-| Marca que você está fora do teclado e, ao te marcarem, irá aparecer que você está AFK almoçando"
+        - "cagando |-| Marca que você está fora do teclado e, ao te marcarem, irá aparecer que você está AFK cagando... ah, finalmente paz no banheiro!"
+      afkOff: "Modo AFK desativado!"
+      afkOn: "Modo AFK ativado! Para a sua conveniência, o modo AFK será automaticamente desativado quando você falar algo no chat! \U0001F609"
+
+    anagram:
+      description: "Crie um anagrama de uma palavra!"
+      examples:
+        - "Loritta |-| Cria um anagrama usando a palavra \"Loritta\""
+        - "kk eae men |-| Cria um anagrama usando a frase \"kk eae men\""
+        - "Asriel Dreemurr |-| Cria um anagrama usando a frase \"Asriel Dreemurr\""
+      result: "**O seu anagrama é...** `{0}`"
+      stats: "A palavra `{0}` possui **{1} anagramas diferentes**!"
+
+    art:
+      description: "Qual arte extraordinária te anima?"
+
+    ascii:
+      description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
+      examples:
+        - "@Loritta |-| Edição com o avatar mais fofo que você já viu!"
+        - "123231508625489920 colorize |-| Edição com o avatar de um usuário pelo ID, o resultado será colorido"
+        - "272031079001620490 dither |-| Edição com o avatar de um usuário pelo ID, o resultado terá dithering"
+        - "123231508625489920 colorize dither |-| Edição com o avatar de um usuário pelo ID, o resultado será colorido e terá dithering"
+
+    ata:
+      description: "A Mônica viu uma imagem sua e reagiu da melhor maneira possível."
+
+    atendente:
+      description: "O número de pessoas que sacam as referências dos meus comandos, por mais que sejam incrivelmente óbvias e gritantes... é minúsculo. Você sabe quem é, se não sabe, não consegue pegar referências! Escreva algo na bandana da Atendente que sempre aparece nos vídeos do Drawn Mask!"
+      examples:
+        - "Pega a Vassoura. |-| Edição com o texto, sabia que esse era o texto original na imagem que o Drawn Mask fez, e é uma referência a Tropa de Elite?"
+        - "É Drawn Mask e não Draum Mésqui |-| Edição com o texto, confirmando como é a escrita correta de \"Drawn Mask\""
+
+    attack:
+      description: "Use esse comando para atacar alguém"
+      response: "**{0} atacou {1}!**"
+      responseAntiIdiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"
+
+    attackonheart:
+      description: "Faça um vídeo do Reiner Braun se assustando com uma imagem de sua preferência!"
+
+    avatar:
+      description: "Mostra o avatar de um usuário do Discord"
+      examples:
+        - "|-| Mostra o seu próprio avatar"
+        - "@Loritta |-| Mostra o avatar da pessoa mais linda que existe neste mundo!"
+        - "123170274651668480 |-| Mostra o avatar de um usuário pelo ID"
+      clickHere: "Clique [aqui]({0}) para baixar a imagem!"
+      lorittaCute: "Sim, eu sei que eu sou muito fofa!"
+      pantufaCute: "Sim, a Pantufinha também é fofinha. Olha que cute cute iti malia"
+      gabrielaCute: "Sim, a Gabriela também é fofa. As vezes tenho até inveja do style do cabelo dela, é um estilo daora e muito bonito."
+      polluxCute: "Sim, a Pollux também é fofis. Sempre juntas comemorando as nossas conquistas!"
+
+    background:
+      description: "Que tal dar uma renovada no papel de parede do seu perfil?"
+
+    ban:
+      description: "Bane um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+      punishAction: "Banido"
+      punishName: "banir"
+      punishedBy: "Punido por"
+      punishmentReason: "Motivo"
+      randomReason: "Algum motivo bastante aleatório"
+
+    baninfo:
+      description: "Veja o banimento do usuário!"
+      examples:
+        - "213466096718708737 |-| Mostra as informações do banimento de um meliante pelo ID"
+      title: "Informações do Banimento"
+      user: "Usuário Banido"
+      reason: "Motivo"
+      userId: "ID do Usuário"
+      banDoesNotExist: "Este usuário não está banido!"
+      noReasonSpecified: "Nenhum motivo informado."
+
+    bembolada:
+      description: "\"Hai minasan genki deska!\" Diretamente do Loop Infinito para o seu servidor no Discord!\n\nA bem bolada da semana é a seguinte..."
+
+    birthday:
+      description: "Altera a sua data de nascimento"
+      invalidDate: "Data de nascimento inválida! Lembre-se, a data precisa estar no formato `dia/mês/ano`!"
+      invalidDateYearTooOld: "Data de nascimento inválida! Eu dúvido que você tenha nascido nessa data, já tomou os remédios hoje, vovôzinho?"
+      invalidDateYearTooNew: "Data de nascimento inválida! Então... sabia que você precisa ter no mínimo 13 anos para poder utilizar o Discord? Está nos termos de uso e você pode ser suspenso do Discord caso você tenha menos que 13 anos!"
+      successfullyChanged: "Sua data de nascimento foi alterada com sucesso!"
+
+    bobfire:
+      description: "Algumas imagens são úteis como lenha para o Bob Esponja"
+
+    bolsodrake:
+      description: "Meme tem que ser de origem brasileira, talquei??"
+
+    bolsoframe:
+      description: "Olhem esta imagem, talquei??"
+
+    bolsonaro:
+      description: "Mas o que será que o Bolsonaro está mostrando de tão interessante e maravilhoso em sua televisão?"
+
+    bomdiaeciatop:
+      description: "Veja os usuários que venceram mais partidas do Bom Dia & Cia"
+      wonMatches: "Venceu {0} vezes o Bom Dia & Cia"
+
+    botinfo:
+      description: "Mostra informações interessantes (e algumas bem inúteis) sobre mim!"
+      embedDescription:
+        - "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\"), tenho 16 anos e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas antes! {6}"
+        - "Atualmente estou espalhando diversão em **{0} servidores** com **{2} comandos inovadores** e já executei **{3} comandos** nas últimas 24 horas e acordei a **{1}** atrás \U0001F634. Desde 30 de Março de 2017 tentando transformar o mundo em um lugar melhor! {8}"
+        - "Eu fui criada em **{4} [Kotlin](https://kotlinlang.org/)** utilizando **{5} [JDA](https://github.com/DV8FromTheWorld/JDA)** e, se você quiser ver meu código-fonte (para ver como eu fui feita), [clique aqui](https://bit.ly/lorittagit)!"
+        - "Se você quiser dar uma passadinha no meu website, [clique aqui](https://loritta.website/) e, caso queira me adicionar no seu servidor, [clique aqui](https://loritta.website/dashboard)! {7}"
+      honorableMentions:
+        - "`MrPowerGamerBR#4185` Se não fosse por ele, eu nem iria existir! {3}"
+        - "Todas as pessoas que me ajudaram a ser desenvolvida!"
+        - "Todas as {0} pessoas que doaram para me ajudaram a ficar online!"
+        - "Todas as {1} pessoas que fizeram fan arts incríveis para mim, amo vocês. {4}"
+        - "E você, {2}, por estar falando comigo... continue sendo uma pessoa incrível! {5}"
+      crowdin: "🏁 Crowdin"
+      honorableMentionsTitle: "Menções Honrosas"
+      lorittaCreatedBy: "Loritta foi criada por MrPowerGamerBR"
+      lorittaVersion: "Versão da Loritta"
+      buildNumber: "Número da Build"
+      compiledAt: "Compilado às"
+      kotlinVersion: "Versão do Kotlin"
+      jdaVersion: "Versão do JDA"
+      memoryUsed: "Memória Utilizada"
+      memoryAvailable: "Memória Disponível"
+      memoryAllocated: "Memória Alocada"
+      memoryTotal: "Memória Total"
+      threadCount: "Número de Threads"
+      environment: "Ambiente"
+      love: "Amor"
+      title: "Olá, eu me chamo Loritta!"
+      javaVersion: "Versão do Java"
+
+    briggscover:
+      description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
+      examples:
+        - "@Loritta"
+
+    broker:
+      description: "Compre e venda ações da vida real com sonhos! Claro, você não irá ganhar ou perder dinheiro real se você comprar ou vender ações, mas o sentimento de tristeza após perder dinheiro com uma ação é o mesmo"
+      invalidTickerId: "Ticker ID inexistente"
+      title: "Preços de Ações"
+      explanation:
+        - "Compre ações quando estão na baixa, venda ações quando estiverem em alta! Enquanto você não vai ganhar ou perder dinheiro real se você comprar ou vender ações, o sentimento de você ter perdido sonhos em uma ação é o mesmo. {4}"
+        - ""
+        - "**Você pode comprar ações utilizando** `{0}`"
+        - "**Você pode vender ações utilizando** `{1}`"
+        - "**Para ver seu portfólio de ações, use** `{2}`"
+        - ""
+        - "Tickers com {3} estão inativos pois a bolsa está fechada, você apenas pode comprar/vender ações quando a ação está ativa!"
+      buyExample: "{0}corretora comprar Ticker Quantidade"
+      sellExample: "{0}corretora vender Ticker Quantidade"
+      portfolioExample: "{0}corretora portfólio"
+      invalidTickerId: "Ticker inexistente! Veja a lista de tickers que você pode comprar ações em `{0}`"
+      outOfSession: "Você não pode comprar ou vender ações que estão inativas! Você precisa esperar que ela esteja ativa para poder comprar ou vender!"
+      alreadyExecutingAction: "Você já tem uma ação pendente! Espere ela acabar para poder realizar outra ordem!"
+      priceBeforeMarketClose: "**Preço antes do fechamento:** {0}"
+      buyPrice: "**Compra:** {0}"
+      sellPrice: "**Venda:** {0}"
+      footer: "Dados do TradingView • Ao utilizar a corretora da LorittaLand, nós poderemos utilizar as suas ordens na bolsa para estatísticas e usos aplicados na bolsa de valores da vida real!"
+      stocks:
+        one: "ação"
+        multiple: "ações"
+
+    brokerBuy:
+      description: "Compre ações com sonhos pelo Home Broker da Loritta"
+      baseExample: "{0}corretora"
+      zeroValue: "Wow, que legal! Você vai comprar *nenhuma* ação, impressionante!"
+      successfullyBought: "Você comprou **{0} {1}** de `{2}`! Agora basta ficar de olho em `{3}` para ver se vale a pena vender as suas ações ou não! Boa sorte!!"
+      notEnoughMoney: "Você não tem sonhos suficientes para comprar a ação!"
+      tooManyStocks: "Você já possui muitas ações! Você pode ter, no máximo, {0} ações."
+
+    brokerPortfolio:
+      description: "Veja o seu portfólio de ações que você comprou pelo Home Broker da Loritta"
+      title: "Seu Portfólio de Ações"
+      youHaveStocksInThisTicker: "Você tem **{0} {1}** neste ticker. Você gastou **{2} sonhos** neste ticker, se você vendesse todas as ações deste ticker agora, você ganharia **{3} sonhos ({4})**"
+
+    brokerSell:
+      description: "Venda ações por sonhos da Loritta"
+      zeroValue: "Wow, que legal! Você vai vender *nenhuma* ação, impressionante!"
+      notEnoughStocks: "Você não tem ações suficientes de `{0}` para vender!"
+      boughtStocksWhileSelling: "Você comprou ou vendeu ações deste ticker enquanto esta ação estava pendente! Tente novamente e desculpe pela inconveniência!"
+      successfullySold: "Você vendeu **{0} {1}** de `{2}`! {3}"
+      successfullySoldProfit: "Com a venda, você **ganhou {0} sonhos (lucro de {1} sonhos)**!"
+      successfullySoldLoss: "Com a venda, você **ganhou {0} sonhos (perda de {1} sonhos)**! Nem todos os dias a gente sai ganhando... Sempre fique de olho no `{2}` para saber se vale a pena vender!"
+      successfullySoldNeutral: "Você não ganhou e nem perdeu nada com a sua venda."
+
+    buckshirt:
+      description: "Coloque uma estampa na camisa do Buck Dewey. Crie uma nova moda em Beach City!"
+
+    calc:
+      description: "Calcula uma expressão aritmética"
+      examples:
+        - "2 + 2 |-| Calcula quanto é 2 + 2 (adição)"
+        - "40 - 10 |-| Calcula quanto é 40 - 10 (subtração)"
+        - "5 * 5 |-| Calcula quanto é 5 * 5 (multiplicação)"
+        - "100 / 5 |-| Calcula quanto é 100 / 5 (divisão)"
+        - "(sqrt(10) * 4) / 12 |-| Calcula quanto é (sqrt(10) * 4) / 12 (raiz quadrada, multiplicação e divisão)"
+        - "cos(0) |-| Calcula quanto é o cosseno de 0"
+        - "sin(90) |-| Calcula quanto é o seno de 90"
+        - "tan(45) |-| Calcula quanto é a tangente de 45"
+        - "10 % 2 |-| Calcula quanto é o resto de 10 ao dividir por 3 (módulo)"
+      invalid: "Desculpe, mas eu não acho que `{0}` seja uma expressão aritmética... Ou talvez seja a minha burrice, afinal, eu estou perdendo o meu tempo no Discord em vez de prestar atenção na aula."
+      result: "**Resultado:** `{0}`"
+
+    cancelled:
+      description: "A sua mana foi canceladx pelas militantes do Twitter! Ah, mas qual foi o motivo do cancelamento?"
+      examples:
+        - "@Loritta |-| Cancela um usuário pela menção... manas, me ajudem! Uma pessoa tão doce como eu não pode ser cancelada!"
+        - "234395307759108106 |-| Cancela um usuário pelo ID"
+      wasCancelled: "{0} foi cancelado(a) por {1}"
+      reasons:
+        - "ser atraente demais"
+        - "ter charme demais"
+        - "ser uma pessoa horrível"
+        - "ser uma grande gostosa"
+        - "ser boy lixo"
+        - "ser comunista"
+        - "debochar demais"
+        - "ser inteligente demais"
+        - "ser padrãozinho"
+        - "pedir muito biscoito"
+        - "ser corno"
+        - "ser uma delícia"
+        - "ser gado demais"
+        - "não ser ninguém"
+        - "ser poser"
+        - "ser insuportável"
+        - "ser insensível"
+        - "não fazer nada"
+        - "ser trouxa"
+        - "se atrasar sempre"
+        - "ser impaciente demais"
+        - "ter virado o Coronga"
+        - "ser BV"
+        - "ter muita preguiça"
+        - "ser inútil"
+        - "ser inadimplente no Serasa"
+        - "contar muita piada ruim"
+        - "procrastinar demais"
+        - "se considerar incancelável"
+        - "ser menor de idade"
+        - "ser velho"
+        - "ser amigo do Felipe Neto"
+        - "mentir para os seus fãs"
+        - "esquecer de dar créditos para um artista"
+        - "ter chamado alguém com o pronome errado"
+        - "ter votado no Bolsonaro"
+        - "ter votado no Haddad"
+
+    canelladvd:
+      description: "Faça com que Matheus Canella segure os melhores DVDs do mundo por apenas R$ 10,99 (erre cifrão um zero vírgula noventa e nove reais!!!)"
+
+    carlyaaah:
+      description: "\"A gente perdeu o iCarly.com e alguém já comprou... a pessoa que comprou se chama \"Amanda Valdez\"\""
+
+    cepo:
+      description: "Destrua alguém no estilo Gugu Gaiteiro!"
+
+    channelinfo:
+      description: "Mostra informações de um canal de texto"
+      channelInfo: "Informações do canal {0}"
+      channelMention: "Menção do canal"
+      channelCreated: "Canal criado há"
+      channelTopic: "Tópico do canal"
+      undefined: "Não definido"
+      notFound: "Canal não encontrado!"
+
+    chicoata:
+      description: "O Chico Bento viu uma imagem sua e reagiu da melhor maneira possível."
+
+    choose:
+      description: "Precisando de ajuda para escolher alguma coisa? Então deixe-me escolher para você!"
+      examples:
+        - "Sonic, Tails, Knuckles |-| Escolhe entre \"Sonic\", \"Tails\" ou \"Knuckles\""
+        - "Asriel Dreemurr, Chara Dreemurr |-| Escolhe entre \"Asriel Dreemurr\" ou \"Chara Dreemurr\" (mesmo que todos saibam que o Asriel é melhor)"
+        - "Shantae, Risky Boots |-| Escolhe entre \"Shantae\" e \"Risky Boots\""
+      result: "Eu escolhi `{0}`!"
+
+    clear:
+      description: "Escolha um número de um a 1.000 mensagens para serem limpas de pessoas específicas ou não."
+      examples:
+        - "10 de:297153970613387264"
+        - "35 texto aqui de:360162870069166080"
+      targetOption: "de"
+      couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
+      invalidClearRange: "Eu só consigo limpar entre 2 até 1000 mensagens passadas!"
+      operationQueued: "Aparentemente este servidor já tem uma operação de remoção de mensagens ocorrendo, espere um pouco."
+      invalidUserFilter: "Eu procurei em todo o lugar, mas não encontrei nenhum usuário que seja similar com o inserido! Lembre-se, eu procuro usuários por IDs, menções e nomes."
+      invalidTextFilter: "O filtro de texto inserido é inválido!"
+      success: "O chat teve {0} mensagens deletadas por {1}!"
+      successButIgnoredMessages: "Porém, {0} mensagens foram ignoradas por serem muito antigas, estarem fixadas ou não seguirem o filtro definido."
+
+    cocielochaves:
+      description: "\"Lá vem o Chaves, Chaves, Chaves. Se não tá atento a sua bombeta vai perder, héééé\". Faça uma edição com os seus amigos da quebrada! Vídeo original: https://youtu.be/ihGgl62B0Xo"
+      examples:
+        - "297153970613387264 159985870458322944 155149108183695360 270904126974590976 213466096718708737 |-| Edição com os avatares de usuários pelo ID. Essa é a nossa gangue da quebrada! Okay, na verdade é a gangue dos bots..."
+
+    colorinfo:
+      description: "Veja informações sobre uma cor!"
+      examples:
+        - "89, 45, 161 |-| Mostra as informações sobre a cor em RGB"
+        - "#a36cfd |-| Mostra as informações sobre a cor em hexadecimal"
+        - "-4744728 |-| Mostra as informações sobre a cor em decimal"
+      shades: "Tons"
+      tints: "Matizes"
+      triadic: "Triádica"
+      complementary: "Complementárias"
+      analogous: "Análogas"
+
+    contentawarescale:
+      description: "Aplica efeito de content aware scale (seam carver) em uma imagem"
+
+    cortesflow:
+      description: "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
+      examples:
+        - "|-| Mostra todas as thumbnails disponíveis para você usar no comando"
+        - "monark-stop \"adm mandou parar de fazer baderna\" |-| Edição com a thumbnail \"monark-stop\" com o texto \"adm mandou parar de fazer baderna\""
+        - "monark-discussion \"ééééééééé eu discordo\" |-| Edição com a thumbnail \"monark-discussion\", simulando como é o Monark no Flow"
+        - "igor-angry \"caralho\" |-| Edição com a thumbnail \"igor-angry\", simulando como é o Igor3k no Flow"
+        - "mitico-succ \"Topo tudo por sonhos\" |-| Edição com a thumbnail \"mitico-succ\" com o texto \"Topo tudo por sonhos\""
+      embedTitle: "Gerador de Thumbnails do Cortes do Flow"
+      embedDescription:
+        - "Salve salve família, faça suas próprias thumbnails do Cortes do Flow Podcast com o seu próprio texto!"
+        - ""
+        - "**Como usar?** `{0}`"
+        - "**Exemplo:** `{1}`"
+      howToUseExample: "{0}cortesflow FundoDaThumbnail Texto aqui"
+      commandExample: "{0}cortesflow monark-stop \"adm mandou parar de fazer baderna\""
+      thumbnailSelection: "`{0}` [\\[fonte\\]]({1})"
+      findOutThumbnailSource: "Quer saber de qual corte veio a thumbnail? Então clique em \"fonte\"!"
+      youNeedToAddText: "A não ser se você deseja uma thumbnail vazia... Você precisa colocar o texto que você deseja que apareça na thumbnail!"
+      unknownType: "Tipo de fundo para a thumbnail desconhecido! Para ver a lista de tipos suportados use `{0}cortesflow`"
+
+    daily:
+      description: "Receba os seus sonhos diários para gastar com outras parafernálias, como comprar novos backgrounds e designs para seu perfil, apostar na lorifa e muito mais!"
+      dailyLink: "Pegue os seus sonhos diários aqui! {0} (Lembrando que você pode pegar sonhos todos os dias!)"
+      dailyLinkBuySonhos: "Psiu, você está querendo mais sonhos para conseguir ostentar todos os sonhos que você tem? Então compre sonhos na minha loja de sonhos! {0}"
+      pleaseWait: "Você já pegou seus Sonhos Diários hoje! Você poderá pegar novamente {0}!"
+      pleaseWaitBuySonhos: "Psiu, se você não quer esperar para conseguir mais sonhos... Então compre sonhos na minha loja de sonhos! {0}"
+
+    dance:
+      description: "Use esse comando para dançar com alguém"
+      response: "**{0} dançou com {1}!**"
+
+    dashboard:
+      description: "Envia o link do Dashboard para adicionar/configurar a Loritta"
+      examples:
+        - "|-| Envia o link o painel da Loritta e, se você tiver permissão para acessar o painel, irá enviar o link para acessar o painel do seu servidor"
+        - "🙅 |-| Envia o link do painel da Loritta independentemente se você possui permissão ou não"
+
+    dbl:
+      description: "Mostra informações sobre como me ajudar no Discord Bot List!"
+      info: "Você quer me ajudar a crescer e ser um bot melhor? Então vote em mim no Discord Bot List! <:discordbotlist:338808864352763904>\n\nCada voto ajuda a me divulgar para outras pessoas no Discord Bot List, e quanto mais pessoas me usam, mais popular eu ficarei!\n\nE é claro, se você votar você irá receber uma badge especial no `{0}perfil`! Legal, né? Que tal você se juntar a todas as outras pessoas que votaram também e que me ajudaram a crescer? <:lori_blobnom:412582340272062464>\n\n{1}\n\nSua badge irá aparecer em no máximo até 60 segundos após votar! \U0001F609"
+
+    demon:
+      description: "Vá embora, demônio!\n\nAnimação original por CptNameless"
+
+    dicio:
+      description: "Procure o significado de uma palavra no dicionário!"
+      examples:
+        - "sonho |-| Procura o significado de \"sonho\" no dicionário"
+
+    discordping:
+      description: "Mostre a sua reação quando você recebe uma notificação inútil do Discord!"
+
+    divorce:
+      description: "E cadê o amor? Divorcie da pessoa que você está casada atualmente!"
+      prepareToDivorce: "Então parece que o seu casamento não deu nada certo... Tudo bem, todos nós erramos alguma vez na vida, vida que segue, né? {0}"
+      pleaseConfirm: "Caso você realmente tenha certeza que o casamento jamais irá dar certo, clique em {0}... eu irei te deixar em paz enquanto você pensa se realmente vale a pena fazer isso."
+      divorced: "Então é isso, foi uma aventura e tanto, né? ...calma! Não chore, eu sei que divorciar de alguém é triste... se você continuar a chorar, eu também irei... {0} Da próxima vez, ame alguém que realmente te mereça e que te respeite, e não qualquer pessoa por aí... Melhor estar sozinho e ser feliz, do que estar em um relacionamento ruim."
+      divorcedTitle: "Sinto muito..."
+      divorcedDescription: "Parece que o amor não dura para sempre... {0} se divorciou!\n\nMas não se preocupe, sei que você irá achar outra pessoa que te ame!"
+
+    donate:
+      howToHelp: "Obrigada por querer me ajudar a ficar online! {1}\n\nSem a sua ajuda, eu não iria conseguir ficar online. (Afinal, sem dinheiro = sem hospedagem para eu ficar online {2})\n\nPara doar é simples e fácil! Apenas [acesse a página de doação no meu website]({0}), lá mostra todas as vantagens que você pode receber doando! {3}"
+      description: "Lista das adoráveis pessoas que me ajudam a cada mês para me manter online!"
+      thanks: "Obrigada a todas as pessoas nesta lista abaixo por me ajudarem a ficar online!"
+      doYouWannaHelp: "Você também quer ajudar?"
+
+    drake:
+      description: "Crie um meme do Drake com dois usuários da sua guild!"
+
+    drawnmasksign:
+      description: "Faça o {0} segurar uma placa mostrando algo interessante e fofo!"
+
+    drawnword:
+      description: "eU sO crianSA i escRevO coIsas ToSCas"
+      examples:
+        - "eU ODEIu PUDIN MAS TODu MUNDO GOSTa Naum SEI PURKÊ |-| Edição com o texto, imitando uma criansa de 6 anus"
+
+    editxp:
+      description: "Edita o XP de um usuário, caso você queira resetar o XP de todos os usuários, vá nas configurações no meu painel!"
+      examples:
+        - "@Loritta 1000 |-| Altera o XP da pessoa mais ativa do Brasil para 1000"
+        - "123170274651668480 69420 |-| Altera o XP de um usuário pelo ID para 69420 (nice)"
+      moreThanZero: "XP precisa ser maior que 0!"
+      success: "XP de {0} foi alterado com sucesso!"
+
+    ednaldobandeira:
+      description: "Faça uma imagem do Ednaldo Pereira mostrando algo maravilhoso em sua bandeira!"
+
+    ednaldotv:
+      description: "Mas o que será que o Ednaldo Pereira está assistindo de tão interessante e maravilhoso em sua televisão?"
+
+    emoji:
+      errorWhileDownloadingEmoji: "Você tem certeza que isso aí é um emoji válido? {0}"
+      description: "Veja emojis em um tamanho que você não precise usar uma lupa para tentar entender eles!"
+
+    emojifight:
+      description: "Faça uma rinha de emojis com os seus amigos, o emoji mais forte ganha a rinha!"
+      fightTitle: "Rinha de Emoji"
+      fightDescription:
+        - "**Preço para participar da rinha:** Nada! É uma rinha apenas para se divertir! {0}"
+        - "**Prêmio:** Nada! Se está procurando prêmios, vá em `{1}emojifight bet`"
+        - "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
+        - "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+      participants: "Participantes ({0}):"
+      wonBet: "O {0} de {1} saiu vitorioso na rinha! Obrigada a todos os emojis que lutaram na rinha, eles agora estão descansando para a próxima rinha!"
+      needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
+
+    emojifightbet:
+      description: "Faça uma rinha de emojis com os seus amigos valendo sonhos, o emoji mais forte ganha a rinha!"
+      examples:
+        - "100 |-| Aposta 100 sonhos na rinha, todos os usuários terão que pagar 100 sonhos para entrar na rinha"
+        - "2500 |-| Aposta 2500 sonhos na rinha, todos os usuários terão que pagar 2500 sonhos para entrar na rinha"
+      fightDescription:
+        - "**Preço para participar da rinha:** {0} sonhos"
+        - "**Prêmio:** {1} sonhos"
+        - "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
+        - "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+      wonBetTaxed: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** ({3} de taxa) e os {4} perdedores perderam {5} sonhos!"
+      wonBet: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** e os {4} perdedores perderam {5} sonhos!"
+
+    emojiinfo:
+      description: "Mostra as informações de um emoji"
+      aboutEmoji: "Sobre o Emoji"
+      emojiName: "Nome do Emoji"
+      emojiId: "ID do Emoji"
+      mention: "Menção"
+      emojiCreated: "Criado há"
+      seenAt: "Avistado em"
+
+    emojimashup:
+      description: "Combine e misture os emojis padrões do Discord para formar novos emojis jamais vistos antes! Atualmente apenas smileys e alguns outros emojis suportados, mas mesmo assim as possibilidades são praticamente infinitas!"
+      examples:
+        - "😎 😂 |-| Faz mashup com dois emojis, usando os olhos do primeiro emoji e a boca do segundo emoji"
+        - "🤠 😭 😎 |-| Faz mashup com três emojis, usando a base do primeiro emoji, olhos do segundo emoji e a boca do terceiro emoji"
+        - "💩 🤑 😘 😅 |-| Faz mashup com quatro emojis, usando a base do primeiro emoji, olhos do segundo emoji, boca do terceiro emoji e detalhes do quarto emoji"
+      invalidEmoji: "Emoji `{0}` inválido! Se for realmente um emoji, eu provavelmente ainda não recortei o emoji para que possa fazer aquela colagem marota com ele... mas talvez em breve você poderá utilizar esse emoji em suas misturas incríveis!"
+      invalidEmojiDiscord: "Emoji `{0}` não é um emoji padrão do Discord! Infelizmente juntar emojis personalizados do Discord seria muuuito difícil e trabalhoso, desculpe por ainda não conseguir juntar os seus maravilhosos emojis personalizados..."
+
+    encode:
+      description: "Precisando encriptografar algo? Querendo transformar o seu texto em outra coisa? Então codifique ele! Codificações suportadas: {0}"
+      examples:
+        - "sha256 Loritta é muito fofa! |-| Criptografa \"Loritta é muito fofa!\" em SHA256"
+      originalText: "Texto Original"
+      encodedText: "Texto Codificado"
+
+    everygrouphas:
+      description: "Todo grupo tem..."
+      examples:
+      - "@MrPowerGamerBR @Nightdavisao @Arth @Kaike Carlos @DanielaGC_ @hechfx |-| Edição com os avatares de usuários pela menção"
+      file: "todogrupotem_default.png"
+      everygrouphas: "Todo grupo tem..."
+
+    examples:
+    - "297153970613387264"
+    - "@MrPowerGamerBR"
+
+    fanArts:
+      description: "Veja as {0} lindas {1} fan arts que fizeram de mim!"
+      madeBy: "Fan Art feita por {0}"
+      thankYouAll: "Obrigada a todos que fizeram incríveis e maravilhosas fan arts para mim!"
+
+    faustao:
+      description: "Invoque o querido Faustão no seu servidor!"
+
+    firstwords:
+      description: "Ai meu deus... as primeiras palavras do bebê!"
+      examples:
+        - "Lorrita |-| Eu irei gerar a imagem com a palavra \"Lorrita\". A propósito, quem é essa impostora?"
+        - "abacaxi é bom na pizza |-| Eu irei gerar a imagem com a frase \"abacaxi é bom na pizza\""
+
+    flipcoin:
+      heads: "Cara"
+      tails: "Coroa"
+      description: "Gire uma moeda e veja se irá cair cara ou coroa! Perfeito para descobrir quem irá ir primeiro em uma partida de futebas"
+
+    flipcoinbet:
+      description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
+      examples:
+        - "@Loritta 1337 |-| Aposta 1337 sonhos com a pessoa mais otimista que você já conheceu! Não chore se perder, ok?"
+        - "351760430991147010 100 |-| Aposta 100 sonhos com um usuário pelo ID"
+      startBet: "{0}, {1} quer fazer uma aposta com você! Cada um irá pagar **{5} sonhos ({6} sonhos de taxa para jogar rs)**. Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
+      startBetNoTax: "{0}, {1} quer fazer uma aposta com você! Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! Como {5} é um usuário premium recomendado, essa daqui vai por conta da casa, sem nenhuma taxa! E aí, vai encarar?"
+      clickToAcceptTheBet: "Para confirmar a aposta, você e {0} devem clicar em {1}!"
+      congratulations: "Parabéns {0}, você ganhou **{1} sonhos**! Financiado por {2} rsrs"
+      notEnoughMoneySelf: "Como você vai apostar uma quantidade que você não tem? Aposte menos se você não quer apostar algo que você nem tem!"
+      notEnoughMoneyInvited: "{0} não tem sonhos suficientes para a sua aposta..."
+      zeroMoney: "Wow, que legal! Você vai apostar *nada*, impressionante!"
+      cantBetSelf: "Como você vai apostar com si mesmo? No final você vai ganhar uns belos... nada!"
+      youNeedToBetMore: "Você precisa apostar mais sonhos! Afinal, eu tenho que cobrar aquela taxa marotex para ajudar a manter a LorittaLand!"
+
+    flipcoinbetstats:
+      description: "Veja estatísticas de pessoas que apostam sonhos girando uma moeda, e ainda por cima receba um sermão falando que é bom aprender sobre probabilidade e estatística e que não existe jeito de bugar para ganhar!"
+      examples:
+        - "|-| Visualiza as suas estatísticas de apostas de giro de moedas"
+        - "@Loritta |-| Visualiza as estatísticas de apostas de giro de moedas da pessoa mais sortuda que já apostou!"
+        - "236167700777271297 |-| Visualiza as estatísticas de apostas de giro de moedas de um usuário pelo ID"
+      yourStats: "**Suas Estatísticas**"
+      statsOfUser: "**Estatísticas de {0}**"
+      playedMatches: "**Partidas Jogadas:** {0}"
+      wonMatches: "**Vitórias ({0,number,#.##%}):** {1}"
+      lostMatches: "**Derrotas ({0,number,#.##%}):** {1}"
+      wonSonhos: "**Sonhos ganhos:** {0}"
+      lostSonhos: "**Sonhos perdidos:** {0}"
+      totalSonhos: "**Total de sonhos:** {0}"
+      probabilityExplanation: "De acordo com estatísticas, quanto mais a pessoa jogar, mais perto de 50% as vitórias/derrotas irão estar."
+      bugsDoesntExist: "Não existe \"bug do coin flip\", e quem acredita que existe são apenas pessoas que nunca tiveram aula de probabilidade e estatística! <https://youtu.be/eFyAyz6Xy6g>"
+      playerHasNeverPlayed: "O usuário nunca jogou uma partida de apostas de sonhos!"
+
+    forgive:
+      description: "Um monstro desses merece perdão?"
+
+    friends:
+      description: "Obrigado por serem **VOCÊ NÃO** os melhores amigos de todos!"
+      examples:
+        - "|-| Edição com 6 pessoas aleatórias do servidor"
+        - "297153970613387264 390927821997998081 481901252007952385 270904126974590976 802161969238376468 271394014358405121 159985870458322944 213466096718708737 234395307759108106 |-| Edição com o avatar de usuários pelo ID"
+
+    friendship:
+      description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
+      ended: "acabou"
+      now: "Agora"
+      isMy: "é o(a) meu(minha)"
+      bestFriend: "melhor amigo(a)"
+      friendWith: "A amizade com {0}"
+
+    gang:
+      description: "\"Lá vem o Chaves, Chaves, Chaves. Se não tá atento a sua bombeta vai perder, héééé\". Faça uma edição com os seus amigos da quebrada! Vídeo original: https://youtu.be/ihGgl62B0Xo"
+      examples:
+        - "297153970613387264 159985870458322944 155149108183695360 270904126974590976 213466096718708737 |-| Edição com os avatares de usuários pelo ID. Essa é a nossa gangue da quebrada! Okay, na verdade é a gangue dos bots..."
+
+    gender:
+      description: "Altera o seu gênero"
+      whatAreYou: "Então... você é o que?"
+      whyShouldYouSelect: "Estou curiosa... você é o que? Um homem ou uma mulher... ou talvez nenhum dos dois!\n\nEu quero saber para que eu possa melhorar as minhas respostas á você, como nos comandos de ações!"
+      successfullyChanged: "Gênero alterado com sucesso!"
+
+    gessyata:
+      description: "O Gessy viu uma imagem sua e reagiu da melhor maneira possível."
+
+    getoverhere:
+      description: "Dê uma de Scorpion e dê um puxão em alguém!"
+
+    giveaway:
+      description: "Todos amam sorteios! Faça sorteios em seu servidor para os membros do seu servidor para eles se divertirem tentando ganhar. (Observação: Não me responsabilizo se reclamarem que é \"roubado\")"
+      giveawayValidCustomMessage: "Você colocou uma mensagem personalizada para o sorteio!"
+      giveawaySetupCancelled: "A configuração do sorteio foi cancelada..."
+      giveawayName: "Qual será o nome do sorteio? (Algo como... `felicidade eterna`, por exemplo)"
+      giveawayDescription: "Qual será a descrição do sorteio? (Coloque informações sobre o sorteio! Tipo... `uma pessoa sortuda irá ganhar felicidade eterna! ...e muitas novinhos(as) como presente`)"
+      giveawayDuration: "Por quanto tempo irá durar o sorteio? (`5 minutos`, `1 hora 30 minutos`, `7 dias`, etc)"
+      giveawayReaction: "Qual emoji deverá ser usado nas reações do sorteio?"
+      giveawayChannel: "Em qual canal será realizado o sorteio?"
+      giveawayWinnerCount: "Quantas pessoas vão poder ganhar o sorteio? (Você pode colocar no mínimo 1 pessoa e no máximo 100 pessoas!)"
+      giveawayDoYouWantAutomaticRole: "Você deseja que o vencedor ganhe cargos automaticamente? (Imagine... você poderia dar um cargo de `subornou para ganhar o sorteio` automaticamente para ele!)"
+      giveawayMentionRoles: "Quais cargos serão dados para quem ganhar o sorteio?"
+      giveawayNoValidRoles: "Nenhum cargo válido foi encontrado! Você tem certeza que você escreveu corretamente?"
+      giveawayCantInteractWithRole: "Eu não consigo dar o cargo {0}!"
+      giveawayCantYouInteractWithRole: "Você não pode interagir com o cargo {0}!"
+      noWinner: "Ninguém participou do sorteio... já que ninguém participou, será que eu posso ficar com o prêmio do sorteio?"
+      oneWinner: "Parabéns {0} por ganhar o sorteio {1}!"
+      multipleWinners: "Parabéns aos ganhadores do sorteio {0}!"
+      giveawayEnded: "Sorteio encerrado! Obrigada a todos que participaram do sorteio!"
+      giveawayCreatedBy: "Sorteio criado por {0}"
+      giveawayWinnerCountNotInRange: "Precisa ter, no mínimo, um ganhador e, no máximo, cem ganhadores!"
+
+    giveawayend:
+      description: "\"Meu Deus, o sorteio vai demorar muito para acabar!\" você exclama, com tom de desespero, \"Lori me ajude, meus membros vão ficar pistola caso eu tenha que fazer outro sorteio!\". Finalize sorteios antes da hora, para evitar a horda de membros reclamando que você colocou o horário errado!"
+      giveawayInvalidArguments: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: {0}"
+      giveawayHowToReroll: "{0}giveaway reroll {1}"
+      giveawayDoesNotExist: "O sorteio que você pediu para eu pegar não existe. Veja se você pegou o link da mensagem do sorteio e tente novamente!"
+      giveawayAlreadyEnded: "O sorteio que você tentou finalizar... bem, já acabou! Se você está querendo pegar novos vencedores, utilize {0}"
+      channelDoesNotExist: "O canal do sorteio não existe!"
+      messageDoesNotExist: "A mensagem do sorteio não existe!"
+      finishedGiveaway: "Prontinho! Eu terminei o sorteio que você pediu, agora você pode ficar tranquilo sem precisar aguentar a horda de membros gritando \"Você criou o sorteio com o horário errado!\""
+
+    giveawaymenu:
+      description: "Menu com todos os comandos relacionados ao sistema de sorteios"
+      categoryTitle: "Sorteios"
+      categoryDescription: "Comandos relacionados com o meu sistema de sorteios!"
+
+    giveawayreroll:
+      description: "As vezes os seus sorteios caem aqueles usuários que não \"merecem\" vencer o sorteio, e por isso você pode pedir para que eu gire os dados novamente e pegue novos vencedores!"
+      giveawayHowToEnd: "{0}giveaway end {1}"
+      giveawayStillRunning: "O sorteio que você tentou rolar novos vencedores... bem, ainda está rolando! Se você está querendo finalizar o sorteio, utilize {0}"
+      rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
+
+    god:
+      description: "Coloca alguém em uma pesquisa do Google sobre \"Deus\""
+
+    gods:
+      description: "Caralho, olha os Deuses mano!"
+      examples:
+        - "Quando você é nível 4 e vê pessoas de nível 100 jogando |-| Edição com o texto \"Quando você é nível 4 e vê pessoas de nível 100 jogando\""
+
+    guessnumber:
+      description: "Chute um número de 1 até 10, se for o número que eu estou pensando, eu irei te recompensar com sonhos! Mas se você perder... aí você que terá que me dar sonhos."
+      examples:
+        - "10 |-| Chuta o número 10, será que você irá acertar o chute?"
+        - "3 |-| Chuta o número 3, será que você conseguirá adivinhar corretamente o número?"
+      youWin: "Parabéns, você acertou o número que eu estava pensando! Como recompensa, eu te **dei {0} sonhos**!"
+      notEnoughSonhos: "Você não tem sonhos suficientes para adivinhar um número!"
+      youLose:
+        - "Que pena, eu estava pensando no número {0}... Você **perdeu {1} sonhos**!"
+        - "Eu *poderia* ter pensado no seu número, mas eu pensei em {0}... Você **perdeu {1} sonhos**!"
+        - "Acho que a sorte *não* está do seu lado, eu pensei em {0}... Você **perdeu {1} sonhos**!"
+        - "Pensei em vários números diferentes mas gostei mais do {0}... Você **perdeu {1} sonhos**!"
+        - "Parabéns, você errou o número! Eu estava pensando em {0}... Você **perdeu {1} sonhos**!"
+        - "Você perdeu, eu ganhei! O número era {0} e você **perdeu {1} sonhos**!"
+        - "Sabia que eu gostei do número {0}? Você **perdeu {1} sonhos**!"
+        - "Não existe bug, você só não tem sorte bb. Eu pensei no número {0} e você **perdeu {1} sonhos**!"
+        - "Faça aí a sua mágica para ter sorte, pois você está sem sorte hoje! Eu pensei no número {0} e você **perdeu {1} sonhos**!"
+        - "Você chegou perto, maaaaas não foi dessa vez amigue! Eu pensei no número {0} e, já que eu ganhei, você **perdeu {1} sonhos**!"
+      numberNotInRange: "Você precisa colocar um número entre 1 e 10 para participar! A não ser se você quer perder sonhos colocando um número que eu jamais irei pensar."
+
+    guildbanner:
+      description: "Mostra o banner utilizado em cima dos canais de texto do servidor atual"
+      noBanner: "Esse servidor não tem banner!"
+
+    gumballliftup:
+      description: "Sabe o que eu faço quando me sinto para baixo?"
+      subtitle1: "Sabe o que eu faço quando me sinto para baixo?"
+      subtitle2: "Eu olho pra isso"
+
+    headpat:
+      description: "Faça cafuné em alguém"
+      response: "**{0} fez cafuné em {1}!**"
+
+    help:
+      lorittaHelp: "Ajuda da Loritta"
+      intro:
+        - "Olá {0}, eu me chamo Loritta (ou, para os amigos(as) mais próximos(as), \"Lori\") e eu sou apenas um simples bot para o Discord!"
+        - "Com funcionalidades sociais e engraçadas para entreter e engajar seus membros, funcionalidades moderativas para manter o seu servidor sempre seguro e agradável, e com uma maneira fácil de configurar mas com um poder inigualável de customização..."
+        - "E tudo graças a uma garotinha de 16 anos querendo transformar o mundo em um lugar melhor!"
+      commandList: "Lista de Comandos"
+      supportServer: "Está com dúvidas? Pergunte no meu Servidor de Suporte!"
+      addMe: "Painel de Controle: O lugar para me adicionar e configurar seu servidor!"
+      donate: "Me ajude a ficar online!"
+      blog: "Meu Blog"
+      guidelines: "Diretrizes da Comunidade"
+      description: "Mostra todos os comandos disponíveis que eu posso executar, lembrando que isto só irá mostrar os comandos habilitados no servidor que você executou a ajuda!"
+
+    hug:
+      description: "Use esse comando para dar um abraço carinhoso em alguém"
+      response: "**{0} abraçou {1}!**"
+
+    hungergames:
+      description: "Cria uma simulação personalizada de BrantSteele Hunger Games com os usuários que você escolher, sem você precisar ficar copiando e salvando avatar de cada pessoa só para colocar no simulador! Você precisa incluir 24 pessoas para poder iniciar a simulação, caso você não inclua pessoas suficientes, usuários aleatórios do servidor serão incluidos. Que a sorte esteja sempre ao seu favor!"
+      examples:
+        - "|-| Cria uma simulação com 24 pessoas aleatórias do servidor"
+        - "@Loritta |-| Cria uma simulação com a pessoa mais charmosa que você já viu e com mais 23 pessoas aleatórias do servidor"
+        - "297153970613387264 123170274651668480 |-| Cria uma simulação com dois usuários pelo ID e com mais 22 pessoas aleatórias do servidor"
+        - "297153970613387264 481282441294905344 270904126974590976 155149108183695360 294882584201003009 234395307759108106 424606447867789312 595445930677895188 213466096718708737 159985870458322944 160105994217586689 432610292342587392 640593174171090984 201503408652419073 239631525350604801 271394014358405121 172002275412279296 292953664492929025 469610550159212554 235088799074484224 276060004262477825 547905866255433758 235148962103951360 365975655608745985 |-| Cria uma simulação com 24 usuários pelo ID... Um Hunger Games apenas de bots! E é claro que eu irei ganhar!"
+      simulationCreated: "Simulação de Hunger Games criada! Boa sorte aos jogadores na simulação. {0}"
+      doesntHaveEnoughUsers: "Não encontrei usuários suficientes para criar a simulação... Tente mencionar os usuários que irão participar da simulação. Ah, e não se esqueça que precisa de 24 pessoas diferentes para criar a simulação!"
+
+    invert:
+      description: "Inverte a cor de uma imagem"
+
+    invite:
+      info: "Envia o link do convite para me adicionar em outros servidores!"
+      inviteInfo: 
+        - "Você quer me adicionar em outros servidores/guilds do Discord? Então clique [aqui]({0}) para me adicionar em outro servidor!" 
+        - ""
+        - "Se você quiser configurar algumas coisas (como o meu prefixo, comandos ativados, etc) então acesse o painel de administração clicando [aqui]({1})!"
+        - ""
+        - "E, é claro, entre na minha guild para dar sugestões, reportar bugs e muito mais! {2}"
+
+    inviteinfo:
+      description: "Mostra informações sobre um convite do Discord"
+      examples:
+        - "V7Kbh4z |-| Mostra as informações de um convite pelo código"
+        - "https://discord.gg/ZWt5mKB |-| Mostra as informações de um convite pelo link"
+        - "https://discord.com/invite/jjjM5tPwS9 |-| Mostra as informações de um convite pelo link longo"
+        - "sparklypower |-| Mostra as informações de um convite pela URL personalizada"
+      inThisServer: "Sim, eu estou no servidor!"
+      notOnTheServer: "Infelizmente eu não estou no servidor..."
+      whoInvited: "Quem Convidou"
+      doesntExists: "Convite `{0}` não existe!"
+      none: "Nenhum..."
+      active: "Ativos"
+      channelInvite: "Canal do Invite"
+
+    item:
+      description: "Mostra informações de emotes, skins, sprays, emoticons e muito mais do Fortnite: Battle Royale"
+      unknownItem: "Eu não encontrei nada chamado {0} nos itens do Fortnite..."
+      multipleItems: "Parece que vários itens possuem o mesmo nome! Escolha o item que você deseja ver as informações"
+      type: "Tipo"
+      rarity: "Raridade"
+      battlePass: "Passe de Batalha (Capítulo {0} Temporada {1})"
+      starterPack: "Pacote Inicial"
+      shop: "Loja"
+      firstWin: "Primeira Vitória Royale (Capítulo {0} Temporada {1})"
+      firstWinAny: "Primeira Vitória Royale (Qualquer Temporada)"
+      promo: "Promocional"
+      cost: "Preço"
+      source: "Fonte"
+      alreadyReleased: "Já foi lançado?"
+
+    itemsExamples:
+      - "Tsuki |-| Usa a \"Tsuki\" no comando, sabia que a Tsuki é um robô igual eu? Já a parte de ser uma estudante com roupa de colégio japonês eu não sei..."
+      - "Glow |-| Usa a \"Glow\" no comando"
+      - "Savor the W |-| Usa o \"Savor the W\" no comando"
+      - "Andarilho |-| Usa o \"Andarilho\" no comando"
+      - "Avião de Papel |-| Usa o \"Avião de Papel\" no comando"
+      - "CID_693_Athena_Commando_M_BuffCat |-| Usa o item com ID no comando, no caso esse ID é o desejo secreto de como um furry queria ser na vida real"
+
+    jooj:
+      description: "Inverte uma imagem horizontalmente, baseando no lado esquerdo da imagem!"
+
+    kick:
+      description: "Expulsa um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+      punishAction: "Expulso"
+      punishName: "expulsar"
+
+    kiss:
+      description: "Use esse comando para beijar alguém"
+      response: "**{0} beijou {1}!**"
+      responseAntiIdiot: "Nah, quero te beijar não... mas eu ainda gosto de você como um amigx!"
+
+    knuxthrow:
+      description: "Você não pode encostar na Esmeralda Mestre!, Faça o Knuckles jogar algo para longe!"
+
+    language:
+      description: "Sabia que eu consigo falar em outros idiomas? {0} Altere a linguagem que eu falo em seu servidor!"
+      pleaseSelectYourLanguage: "Escolha a linguagem desejada!"
+      changeServerLanguageDescription: "Para alterar a linguagem que eu interajo nesse servidor, reaja no emoji com a nova linguagem desejada."
+      changeLanguageDescription: "Para alterar a linguagem que eu interajo com você, reaja no emoji com a nova linguagem desejada."
+      translatedBy: "Traduzido por"
+      languageChanged: "Prontinho, agora eu irei em {0} com você!"
+      serverLanguageChanged: "Prontinho, agora eu irei falar em {0} neste servidor!"
+      personalLanguageTip: "Você sabia que você pode definir um idioma pessoal para que eu possa falar no seu idioma invés de falar no idioma do servidor? Use esse comando na minha DM!"
+      personalLanguageRemovalTip: "Clique no {0} se deseja redefinir seu idioma pessoal!"
+      removedPersonalLanguage: "Você redefiniu seu idioma pessoal! Isso quer dizer que agora eu vou falar no idioma do servidor que você está me usando!"
+      helpUsTranslate: "🏁 Quer ajudar a me traduzir?"
+
+    laranjo:
+      description: "Crie um meme do Laranjo!"
+
+    lava:
+      description: "O chão é...? Decida o que você quiser!"
+      examples:
+        - "@Loritta são bots indecentes |-| Edição com o avatar mais lindo que você já viu e com o texto \"O chão são bots indecentes\". Afinal, eu sou um bot lindo com coisas lindas!"
+        - "395935916952256523 são bots que gostam de baderna |-| Edição com o avatar de um usuário pelo ID e com o texto \"O chão são bots que gostam de baderna\""
+        - "270904126974590976 são memes bons |-| Edição com o avatar de um usuário pelo ID e com o texto \"O chão são memes bons\""
+
+    lock:
+      description: "Bloqueia os usuários de falarem no canal de texto onde o comando foi executado"
+      denied: "Canal bloqueado com sucesso! Use `{0}unlock` para destravar!"
+      channelAlreadyIsLocked: "Este canal já está bloqueado! Use `{0}unlock` para destravar!"
+
+    loriata:
+      description: "A Loritta viu uma imagem sua e reagiu da melhor maneira possível."
+
+    loridrake:
+      description: "Crie um meme do Drake, Loritta edition"
+
+    lorisign:
+      description: "Faça eu segurar uma placa mostrando algo interessante e fofo!"
+
+    lyrics:
+      description: "Está passando vergonha porque você esqueceu como é a letra da sua música favorita? Tentando entender o que estão falando na música que você está escutando? Então pergunte para mim qual é a letra da música!"
+      examples:
+        - "Macklemore & Ryan Lewis - White Walls |-| Busca a letra da música \"Macklemore & Ryan Lewis - White Walls\", perceba que o nome do artista fica antes do \"-\" e o nome da música fica depois!"
+        - "she - Atomic |-| Busca a letra da música \"she - Atomic\", uma das minhas músicas favoritas!"
+        - "C418 - tsuki no koibumi |-| Busca a letra da música \"C418 - tsuki no koibumi\""
+        - "MC Hariel - Tá Fácil Dizer Que Me Ama |-| Busca a letra da música \"MC Hariel - Tá Fácil Dizer Que Me Ama\", porque funk também é cultura! Deixa elas pensar, que nois tem uma grana ♫"
+        - "Pusher - Clear |-| Busca a letra da música \"Pusher - Clear\""
+        - "Sega - Sonic Boom |-| Busca a letra da música \"Sega - Sonic Boom\", pois uma coisa que jogos do Sonic sempre tem, é música boa!"
+      couldntFind: "Eu não consegui encontrar a letra dessa música..."
+      sorryForTheInconvenience: "Desculpe pela inconveniência..."
+
+    mal:
+      anime:
+        description: "Mostra informações de animes no MyAnimeList"
+        examples:
+          - "Nichijou |-| Procura por \"Nichijou\" no MyAnimeList"
+          - "Pop Team Epic |-| Procura por \"Pop Team Epic\" no MyAnimeList"
+        unknown: "Desconhecido"
+        score: "Avaliação"
+        rank: "Rank"
+        popularity: "Popularidade"
+        genres: "Gêneros"
+        source: "Origem"
+        episodes: "Episódios"
+        notfound: "Anime não encontrado!"
+        type:
+          name: "Tipo"
+          tv: "TV"
+          special: "Especial"
+          ova: "OVA"
+          ona: "ONA"
+          movie: "Filme"
+        status:
+          name: "Estado"
+          aired: "Estreou"
+          airing: "Em estreia"
+          not_yet_aired: "Ainda não estreou"
+          finished: "Finalizado"
+
+    maniatitlecard:
+      description: "Crie um title card do Sonic Mania!"
+      examples:
+        - "Palmtree Panic |-| Cria um title card escrito \"Palmtree Panic\""
+        - "Friend |-| Cria um title card escrito \"Friend\"... que aí vira \"Friendzone\"! Perfeito para quando a cremosa te deixa"
+        - "Loritta | Headquarters |-| Cria um title card escrito \"Loritta Headquarters\", o \"|\" é usado para pular a linha no title card"
+
+    marry:
+      description: "O amor está no ar! Case com a sua crush ou com a sua webnamorada! Cada casamento custa **7500 Sonhos** para cada um, e, todo o dia, você precisa pagar **250 Sonhos** para manter o casamento!"
+      examples:
+        - "@Loritta |-| Casa com a pessoa mais amorosa do mundo! Ah, mas nem tente... eu só gosto de você como amigx e o exemplo só existe para ter um exemplo de como casar alguém pela menção"
+        - "160105994217586689 |-| Casa com um usuário pelo ID"
+      cantMarryYourself: "Você não pode se casar com você mesmo, bobinho!"
+      marryLoritta: "Eu nem te amo para querer casar com você, e além do mais, eu nem tenho idade para casar."
+      alreadyMarried: "Você já está casado com outra pessoa! Use `{0}divorciar` antes de se casar com outra pessoa!"
+      alreadyMarriedOther: "{0} já está casado!"
+      insufficientFunds: "Infelizmente casamentos são caros e necessitam de dinheiro para acontecer... Você precisa de mais **{0} Sonhos** para poder casar!"
+      insufficientFundsOther: "Infelizmente casamentos são caros e necessitam de dinheiro para acontecer... {0} precisa de mais **{1} Sonhos** para poder casar!"
+
+    mcadvancement:
+      description: "Crie uma conquista do Minecraft!"
+      examples:
+        - "@Loritta Ser uma visionária! |-| Edição com o avatar mais fofo que você já viu, e obrigada pelo elogio!"
+        - "287894637165936640 Adicionei um bot! |-| Edição com o avatar de um usuário pelo ID"
+        - "https://i.imgur.com/jxiRrNN.png Usei uma imagem no comando! |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+        - "🍞 Comi um pão hoje! |-| Edição com a imagem do emoji, demonstrando como você ama pão"
+      advancementMade: "Progresso Feito!"
+
+    mcavatar:
+      description: "Mostra o avatar de uma conta do Minecraft"
+
+    mcbody:
+      description: "Mostra o corpo de uma conta do Minecraft"
+
+    mchead:
+      description: "Mostra a cabeça de uma conta do Minecraft"
+
+    mcofflineuuid:
+      description: "Pega a UUID offline (ou seja, de servidores sem autenticação da Mojang) de um player"
+      result: "**UUID offline (sem autenticação da Mojang) de `{0}`:** `{1}`"
+
+    mcsign:
+      description: "Escreve um texto em uma placa do Minecraft!"
+      examples:
+        - "Isto é um texto | em uma placa! | | Legal né?"
+        - "spruce | Escrito com | madeiras 100% | de pinheiro!"
+        - "birch | Também é possível | utilizar | outros tipos | de madeira!"
+        - "jungle | Floresta!"
+        - "acacia | Madeira que | foi adicionada | no Minecraft | 1.7.2! :3"
+        - "dark oak | Super escuro!"
+
+    mcskin:
+      description: "Mostra a skin de uma conta do Minecraft"
+
+    mcstatus:
+      description: "Verifica se os servidores da Mojang estão online"
+      mojangStatus: "Status da Mojang"
+
+    mcsweater:
+      description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
+      invalidSkin: "Isto não é uma skin válida! Uma skin válida possui `64x32` de tamanho (formato 1.8) ou `32x32` de tamanho (formato 1.7)!"
+      done: "prontinho! Agora é só baixar a sua nova skin com o meu lindo moletom e se divertir!"
+      uploadToMojang: "Caso você tenha uma conta de Minecraft original, clique no link para enviar automaticamente a skin para a sua conta!"
+
+    mcuuid:
+      description: "Pega a UUID de um usuário"
+      result: "A UUID de `{0}`: `{1}`"
+      invalid: "Player não encontrado! Tem certeza que `{0}` é uma conta válida?"
+
+    money:
+      description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
+      examples:
+        - "USD BRL |-| Mostra o valor atual do dólar (USD) em reais (BRL)"
+        - "USD BRL 9.99 |-| Mostra o valor atual de 9,99 dólares (USD) em reais (BRL). Olha, é o preço do Discord Nitro!"
+        - "EUR USD |-| Mostra o valor atual do euro (EUR) em dólares (USD)"
+      invalidCurrency: "`{0}` não é uma moeda válida! \U0001F4B8\n**Moedas válidas:** {1}"
+      converted: "**{0} {1} para {2}**: {3} {2}"
+
+    morrepraga:
+      description: "MORRE PRAGA"
+      topText: "Morre"
+      bottomText: "praga"
+
+    morse:
+      description: "Codifica/Decodifica uma mensagem em código morse"
+      examples:
+        - "Loritta |-| Converte \"Loritta\" para código morse"
+        - ".-.. --- .-. .. / ..-. --- --- ..-.  |-| Converte de código morse para texto"
+      failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
+      toFrom: "Morse para Texto"
+      fromTo: "Texto para Morse"
+
+    mute:
+      description: "Silencia um usuário por um período de tempo determinado"
+      punishAction: "Silenciado"
+      punishName: "silenciar"
+      duration: "Duração"
+      forever: "Permanente"
+      negativeTime: "O tempo que você me passou está agora no passado! Talvez você seja um viajante no tempo (se for, por favor me diga se eu sou famosa no futuro!) ou o tempo que levou para eu receber a sua mensagem foi maior que o tempo que você desejou silenciar o usuário... De qualquer jeito, desculpe pela inconveniência."
+      roleName: "Silenciado"
+      couldntEditChannel: "Eu não consegui criar permissões para não poderem falar no cargo nos canais {0}, provavelmente porque eu não tenho permissão para gerenciar o canal naqueles canais, para corrigir, corrija as permissões nos tais canais e tente silenciar alguém!"
+
+    news:
+      description: "Mostra as notícias do Fortnite: Battle Royale"
+
+    notify:
+      description: "Fique sabendo quando um item volta para a loja diária do Fortnite: Battle Royale"
+      itemsThatYouWantToBeNotified: "Itens que você pediu que eu te notifique"
+      removedTrack: "Você removeu {0} da lista de itens que você deseja ser notificado."
+      trackingSuccess: "Você será notificado em suas mensagens diretas quando {0} voltar para a loja. Não se esqueça de verificar se as suas DMs estão ativadas para que você não perca a notificação!"
+      upcomingItem: "Mas cuidado, você colocou para ser notificado sobre um item que ainda não foi lançado, eu ainda não sei se ele estará na loja de itens ou se será utilizado em alguma promoção, pacote inicial ou passe de batalha!"
+      notInItemShop: "O item que você tentou colocar não é vendido na loja de itens do Fortnite! Eu apenas notifico itens que estão na rotação diária da loja de itens, já que colocar para notificar itens de passes de batalhas anteriores ou promocionais seria algo completamente inútil, igual tentar tomar Coca-Cola Zero enquanto você está comendo um hamburguer gigante só porque você quer \"emagrecer\"."
+      howToAddOrRemove: "Para adicionar ou remover um item da sua lista de itens, use {0}"
+      howToAddOrRemoveCommand: "{0}fnnotify Nome do Item"
+
+    nyancat:
+      description: "Nyan Cat, diretamente no seu servidor! E você pode pedir o tamanho do Nyan Cat igual quando você pede algum sanduíche no Subway!"
+      examples:
+        - "|-| Um Nyan Cat beeeeem pequeninho"
+        - "cat |-| O Nyan Cat no seu tamanho natural"
+        - "caaaaaaaaaaaat |-| Uau, um Nyan Cat grandinho!"
+        - "caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat |-| Okay, acho que já estamos exagerando no tamanho"
+        - "dog |-| Também amamos Nyan Cachorros!"
+
+    ocr:
+      description: "Pega o texto em uma imagem usando OCR"
+      couldntFind: "Não encontrei nenhum texto nesta imagem..."
+
+    ojjo:
+      description: "Inverte uma imagem horizontalmente, baseando no lado direito da imagem!"
+
+    packageinfo:
+      description: "Mostra o status de uma encomenda dos correios, funciona com os Correios (Brasil) e a CTT (Portugal)"
+      couldntFind: "Não encontrei o objeto `{0}` no banco de dados do Correios!"
+
+    passingpaper:
+      description: "\"Ei parça, passa a cola aí!\""
+
+    pay:
+      description: "Lembra daquela paçoca que o seu amigo tinha te comprado? Que tal pagar ela usando a minha economia? \U0001F609"
+      examples:
+        - "@Loritta 100 |-| Envia cem sonhos para a pessoa mais humilde em toda a galáxia!"
+        - "292953664492929025 100k |-| Envia 100000 sonhos para um usuário pelo ID"
+      selfAccountIsTooNew: "Calma lá né, a sua conta é muito novinha! Para você transferir sonhos, você precisa esperar {0} dias antes de começar a transferir sonhos."
+      otherAccountIsTooNew: "Eu sei que as vezes é legal ajudar os outros... Mas {0} criou a conta faz pouco tempo! Precisa esperar {1} dias antes de {0} poder começar a receber sonhos."
+      selfAccountNeedsToGetDaily: "Parece que você ainda não pegou o seu daily hoje, você só poderá enviar sonhos após você ter pego o daily hoje. Que tal pegar agora? {0}"
+      otherAccountNeedsToGetDaily: "Parece que {0} ainda não pegou o daily hoje, {1} só poderá receber sonhos após ter pego o daily hoje. Que tal ele pegar agora? {2}"
+      youAreGoingToTransfer: "Você está prestes a transferir {0} sonhos para {1}!{2}"
+      randomQuirkyRichMessages:
+        - "Está querendo ostentar que você é rico transferindo tanto dinheiro assim?"
+        - "Ser rico é legal, mas comprar Loritta Premium que é bom, nada né?"
+        - "iala olha o rico kkk"
+        - "Queria ser tão rica assim para transferir tantos sonhos assim..."
+        - "Nossa, mas transferir humildes 100k para mim você não transfere, né?"
+        - "Saudades daqueles sonhos que a gente nunca teve"
+        - "Nossa mas vai transferir tudo isso? Vai ficar pobre rsrs"
+        - "Se depois quiser repor esses sonhos perdidos, que tal comprar sonhos na minha loja?"
+        - "kk eae que tal transferir um pouquinho para mim também?"
+        - "Depois dessa você vai ter que dormir para conseguir mais sonhos rsrs... entendeu a piada? hein?"
+        - "Eu também amo sonhos, mas mesmo assim não sou Robin Hood para ficar distribuindo meu dinheiro"
+        - "Não tenho inveja desses sonhos, se eu quisesse eu poderia dar a mesma quantidade para mim!"
+      randomLorittaIsGratefulMessages:
+        - "Obrigada por me ajudar nesse momento difícil na minha vida monetária!"
+        - "Isso vai me ajudar a ficar rica novamente!"
+        - "Jamais irei esquecer das pessoas que me ajudaram quando estava pobre..."
+        - "#humilde"
+        - "Olha isso, você é mais humilde que o meu pai! <https://youtu.be/BCUUButEVY8>"
+        - "Obrigada pelos sonhos, irei fazer bom proveito deles!"
+        - "Obrigada por ajudar os pobres! (No caso, eu!)"
+        - "Você já pode colocar no seu currículo que você ajudou pessoas pobres (eu!), me falaram que empresas gostam quando pessoas ajudam as menos favorecidas..."
+        - "Já estou vendo no Twitter: \"Pessoa humilde ajuda garota necessitada\"!"
+        - "Pelo ou menos consegui sonhos sem precisar me vender igual @#$%, jamais faria isso... diferente de outras @ por aí..."
+      clickToAcceptTheTransaction: "Para confirmar a transação, você e {0} devem clicar em {1}!"
+      doYouThinkImPoor: "Você *acha* que eu sou pobre para transferir só isso para mim? Não sou mendiga para aceitar essa merrequinha aí. 2bj"
+      insufficientFunds: "Você não tem {0} suficientes para realizar esta transação!"
+      transitionComplete: "Transação realizada com sucesso! {0} recebeu **{1} {2}**!"
+      sellDisallowedWarning: "**Não se esqueça:** É proibido o comércio de produtos que possuem valores reais (Nitro, dinheiro real, invites, conteúdo ilegal/NSFW, etc) por sonhos, você será banido de usar a Loritta caso faça! Veja todas as regras em <{0}>. Não se esqueça que, ao aceitar a transação, você não conseguirá pedir os sonhos de volta e a equipe não irá te ajudar a pegar eles de volta, então apenas envie sonhos para pessoas confiáveis!"
+
+    pepedream:
+      description: "Quando você acorda de um belo sonho, e descobre que o sonho não era real..."
+
+    perfect:
+      description: "Será que \"Nada é perfeito\" mesmo?"
+
+    petpet:
+      description: "Faça cafuné em uma imagem"
+
+    ping:
+      description: "Um comando de teste para ver se eu estou funcionando, recomendo que você deixe isto ligado para testar!"
+
+    playerNameExamples:
+      - "Loritta |-| Usa a conta da pessoa mais majestosa que existe!"
+      - "PeterStark000 |-| Usa a conta \"PeterStark000\""
+      - "viniccius13 |-| Usa a conta \"viniccius13\""
+      - "AuthenticGames |-| Usa a conta \"AuthenticGames\""
+      - "rezendeevil |-| Usa a conta \"rezendeevil\", a conta do Rezende. Sabia que ele é amigo de uma raposa?"
+
+    pokedex:
+      description: "Pesquisa informações sobre um Pokémon"
+      types: "Tipos"
+      addedInGen: "Adicionado na Geração"
+      number: "Número na Pokédex"
+      abilities: "Habilidades"
+      baseExp: "Base EXP"
+      effortPoints: "Effort Points"
+      captureRate: "Taxa de Captura"
+      baseHappiness: "Base happiness"
+      growthRate: "Taxa de crescimento"
+      training: "Treinamento"
+      evolutions: "Evoluções"
+
+    profile:
+      description: "Mostra o seu perfil!"
+      examples:
+        - "|-| Mostra o seu próprio perfil"
+        - "@Loritta |-| Veja o perfil da garota mais maravilhosa do Discord!"
+        - "390927821997998081 |-| Mostra o perfil de um usuário pelo ID"
+      profileshop: "Compre novos perfis em {0}"
+      lorittaDescription: "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\") e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas!"
+      totalXP: "XP Total"
+      guildXP: "XP no {0}"
+      economy: "Sonhos"
+      aboutMe: "Sobre Mim"
+      profile: "Perfil"
+
+    punishmentExamples:
+      - "@Loritta |-| Pune um usuário pela menção... só não me puna, okay? ;w;"
+      - "159985870458322943 |-| Pune o usuário pelo ID"
+      - "213466096718708736 Quebrar as regras do servidor |-| Pune o usuário pelo ID e com um motivo"
+      - "271394014358405120 270904126974590975 234395307759108105 Quebrar as regras do servidor |-| Pune vários usuários pelo ID e com um motivo"
+      - "172002275412279295 Quebrar as regras do servidor | f |-| Pune o usuário pelo ID, com um motivo e não pede a confirmação da punição"
+      - "235148962103951361 Quebrar as regras do servidor | s |-| Pune o usuário pelo ID, com um motivo e não notifica a punição"
+
+    quality:
+      description: "Cria uma mensagem com Q U A L I D A D E & S I N C R O N I A"
+      examples:
+        - "qualidade & sincronia |-| Transforma a mensagem em Q U A L I D A D E & S I N C R O N I A"
+
+    quickpunishment:
+      description: "Altera se você prefere que as punições sejam aplicadas diretamente ou se elas devem ter uma confirmação antes de punir!"
+      enabled: "As punições rápidas foram ativadas! Ao punir um usuário, eu nem irei te perguntar se você realmente quer punir o usuário, vai punir direto sem dó e nem piedade! ...só não venha reclamar depois que você não queria ter punido aquele usuário, okay?"
+      disabled: "As punições rápidas foram desativadas! Ao punir um usuário, você deverá confirmar se você realmente vai querer punir ele ou não... pelo ou menos assim você irá evitar aquele remorso ao punir alguém que não deveria ter levado aquela punição."
+      howDisable: "Caso queira desativar as punições rápidas, use o comando novamente!"
+      howEnable: "Case queira ativar as punições rápidas, use o comando novamente!"
+
+    raffle:
+      description: "Aposte seus sonhos na minha rifa!"
+      examples:
+        - "|-| Mostra as informações da rifa atual"
+        - "comprar |-| Compra um ticket na rifa, boa sorte!"
+        - "comprar 100 |-| Compra cem tickets na rifa, quantos mais tickets, mais a chance de você ganhar!"
+      lastWinner: "Último ganhador: **`{0}` ({1} Sonhos)**"
+      notEnoughMoney: "Você precisa ter **+{0} Sonhos** para poder comprar {1} ticket{2}!"
+      youBoughtAnTicket: "Você comprou {0} ticket{1} por **{2} Sonhos**! Agora é só sentar e relaxar até o resultado da rifa sair!"
+      wantMoreChances: "Querendo mais chances de ganhar? Que tal comprar outro ticket? 😉 `{0}rifa comprar [quantidade]`"
+      currentPrize: "Prêmio atual: **{0} Sonhos**"
+      boughtTickets: "Tickets comprados: **{0} Tickets**"
+      usersParticipating: "Pessoas participando: **{0} Pessoas**"
+      resultsIn: "Resultado irá sair daqui a **{0}**!"
+      buyAnTicketFor: "Compre um ticket por **250 Sonhos** usando `{0}rifa comprar`!"
+      congratulations: "Parabéns!"
+      youEarned: "Você ganhou **{0} Sonhos** na Rifa!"
+
+    rank:
+      description: "Veja o ranking do servidor atual!"
+
+    rankglobal:
+      description: "Veja o ranking global de experiência!"
+
+    ratewaifu:
+      description: "Receba uma nota para a sua Waifu!"
+      examples:
+        - "Loritta |-| Recebe a nota para a garota mais perfeita que existe!"
+        - "361977144445763585 |-| Recebe a nota de um usuário pelo ID"
+        - "Pudim |-| Pudim também é uma waifu... n-né?~"
+      note10:
+        - "Simplesmente perfeita! Não trocaria de Waifu se fosse você!"
+      note9:
+        - "Uma Waifu excelente, ótima escolha"
+      note8:
+        - "Uma Waifu que acerta em todos os pontos bons da vida."
+      note7:
+        - "Nem todas as Waifus são perfeitas, mas qual seria a graça de viver com alguém perfeito?"
+      note6:
+        - "Se fosse nota de escola sua Waifu ela seria \"acima da média\""
+      note5:
+        - "Nem tão ruim, nem tão boa, bem \"normal\""
+      note4:
+        - "Não que a sua Waifu seja ruim, pelo contrário! Ela tem potencial para ser algo mais *interessante*!"
+      note3:
+        - "Sua Waifu precisa de mais substância."
+      note2:
+        - "Não é por nada não mas, se eu fosse você, eu trocaria de Waifu..."
+      note1:
+        - "Sem chance, troca de Waifu hoje mesmo para garantir sua sanidade."
+      note0:
+        - "Troque de Waifu por favor."
+      noteLoritta:
+        - "Sou perfeita!"
+        - "Sou perfeita amigx!"
+        - "Procure por perfeição no dicionário, você irá encontrar \"Loritta\""
+      notePollux:
+        - "Uma amiga 10/10, ela é muito legal e criativa! (Sério, você já viu o que ela consegue fazer? Fico até impressionada! Até fico triste ao olhar como alguns comandos dela são bonitos e as coisas que eu faço são... bem, feias...)"
+      notePantufa:
+        - "A minha melhor amiga, a Pantufinha é minha amiga de infância! Beijos amigs."
+      noteTatsumaki:
+        - "Uma das minhas inspirações, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteMantaro:
+        - "Nunca conversei muito com a Mantaro, mas eu sei que o criador dela é gente boa."
+      noteMee6:
+        - "Uma das minhas inspirações e um dos bots mais antigos e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteDyno:
+        - "Uma das minhas inspirações e um dos bots mais populares na área de administração e logging de eventos do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteMudae:
+        - "E você ganha personagens, e você também ganha personagens, e você também ganha mais personagens... todos merecem coletar personagens!"
+      noteNadeko:
+        - "Uma das minhas inspirações e um dos bots mais customizáveis e populares do Discord, não trocaria de Waifu (e nem de bot) se fosse você! ...só não me substitua plz."
+      noteUnbelievaBoat:
+        - "Muitas pessoas amam ele devido ao sistema extremamente extenso de economia dele, e se eu não desse 10/10 para ele, meu espírito capitalista iria ficar boladex..."
+      noteChinoKafuu:
+        - "Um bot bem legalzin com funcionalidades top top"
+      noteGroovy:
+        - "O melhor bot para músicas que existe!"
+      noteLorrita:
+        - "Aprenda a escrever o meu nome corretamente."
+        - "Tá precisando de um oftalmologista para aprender a ler o meu nome corretamente?"
+        - "Volta pra escola porque você faltou nas aulas de leitura e escrita."
+      result: "Eu dou nota **{0}** para `{1}`! **{2}**"
+
+    rbgame:
+      description: "Pesquisa informações sobre um jogo no Roblox"
+      couldntFind: "Não consegui encontrar um jogo chamado `{0}`..."
+      favorites: "Favoritos"
+      playing: "Jogando"
+      lastUpdate: "Última atualização"
+      maxPlayers: "Quantidade máxima"
+      genre: "Gênero"
+      likes: "Gostei"
+      dislikes: "Não Gostei"
+      createdAt: "Criado em"
+
+    rbuser:
+      description: "Pesquisa informações sobre um jogador do Roblox"
+      couldntFind: "Não consegui encontrar um usuário chamado `{0}`..."
+      robloxId: "ID do Roblox"
+      joinDate: "Entrou em"
+      placeVisits: "Vistas de usuários"
+      social: "Social"
+      following: "Seguindo"
+      followers: "Seguidores"
+      friends: "Amigos"
+      favoriteGames: "Jogos Favoritos"
+      examples:
+        - "cazum8"
+        - "lol738236"
+
+    reasons:
+      description: "Qual é a sua razão para viver?"
+
+    remindme:
+      description: "Precisa lembrar de dar comida para o dog? Talvez você queira marcar um lembrete para que no futuro você possa ver se você conseguir fazer todos os seus \"Life Goals\" deste ano? Então crie um lembrete!"
+      examples:
+        - "dar comida para o dog |-| Cria um lembrete para você dar a comida para o seu dog, eu irei perguntar quando eu precisarei te lembrar depois de usar o comando"
+        - "pegar daily |-| Cria um lembrete para você não esquecer de pegar o seu prêmio diário de sonhos"
+        - "dar reputação |-| Cria um lembrete para você não esquecer de dar reputação para o seu amigx"
+        - "lista |-| Mostra a lista de lembretes"
+      cancel: "Lembrete cancelado!"
+      success: "Eu irei te lembrar em **{0}/{1}/{2,number,#}** às **{3}:{4}**!"
+      setHour: "Quando você irá querer que eu te avise deste lembrete? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc)"
+      yourReminders: "Seus lembretes"
+      remindAt: "Eu irei te lembrar às"
+      createdInGuild: "Criado na"
+      remindInTextChannel: "Irei avisar no"
+      reminderRemoved: "Lembrete removido!"
+
+    removeemoji:
+      description: "Remove um emoji do seu servidor"
+      success: "{0} {1} foram deletados com sucesso!"
+
+    renamechannel:
+      description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
+      examples:
+        - "#general bate-papo |-| Renomeia o canal pela menção"
+        - "297732013006389252 bate-papo |-| Renomeia o canal pelo ID"
+        - "lorota-pantufa lorota & pantufa |-| Renomeia o canal pelo nome dele, espaços serão substituidos por \"-\""
+        - "bate-papo 😎|bate-papo |-| Renomeia o canal pelo nome dele"
+      successfullyRenamed: "Canal renomeado com sucesso!"
+      channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
+      channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de can al!"
+      cantRename: "Não consegui renomear o canal..."
+
+    renameemoji:
+      description: "Renomeia um emoji"
+      examples:
+        - ":gesso: gessy |-| Renomeia um emoji pela menção"
+        - "524938593475756042 sad_gesso |-| Renomeia um emoji pelo ID"
+        - "gesso_cat sad_gesso |-| Renomeia um emoji pelo nome"
+      emoteNotFound: "Nenhum emoji encontrado!"
+      emoteNameLength32Error: "O nome que você quer renomear é maior do que 32 caracteres!"
+      emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
+      emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
+      renameSucess: "Emoji renomeado!"
+
+    repList:
+      description: "Veja as suas reputações enviadas ou recebidas!"
+      examples:
+        - "@Loritta |-| Mostra a lista das reputações que a pessoa mais colega do Discord! Deve ser por isso que eu tenho tantas reputações..."
+        - "276060004262477825 |-| Mostra a lista de reputações de um usuário pelo ID"
+      title: "Histórico de Reputações"
+      otherUserRepList: "Histórico de Reputações de {0}"
+      noReps: "Nenhuma reputação enviada ou recebida para poder aparecer aqui..."
+      reputationsTotalDescription: "Total de {0} reputações recebidas e {1} reputações enviadas"
+      receivedReputationByLoritta: "{0} foi uma pessoa incrível e ganhou uma reputação minha!"
+      receivedReputation: "Reputação recebida de {0}"
+      receivedReputationWithContent: "Reputação recebida de {0} com a mensagem: {1}"
+      sentReputation: "Reputação enviada para {0}"
+      sentReputationWithContent: "Reputação enviada para {0} com a mensagem: {1}"
+
+    reports:
+      pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
+      raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
+      nsfwReport: "Conteúdo NSFW (Conteúdo NSFW em canais normais ou avatares com conteúdo NSFW)"
+      pleaseReportUrl: "https://l.lori.fun/trust-and-safety-br"
+
+    reputation:
+      description: "Dê reputação para outro usuário!"
+      examples:
+        - "@Loritta |-| Dá uma reputação para a pessoa que mais merece uma reputação no mundo todo!"
+        - "761931447207460864 |-| Dá uma reputação para um usuário pelo ID"
+      reputationLink: "Quase pronto! Para dar a reputação, confirme ela em {0}"
+      success: "{0} deu uma reputação para {1}, agora {5} possui **{2} reputações**! Quer dar uma reputação também? {3} {4}"
+      invalidUser: "Usuário inválido!"
+      repSelf: "Você não pode dar reputação para si mesmo, bobinho!"
+      wait: "Você precisa esperar **{0}** antes de poder dar outra reputação!"
+
+    reverselava:
+      description: "O chão é...? Decida o que você quiser!"
+      examples:
+        - "@Loritta são oportunidades de se enaltecer |-| Edição com o avatar mais magnífico que você já viu e com o texto \"O chão são oportunidades de se enaltecer\""
+        - "390927821997998081 são amigos da Loritta |-| Edição com o avatar de um usuário pelo ID e com o texto \"são amigos da Loritta\""        
+
+    riptv:
+      description: "Eis que você está pistola com algo que está na sua TV, e você tem a vontade de atirar na tela para ver se resolve o problema"
+
+    ripvida:
+      description: "Um inocente doggo viu uma imagem que fez ele repensar a vida dele..."
+      file: "doge_vida.png"
+
+    rockpaperscissors:
+      description: "Jogue Pedra, Papel ou Tesoura! (jankenpon, ou a versão abrasileirada: jokenpô)"
+      examples:
+        - "pedra |-| Joga Pedra no jogo, boa sorte!"
+        - "papel |-| Joga Papel no jogo, boa sorte!"
+        - "tesoura |-| Joga Tesoura no jogo, boa sorte!"
+      win: "Parabéns, você ganhou!"
+      lose: "Que pena... você perdeu, mas o que vale é a intenção!"
+      draw: "Empate! Que tal uma revanche?"
+      maybeDraw: "Empate...?"
+      jesusChrist: "JESUS CRISTO"
+      invalidChoice: "Que pena... você perdeu, dá próxima vez escolha algo que seja válido, ok?"
+      chosen: "Você escolheu {0}, eu escolhi {1}"
+      rock: "pedra"
+      paper: "papel"
+      scissors: "tesoura"
+
+    roleId:
+      description: "Pega o ID de um cargo do Discord"
+      examples:
+        - 'Moderadores'
+      identifiers: "IDs dos cargos..."
+      emptyRoles: "Nenhum cargo..."
+      rolesThatContains: "Cargos que contém `{0}`..."
+
+    roleinfo:
+      description: "Mostra informações de um cargo"
+      roleNotFound: "Tentei procurar por cargos mencionados, IDs, e nomes de cargos e não encontrei nenhum cargo!"
+      roleMention: "Menção"
+      roleCreated: "Data de criação"
+      roleID: "ID do Cargo"
+      roleHoisted: "Exibe separadamente na lista de membros"
+      roleIntegration: "Integração"
+      roleMentionable: "Mencionável"
+      roleMembers: "Membros"
+      roleColor: "Cor do cargo"
+      rolePermissions: "Permissões"
+
+    roll:
+      description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+      examples:
+        - "|-| Gira um dado de 6 lados"
+        - "12 |-| Gira um dado de 12 lados"
+        - "24 |-| Gira um dado de 24 lados"
+        - "2d20 |-| Gira dois dados de 20 lados"
+        - "3d5 |-| Gira três dados de 5 lados"
+        - "4d10 |-| Gira quatro dados de 10 lados"
+        - "5..10 |-| Gira um dado com valores de 5 até 10"
+        - "10d100..999 |-| Gira 10 dados com valores de 100 até 999"
+        - "6 * 10 |-| Gira um dado de 6 lados e multiplica o valor final por 10"
+      howMuchSides: "Quantos lados o dado que eu irei rolar terá"
+      invalidBound: "Eu tentei girar o dado mas... ele evaporou! Sumiu! Acho que ele sumiu porque você criou um dado inválido... me diga, como você queria que eu girasse ele?"
+      tooMuchDices: "Eu tentei girar os dados mas são taaaaaantos que não coube na minha mesa e cairam no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que eles não caiam novamente."
+      result: "rolou **{1}**... e conseguiu **{2}**!"
+
+    romerobritto:
+      description: "Faça o Romero Britto desenhar a sua maravilhosa arte!"
+
+    sam:
+      description: "kk eae men o SAM é brabo, coloque o selo da South America Memes em uma imagem!"
+
+    say:
+      messageSentBy: "Mensagem enviada por {0}"
+      description: "Faça eu falar alguma coisa!"
+      examples:
+        - "A Loritta é muito bonita! |-| Envia uma mensagem no canal no qual o comando foi executado, e obrigada por me chamar de bonita!"
+        - "#bate-papo Olá mundo! |-| Envia uma mensagem no canal que foi mencionado"
+        - "297732013006389252 Olá mundo! |-| Envia uma mensagem em outro canal pelo ID do canal"
+        - "{ \"embed\": { \"description\": \"Olá mundo\", \"color\": -16727585 } } |-| Envia uma mensagem com embed usando o código JSON do embed"
+      messageSentBy: "Mensagem enviada por {0}"
+      messageSuccessfullySent: "Mensagem enviada no {0} com sucesso!"
+      iDontHavePermissionToTalkIn: "Eu não tenho permissão para falar no {0}!"
+      youDontHavePermissionToTalkIn: "Você não tem permissão para falar no {0}!"
+      cannotBeUsedIn: "Comandos não podem ser utilizados no {0}!"
+
+    scratchcard:
+      description: "Está com sorte? Então compre uma Raspadinha da Loritta. Talvez se a sua sorte for grande, você irá conseguir dobrar ou até quadriplicar a sua quantidade de sonhos!"
+
+    scratchcardtop:
+      description: "Veja os usuários que ganharam mais sonhos na raspadinha!"
+      wonTickets: "{0} sonhos / {1} tickets"
+
+    servericon:
+      description: "Mostra o ícone do servidor atual!"
+      examples:
+        - "|-| Mostra o ícone do servidor atual"
+        - "297732013006389252 |-| Mostra o ícone de um servidor pelo ID, e que por coincidência é o ID do servidor com o ícone mais elegante desse site!"
+      noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"
+
+    serverinfo:
+      description: "Veja as informações do servidor do Discord atual!"
+      examples:
+        - "|-| Mostra as informações do servidor atual"
+        - "420626099257475072 |-| Mostra as informações de um servidor pelo ID, e que por coincidência é o ID do servidor de suporte mais incrível desse site!"
+      verificationLevel: "Nível de Verificação"
+      features: "Recursos Exclusivos"
+      owner: "Dono"
+      ownerFemale: "Dona"
+      region: "Região"
+      textChannels: "Texto"
+      createdAt: "Criado em"
+      joinedAt: "Entrei aqui em"
+      members: "Membros"
+      unknownGuild: "Eu não conheço nenhuma guild com o ID `{0}`... 😢"
+      channels: "Canais"
+      voiceChannels: "Voz"
+
+    ship:
+      description: "Veja se um casal daria certo (ou não!)"
+      examples:
+        - "297153970613387264 265640832093257729 |-| Faz um ship com duas pessoas pelo ID delas"
+        - "@Loritta |-| Você pode até tentar shipar comigo, mas eu não quero namorar e nem casar com você, gosto de você apenas como amigx!"
+        - "Cremosa |-| Em vez de tentar conquistar a cremosa, se iluda pensando que você irá namorar com ela vendo o seu ship com ela!"
+      newCouple: "Hmmm, será que nós temos um novo casal aqui?"
+      bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
+      value90: ["\U0001F60D %ship% Os dois se amam! \U0001F60D", "\U0001F497 %ship% Casal mais perfeito? Impossível! \U0001F497", "☠ %ship% Nem a *dona* morte separa! \U0001F602", "\U0001F60B %ship% Casal mais perfeito que eu! \U0001F60B", "\U0001F61A %ship% Casal? Casal que nada! Eles já são casados! \U0001F61A"]
+      value80: ["\U0001F60F %ship% Mas esses dois já se conhecem faz muito tempo... \U0001F60F", "\U0001F60A %ship% Claro que os dois são um lindo casal! \U0001F60A", "\U0001F61C %ship% Casal mais grudento que Despacito! \U0001F61C", "\U0001F604 %ship% Se os dois já não namoram eu estaria surpresa! \U0001F604"]
+      value70: ["\U0001F642 %ship% Prevejo um casal fofo se formando! \U0001F642", "\U0001F604 %ship% Só precisa de um pouco mais de conversa para rolar! \U0001F61C", "\U0001F60A %ship% Os dois foram feitos um para o outro! \U0001F60A", "\U0001F604 %ship% Sim! \U0001F604"]
+      value60: ["\U0001F642 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... \U0001F60F", "\U0001F60A %ship% Tem um pouco de interesses compatíveis aí \U0001F60A", "\U0001F642 %ship% Eu aprovo esse casal! \U0001F642", "\U0001F604 %ship% Sim! \U0001F604"]
+      value50: ["\U0001F636 %ship% Amigos... Mas talvez né... \U0001F60F", "\U0001F60A %ship% Talvez... Só precisa o/a %user% querer! \U0001F636", "\U0001F636 %ship% Eu queria ver esse casal funcionar \U0001F636"]
+      value40: ["\U0001F636 %ship% É... talvez, eu acho... \U0001F641", "\U0001F636 %ship% Nada é impossível, mas... \U0001F641", "\U0001F636 %ship% Se os dois quiserem, talvez dê certo... Mas... \U0001F636"]
+      value30: ["\U0001F615 %ship% Acho que não seria um belo casal... \U0001F641", "\U0001F636 %ship% Parece que só são conhecidos... \U0001F636"]
+      value20: ["\U0001F610 %ship% Se o(a) %user% não tivesse deixado na friendzone... \U0001F610"]
+      value10: ["\U0001F610 %ship% Eu queria muito falar que é possível, mas... \U0001F622"]
+      value0: ["\U0001F62D %ship% As possibilidades de ter este casal são quase impossíveis! \U0001F62D"]
+
+    shop:
+      featuredItems: "Itens em Destaque"
+      dailyItems: "Itens Diários"
+      description: "Mostra a loja do Fortnite: Battle Royale"
+      creatorCode: "Código de Criador: {0}"
+      localeId: "pt-BR"
+
+    singleImageExamples:
+      - "|-| Edição com a imagem mais recente do chat ou, se você responder uma mensagem que possui uma imagem, ela será utilizada"
+      - "@Loritta |-| Edição com o avatar mais fofo que você já viu!"
+      - "123170274651668480 |-| Edição com o avatar de um usuário pelo ID"
+      - "https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+      - "🍮 |-| Edição com a imagem do emoji"
+
+    skinPlayerNameExamples:
+      - "Loritta |-| Usa a skin da pessoa mais bela que existe!"
+      - "MrPowerGamerBR |-| Usa a skin da conta \"MrPowerGamerBR\""
+      - "yNilzinha_ |-| Usa a skin da conta \"yNilzinha_\""
+      - "Monerk |-| Usa a skin da conta \"Monerk\", a skin do Monark. Ponte ponte!"
+      - "JackSucksAtLife |-| Usa a skin da conta \"JackSucksAtLife\""
+
+    slap:
+      description: "Use esse comando se alguém está merecendo levar uns tapas"
+      response: "**{0} deu um tapa em {1}!**"
+      responseAntiIdiot: "**Como você consegue dormir à noite depois de tentar bater uma garotinha como eu? **{0} deu um tapa bem merecido em {1}!"
+
+    slowmode:
+      description: "Ativa o \"modo lento\" no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
+      examples:
+        - "5 |-| Altera o modo lento do chat para 5 segundos"
+        - "3 |-| Altera o modo lento do chat para 3 segundos, mostrando que é possível alterar o tempo para algo que não é possível colocar pelo Discord"
+        - "69 |-| Altera o modo lento do chat para 69 segundos (nice)"
+      enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
+      disabledInChannel: "{0} não está mais no modo lento!"
+
+    sonhos:
+      description: "Veja quantos sonhos você tem!"
+      examples:
+        - "@Loritta |-| Mostra os sonhos da pessoa mais afortunada do planeta terra!"
+        - "395935916952256523 |-| Mostra os sonhos de um usuário pelo ID"
+      youHaveSonhos: "Você tem **{0,number,#} {1}**! {2}"
+      userHasSonhos: "{0} tem **{1,number,#} {2}**! {3}"
+      currentRankPosition: "Você está em **#{0,number,#} lugar** no ranking, veja outros ostentadores em `{1}`"
+      userCurrentRankPosition: "E sabia que {0} está em **#{1,number,#} lugar** no ranking? Veja outros ostentadores em `{2}`"
+      sonhosRankingCommand: "{0}sonhos top"
+      sonhos:
+        one: "sonho"
+        multiple: "sonhos"
+
+    sonhostop:
+      description: "Veja as pessoas mais ricas de sonhos da LorittaLand"
+
+    sonhostoplocal:
+      description: "Veja se você está convivendo com pessoas cheias de sonhos no seu servidor"
+
+    spigotmc:
+      description: "Pesquisa plugins no SpigotMC"
+      contributors: "Contribuidores"
+      downloads: "Downloads"
+      released: "Criado em"
+      lastUpdated: "Última atualização"
+      download: "Download"
+      couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+      results: "Resultados para `{0}`"
+      testedVersions: "Versões Testadas"
+
+    stats:
+      description: "Mostra os stats de um jogador do Fortnite: Battle Royale"
+      examples:
+        - "MrPowerGamerBR |-| Mostra os stats da conta \"MrPowerGamerBR\""
+        - "Ninja |-| Mostra os stats da conta \"Ninja\". Ponpon dashite shimaeba ii no, zenzen shinai no tsumaranai desho~ ♫"
+        - "SypherPK |-| Mostra os stats da conta \"SypherPK\". Você já viu o livro de \"How to Win\" dele?"
+      unknownPlayer: "Eu não encontrei nada chamado {0} no Fortnite... Lembre-se, você precisa colocar o nome do usuário da Epic Games, e não o nome da Xbox Live, PlayStation Network, entre outros."
+      wins: "Vitórias"
+      killDeathRatio: "K/D"
+      eliminations: "Eliminações"
+      averageElims: "Média de Elims"
+      matchesPlayed: "Partidas Jogadas"
+      timePlaying: "Tempo Jogando"
+      matchesCount: "{0} Partidas"
+      elims: "Elims"
+      score: "Pontos"
+      solo: "Solo"
+      duos: "Duplas"
+      squad: "Esquadrões"
+      rumble: "Tumulto"
+
+    studiopolistv:
+      description: "Será que o Eggman colocou algo de interessante em sua televisão?"
+
+    susto:
+      description: "Ahhhhh \U0001F631! Crie uma imagem de mim tomando susto sobre alguma coisa!"
+
+    swing:
+      description: "Acerte alguém com uma marreta!\n\nAnimação original por CptNameless"
+
+    terminator:
+      description: "Arte feita por @tonmoh"
+      examples:
+        - "Pessoas reclamando que a Lori caiu | Lori que deu uma pausa de 5 minutos para beber água |-| Edição com os textos que você inseriu, o \"|\" é usado para separar o texto e tudo que vem antes do \"|\" irá aparecer no topo, enquanto tudo que vem depois do \"|\" irá aparecer em baixo"
+        - "Minha mãe me chamando pra jantar | Eu depois de ter jantado várias no Twitter |-| Edição mostrando a vida de uma tweeteira militante"
+        - "\"lori gostosa eu namoro ela rsrs\" | Lori apenas tentando viver a vida |-| Edição mostrando as crianças de 9 anos que ficam me atazanando"
+        - "Pessoas que dormem sem roupa | Todo mundo na festa do pijama |-| Edição com uma visão nada agradável... ou agradável, dependendo de quem é, rs"
+        - "Eu chegando em casa | Teu pai de calcinha |-| Edição com uma visão nada agradável"
+        - "Esqueleto com arma | Menina embaixo da mesa |-| Edição com um texto bem meta"
+
+    textcraft:
+      description: "Crie um texto bonito e supimpa! Fontes disponíveis: {0}"
+
+    tiodopave:
+      description: "É pá vê ou pá cume?"
+
+    tobecontinued:
+      description: "*Você começa a escutar Roundabout tocando no fundo*"
+
+    topreputation:
+      description: "Veja os usuários que deram, ou receberam, mais reputações!"
+      received: "recebidas"
+      given: "dadas"
+      receivedReputations: "{0} reputações recebidas"
+      givenReputations: "{0} reputações dadas"
+
+    transactions:
+      description: "Veja todas as transações que você recebeu e realizou!"
+      title: "Suas Transações"
+      otherUserTransactions: "Transações de {0}"
+      sentMoneySonhos: "Enviou {0} sonhos para {1}"
+      receivedMoneySonhos: "Recebeu {0} sonhos de {1}"
+      sentMoneySonhosOnCoinFlipBet: "Enviou {0} sonhos para {1} em apostas de sonhos girando uma moeda"
+      receivedMoneySonhosOnCoinFlipBet: "Recebeu {0} sonhos de {1} em apostas de sonhos girando uma moeda"
+      receivedMoneySonhosOnDiscordBotList: "Recebeu {0} sonhos em votos no Discord Bot List"
+      sentMoneySonhosTax: "Pagou {0} sonhos em taxas de transações"
+      genericReceived: "Recebeu {0} sonhos no {1}"
+      genericSent: "Enviou {0} sonhos para {1}"
+      page: "Página"
+      totalTransactions: "Total de Transações"
+      pageDoesNotExist: "Eu procurei até no infinito e além, mas pelo visto as páginas acabam aqui..."
+      unknownTransactions: "Parece que essa pessoa nunca fez uma transação de sonhos na vida dela!"
+      types:
+        bomDiaECia: "Bom Dia & Cia"
+        profile: "layout para perfil"
+        shipEffect: "efeitos de ship"
+        marriage: "casamento"
+        marriageTax: "taxa de casamento"
+        daily: "daily"
+        nitroBoostBonus: "bônus de Nitro Booster"
+        raffle: "lorifa"
+        garticosTransfer: "transferência de garticos"
+        background: "compras de background"
+        sparklypower: "SparklyPower"
+        inactiveDailyTax: "taxa de inatividade da conta no daily"
+        stocks: "Loritta's Home Broker"
+        guessNumber: "apostas de adivinhar números"
+        emojiFight: "rinha de emojis"
+
+    translate:
+      description: "Traduz uma frase para outra linguagem"
+      examples:
+        - "pt I love pudding |-| Traduz a frase em Inglês para Português"
+        - "en Eu amo pudim |-| Traduz a frase em Português para Inglês"
+
+    tretanews:
+      description: "VOOOOOOOCÊ ESTÁ ASSISTINDO TRETA NEWS ENTÃO VAMOS DIRETO PARA AS NOTÍCIAS"
+      examples:
+        - "@Loritta @Koya |-| Cria um Treta News com as duas pessoas mencionadas (mesmo que eu seja incancelável!)"
+        - "235088799074484224 234395307759108106 |-| Cria um Treta News com dois usuários pelo ID"
+      dislikes: "Não Gostei"
+      likes: "Gostei"
+
+    triggered:
+      description: "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!"
+
+    tristerealidade:
+      description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
+      slot:
+        theGuyYouLike:
+          MALE: "O CARA QUE VOCÊ GOSTA"
+          FEMALE: "A MINA QUE VOCÊ GOSTA"
+        theFather:
+          MALE: "O PAI {0}"
+          FEMALE: "A MÃE {0}"
+        theBrother:
+          MALE: "IRMÃO {0}"
+          FEMALE: "IRMÃ {0}"
+        theFirstLover:
+          MALE: "PRIMEIRO AMOR {0}"
+          FEMALE: "PRIMEIRO AMOR {0}"
+        theBestFriend:
+          MALE: "MELHOR AMIGO {0}"
+          FEMALE: "MELHOR AMIGA {0}"
+        you:
+          MALE: "VOCÊ"
+          FEMALE: "VOCÊ"
+
+    trump:
+      description: "O que será que o senhor presidente Trump está mostrando hoje?"
+
+    twitch:
+      description: "Procura informações sobre um canal no Twitch"
+      examples:
+        - "mrpowergamerbr |-| Mostra informações do canal \"mrpowergamerbr\" na Twitch"
+        - "ninja |-| Mostra informações do canal \"ninja\" na Twitch"
+        - "sypherpk |-| Mostra informações do canal \"sypherpk\" na Twitch"
+        - "callmekevin |-| Mostra informações do canal \"callmekevin\" na Twitch"
+        - "coloniacontraatacalive |-| Mostra informações do canal \"coloniacontraatacalive\" na Twitch"
+      views: "Visualizações"
+      couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+
+    twoImagesExamples:
+      - "@Mantaro @Loritta |-| Edição com os avatares mais fofos que você já viu!"
+      - "123170274651668480 297153970613387264 |-| Edição com os avatares de usuários pelo ID"
+      - "https://i.imgur.com/UglkKMD.png https://i.imgur.com/qIamjW8.png |-| Edição com o link de uma imagem (Observação: Apenas irei baixar imagens de websites confiáveis!)"
+      - "🍮 🍞 |-| Edição com as imagens de emojis"
+
+    unban:
+      description: "Retira o ban de um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+      examples:
+        - "159985870458322944"
+        - "159985870458322944 Pediu desculpas pelo o que aconteceu, e prometeu que o que aconteceu não irá se repetir."
+        - "395935916952256523 Bani sem querer, desculpa!"
+      punishAction: "Desbanido"
+      punishName: "desbanir"
+      userIsInTheGuild: "Eu sei que é muito bom ter aquele sentimento alegre que você tem quando você desbane alguém, mas... o usuário que você tentou desbanir já está no servidor!"
+      successfullyUnbanned: "Prontinho, o usuário foi desbanido! Só espero que ele não quebre as regras novamente."
+
+    unlock:
+      description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"
+      allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
+      channelAlreadyIsUnlocked: "Este canal já está desbloqueado! Use `{0}lock` para travar!"
+
+    unmute:
+      description: "Remove o silenciamento de um usuário do seu servidor"
+      examples:
+        - "@Loritta |-| Remove o silenciamento pela menção... mas porque você me mutou?"
+        - "159985870458322944 |-| Remove o silenciamento do usuário pelo ID"
+        - "213466096718708737 Se arrepender e aprender com seus erros |-| Remove o silenciamento do usuário pelo ID e com um motivo"
+        - "271394014358405121 270904126974590976 234395307759108106 Se arrepender e aprender com seus erros |-| Remove o silenciamento de vários usuários pelo ID e com um motivo"
+        - "172002275412279296 Se arrepender e aprender com seus erros | f |-| Remove o silenciamento do usuário pelo ID, com um motivo e não pede a confirmação da punição"
+        - "235148962103951360 Se arrepender e aprender com seus erros | s |-| Remove o silenciamento do usuário pelo ID, com um motivo e não notifica a punição"
+      punishAction: "Retirado o Silenciamento"
+      punishName: "remover o silenciamento"
+      successfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+      automaticallyExpired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+
+    unwarn:
+      description: "Remove um aviso de um usuário do seu servidor"
+      examples:
+        - "@Loritta |-| Remove o último aviso do usuário pela menção... então, eu espero que você não tenha me avisado para precisar usar o unwarn em mim!"
+        - "437808476106784770 |-| Remove o último aviso do usuário pelo ID"
+        - "395788326835322882 3 |-| Remove um aviso em específico (no caso, o terceiro warn) do usuário"
+        - "716390085896962058 Se arrepender e aprender com seus erros |-| Remove o último aviso  do usuário pelo ID e com um motivo"
+        - "272031079001620490 Se arrepender e aprender com seus erros | f |-| Remove o último aviso do usuário pelo ID, com um motivo e não pede a confirmação da punição"
+        - "214486492909666305 Se arrepender e aprender com seus erros | s |-| Remove o último aviso do usuário pelo ID, com um motivo e não notifica a punição"
+      punishAction: Retirado um Aviso
+      punishName: "retirar um aviso"
+      noWarnsFound: "O usuário não possui nenhum aviso para você remover! Psiu, sabia que você pode ver a lista de avisos de um usuário com {0}?"
+      notEnoughWarns: "O usuário tem menos que **{0}** avisos! Psiu, sabia que você pode ver a lista de avisos de um usuário com {1}?"
+      warnRemoved: "Prontinho, o usuário teve um aviso removido! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
+
+    userinfo:
+      description: "Veja as informações sobre um usuário!"
+      sharedServers: "Servidores compartilhados"
+      accountCreated: "Conta criada há"
+      accountJoined: "Entrou há"
+      joinPosition: "Posição de Entrada"
+      permissions: "Permissões"
+      joinPlace: "{0} lugar"
+      boostingSince: "Impulsionando desde"
+      discordId: "ID do Discord"
+      discordTag: "Tag do Discord"
+      unknownUser: "Eu não conheço nenhum usuário relacionado à `{0}`... \U0001F622"
+      roles: "Cargos"
+      noRoles: "Nenhum cargo..."
+      badges: "Emblemas"
+
+    utbattle:
+      description: "Cria um balão de fala igual ao do Undertale"
+      invalid: "Monstro `{0}` não é válido! **Lista de monstros válidos:** `{1}`"
+
+    utbox:
+      description: "Cria uma caixa de diálogo igual ao do Undertale"
+
+    vaporquality:
+      description: "Quando você mistura Q U A L I D A D E e ａｅｓｔｈｅｔｉｃｓ"
+      examples:
+        - "kk eae men o SAM é brabo |-| Transforma a mensagem em Ｋ Ｋ   Ｅ Ａ Ｅ   Ｍ Ｅ Ｎ ,   Ｏ   Ｓ Ａ Ｍ   É   Ｂ Ｒ Ａ Ｂ Ｏ "
+
+    vaporwave:
+      description: "Cria uma mensagem com ａｅｓｔｈｅｔｉｃｓ"
+      examples:
+        - "Windows 95 |-| Transforma a mensagem em Ｗｉｎｄｏｗｓ 95"
+
+    vemdezap:
+      description: "Bom dia catilangaiada! Vem de Zap bb, aplique o poder do zapzap na sua mensagem para mostrar como você é \U0001F51D com as 9inhas do zapzap!"
+      examples:
+        - "vem de zap bb |-| Zapifica \"vem de zap bb\""
+        - "eae catilangaiada, ninguém fala nada kkkkkkkkkkkk |-| Zapifica a mensagem clássica do Emojo"
+        - "zapzap é melhor que o discord, lá a gente tem número de novinhxs! |-| Zapifica uma mentira"
+      whatIsTheMood: "Qual será o seu humor do zap?"
+      moodHappy: "Feliz"
+      moodAngry: "Bravo"
+      moodSassy: "Tarado"
+      moodSad: "Triste"
+      moodSick: "Doente"
+      whatIsTheLevel: "Qual será a intensidade do seu zap?"
+      level1: "Zap força fraca"
+      level2: "Zap força média"
+      level3: "Isso que é zap bb"
+      level4: "Zap monstrão"
+      level5: "Zap topper d+"
+
+    vieirinha:
+      description: "Vieirinha é o oráculo de tudo que você deseja saber nesta vida, que tal você perguntar algo para ele?"
+      examples:
+        - "Você me ama? |-| Pergunta para o Vieirinha se ele te ama"
+        - "Sonic é melhor que Mario? |-| Pergunta para o Vieirinha se Sonic é melhor que Mario (mesmo que todos saibam que Sonic é melhor)"
+        - "Eu irei ganhar na loteria neste ano? |-| Pergunta para o Vieirinha se você irá ganhar na loteria neste ano... Mas não confie muito na resposta dele"
+      responses:
+        - "Vai incomodar outra pessoa, obrigado."
+        - "Não sei, mas eu sei que eu moro lá no Cambuci."
+        - "Do jeito que eu vejo, sim."
+        - "Hmmmm... \U0001F914"
+        - "Não posso falar sobre isso."
+        - "Não."
+        - "Sim."
+        - "Eu responderia, mas não quero ferir seus sentimentos."
+        - "Provavelmente sim"
+        - "Provavelmente não"
+        - "Minhas fontes dizem que sim"
+        - "Minhas fontes dizem que não"
+        - "Você pode acreditar nisso"
+        - "Minha resposta é não"
+        - "Minha resposta é sim"
+        - "Do jeito que eu vejo, não."
+        - "Melhor não falar isto para você agora..."
+        - "Sim, com certeza!"
+        - "Também queria saber..."
+        - "A minha resposta não importa, o que importa é você seguir o seu coração. \U0001F618"
+        - "Talvez..."
+        - "Acho que sim."
+        - "Acho que não."
+        - "Talvez sim."
+        - "Talvez não."
+        - "Sim!"
+        - "Não!"
+        - "¯\\_(ツ)_/¯"
+
+    warn:
+      description: "Dá um aviso para um usuário do seu servidor, você pode customizar as ações deste comando (como enviar via mensagem direta o motivo da punição, enviar em um canal a punição, entre outras coisas) no [meu website](https://loritta.website/dashboard/)!"
+      punishAction: "Avisado"
+      punishName: "avisar"
+
+    warnlist:
+      description: "Mostra os avisos que um usuário possui"
+      examples:
+        - "@Loritta |-| Mostra os avisos do usuário pela menção, mas é claro que você não vai encontrar avisos em mim, eu sou educada demais para quebrar regras!"
+        - "116275390695079945 |-| Mostra os avisos do usuário pelo ID"
+      common: "Aviso"
+      title: "Lista de Avisos"
+      userDoesntHaveWarns: "{0} não possui avisos!"
+      nextPunishment: "No próximo aviso, o usuário será {0}!"
+      date: "Data"
+
+    weather:
+      description: "Verifique a temperatura de uma cidade!"
+      examples:
+        - "São Paulo |-| Mostra o clima da cidade de São Paulo"
+        - "New York |-| Mostra o clima da cidade de Nova Iorque"
+      forecastFor: "Previsão do tempo para {0}, {1}"
+      temperature: "Temperatura"
+      humidity: "Umidade"
+      windSpeed: "Velocidade do Vento"
+      airPressure: "Pressão do Ar"
+      current: "Atual"
+      max: "Máxima"
+      min: "Mínima"
+      couldntFind: "Não encontrei nenhuma cidade chamada `{0}`!"
+
+    wikipedia:
+      description: "Mostra uma versão resumida de uma página do Wikipedia"
+      examples:
+        - "Pudim |-| Mostra a página da Wikipédia sobre Pudim"
+        - "[en] Pudding |-| Mostra a página em inglês da Wikipédia sobre Pudim"
+      couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+      invalidLanguage: "Você não colocou uma linguagem válida do Wikipedia! **Linguagens:** {0}"
+
+    wolverine:
+      description: "Quando você vê fotos do passado e começa a lembrar dos tempos bons do passado, as saudades daquilo que a gente viveu..."
+
+    xpnotifications:
+      description: "Ativa ou desativa as notificações de level up via mensagem direta"
+      enabledNotifications: "Você ativou as notificações de level up via mensagem direta!"
+      disabledNotifications: "Você desativou as notificações de level up via mensagem direta!"
+

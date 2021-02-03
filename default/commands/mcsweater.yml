@@ -1,0 +1,4 @@
+description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
+done: "prontinho! Agora é só baixar a sua nova skin com o meu lindo moletom e se divertir!"
+invalidSkin: "Isto não é uma skin válida! Uma skin válida possui `64x32` de tamanho (formato 1.8) ou `32x32` de tamanho (formato 1.7)!"
+uploadToMojang: "Caso você tenha uma conta de Minecraft original, clique no link para enviar automaticamente a skin para a sua conta!"

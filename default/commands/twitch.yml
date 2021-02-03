@@ -1,0 +1,9 @@
+couldntFind: "Não consegui encontrar nada relacionado á `{0}`!"
+description: "Procura informações sobre um canal no Twitch"
+examples:
+- "mrpowergamerbr |-| Mostra informações do canal \"mrpowergamerbr\" na Twitch"
+- "ninja |-| Mostra informações do canal \"ninja\" na Twitch"
+- "sypherpk |-| Mostra informações do canal \"sypherpk\" na Twitch"
+- "callmekevin |-| Mostra informações do canal \"callmekevin\" na Twitch"
+- "coloniacontraatacalive |-| Mostra informações do canal \"coloniacontraatacalive\" na Twitch"
+views: "Visualizações"
