@@ -1,0 +1,12 @@
+couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
+description: "Escolha um número de um a 1.000 mensagens para serem limpas de pessoas específicas ou não."
+examples:
+- "10 de:297153970613387264"
+- "35 texto aqui de:360162870069166080"
+invalidClearRange: "Eu só consigo limpar entre 2 até 1000 mensagens passadas!"
+invalidTextFilter: "O filtro de texto inserido é inválido!"
+invalidUserFilter: "Eu procurei em todo o lugar, mas não encontrei nenhum usuário que seja similar com o inserido! Lembre-se, eu procuro usuários por IDs, menções e nomes."
+operationQueued: "Aparentemente este servidor já tem uma operação de remoção de mensagens ocorrendo, espere um pouco."
+success: "O chat teve {0} mensagens deletadas por {1}!"
+successButIgnoredMessages: "Porém, {0} mensagens foram ignoradas por serem muito antigas, estarem fixadas ou não seguirem o filtro definido."
+targetOption: "de"

@@ -1,0 +1,7 @@
+description: "Codifica/Decodifica uma mensagem em código morse"
+examples:
+- "Loritta |-| Converte \"Loritta\" para código morse"
+- ".-.. --- .-. .. / ..-. --- --- ..-.  |-| Converte de código morse para texto"
+failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
+fromTo: "Texto para Morse"
+toFrom: "Morse para Texto"

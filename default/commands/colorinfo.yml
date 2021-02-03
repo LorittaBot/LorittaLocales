@@ -1,0 +1,10 @@
+analogous: "Análogas"
+complementary: "Complementárias"
+description: "Veja informações sobre uma cor!"
+examples:
+- "89, 45, 161 |-| Mostra as informações sobre a cor em RGB"
+- "#a36cfd |-| Mostra as informações sobre a cor em hexadecimal"
+- "-4744728 |-| Mostra as informações sobre a cor em decimal"
+shades: "Tons"
+tints: "Matizes"
+triadic: "Triádica"

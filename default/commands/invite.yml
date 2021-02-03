@@ -1,0 +1,7 @@
+info: "Envia o link do convite para me adicionar em outros servidores!"
+inviteInfo:
+- "Você quer me adicionar em outros servidores/guilds do Discord? Então clique [aqui]({0}) para me adicionar em outro servidor!"
+- ""
+- "Se você quiser configurar algumas coisas (como o meu prefixo, comandos ativados, etc) então acesse o painel de administração clicando [aqui]({1})!"
+- ""
+- "E, é claro, entre na minha guild para dar sugestões, reportar bugs e muito mais! {2}"

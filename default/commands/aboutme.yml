@@ -1,0 +1,5 @@
+changed: "Sua mensagem de perfil foi alterada para `{0}`!"
+description: "Altere o \"Sobre Mim\" no comando de perfil!"
+examples:
+- "Eu gosto da Loritta! |-| Altera o seu \"Sobre Mim\" para idolatrar a pessoa mais incrível que existe no universo"
+- "Olá, eu sou uma pessoa muito legal que gosta de gatinhos fofos |-| Altera o seu \"Sobre Mim\" para algo que não infla o meu ego"

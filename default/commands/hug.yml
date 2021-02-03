@@ -1,0 +1,2 @@
+description: "Use esse comando para dar um abraço carinhoso em alguém"
+response: "**{0} abraçou {1}!**"

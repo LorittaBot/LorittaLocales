@@ -1,0 +1,3 @@
+allowed: "Canal desbloqueado com sucesso! Use `{0}lock` para travar!"
+channelAlreadyIsUnlocked: "Este canal já está desbloqueado! Use `{0}lock` para travar!"
+description: "Desbloqueia usuários de falarem no canal de texto onde o comando foi executado"

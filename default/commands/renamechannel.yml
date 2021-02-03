@@ -1,0 +1,10 @@
+cantRename: "Não consegui renomear o canal..."
+channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de can al!"
+channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
+description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
+examples:
+- "#general bate-papo |-| Renomeia o canal pela menção"
+- "297732013006389252 bate-papo |-| Renomeia o canal pelo ID"
+- "lorota-pantufa lorota & pantufa |-| Renomeia o canal pelo nome dele, espaços serão substituidos por \"-\""
+- "bate-papo \U0001f60e|bate-papo |-| Renomeia o canal pelo nome dele"
+successfullyRenamed: "Canal renomeado com sucesso!"

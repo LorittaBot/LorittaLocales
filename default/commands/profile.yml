@@ -1,0 +1,12 @@
+aboutMe: "Sobre Mim"
+description: "Mostra o seu perfil!"
+economy: "Sonhos"
+examples:
+- "|-| Mostra o seu próprio perfil"
+- "@Loritta |-| Veja o perfil da garota mais maravilhosa do Discord!"
+- "390927821997998081 |-| Mostra o perfil de um usuário pelo ID"
+guildXP: "XP no {0}"
+lorittaDescription: "Olá, eu me chamo Loritta (ou, como meus amigos próximos me chamam, \"Lori\") e sou apenas um simples bot brasileiro para o Discord com várias funções jamais vistas!"
+profile: "Perfil"
+profileshop: "Compre novos perfis em {0}"
+totalXP: "XP Total"

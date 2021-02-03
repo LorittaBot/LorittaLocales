@@ -1,0 +1,6 @@
+description: "Seja um h4ck3r de sucesso e transforme a sua imagem em uma arte ASCII (imagens usando caracteres) para mostrar aos seus amigos como você é um h4ck3r de sucesso!"
+examples:
+- "@Loritta |-| Edição com o avatar mais fofo que você já viu!"
+- "123231508625489920 colorize |-| Edição com o avatar de um usuário pelo ID, o resultado será colorido"
+- "272031079001620490 dither |-| Edição com o avatar de um usuário pelo ID, o resultado terá dithering"
+- "123231508625489920 colorize dither |-| Edição com o avatar de um usuário pelo ID, o resultado será colorido e terá dithering"

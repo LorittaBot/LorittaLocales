@@ -1,0 +1,5 @@
+description: "Precisando encriptografar algo? Querendo transformar o seu texto em outra coisa? Então codifique ele! Codificações suportadas: {0}"
+encodedText: "Texto Codificado"
+examples:
+- "sha256 Loritta é muito fofa! |-| Criptografa \"Loritta é muito fofa!\" em SHA256"
+originalText: "Texto Original"

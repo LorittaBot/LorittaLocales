@@ -1,0 +1,8 @@
+boughtStocksWhileSelling: "Você comprou ou vendeu ações deste ticker enquanto esta ação estava pendente! Tente novamente e desculpe pela inconveniência!"
+description: "Venda ações por sonhos da Loritta"
+notEnoughStocks: "Você não tem ações suficientes de `{0}` para vender!"
+successfullySold: "Você vendeu **{0} {1}** de `{2}`! {3}"
+successfullySoldLoss: "Com a venda, você **ganhou {0} sonhos (perda de {1} sonhos)**! Nem todos os dias a gente sai ganhando... Sempre fique de olho no `{2}` para saber se vale a pena vender!"
+successfullySoldNeutral: "Você não ganhou e nem perdeu nada com a sua venda."
+successfullySoldProfit: "Com a venda, você **ganhou {0} sonhos (lucro de {1} sonhos)**!"
+zeroValue: "Wow, que legal! Você vai vender *nenhuma* ação, impressionante!"

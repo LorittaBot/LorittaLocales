@@ -1,0 +1,2 @@
+description: "Use esse comando para dançar com alguém"
+response: "**{0} dançou com {1}!**"

@@ -1,0 +1,13 @@
+active: "Ativos"
+channelInvite: "Canal do Invite"
+description: "Mostra informações sobre um convite do Discord"
+doesntExists: "Convite `{0}` não existe!"
+examples:
+- "V7Kbh4z |-| Mostra as informações de um convite pelo código"
+- "https://discord.gg/ZWt5mKB |-| Mostra as informações de um convite pelo link"
+- "https://discord.com/invite/jjjM5tPwS9 |-| Mostra as informações de um convite pelo link longo"
+- "sparklypower |-| Mostra as informações de um convite pela URL personalizada"
+inThisServer: "Sim, eu estou no servidor!"
+none: "Nenhum..."
+notOnTheServer: "Infelizmente eu não estou no servidor..."
+whoInvited: "Quem Convidou"

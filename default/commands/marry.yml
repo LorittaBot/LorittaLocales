@@ -1,0 +1,10 @@
+alreadyMarried: "Você já está casado com outra pessoa! Use `{0}divorciar` antes de se casar com outra pessoa!"
+alreadyMarriedOther: "{0} já está casado!"
+cantMarryYourself: "Você não pode se casar com você mesmo, bobinho!"
+description: "O amor está no ar! Case com a sua crush ou com a sua webnamorada! Cada casamento custa **7500 Sonhos** para cada um, e, todo o dia, você precisa pagar **250 Sonhos** para manter o casamento!"
+examples:
+- "@Loritta |-| Casa com a pessoa mais amorosa do mundo! Ah, mas nem tente... eu só gosto de você como amigx e o exemplo só existe para ter um exemplo de como casar alguém pela menção"
+- "160105994217586689 |-| Casa com um usuário pelo ID"
+insufficientFunds: "Infelizmente casamentos são caros e necessitam de dinheiro para acontecer... Você precisa de mais **{0} Sonhos** para poder casar!"
+insufficientFundsOther: "Infelizmente casamentos são caros e necessitam de dinheiro para acontecer... {0} precisa de mais **{1} Sonhos** para poder casar!"
+marryLoritta: "Eu nem te amo para querer casar com você, e além do mais, eu nem tenho idade para casar."

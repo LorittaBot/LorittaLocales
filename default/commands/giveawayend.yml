@@ -1,0 +1,8 @@
+channelDoesNotExist: "O canal do sorteio não existe!"
+description: "\"Meu Deus, o sorteio vai demorar muito para acabar!\" você exclama, com tom de desespero, \"Lori me ajude, meus membros vão ficar pistola caso eu tenha que fazer outro sorteio!\". Finalize sorteios antes da hora, para evitar a horda de membros reclamando que você colocou o horário errado!"
+finishedGiveaway: "Prontinho! Eu terminei o sorteio que você pediu, agora você pode ficar tranquilo sem precisar aguentar a horda de membros gritando \"Você criou o sorteio com o horário errado!\""
+giveawayAlreadyEnded: "O sorteio que você tentou finalizar... bem, já acabou! Se você está querendo pegar novos vencedores, utilize {0}"
+giveawayDoesNotExist: "O sorteio que você pediu para eu pegar não existe. Veja se você pegou o link da mensagem do sorteio e tente novamente!"
+giveawayHowToReroll: "{0}giveaway reroll {1}"
+giveawayInvalidArguments: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: {0}"
+messageDoesNotExist: "A mensagem do sorteio não existe!"

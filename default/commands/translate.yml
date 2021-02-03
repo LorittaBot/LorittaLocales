@@ -1,0 +1,4 @@
+description: "Traduz uma frase para outra linguagem"
+examples:
+- "pt I love pudding |-| Traduz a frase em Inglês para Português"
+- "en Eu amo pudim |-| Traduz a frase em Português para Inglês"

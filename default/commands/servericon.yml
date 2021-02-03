@@ -1,0 +1,5 @@
+description: "Mostra o ícone do servidor atual!"
+examples:
+- "|-| Mostra o ícone do servidor atual"
+- "297732013006389252 |-| Mostra o ícone de um servidor pelo ID, e que por coincidência é o ID do servidor com o ícone mais elegante desse site!"
+noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {0}"

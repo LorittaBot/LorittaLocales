@@ -1,0 +1,6 @@
+baseExample: "{0}corretora"
+description: "Compre ações com sonhos pelo Home Broker da Loritta"
+notEnoughMoney: "Você não tem sonhos suficientes para comprar a ação!"
+successfullyBought: "Você comprou **{0} {1}** de `{2}`! Agora basta ficar de olho em `{3}` para ver se vale a pena vender as suas ações ou não! Boa sorte!!"
+tooManyStocks: "Você já possui muitas ações! Você pode ter, no máximo, {0} ações."
+zeroValue: "Wow, que legal! Você vai comprar *nenhuma* ação, impressionante!"

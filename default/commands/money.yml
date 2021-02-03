@@ -1,0 +1,7 @@
+converted: "**{0} {1} para {2}**: {3} {2}"
+description: "Transforma o valor de uma moeda em outra moeda. (Por exemplo: Ver quanto está valendo o dólar em relação ao real)"
+examples:
+- "USD BRL |-| Mostra o valor atual do dólar (USD) em reais (BRL)"
+- "USD BRL 9.99 |-| Mostra o valor atual de 9,99 dólares (USD) em reais (BRL). Olha, é o preço do Discord Nitro!"
+- "EUR USD |-| Mostra o valor atual do euro (EUR) em dólares (USD)"
+invalidCurrency: "`{0}` não é uma moeda válida! \U0001f4b8\n**Moedas válidas:** {1}"
