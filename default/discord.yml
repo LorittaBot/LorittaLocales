@@ -22,7 +22,7 @@ discord:
     managePermissions: "Gerenciar permissões"
     manageWebhooks: "Gerenciar webhooks"
     manageEmotes: "Gerenciar emojis"
-    createInstantInvite: "Criar um convite instanâneo"
+    createInstantInvite: "Criar um convite instantâneo"
     prioritySpeaker: "Palestrante prioritário"
     connect: "Conectar"
     speak: "Falar"
