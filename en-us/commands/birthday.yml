@@ -1,0 +1,5 @@
+description: "Modify your date of birth"
+invalidDate: "Invalid date of birth! Remember, the date must be in the `day/month/year` format!"
+invalidDateYearTooNew: "Invalid date of birth! So... did you know that you have to be at least 13 years old to use Discord? It's under the terms of use and you can be suspended from Discord if you're under 13!"
+invalidDateYearTooOld: "Invalid date of birth! I doubt you were born on that date, have you taken your medication today, Grandpa?"
+successfullyChanged: "Your birthday date has been successfully changed!"

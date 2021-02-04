@@ -1,0 +1,7 @@
+changeLanguageDescription: "To change the language I interact with you, react to the emoji with the new language you want."
+changeServerLanguageDescription: "To change the language I interact with on this server, react to the emoji with the new desired language."
+description: "Did you know that I can speak in other languages? {0} Change the language I speak on your server!"
+languageChanged: "There you go, now I will go on {0} with you!"
+pleaseSelectYourLanguage: "Choose your desired language!"
+serverLanguageChanged: "Okay, now I'm going to speak in {0} on this server!"
+translatedBy: "Translated by"

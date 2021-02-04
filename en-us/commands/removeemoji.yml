@@ -1,0 +1,3 @@
+description: "Remove an emoji from your server"
+noEmojiRemoved: "No emojis on your list were deleted... \U0001f62d Are you sure that those emojis are from this server?"
+success: "{0} {1} were deleted successfully!"

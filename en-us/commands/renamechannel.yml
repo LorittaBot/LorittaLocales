@@ -1,0 +1,5 @@
+cantRename: "I wasn't able to rename the channel..."
+channelConflict: "There is two channels with the same name (or similar) with different types, try to use ID (or channel mention) rather than using channel name!"
+channelNotFound: "Channel not found! (Tried to find by its name, ID and mention and I couldn't find it!)"
+description: "Renames text channels with space (Also can rename voice channels)"
+successfullyRenamed: "Channel successfully renamed!"

@@ -1,0 +1,8 @@
+description: "Haz una fila de emojis con tus amigos por los sonhos, ¡el emoji más fuerte gana la fila!"
+fightDescription:
+- "**Precio para participar en el pelea:** {0} sonhos"
+- "**Premio:** {1} sonhos"
+- "**Para participar**, haz clic en {2}! *(Límite de 30 jugadores)*"
+- "¡El ganador será revelado cuando {3} haga clic {4} o después de que hayan pasado 60 segundos desde el comienzo de la pelea o cuando haya 30 jugadores en el juego!"
+wonBet: "¡{0} de {1} ganó la pelea! ¡Como recompensa, **{1} ganó {2} sonhos** y los {4} perdedores perdieron {5} sonhos!"
+wonBetTaxed: "¡{0} de {1} ganó la pelea! ¡Como recompensa, **{1} ganó {2} sonhos** ({3} tarifa) y los {4} perdedores perdieron {5} sonhos!"

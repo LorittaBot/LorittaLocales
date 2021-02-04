@@ -1,0 +1,3 @@
+description: "Vea su cartera de acciones que compró a través del Home Broker de la Loritta"
+title: "Su Cartera de Acciones"
+youHaveStocksInThisTicker: "Tienes ** {0} {1} ** en este ticker. Gastaste **{2} sueños** en este ticker, si vendieras todas las acciones de este ticker ahora, ganarías **{3} sueños ({4})**"

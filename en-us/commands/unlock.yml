@@ -1,0 +1,2 @@
+allowed: "Channel successfully unlocked! Use `{0}lock` to lock!"
+description: "Unlocks users of speaking in the text channel where the command was executed"

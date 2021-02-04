@@ -1,0 +1,6 @@
+duration: "Duration"
+forever: "Forever"
+negativeTime: "The time you gave me is now in the past! Maybe you're a time traveler (if you are, please tell me if I'm famous in the future!) or the time it took me to get your message was longer than the time you requested to silence the user... Anyway, sorry for the inconvenience."
+punishAction: "Muted"
+punishName: "mute"
+roleName: "Muted"

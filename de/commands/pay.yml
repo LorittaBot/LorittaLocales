@@ -1,0 +1,6 @@
+cantTransferZeroWithTax: "De acordo com os meus cálculos, com a taxa de transação, você iria enviar... zero sonhos! Como você vai enviar zero sonhos? Quer apenas pagar taxas para ajudar a sustentar a LorittaLand, bobinho(a)?"
+maxDailyPaymentReached: "Você chegou no limite de {0} sonhos em transações nas últimas 24 horas, para transferir mais sonhos, faça upgrade para o plano completo! {1}"
+otherAccountIsTooNew: "Eu sei que as vezes é legal ajudar os outros... Mas {0} criou a conta faz pouco tempo! Precisa esperar {1} dias antes de {0} poder começar a receber sonhos."
+otherAccountNeedsToGetDaily: "Parece que {0} ainda não pegou o daily hoje, {1} só poderá receber sonhos após ter pego o daily hoje. Que tal ele pegar agora? {2}"
+selfAccountIsTooNew: "Calma lá né, a sua conta é muito novinha! Para você transferir sonhos, você precisa esperar {0} dias antes de começar a transferir sonhos."
+selfAccountNeedsToGetDaily: "Parece que você ainda não pegou o seu daily hoje, você só poderá enviar sonhos após você ter pego o daily hoje. Que tal pegar agora? {0}"

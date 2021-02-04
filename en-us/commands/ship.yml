@@ -1,0 +1,41 @@
+bribeLove: "Did you know that you can bribe the oracle of love to modify the ship value between you and another person? {0}"
+description: "See if a couple would do well (or not!)"
+newCouple: "Hmmm, do we have a new couple here?"
+value0:
+- "\U0001f62d %ship% The possibilities of having this couple are almost impossible! \U0001f62d"
+value10:
+- "\U0001f610 %ship% I wish to say this was possible but... \U0001f622"
+value20:
+- "\U0001f610 %ship% If just %user% hadn't left in the friend zone... \U0001f610"
+value30:
+- "\U0001f615 %ship% i don't think this would be a good couple... \U0001f641"
+- "\U0001f636 %ship% looks like they just know each other... \U0001f636"
+value40:
+- "\U0001f636 %ship% Hm... maybe, I think... \U0001f641"
+- "\U0001f636 %ship% Nothing is impossible, but... \U0001f641"
+- "\U0001f636 %ship% If both want, maybe it would work... But... \U0001f636"
+value50:
+- "\U0001f636 %ship% Friends... But maybe... \U0001f60f"
+- "\U0001f60a %ship% Maybe... Just need to %user% want it \U0001f636"
+- "\U0001f636 %ship% i wanted to see this couple working \U0001f636"
+value60:
+- "\U0001f642 %ship% If %user% stopped being a little shy... \U0001f60f"
+- "\U0001f60a %ship% There are some compatible interests there \U0001f60a"
+- "\U0001f642 %ship% I approve this couple! \U0001f642"
+- "\U0001f604 %ship% Yeah! \U0001f604"
+value70:
+- "\U0001f642 %ship% I foresee a cute couple forming!\U0001f642"
+- "\U0001f604 %ship% Just needs a little more conversation to roll! \U0001f61c"
+- "\U0001f60a %ship% These two were made for each other \U0001f60a"
+- "\U0001f604 %ship% Yeah! \U0001f604"
+value80:
+- "\U0001f60f %ship% But these two have known each other for a long time... \U0001f60f"
+- "\U0001f60a %ship% Of course these two are a beautiful couple! \U0001f60a"
+- "\U0001f61c %ship% A couple stickier than Despacito?\U0001f61c"
+- "\U0001f604 %ship% If these two weren't dating I would be surprised! \U0001f604"
+value90:
+- "\U0001f60d %ship% Both love each other! \U0001f60d"
+- "\U0001f497 %ship% The perfect couple? Impossible! \U0001f497"
+- "☠ %ship% Not even death can take it apart! \U0001f602"
+- "\U0001f60b %ship% this couple is more perfect than me\U0001f60b"
+- "\U0001f61a %ship% Couple? Nahhh, they are married \U0001f618"

@@ -1,0 +1,8 @@
+boughtStocksWhileSelling: "¡Compraste o vendiste acciones en este teletipo mientras estas acciones estaban pendientes! ¡Inténtalo de nuevo y discúlpate por las molestias!"
+description: "Vender acciones para los sueños de Loritta"
+notEnoughStocks: "¡No tienes suficientes acciones `{0}` para vender!"
+successfullySold: "¡Usted vendió **{0} {1}** de `{2}`! {3}"
+successfullySoldLoss: "Con la venta, ¡**Ganaste {0} sonhos (prejuicio de {1} sonhos)**! No son todos los días que salimos ganando... siempre queda atento al `{1}` para saber si vale la pena vender!"
+successfullySoldNeutral: "No ganaste ni perdiste nada con tu vendaje."
+successfullySoldProfit: "¡Con la venta, usted **ganó {0} sueños (beneficio de {1} sueños)**!"
+zeroValue: "¡Wow, eso es genial! ¡Vas a vender *nada* de acción, impresionante!"

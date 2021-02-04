@@ -1,0 +1,54 @@
+description: "Get a score for your Waifu!"
+note0:
+- "Change your Waifu please."
+note1:
+- "No chance, change your Waifu now to ensure your sanity."
+note10:
+- "Simply perfect! I wouldn't change to another Waifu if I were you!"
+note2:
+- "Nothing personal, but if I was you, i would change my Waifu..."
+note3:
+- "Your Waifu needs more substance."
+note4:
+- "Not that your Waifu is bad, on the contrary! It has the potential to be something more *interesting*!"
+note5:
+- "Not too bad, not so good, it''s \"fine\""
+note6:
+- "If your Waifu's were a school grade she would be \"above average\""
+note7:
+- "Not every waifu are perfect, but what's the fun about living with a perfect person?"
+note8:
+- "A Waifu that is good in everything that matter in life."
+note9:
+- "A excellent Waifu, good choice"
+noteChinoKafuu:
+- "A cool bot with some cool functions"
+noteDyno:
+- "One of my inspirations and one of the most popular bots in Discord's administration and event logging area, I wouldn't change Waifu (and not even bot) if I were you!... just don't replace me plz."
+noteGroovy:
+- "The best music bot out there!"
+noteLoritta:
+- "I''m perfect!"
+- "I'm perfect, buddy!"
+- "Search for \"perfection\" in a dictionary, you will find \"Loritta\""
+noteLorrita:
+- "Please learn to write my name correctly."
+- "Do you need an ophthalmologist to learn to read my name correctly?"
+- "Go back to school because you missed reading and writing classes."
+noteMantaro:
+- "I never talked to Mantaro much, but I know that its creator is a good person."
+noteMee6:
+- "One of my inspirations and one of Discord's oldest and most popular bots, I wouldn't change Waifu (or bot) if I were you!... just don't replace me plz."
+noteMudae:
+- "And you get characters, and you also get characters, and you get more characters... everyone deserves to collect characters!"
+noteNadeko:
+- "One of my inspirations and one of Discord's most customizable and popular bots, I wouldn't change Waifu (or bot) if I were you!... just don't replace me plz."
+notePantufa:
+- "My best friend, Pantufinha is my childhood friend! xoxo."
+notePollux:
+- "A 10/10 friend, she is very cool and creative! (Seriously, have you seen what she can do? I'm even impressed! And sometimes I even get sad to see how beautiful her commands are and the things I do are like... well, ugly...)"
+noteTatsumaki:
+- "One of my inspirations, I wouldn't change Waifu (and bot) if I were you!... just don't replace me plz."
+noteUnbelievaBoat:
+- "Many people love him due to his extremely extensive system of economics, and if I didn't give him 10/10, my capitalist spirit would be disapointed..."
+result: "I rate `{1}` **{0}**! **{2}**"

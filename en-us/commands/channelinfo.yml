@@ -1,0 +1,7 @@
+channelCreated: "Channel created"
+channelInfo: "Information for channel {0}"
+channelMention: "Channel mention"
+channelTopic: "Channel topic"
+description: "Shows information about a text channel"
+notFound: "Channel not found!"
+undefined: "Undefined"

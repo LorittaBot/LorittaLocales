@@ -1,0 +1,6 @@
+description: "¡Dale reputación a otro usuario!"
+invalidUser: "¡Usuario inválido!"
+repSelf: "¡No puedes darte una reputación, tonto!"
+reputationLink: "¡Casi Listo! Para dar la reputación, confírmala en {0}"
+success: "{0} envió una reputación para {1}, ahora {5} tiene **{2} reputaciones**! quieres dar una reputación también? {3} {4}"
+wait: "¡Tienes que esperar **{0}** antes de poder dar otra reputación!"

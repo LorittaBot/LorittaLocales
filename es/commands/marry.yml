@@ -1,0 +1,7 @@
+alreadyMarried: "¡Ya estás casado con otra persona! ¡Utilice `{0}divorcio` antes de casarse con otra persona!"
+alreadyMarriedOther: "¡{0} ya está casado!"
+cantMarryYourself: "¡No puedes casarte, tonto!"
+description: "¡El amor está en el aire! ¡Cásate con la persona que te gusta! Cada boda cuesta **7500 Sonhos** por cada una, y todos los días, ¡debes pagar **250 Sonhos** para mantener la boda!"
+insufficientFunds: "Desafortunadamente, las bodas son caras y necesitan dinero para suceder... ¡Necesitas más **{0} Sonhos** para poder casarte!"
+insufficientFundsOther: "Desafortunadamente, las bodas son caras y necesitan dinero para suceder... ¡{0} necesitas más **{1} Sonhos** para poder casarte!"
+marryLoritta: "Ni siquiera te amo para querer casarme contigo, y además, ni siquiera tengo edad para casarme."

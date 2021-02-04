@@ -1,0 +1,5 @@
+description: "Veja os usuários que deram, ou receberam, mais reputações!"
+given: "dadas"
+givenReputations: "{0} reputações dadas"
+received: "recebidas"
+receivedReputations: "{0} reputações recebidas"

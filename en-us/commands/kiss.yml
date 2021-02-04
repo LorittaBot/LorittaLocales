@@ -1,0 +1,3 @@
+description: "Use this command to kiss someone"
+response: "**{0} kissed {1}!**"
+responseAntiIdiot: "No, I don't wanna kiss you, but I still like you as a friend!"

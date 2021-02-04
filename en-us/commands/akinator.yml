@@ -1,0 +1,12 @@
+akinatorLost: "Bravo! You were able to defeat me."
+akinatorWon: "Excellent! I won another time. I love playing this game with you! {0}"
+answers:
+  yes: "Yes"
+  no: "No"
+  probablyYes: "Probably Yes"
+  probablyNot: "Probably Not"
+  dontKnow: "I don't know"
+description: "Akinator is able to read your mind and tell which character you are thinking about! Can you defeat him?"
+goBack: "Go back to previous question"
+isThisYourCharacter: "Is this the character that you are thinking about?"
+question: "Question {0}"

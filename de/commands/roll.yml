@@ -1,0 +1,5 @@
+description: "Rola um dado e fala o resultado dele, perfeito quando você quer jogar um Monopoly maroto mas perdeu os dados."
+howMuchSides: "Quantos lados o dado que eu irei rolar terá"
+invalidBound: "Eu tentei girar o dado mas... ele evaporou! Sumiu! Acho que ele sumiu porque você criou um dado inválido... me diga, como você queria que eu girasse ele?"
+result: "rolou **{1}**... e conseguiu **{2}**!"
+tooMuchDices: "Eu tentei girar os dados mas são taaaaaantos que não coube na minha mesa e cairam no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que eles não caiam novamente."

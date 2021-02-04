@@ -1,0 +1,3 @@
+description: "Blend and mix the default emojis from discord to make new ones that was never saw anywhere! Currently only smileys and other emojis are supported, but the possibilities are almost unlimited!"
+invalidEmoji: "Invalid emoji `{0}`! If this is really a emoji, I probably haven't recognized yet to make that cool edit with it... but soon maybe you can use this emoji with his best mixtures!"
+invalidEmojiDiscord: "Emoji `{0}` is not a default Discord emoji! Unfortunately mixing custom emoji from Discord is too much difficult and very hard to work with, sorry that I can't mix your lovely custom emoji..."

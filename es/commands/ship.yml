@@ -1,0 +1,40 @@
+bribeLove: "Sabia que você pode subornar o oráculo do amor para alterar o valor do ship entre você e outra pessoa? {0}"
+newCouple: "Hmmm, será que nós temos um novo casal aqui?"
+value0:
+- "\U0001f62d %ship% As possibilidades de ter este casal são quase impossíveis! \U0001f62d"
+value10:
+- "\U0001f610 %ship% Eu queria muito falar que é possível, mas... \U0001f622"
+value20:
+- "\U0001f610 %ship% Se o(a) %user% não tivesse deixado na friendzone... \U0001f610"
+value30:
+- "\U0001f615 %ship% Acho que não seria um belo casal... \U0001f641"
+- "\U0001f636 %ship% Parece que só são conhecidos... \U0001f636"
+value40:
+- "\U0001f636 %ship% É... talvez, eu acho... \U0001f641"
+- "\U0001f636 %ship% Nada é impossível, mas... \U0001f641"
+- "\U0001f636 %ship% Se os dois quiserem, talvez dê certo... Mas... \U0001f636"
+value50:
+- "\U0001f636 %ship% Amigos... Mas talvez né... \U0001f60f"
+- "\U0001f60a %ship% Talvez... Só precisa o/a %user% querer! \U0001f636"
+- "\U0001f636 %ship% Eu queria ver esse casal funcionar \U0001f636"
+value60:
+- "\U0001f642 %ship% Se o/a %user% parasse de ser um pouco tímido(a)... \U0001f60f"
+- "\U0001f60a %ship% Tem um pouco de interesses compatíveis aí \U0001f60a"
+- "\U0001f642 %ship% Eu aprovo esse casal! \U0001f642"
+- "\U0001f604 %ship% Sim! \U0001f604"
+value70:
+- "\U0001f642 %ship% Prevejo um casal fofo se formando! \U0001f642"
+- "\U0001f604 %ship% Só precisa de um pouco mais de conversa para rolar! \U0001f61c"
+- "\U0001f60a %ship% Os dois foram feitos um para o outro! \U0001f60a"
+- "\U0001f604 %ship% Sim! \U0001f604"
+value80:
+- "\U0001f60f %ship% Mas esses dois já se conhecem faz muito tempo... \U0001f60f"
+- "\U0001f60a %ship% Claro que os dois são um lindo casal! \U0001f60a"
+- "\U0001f61c %ship% Casal mais grudento que Despacito! \U0001f61c"
+- "\U0001f604 %ship% Se os dois já não namoram eu estaria surpresa! \U0001f604"
+value90:
+- "\U0001f60d %ship% Os dois se amam! \U0001f60d"
+- "\U0001f497 %ship% Casal mais perfeito? Impossível! \U0001f497"
+- "☠ %ship% Nem a *dona* morte separa! \U0001f602"
+- "\U0001f60b %ship% Casal mais perfeito que eu! \U0001f60b"
+- "\U0001f61a %ship% Casal? Casal que nada! Eles já são casados! \U0001f61a"
