@@ -2,3 +2,5 @@ files:
   - source: /default/*.yml
     translation: /%two_letters_code%/%original_file_name%
     ignore: [ "/translators.yml" ]
+  - source: /default/commands/*.yml
+    translation: /%two_letters_code%/commands/%original_file_name%
