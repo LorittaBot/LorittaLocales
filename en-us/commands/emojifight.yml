@@ -1,0 +1,10 @@
+description: "Make a emoji fight with your friends, the strongest emoji wins the fight!"
+fightDescription:
+- "**Price to join the fight** Nothing! It's a fight just for fun! {0}"
+- "**Reward:** Nothing! If you are searching rewards, go to `{1}emojifight bet`"
+- "**To join**, click the {2} *(30 player limit)*"
+- "The winner will be revealed when {3} clicks {4} or 60 seconds after the start of the fight or after there are 30 players in the match!"
+fightTitle: "Emoji Fight"
+needsMorePlayers: "Unfortunately, we had to cancel the fight due to a lack of players in the fight..."
+participants: "Players ({0}):"
+wonBet: "{1}'s {0} came out of the fight a winner! Thank you to all the emojis that fought in this match, they're now resting for the next one!"

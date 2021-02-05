@@ -1,0 +1,4 @@
+punishAction: "Unbanned"
+punishName: "unban"
+successfullyUnbanned: "Done, the user was unbanned! I just hope they doesn't break the rules again."
+userIsInTheGuild: "I know that it is very good to have that cheerful feeling that you have when you unban someone, but... the user that you tried to unban is already in the server!"

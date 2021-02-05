@@ -1,0 +1,6 @@
+common: "Warning"
+date: "Date"
+description: "Show the warnings a user has"
+nextPunishment: "In the next warning, the user will {0}!"
+title: "Warning List"
+userDoesntHaveWarns: "{0} does not have warnings!"

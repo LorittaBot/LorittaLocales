@@ -1,0 +1,6 @@
+banDoesNotExist: "This user is not banned!"
+description: "Check out the user's ban information!"
+reason: "Reason"
+title: "Ban information"
+user: "Banned user"
+userId: "User ID"

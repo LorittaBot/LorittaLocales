@@ -1,0 +1,5 @@
+description: "Rolls a dice and give its result, that''s perfect if you want to play Monopoly but you''re out of dices."
+howMuchSides: "How many sides will the dice I roll have"
+invalidBound: "I tried to roll the dice but... It's gone! I think it disappeared because you created an invalid dice... Tell me, how did you want me to roll it?"
+result: "rolled **{1}**... and got **{2}**!"
+tooMuchDices: "I tried to roll the dices but there are soooooo many that they didn't fit on my table and they fell to the floor and *poof*, it's gone! Please roll a maximum of 100 dices so that they do not fall again."

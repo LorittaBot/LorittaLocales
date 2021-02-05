@@ -1,0 +1,4 @@
+description: "Sometimes users that don't \"deserve\" to win do actually win your giveaways, so you can ask me to roll the dice again and pick up new winners!"
+giveawayHowToEnd: "{0}giveaway end {1}"
+giveawayStillRunning: "The giveaway you tried to roll new winners... well, the giveaway hasn't ended yet! If you are looking to end the giveaway, use {0}"
+rerolledGiveaway: "Okay! I rolled new winners for the giveaway you asked for, now you can rest without having to make that fake smile just because the member you hate has won."

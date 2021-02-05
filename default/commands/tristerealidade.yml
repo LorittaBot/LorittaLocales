@@ -1,0 +1,20 @@
+description: "Cria uma triste realidade com os membros do seu servidor... É, nem sempre a gente sai ganhando."
+slot:
+  theGuyYouLike:
+    MALE: "O CARA QUE VOCÊ GOSTA"
+    FEMALE: "A MINA QUE VOCÊ GOSTA"
+  theFather:
+    MALE: "O PAI {0}"
+    FEMALE: "A MÃE {0}"
+  theBrother:
+    MALE: "IRMÃO {0}"
+    FEMALE: "IRMÃ {0}"
+  theFirstLover:
+    MALE: "PRIMEIRO AMOR {0}"
+    FEMALE: "PRIMEIRO AMOR {0}"
+  theBestFriend:
+    MALE: "MELHOR AMIGO {0}"
+    FEMALE: "MELHOR AMIGA {0}"
+  you:
+    MALE: "VOCÊ"
+    FEMALE: "VOCÊ"

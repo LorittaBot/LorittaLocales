@@ -1,0 +1,9 @@
+currentRankPosition: "You are in **#{0,number,#} place** in the ranking, see other flaunts at `{1}`"
+description: "See how many Sonhos you have!"
+sonhos:
+  one: "sonho"
+  multiple: "sonhos"
+sonhosRankingCommand: "{0}sonhos top"
+userCurrentRankPosition: "And did you know that {0} is in **#{1,number,#} place** in the ranking? See other flaunts at `{2}`"
+userHasSonhos: "{0} has **{1,number,#} {2}**! {3}"
+youHaveSonhos: "You have **{0,number,#} {1}**! {2}"

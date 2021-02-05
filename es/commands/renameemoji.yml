@@ -1,0 +1,6 @@
+description: "Renombra un emoji"
+emoteNameLength2Error: "¡El nombre que desea renombrar tiene menos de 2 caracteres!"
+emoteNameLength32Error: "¡El nombre que desea renombrar tiene más de 32 caracteres!"
+emoteNameSpecialChar: "¡El nombre que desea renombrar tiene caracteres especiales!"
+emoteNotFound: "¡No se encontraron emoji!"
+renameSucess: "¡Emoji renombrado!"

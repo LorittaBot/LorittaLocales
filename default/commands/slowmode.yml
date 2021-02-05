@@ -1,0 +1,7 @@
+description: "Ativa o \"modo lento\" no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem. Se você quiser desativar o modo lento, use 0!"
+disabledInChannel: "{0} não está mais no modo lento!"
+enabledInChannel: "{0} agora está no modo lento! ({1} segundos)"
+examples:
+- "5 |-| Altera o modo lento do chat para 5 segundos"
+- "3 |-| Altera o modo lento do chat para 3 segundos, mostrando que é possível alterar o tempo para algo que não é possível colocar pelo Discord"
+- "69 |-| Altera o modo lento do chat para 69 segundos (nice)"

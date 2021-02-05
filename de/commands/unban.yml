@@ -1,0 +1,4 @@
+punishAction: "Desbanido"
+punishName: "desbanir"
+successfullyUnbanned: "Prontinho, o usuário foi desbanido! Só espero que ele não quebre as regras novamente."
+userIsInTheGuild: "Eu sei que é muito bom ter aquele sentimento alegre que você tem quando você desbane alguém, mas... o usuário que você tentou desbanir já está no servidor!"

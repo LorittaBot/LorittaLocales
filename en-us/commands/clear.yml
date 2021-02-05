@@ -1,0 +1,10 @@
+couldNotFindMessages: "I couldn't find any messages to be deleted... I can't delete messages that were sent more than two weeks ago due to Discord limitations!"
+description: "Clears the chat from the current text channel."
+examples:
+- "10"
+- "35 @MrPowerGamerBR"
+ignoredPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were pinned messages!"
+ignoredTooOldAndPinnedMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago and {2} messages could not be deleted because they were fixed messages!"
+ignoredTooOldMessages: "Chat cleaned by {0}, but {1} messages could not be deleted because they were sent more than 2 weeks ago!"
+invalidClearRange: "I can only clear between 2 and 1000 past messages!"
+success: "The chat was cleaned up by {0}!"

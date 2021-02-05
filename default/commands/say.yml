@@ -1,0 +1,12 @@
+cannotBeUsedIn: "Comandos não podem ser utilizados no {0}!"
+description: "Faça eu falar alguma coisa!"
+examples:
+- "A Loritta é muito bonita! |-| Envia uma mensagem no canal no qual o comando foi executado, e obrigada por me chamar de bonita!"
+- "#bate-papo Olá mundo! |-| Envia uma mensagem no canal que foi mencionado"
+- "297732013006389252 Olá mundo! |-| Envia uma mensagem em outro canal pelo ID do canal"
+# Needs to be single quoted due to the escaping
+- '{ \embed\: { \description\: \"Olá mundo\", \color\: -16727585 } } |-| Envia uma mensagem com embed usando o código JSON do embed'
+iDontHavePermissionToTalkIn: "Eu não tenho permissão para falar no {0}!"
+messageSentBy: "Mensagem enviada por {0}"
+messageSuccessfullySent: "Mensagem enviada no {0} com sucesso!"
+youDontHavePermissionToTalkIn: "Você não tem permissão para falar no {0}!"

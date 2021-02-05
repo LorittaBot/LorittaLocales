@@ -1,0 +1,5 @@
+noWarnsFound: "The user doesn't have any warns to remove! Psst, did you know that you can see the warn list of an user with {0}?"
+notEnoughWarns: "The user has less than **{0}** warnings! Hey, did you know that you can see the list of warnings of a user with {1}?"
+punishAction: "Warn Removed"
+punishName: "remove a warning"
+warnRemoved: "Alright, the user had a warn removed! It would be nice if they read the server rules before they get punished again, right?"

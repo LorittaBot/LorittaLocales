@@ -1,0 +1,3 @@
+description: "Create an one-word anagram!"
+result: "**Your anagram is...** `{0}`"
+stats: "The word `{0}` has **{1} different anagrams**!"

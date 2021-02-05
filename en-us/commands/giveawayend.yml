@@ -1,0 +1,8 @@
+channelDoesNotExist: "The giveaway channel does not exist!"
+description: "\"My God, the giveaway will take too long to end!\" you exclaim, with a desperate tone, \"Lori help me, my members will be angry if I have to do another giveaway!\". Finish it earlier, to avoid the horde of members complaining that you put the wrong time!"
+finishedGiveaway: "Ready! I finished the giveaway you asked for, now you can rest without having to endure the horde of members shouting \"You created the giveaway with wrong time!\""
+giveawayAlreadyEnded: "The giveaway you tried to finish... well, it's already ended! If you are looking to get new winners, use {0}"
+giveawayDoesNotExist: "The giveaway you asked for does not exist. See if you got the right giveaway message link and try again!"
+giveawayHowToReroll: "{0}giveaway reroll {1}"
+giveawayInvalidArguments: "You did not link a giveaway message! You can copy the message link by the actions menu on the message (by right clicking on it, clicking on the menu or holding the message with your finger), in the same place where you can delete and pin messages. For your reference, a link to a message looks like this: {0}"
+messageDoesNotExist: "The giveaway message does not exist!"

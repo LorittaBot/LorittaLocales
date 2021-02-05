@@ -1,0 +1,6 @@
+common: "Aviso"
+date: "Data"
+description: "Mostra os avisos que um usuário possui"
+nextPunishment: "No próximo aviso, o usuário será {0}!"
+title: "Lista de Avisos"
+userDoesntHaveWarns: "{0} não possui avisos!"

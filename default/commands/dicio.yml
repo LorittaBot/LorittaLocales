@@ -1,0 +1,3 @@
+description: "Procure o significado de uma palavra no dicionário!"
+examples:
+- "sonho |-| Procura o significado de \"sonho\" no dicionário"

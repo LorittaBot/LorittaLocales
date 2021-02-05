@@ -1,0 +1,8 @@
+active: "Active"
+channelInvite: "Invite Channel"
+description: "Shows information about a Discord invite"
+doesntExists: "Invite `{0}` doesn't exist!"
+inThisServer: "Yes, I'm in the server!"
+none: "None..."
+notOnTheServer: "Sadly I'm not in the server..."
+whoInvited: "Who invited"

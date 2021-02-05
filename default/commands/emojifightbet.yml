@@ -1,0 +1,11 @@
+description: "Faça uma rinha de emojis com os seus amigos valendo sonhos, o emoji mais forte ganha a rinha!"
+examples:
+- "100 |-| Aposta 100 sonhos na rinha, todos os usuários terão que pagar 100 sonhos para entrar na rinha"
+- "2500 |-| Aposta 2500 sonhos na rinha, todos os usuários terão que pagar 2500 sonhos para entrar na rinha"
+fightDescription:
+- "**Preço para participar da rinha:** {0} sonhos"
+- "**Prêmio:** {1} sonhos"
+- "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
+- "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+wonBet: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** e os {4} perdedores perderam {5} sonhos!"
+wonBetTaxed: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** ({3} de taxa) e os {4} perdedores perderam {5} sonhos!"

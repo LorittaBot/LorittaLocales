@@ -1,0 +1,3 @@
+description: "Change whether you prefer that punishments are applied directly or whether they should have a confirmation before punishing!"
+disabled: "Quick punishments are now disabled! While punishing an user, you will need to confirm if you really want to punish that user or not... at least you can now avoid that remorse when punishing someone that didn't had to get that punishment."
+enabled: "Quick punishments are now active! While punishing an user, I will not even ask if you really want to punish the user, it will punish without even caring about!... just don't complain to me after you punished someone you didn't mean to, okay?"

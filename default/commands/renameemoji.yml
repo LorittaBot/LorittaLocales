@@ -1,0 +1,10 @@
+description: "Renomeia um emoji"
+emoteNameLength2Error: "O nome que você quer renomear é menor do que 2 caracteres!"
+emoteNameLength32Error: "O nome que você quer renomear é maior do que 32 caracteres!"
+emoteNameSpecialChar: "O nome que você quer renomear tem caracteres especiais!"
+emoteNotFound: "Nenhum emoji encontrado!"
+examples:
+- ":gesso: gessy |-| Renomeia um emoji pela menção"
+- "524938593475756042 sad_gesso |-| Renomeia um emoji pelo ID"
+- "gesso_cat sad_gesso |-| Renomeia um emoji pelo nome"
+renameSucess: "Emoji renomeado!"

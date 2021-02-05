@@ -1,0 +1,3 @@
+description: "Use esse comando para atacar alguém"
+response: "**{0} atacou {1}!**"
+responseAntiIdiot: "**Como ousa tentar fazer isso comigo? **{0} atacou {1}!"

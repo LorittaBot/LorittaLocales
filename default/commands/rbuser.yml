@@ -1,0 +1,13 @@
+couldntFind: "Não consegui encontrar um usuário chamado `{0}`..."
+description: "Pesquisa informações sobre um jogador do Roblox"
+examples:
+- "cazum8"
+- "lol738236"
+favoriteGames: "Jogos Favoritos"
+followers: "Seguidores"
+following: "Seguindo"
+friends: "Amigos"
+joinDate: "Entrou em"
+placeVisits: "Vistas de usuários"
+robloxId: "ID do Roblox"
+social: "Social"

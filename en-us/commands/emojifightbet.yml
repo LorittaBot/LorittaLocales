@@ -1,0 +1,8 @@
+description: "Make a emoji battle with your friends betting sonhos, the strongest emoji wins the battle!"
+fightDescription:
+- "**Price to join the fight:** {0} sonhos"
+- "**Prize:** {1} sonhos"
+- "**To join**, click the {2} *(30 player limit)*"
+- "The winner will be revealed when {3} clicks {4} or 60 seconds after the start of the fight or after there are 30 players in the match!"
+wonBet: "{1}'s {0} came out of the fight a winner! As a reward, **{1} won {2} sonhos** and the {4} losers lost {5} sonhos!"
+wonBetTaxed: "{1}'s {0} came out of the fight a winner! As a reward, **{1} won {2} sonhos** ({3} in fees) and the {4} losers lost {5} sonhos!"

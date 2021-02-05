@@ -1,0 +1,9 @@
+currentRankPosition: "Estás en **#{0,number,#}** en el ranking, mira otros alardes en `{1}`"
+description: "¡Mire quantos sueños usted tiene!"
+sonhos:
+  one: "sueño"
+  multiple: "sonhos"
+sonhosRankingCommand: "{0}sonhos top"
+userCurrentRankPosition: "¿Y sabías que {0} está en ** #{1,number,#} ** en la clasificación? Ver otros alardes en `{2}`"
+userHasSonhos: "{0}tiene **{1,number,#} {2}**! {3}"
+youHaveSonhos: "Tú tienes **{0,number,#} {1}**! {2}"

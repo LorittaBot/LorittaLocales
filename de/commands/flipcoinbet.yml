@@ -1,0 +1,7 @@
+cantBetSelf: "Como você vai apostar com si mesmo? No final você vai ganhar uns belos... nada!"
+congratulations: "Parabéns {0}, você ganhou **{1} sonhos**! Financiado por {2} rsrs"
+description: "O clássico \"Gire uma moeda e veja se irá cair cara ou coroa!\", mas agora envolvendo sonhos! Não me responsabilizo se você perder tudo em apostas"
+notEnoughMoneyInvited: "{0} não tem sonhos suficientes para a sua aposta..."
+notEnoughMoneySelf: "Como você vai apostar uma quantidade que você não tem? Aposte menos se você não quer apostar algo que você nem tem!"
+startBet: "{0}, {1} quer fazer uma aposta com você! Se cair **{2}**, você irá ganhar **{3} sonhos**, se cair **{4}**, {1} irá ganhar **{3} sonhos**! E aí, vai encarar?"
+zeroMoney: "Wow, que legal! Você vai apostar *nada*, impressionante!"

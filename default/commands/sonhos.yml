@@ -1,0 +1,12 @@
+currentRankPosition: "Você está em **#{0,number,#} lugar** no ranking, veja outros ostentadores em `{1}`"
+description: "Veja quantos sonhos você tem!"
+examples:
+- "@Loritta |-| Mostra os sonhos da pessoa mais afortunada do planeta terra!"
+- "395935916952256523 |-| Mostra os sonhos de um usuário pelo ID"
+sonhos:
+  one: "sonho"
+  multiple: "sonhos"
+sonhosRankingCommand: "{0}sonhos top"
+userCurrentRankPosition: "E sabia que {0} está em **#{1,number,#} lugar** no ranking? Veja outros ostentadores em `{2}`"
+userHasSonhos: "{0} tem **{1,number,#} {2}**! {3}"
+youHaveSonhos: "Você tem **{0,number,#} {1}**! {2}"

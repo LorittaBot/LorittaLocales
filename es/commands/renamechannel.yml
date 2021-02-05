@@ -1,0 +1,5 @@
+cantRename: "Não consegui renomear o canal..."
+channelConflict: "Existem dois canais com o mesmo nome (ou parecido) com tipos diferentes, tente usar ID (ou menção do canal) invés de usar nome de canal!"
+channelNotFound: "Canal não encontrado! (Tentei procurar por nome de canal, ID e menção de canal e eu não encontrei nada!)"
+description: "Renomeia canais de texto com espaço (também pode renomear canais de voz)"
+successfullyRenamed: "Canal renomeado com sucesso!"

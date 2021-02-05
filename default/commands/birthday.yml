@@ -1,0 +1,5 @@
+description: "Altera a sua data de nascimento"
+invalidDate: "Data de nascimento inválida! Lembre-se, a data precisa estar no formato `dia/mês/ano`!"
+invalidDateYearTooNew: "Data de nascimento inválida! Então... sabia que você precisa ter no mínimo 13 anos para poder utilizar o Discord? Está nos termos de uso e você pode ser suspenso do Discord caso você tenha menos que 13 anos!"
+invalidDateYearTooOld: "Data de nascimento inválida! Eu dúvido que você tenha nascido nessa data, já tomou os remédios hoje, vovôzinho?"
+successfullyChanged: "Sua data de nascimento foi alterada com sucesso!"

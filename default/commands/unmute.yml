@@ -1,0 +1,12 @@
+automaticallyExpired: "Após muito tempo silenciado... o usuário finalmente aprendeu a falar novamente! Espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"
+description: "Remove o silenciamento de um usuário do seu servidor"
+examples:
+- "@Loritta |-| Remove o silenciamento pela menção... mas porque você me mutou?"
+- "159985870458322944 |-| Remove o silenciamento do usuário pelo ID"
+- "213466096718708737 Se arrepender e aprender com seus erros |-| Remove o silenciamento do usuário pelo ID e com um motivo"
+- "271394014358405121 270904126974590976 234395307759108106 Se arrepender e aprender com seus erros |-| Remove o silenciamento de vários usuários pelo ID e com um motivo"
+- "172002275412279296 Se arrepender e aprender com seus erros | f |-| Remove o silenciamento do usuário pelo ID, com um motivo e não pede a confirmação da punição"
+- "235148962103951360 Se arrepender e aprender com seus erros | s |-| Remove o silenciamento do usuário pelo ID, com um motivo e não notifica a punição"
+punishAction: "Retirado o Silenciamento"
+punishName: "remover o silenciamento"
+successfullyUnmuted: "O usuário aprendeu a falar novamente, espero que dessa vez ele fale coisas interessantes e legais para que não seja silenciado de novo!"

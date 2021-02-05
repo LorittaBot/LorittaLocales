@@ -1,0 +1,6 @@
+description: "Renames an emoji"
+emoteNameLength2Error: "The name you chose is less than 2 characters long!"
+emoteNameLength32Error: "The name you chose is more than 32 characters long!"
+emoteNameSpecialChar: "The name you chose has special characters!"
+emoteNotFound: "No emoji was found!"
+renameSucess: "Emoji renamed!"

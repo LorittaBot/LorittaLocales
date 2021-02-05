@@ -1,0 +1,6 @@
+description: "Edita o XP de um usuário, caso você queira resetar o XP de todos os usuários, vá nas configurações no meu painel!"
+examples:
+- "@Loritta 1000 |-| Altera o XP da pessoa mais ativa do Brasil para 1000"
+- "123170274651668480 69420 |-| Altera o XP de um usuário pelo ID para 69420 (nice)"
+moreThanZero: "XP precisa ser maior que 0!"
+success: "XP de {0} foi alterado com sucesso!"

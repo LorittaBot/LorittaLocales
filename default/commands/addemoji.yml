@@ -1,0 +1,5 @@
+description: "Adiciona emojis no seu servidor a partir do link da imagem dele. Perfeito se você está cansado de ficar baixando imagens para o seu computador só para adicionar no servidor!"
+emoteTooBig: "O emoji é grande demais! O Discord permite emojis de, no máximo, {0}."
+error: "Não consegui adicionar este emoji! Desculpe pela incoveniência. :sob:"
+limitReached: "O limite de emojis (50 emojis) já foi batido!"
+success: "Emoji adicionado com sucesso!"

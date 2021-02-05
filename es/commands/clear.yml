@@ -1,0 +1,11 @@
+couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
+description: "Limpa o chat do canal de texto atual."
+examples:
+- "10"
+- "35 @MrPowerGamerBR"
+ignoredPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+ignoredTooOldAndPinnedMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas e {2} mensagens não puderam ser deletadas porque eram mensagens fixadas!"
+ignoredTooOldMessages: "Chat limpo por {0}, porém {1} mensagens não puderam ser deletadas por serem enviadas a mais de 2 semanas!"
+invalidClearRange: "Eu só consigo limpar entre 2 até 100 mensagens passadas!"
+success: "Chat limpo por {0}!"
+sucess: "Chat limpo por {0}!"

@@ -1,7 +1,0 @@
----
-commands:
-  music:
-    lyrics:
-      description: "¿Estás con vergüenza pues olvidaste la letra de su música favorita? ¿Tentando entender o que están cantando en la música que estás a escuchar? ¡Entonces pregunta-me cuál es la letra de la música!"
-      couldntFind: "Yo no pude encontrar la letra de esta música..."
-      sorryForTheInconvenience: "Disculpe por la inconveniencia..."

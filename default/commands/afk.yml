@@ -1,0 +1,7 @@
+afkOff: "Modo AFK desativado!"
+afkOn: "Modo AFK ativado! Para a sua conveniência, o modo AFK será automaticamente desativado quando você falar algo no chat! \U0001f609"
+description: "Irá ficar um tempo longe do teclado? Então ative o modo AFK para que todos saibam que você não poderá responder a mensagem!"
+examples:
+- "|-| Marca que você está fora do teclado e, ao te marcarem, irá aparecer que você está AFK"
+- "almoço |-| Marca que você está fora do teclado e, ao te marcarem, irá aparecer que você está AFK almoçando"
+- "cagando |-| Marca que você está fora do teclado e, ao te marcarem, irá aparecer que você está AFK cagando... ah, finalmente paz no banheiro!"
