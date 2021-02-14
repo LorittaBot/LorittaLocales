@@ -26,6 +26,11 @@ commands:
       name: "Vídeos"
       description:
         - "Comandos relacionados a Vídeos"
+
+    minecraft:
+      name: "Minecraft"
+      description:
+        - "Comandos relacionados ao Minecraft"
       unknownPlayer: "`{0}` não é um player válido!"
       skinPlayerNameExamples:
         - "Loritta |-| Usa a skin da pessoa mais bela que existe!"
@@ -40,11 +45,6 @@ commands:
         - "AuthenticGames |-| Usa a conta \"AuthenticGames\""
         - "rezendeevil |-| Usa a conta \"rezendeevil\", a conta do Rezende. Sabia que ele é amigo de uma raposa?"
 
-    minecraft:
-      name: "Minecraft"
-      description:
-        - "Comandos relacionados ao Minecraft"
-    
     pokemon:
       name: "Pokémon"
       description:
