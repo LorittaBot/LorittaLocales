@@ -1,6 +1,14 @@
 # This file stores all the locales related to command categories (names and descriptions) and locale keys used by multiple commands in the category 
 commands:
   category:
+    # Not a real category
+    all:
+      name: "Todos"
+      description:
+        - "Boas-vindas a minha lista de comandos! Aqui você poderá ver as informações, explicações, exemplos e muito mais sobre todos os comandos que eu tenho."
+        - "Lembrando que o meu prefixo padrão em servidores é {0}, prefixo é algo que vem antes de todos os comandos que você quiser executar como, por exemplo: {1}"
+        - "Você pode ver o meu prefixo em qualquer servidor me mencionando em um canal de texto!"
+
     fun:
       name: "Diversão"
       description:
