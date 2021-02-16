@@ -1,0 +1,13 @@
+---
+abilities: "Skills"
+addedInGen: "Added in Generation"
+baseExp: "Base EXP"
+baseHappiness: "Base Happiness"
+captureRate: "Capture Rate"
+description: "Search information about a Pokémon"
+effortPoints: "Effort Points"
+evolutions: "Evolutions"
+growthRate: "Growth rate"
+number: "Pokédex Number"
+training: "Training"
+types: "Types"
