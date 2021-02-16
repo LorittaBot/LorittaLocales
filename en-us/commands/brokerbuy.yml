@@ -1,0 +1,7 @@
+---
+baseExample: "{0}broker"
+description: "Buy shares with sonhos with Loritta's Home Broker"
+notEnoughMoney: "You don't have enough sonhos to buy the stock!"
+successfullyBought: "You purchased **{0} {1}** from `{2}`! Now just keep an eye on `{3}` to see if it is worth selling your shares or not! Good luck!!"
+tooManyStocks: "You already have too many stocks! You can have, at most, {0} stocks."
+zeroValue: "Wow, how nice! You are going to buy *zero* stocks, awesome!"
