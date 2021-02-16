@@ -1,5 +1,7 @@
+---
 accountCreated: "Account created at"
 accountJoined: "Joined at"
+badges: "Badges"
 boostingSince: "Boosting since"
 description: "See the information of an user!"
 discordId: "Discord ID"
