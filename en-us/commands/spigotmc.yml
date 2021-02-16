@@ -1,1 +1,10 @@
+---
+contributors: "Contributors"
+couldntFind: "Couldn't find anything related to `{0}`!"
 description: "Search plugins in SpigotMC"
+download: "Download"
+downloads: "Downloads"
+lastUpdated: "Last update"
+released: "Created at"
+results: "Results for `{0}`"
+testedVersions: "Tested Versions"
