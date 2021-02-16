@@ -1,0 +1,14 @@
+---
+active: "Active"
+channelInvite: "Invite Channel"
+description: "Shows information about a Discord invite"
+doesntExists: "Invite `{0}` doesn't exist!"
+examples:
+  - "V7Kbh4z |-| Shows an invitation's information by code"
+  - "https://discord.gg/ZWt5mKB |-| Shows an invitation's information via the link"
+  - "https://discord.com/invite/jjjM5tPwS9 |-| Shows the information for an invitation over the long link"
+  - "sparklypower |-| Shows the information of an invite by the custom URL"
+inThisServer: "Yes, I'm in the server!"
+none: "None..."
+notOnTheServer: "Sadly I'm not in the server..."
+whoInvited: "Who invited"
