@@ -1,0 +1,21 @@
+---
+description: "Creates a new and sad reality with members of the server... Yeah, not always we win."
+slot:
+  theGuyYouLike:
+    MALE: "THE GUY YOU LIKE"
+    FEMALE: "THE GIRL YOU LIKE"
+  theFather:
+    MALE: "{0} FATHER"
+    FEMALE: "{0} MOTHER"
+  theBrother:
+    MALE: "{0} BROTHER"
+    FEMALE: "{0} SISTER"
+  theFirstLover:
+    MALE: "{0} FIRST LOVE"
+    FEMALE: "{0} FIRST LOVE"
+  theBestFriend:
+    MALE: "{0} BEST FRIEND"
+    FEMALE: "{0} BEST FRIEND"
+  you:
+    MALE: "YOU"
+    FEMALE: "YOU"
