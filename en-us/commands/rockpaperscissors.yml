@@ -1,0 +1,16 @@
+---
+chosen: "You chose {0}, I chose {1}"
+description: "Play Rock, Paper or Scissors!"
+draw: "Tie! What about a rematch?"
+examples:
+  - "rock |-| Play Rock on the game, good luck!"
+  - "paper |-| Play Paper on the game, good luck!"
+  - "scissors |-| Play Scissors on the game, good luck!"
+invalidChoice: "What a pity... You lost, next time choose something that is valid, ok?"
+jesusChrist: "JESUS CHRIST"
+lose: "What a pity... You lost, but what counts is that you tried!"
+maybeDraw: "Tie...?"
+paper: "paper"
+rock: "rock"
+scissors: "scissors"
+win: "Congrats, you win!"
