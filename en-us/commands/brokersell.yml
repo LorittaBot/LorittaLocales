@@ -1,0 +1,9 @@
+---
+boughtStocksWhileSelling: "You bought or sold shares of this ticker while this action was pending! Try again and sorry for the inconvenience!"
+description: "Sell ​​shares for Loritta's sonhos"
+notEnoughStocks: "You do not have enough `{0}` shares to sell!"
+successfullySold: "You sold **{0} {1}** of `{2}`! {3}"
+successfullySoldLoss: "With the sale, you **lost {0} sonhos (loss of {1} sonhos)**! We can't win every day... Always keep an eye on `{1}` to find out if it's worth selling!"
+successfullySoldNeutral: "You did not won or lost anything with your sale."
+successfullySoldProfit: "With the sale, you **earned {0} sonhos (profit from {1} sonhos)**!"
+zeroValue: "Wow, how nice! You are going to sell *zero* stocks, awesome!"
