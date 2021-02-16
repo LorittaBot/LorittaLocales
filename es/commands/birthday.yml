@@ -1,3 +1,4 @@
+---
 description: "Cambia tu fecha de nacimiento"
 invalidDate: "¡Fecha de nacimiento Inválida! ¡Recuerda, la fecha debe estar en el formato `día/mes/año`!"
 invalidDateYearTooNew: "¡Fecha de nacimiento Inválida! Pues... ¿Sabes que se necesita mínimo 13 años para poder utilizar Discord? ¡Está en los términos y condiciones y puedes tener tu cuenta suspendida si tienes menos que 13 años!"
