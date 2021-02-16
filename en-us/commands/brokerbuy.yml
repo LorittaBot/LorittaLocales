@@ -1,3 +1,4 @@
+---
 baseExample: "{0}broker"
 description: "Buy shares with sonhos with Loritta's Home Broker"
 notEnoughMoney: "You don't have enough sonhos to buy the stock!"
