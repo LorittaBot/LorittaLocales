@@ -1,0 +1,3 @@
+---
+couldntFind: "I didn't find object `{0}` on Correios's database!"
+description: "Shows the status of a postal order, works with Correios (Brazil) and CTT (Portugal)"
