@@ -1,3 +1,4 @@
-description: "Olha o novo jogo que @GuilhermeBriggs comprou!"
+---
+description: "¡Mira el nuevo juego que compró @GuilhermeBriggs!"
 examples:
-- "@Loritta"
+  - "@Loritta"
