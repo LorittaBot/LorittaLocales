@@ -1,3 +1,9 @@
+---
+description: "Unbans a member from your server, you can customize the actions of this command (if the punishment should be sent in the user's DMs, punishment logs, among other things) in [my website](https://loritta.website/dashboard/)!"
+examples:
+  - "15998587048322944"
+  - "15998587048322944 They told they were sorry for what happened, and they promised that it wouldn't happen again."
+  - "395935916952256523 I banned you on accident, sorry!"
 punishAction: "Unbanned"
 punishName: "unban"
 successfullyUnbanned: "Done, the user was unbanned! I just hope they doesn't break the rules again."
