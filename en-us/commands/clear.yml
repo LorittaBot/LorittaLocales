@@ -1,0 +1,13 @@
+---
+couldNotFindMessages: "I couldn't find any messages to be deleted... I can't delete messages that were sent more than two weeks ago due to Discord limitations!"
+description: "Clears the chat from the current text channel."
+examples:
+  - "10"
+  - "35 @MrPowerGamerBR"
+invalidClearRange: "I can only clear between 2 and 1000 past messages!"
+invalidTextFilter: "The inserted text filter is invalid!"
+invalidUserFilter: "I searched everywhere, but I didn't find any user that is similar to the one entered! Remember, I search users by ID, mentions and names."
+operationQueued: "There is a message purge already active, please wait the active operation to be finished before using the command again."
+success: "The chat was cleaned up by {0}!"
+successButIgnoredMessages: "However, {0} messages were ignored because they are too old, pinned messages or do not follow the defined filter."
+targetOption: "of"
