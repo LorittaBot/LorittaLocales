@@ -1,0 +1,4 @@
+---
+description: "Obtener el UUID de un usuario"
+invalid: "¡Jugador no encontrado!  ¿Tienes certeza que `{0}` es una cuenta válida?"
+result: "La UUID de `{0}`: `{1}`"
