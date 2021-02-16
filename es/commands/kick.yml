@@ -1,2 +1,4 @@
-punishAction: "Expulso"
+---
+description: "¡Expulsa a un usuario de su servidor, puede personalizar las acciones de este comando (como enviar el motivo del castigo a través de mensaje directo, enviar el castigo en un canal, entre otras cosas) en [mi website] (https://loritta.website/dashboard/)!"
+punishAction: "Prohibir"
 punishName: "expulsar"
