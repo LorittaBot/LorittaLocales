@@ -1,1 +1,5 @@
-description: "Gostou do meu lindo moletom? Quer colocar o moletom em uma skin do Minecraft? Então use este comando!"
+---
+description: "¿Te gustó mi hermosa sudadera? ¿Quieres poner la sudadera en una skin de Minecraft? ¡Entonces usa este comando!"
+done: "¡Listo! Ahora es bajar su nueva skin con mi guapa sudadera y divierte!"
+invalidSkin: "¡Esto no es una skin válida! ¡Una skin válida posee `64x32` de tamaño (formato 1.8) o `32x32` de tamaño (formato 1.7)!"
+uploadToMojang: "¡Si tienes una cuenta en Minecraft original, clic en enlace para mandar automáticamente su skin para tu cuenta!"
