@@ -1,3 +1,4 @@
+---
 description: "Usa este comando para besar alguien"
 response: "** {0} besó {1}! **"
 responseAntiIdiot: "No, no quiero besarte... ¡pero todavía me gustas como amigx!"
