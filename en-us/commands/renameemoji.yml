@@ -1,0 +1,11 @@
+---
+description: "Renames an emoji"
+emoteNameLength2Error: "The name you chose is less than 2 characters long!"
+emoteNameLength32Error: "The name you chose is more than 32 characters long!"
+emoteNameSpecialChar: "The name you chose has special characters!"
+emoteNotFound: "No emoji was found!"
+examples:
+  - ":gesso: gessy |-| Renames an emoji by mention"
+  - "524938593475756042 sad_gesso |-| Renames an emoji by ID"
+  - "gesso_cat sad_gesso |-| Renames an emoji by name"
+renameSucess: "Emoji renamed!"
