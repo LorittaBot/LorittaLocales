@@ -1,4 +1,5 @@
-description: "As vezes os seus sorteios caem aqueles usuários que não \"merecem\" vencer o sorteio, e por isso você pode pedir para que eu gire os dados novamente e pegue novos vencedores!"
+---
+description: "¡Algunas veces tus sorteos recaen en aquellos usuarios que no \"merecen\" ganar el sorteo, por lo que puedes pedirme que tire los dados nuevamente y obtenga nuevos ganadores!"
 giveawayHowToEnd: "{0}giveaway end {1}"
-giveawayStillRunning: "O sorteio que você tentou rolar novos vencedores... bem, ainda está rolando! Se você está querendo finalizar o sorteio, utilize {0}"
-rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
+giveawayStillRunning: "El sorteo que intentó rodar nuevos ganadores... bueno, ¡sigue rodando! Si está buscando terminar el sorteo, use {0}"
+rerolledGiveaway: "¡Listo! Puse nuevos ganadores para el sorteo que pediste, ahora puedes descansar tranquilo sin tener que hacer esa sonrisa falsa solo porque el miembro que odias ha ganado."
