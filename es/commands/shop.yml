@@ -1,5 +1,6 @@
-creatorCode: "Código de Criador: {0}"
-dailyItems: "Itens Diários"
-description: "Mostra a loja do Fortnite: Battle Royale"
-featuredItems: "Itens em Destaque"
+---
+creatorCode: "Código del Creador: {0}"
+dailyItems: "Artículos Diarios"
+description: "Eneña la tienda de Fortnite: Battle Royale"
+featuredItems: "Artículos Destacados"
 localeId: "ptbr"
