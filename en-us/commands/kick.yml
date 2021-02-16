@@ -1,0 +1,4 @@
+---
+description: "Kicks a member from your server, you can customize the actions of this command (if the punishment should be sent in the user's DMs, punishment logs, among other things) in [my website](https://loritta.website/dashboard/)!"
+punishAction: "Kicked"
+punishName: "kick"
