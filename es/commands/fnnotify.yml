@@ -1,0 +1,9 @@
+---
+description: "Averigüe cuándo un artículo regresa a la tienda diaria de Fortnite: Battle Royale"
+howToAddOrRemove: "Para agregar o quitar un elemento de su lista de elementos, use {0}"
+howToAddOrRemoveCommand: "{0} notificar el nombre del elemento"
+itemsThatYouWantToBeNotified: "Elementos que me pediste que te notificara"
+notInItemShop: "¡El artículo que intentaste colocar no se vende en la tienda Fortnite! Solo notifico los artículos que están en la rotación diaria de la tienda de artículos, ya que colocar para notificar elementos de pases de batalla anteriores o promocionales sería completamente inútil como intentar beber Coca-Cola Zero mientras comes una hamburguesa gigante solo porque quieres \"perder peso\"."
+removedTrack: "Ha eliminado {0} de la lista de elementos de los que desea recibir notificaciones."
+trackingSuccess: "Se le notificará en sus mensajes directos cuando {0} regrese a la tienda. ¡No olvide verificar si sus DM están activados para que no se pierda la notificación!"
+upcomingItem: "Pero ojo, te has colocado para ser notificado sobre un artículo que aún no ha sido lanzado, todavía no sé si estará en la tienda de artículos o si se usará en alguna promoción, paquete de inicio o pase!"
