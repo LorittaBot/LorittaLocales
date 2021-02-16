@@ -1,3 +1,6 @@
+---
+couldntEditChannel: "I couldn't create the role permissions needed to mute people in the {0} channels, I probably don't have permission to manage the channel permissions there, to fix it, change those channel's permissions and try to mute someone again!"
+description: "Mutes a user for a set period of time"
 duration: "Duration"
 forever: "Forever"
 negativeTime: "The time you gave me is now in the past! Maybe you're a time traveler (if you are, please tell me if I'm famous in the future!) or the time it took me to get your message was longer than the time you requested to silence the user... Anyway, sorry for the inconvenience."
