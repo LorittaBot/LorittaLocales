@@ -1,9 +1,10 @@
+---
 description: "Haz una pelea de emojis con tus amigos, ¡el emoji más fuerte gana la fila!"
 fightDescription:
-- "**Precio para participar en la pelea:** ¡Nada! ¡Es una pelea solo por diversión! {0}"
-- "**Premio:** ¡Nada! Si está buscando premios, vaya a `{1} emojifight bet`"
-- "**Para participar**, haz clic en {2}! *(Límite de 30 jugadores)*"
-- "¡El ganador será revelado cuando {3} haga clic {4} o después de que hayan pasado 60 segundos desde el comienzo de la pelea o cuando haya 30 jugadores en el juego!"
+  - "**Precio para participar en la pelea:** ¡Nada! ¡Es una pelea solo por diversión! {0}"
+  - "**Premio:** ¡Nada! Si está buscando premios, vaya a `{1} emojifight bet`"
+  - "**Para participar**, haz clic en {2}! *(Límite de 30 jugadores)*"
+  - "¡El ganador será revelado cuando {3} haga clic {4} o después de que hayan pasado 60 segundos desde el comienzo de la pelea o cuando haya 30 jugadores en el juego!"
 fightTitle: "Pelea de emojis"
 needsMorePlayers: "Desafortunadamente, tuvimos que cancelar la lucha debido a la falta de usuarios en la pelea..."
 participants: "Participantes ({0}):"
