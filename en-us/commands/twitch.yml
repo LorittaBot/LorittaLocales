@@ -1,0 +1,10 @@
+---
+couldntFind: "Couldn't find anything related to `{0}`!"
+description: "Search information about a Twitch channel"
+examples:
+  - "mrpowergamerbr |-| Shows information about \"mrpowergamerbr\" Twitch channel"
+  - "ninja |-| Shows information about \"ninja\" Twitch channel"
+  - "sypherpk |-| Shows information about \"sypherpk\" Twitch channel"
+  - "callmekevin |-| Shows information about \"callmekevin\" Twitch channel"
+  - "coloniacontraatacalive |-| Shows information about \"coloniacontraatacalive\" Twitch channel"
+views: "Views"
