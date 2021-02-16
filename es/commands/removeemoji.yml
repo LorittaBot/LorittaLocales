@@ -1,3 +1,3 @@
+---
 description: "Elimina un emoji de su servidor"
-noEmojiRemoved: "No se ha eliminado ningún emoji de tu lista de emojis... \U0001f62d ¿Estás seguro de que estos emojis son de este servidor?"
 success: "{0} {1} se han eliminado correctamente!"
