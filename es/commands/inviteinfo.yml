@@ -1,7 +1,13 @@
+---
 active: "Activo"
 channelInvite: "Canal de invitación"
 description: "Muestra información sobre una invitación de Discord"
 doesntExists: "¡La invitación `{0}` no existe!"
+examples:
+  - "V7Kbh4z |-| Muestra las informaciones de una invitación por el código"
+  - "https://discord.gg/ZWt5mKB |-| Muestra las informaciones de una invitación por el link"
+  - "https://discord.com/invite/jjjM5tPwS9 |-| Muestra las informaciones de una invitación por el link largo"
+  - "sparklypower |-| Muestra las informaciones de una invitación por la URL personalizada"
 inThisServer: "Sí, estoy en el servidor!"
 none: "Ninguna..."
 notOnTheServer: "Lamentablemente no estoy en el servidor..."
