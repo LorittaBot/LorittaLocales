@@ -1,0 +1,17 @@
+---
+bugsDoesntExist: "The \"coin flip bug\" doesn't exist, and those who believe it does are people who never had a probability and statistics class! <https://youtu.be/OyddY7DlV58>"
+description: "See the statistics of people who bet sonhos by flipping a coin, and get lectured on how it's good to learn about probability and statistics and on how there aren't any bugs that will make you to win!"
+examples:
+  - "|-| View your coin spin betting statistics"
+  - "@Loritta |-| View coin spin betting statistics for the luckiest person who has ever bet!"
+  - "236167700777271297 |-| View a user's coin spin betting statistics by ID"
+lostMatches: "**Defeats ({0,number,#.##%}):** {1}"
+lostSonhos: "**Lost sonhos:** {0}"
+playedMatches: "**Played Matches:** {0}"
+playerHasNeverPlayed: "The user has never played a coin flip betting match!"
+probabilityExplanation: "According to statistics, the more times the user plays, the closer to 50% the wins/losses will be."
+statsOfUser: "**{0}'s Statistics**"
+totalSonhos: "**Total sonhos:** {0}"
+wonMatches: "**Victories ({0,number,#.##%}):** {1}"
+wonSonhos: "**Won sonhos:** {0}"
+yourStats: "**Your Statistics**"
