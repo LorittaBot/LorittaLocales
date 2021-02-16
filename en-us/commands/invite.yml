@@ -1,0 +1,8 @@
+---
+info: "Sends the invite link to add me to others servers!"
+inviteInfo:
+  - "Do you want to add me to other Discord guilds/servers? Then click [here]({0}) to add me to another server!"
+  - ""
+  - "If you want to configure something (like my prefix, active commands, etc), then go to my administration dashboard clicking [here]({1})!"
+  - ""
+  - "And, of course, join my guild to give suggestions, report bugs and more! {2}"
