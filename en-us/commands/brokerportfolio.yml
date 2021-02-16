@@ -1,0 +1,4 @@
+---
+description: "See your portfolio of shares that you bought through Loritta's Home Broker"
+title: "Your Stock Portfolio"
+youHaveStocksInThisTicker: "You have **{0} {1}** in this ticker. You spent **{2} sonhos** on this ticker, if you sold all the shares in this ticker now, you would earn **{3} sonhos ({4})**"
