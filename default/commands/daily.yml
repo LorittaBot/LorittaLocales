@@ -3,3 +3,5 @@ dailyLinkBuySonhos: "Psiu, você está querendo mais sonhos para conseguir osten
 description: "Receba os seus sonhos diários para gastar com outras parafernálias, como comprar novos backgrounds e designs para seu perfil, apostar na lorifa e muito mais!"
 pleaseWait: "Você já pegou seus Sonhos Diários hoje! Você poderá pegar novamente {0}!"
 pleaseWaitBuySonhos: "Psiu, se você não quer esperar para conseguir mais sonhos... Então compre sonhos na minha loja de sonhos! {0}"
+# Similar to the message in the pay command
+dailyWarning: "**Não se esqueça:** É proibido o comércio de produtos que possuem valores reais (Nitro, dinheiro real, invites, conteúdo ilegal/NSFW, etc) por sonhos como também é proibido a criação de múltiplas contas para burlar o cooldown do prêmio diário, e, se você quebrar as regras, você será banido de usar a Loritta! Veja todas as regras em <{0}>."

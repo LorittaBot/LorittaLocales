@@ -65,6 +65,17 @@ commands:
     - "Mas lembre-se: estar arrependido não irá magicamente resolver todos os problemas da sua vida, suas ações tem consequências e, se você fez algo imperdoável, você não será desbanido... Ah, e se você está banido do meu servidor de suporte... bem, aí o problema não é meu! {4}"
     - ""
     - "Desculpe pela inconveniência... Ou, se você foi banido por um motivo justo, sofra com a inconveniência!! {5}"
+  receivedSonhosFromAChargedbackUser:
+    - "Então, isso é meio chato... {0}"
+    - ""
+    - "Você recebeu sonhos de um usuário que comprou sonhos pelo website da Loritta, e esse usuário acabou pedindo devolução de dinheiro. Isso prejudica a Loritta já que a pessoa compra algo, usa o produto e acaba pedindo o dinheiro de volta! Como o usuário que pediu a devolução não tem sonhos suficientes para cobrir os sonhos que comprou, tivemos que começar a remover sonhos de outros usuários que receberam sonhos transferidos por ela..."
+    - ""
+    - "Não se preocupe, você não será banido da Loritta, mas recomendamos que no futuro você apenas aceite transações (como `+pay`, `+coinflip bet`, `+emojifight bet`) de pessoas confiáveis! {1}"
+    - ""
+    - "**Usuário:** {2}"
+    - "**Quantidade de sonhos removida:** {3} sonhos"
+    - ""
+    - "Para saber quais transações entre vocês causaram a retirada de sonhos, veja o arquivo anexado!"
   mention:
     response: "Olá {0}! Meu prefixo neste servidor é `{1}`, para ver o que eu posso fazer, use `{1}ajuda`!"
     responseEveryoneBlocked: "Olá {0}! Meu prefixo neste servidor é `{1}` mas como bloquearam que `@everyone` não possa usar meus comandos, então infelizmente ninguém consegue usar meus comandos aqui... 😢 Para ver o que eu posso fazer, use `ajuda` em uma conversa privada comigo!"
