@@ -1,1 +1,5 @@
-howToHelp: "Obrigada por querer me ajudar a ficar online! {1}\n\nSem a sua ajuda, eu não iria conseguir ficar online. (Afinal, sem dinheiro = sem hospedagem para eu ficar online {2})\n\nPara doar é simples e fácil! Apenas [acesse a página de doação no meu website]({0}), lá mostra todas as vantagens que você pode receber doando! {3}"
+---
+description: "¡Lista de las magníficas personas que me ayudan a cada mes a permanecer online!"
+doYouWannaHelp: "¿También quieres ayudar?"
+howToHelp: "¡Gracias por querer ayudarme a permanecer en línea!{1}\n\nSin su ayuda no podría permanecer en línea (Después de todo, sin dinero = sin alojamiento para que me conecte en línea {2})\n\n¡Donar es simple y fácil! Simplemente [acceda a la página de donaciones en mi sitio web]({0}), ¡Allí se muestran todos los beneficios que puede recibir al donar! {3}"
+thanks: "¡Gracias a todas las personas en esta lista abajo por ayudarme que permanezca en línea!"
