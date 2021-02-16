@@ -1,0 +1,7 @@
+---
+description: "Get a ID of a Discord role"
+emptyRoles: "No roles..."
+examples:
+  - "Moderators"
+identifiers: "ID of roles..."
+rolesThatContains: "Roles that contain `{0}`..."
