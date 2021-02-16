@@ -1,5 +1,9 @@
+---
 currentRankPosition: "You are in **#{0,number,#} place** in the ranking, see other flaunts at `{1}`"
 description: "See how many Sonhos you have!"
+examples:
+  - "@Loritta |-| Shows how much sonhos does the most wealthy person on Earth possess!"
+  - "395935916952256523 |-| Shows the user's sonhos by ID"
 sonhos:
   one: "sonho"
   multiple: "sonhos"
