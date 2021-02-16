@@ -1,4 +1,5 @@
-nsfwReport: "Conteúdo NSFW (Conteúdo NSFW em canais normais ou avatares com conteúdo NSFW)"
-pleaseReportToDiscord: "Aparentemente você puniu um usuário por {0}. Isto é contra os termos de uso do Discord, eu recomendo que você reporte o usuário para a equipe de Trust & Safety para que eles possam analisar e suspender o usuário! Vamos transformar o Discord em um lugar melhor, juntos. {1} {2}"
-pleaseReportUrl: "https://l.lori.fun/trust-and-safety-br"
-raidReport: "Raiding (Vários usuários enviando mensagens em sequência com o intuito de encher o chat de mensagens)"
+---
+nsfwReport: "Contenido NSFW (contenido NSFW en canales normales o avatares con contenido NSFW)"
+pleaseReportToDiscord: "Aparentemente castigaste a un usuario por {0}. Esto va en contra de los términos de uso de Discord, le recomiendo que informe al usuario al equipo de Trust & Safety para que pueda revisar y suspender al usuario. Hagamos de Discord un lugar mejor juntos. {1} {2}"
+pleaseReportUrl: "https://l.lori.fun/trust-and-safety-es"
+raidReport: "Raiding (varios usuarios envían mensajes en secuencia para llenar el chat con mensajes)"

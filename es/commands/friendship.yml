@@ -1,1 +1,7 @@
-description: "Avise que acabou a sua amizade com alguém de uma maneira simples e fácil!"
+---
+bestFriend: "mejor amigo(a)"
+description: "¡Hágales saber que ha terminado su amistad con alguien de una manera sencilla y fácil!"
+ended: "terminó"
+friendWith: "Amistad con {0}"
+isMy: "es mi/es mía"
+now: "Ahora"

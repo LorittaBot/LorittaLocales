@@ -1,3 +1,4 @@
+---
 description: "Use this command to attack someone"
 response: "**{0} attacked {1}!**"
 responseAntiIdiot: "**How dare you try to do this to me?**{0} attacked {1}!"

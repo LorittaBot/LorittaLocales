@@ -1,5 +1,10 @@
+---
 clickHere: "¡Haga clic en [aqui]({0}) para descargar la imagen!"
 description: "Mostra o avatar de um usuário do Discord"
+examples:
+  - "|-| Muestra tu foto de perfil"
+  - "@Loritta |-| Muestra la foto de perfil de la persona más linda que existe en este mundo!"
+  - "123170274651668480 |-| Muestra la foto de perfil de un usuario por el ID"
 gabrielaCute: "Sí, Gabriela también es linda. A veces incluso envidio su peinado, es un estilo muy hermoso."
 lorittaCute: "¡Sí, sé que soy muy linda!"
 pantufaCute: "Sí, la Pantufinha también es linda"

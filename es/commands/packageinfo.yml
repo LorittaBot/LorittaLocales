@@ -1,0 +1,3 @@
+---
+couldntFind: "No encontré el objeto `{0}` en la base de datos de los Correios!"
+description: "Muestra el estatus de una encomienda de las oficinas de correo, funciona con los Correios (Brasil) y la CTT (Portugal)"

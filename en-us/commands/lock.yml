@@ -1,2 +1,4 @@
+---
+channelAlreadyIsLocked: "This channel is already locked! Say `{0}unlock` to unlock it!"
 denied: "Channel successfully locked! Use `{0}unlock` to unlock!"
 description: "Block users from speaking in the text channel where the command was executed"

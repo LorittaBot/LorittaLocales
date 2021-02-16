@@ -1,2 +1,4 @@
+---
 allowed: "Channel successfully unlocked! Use `{0}lock` to lock!"
+channelAlreadyIsUnlocked: "This channel is already unlocked! Say `{0}lock` to lock it!"
 description: "Unlocks users of speaking in the text channel where the command was executed"

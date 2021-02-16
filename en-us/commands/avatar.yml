@@ -1,5 +1,10 @@
+---
 clickHere: "Click [here]({0}) to download the picture!"
 description: "Shows a user's profile picture"
+examples:
+  - "|-| Shows your own avatar"
+  - "@Loritta |-| Show the avatar of the most beautiful person in the world!"
+  - "123170274651668480 |-| Shows a user's avatar by ID"
 gabrielaCute: "Yeeeeah, Gabriela is cute as well. Sometimes I'm even jealous of her hair style, it is an awesome style and so beautiful."
 lorittaCute: "Yes, I know that I'm so cute!"
 pantufaCute: "Yeah, Pantufinha is also very cute. Look how cutesy she is!"

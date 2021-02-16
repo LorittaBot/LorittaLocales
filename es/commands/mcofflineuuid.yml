@@ -1,0 +1,3 @@
+---
+description: "Obtener la UUID offline (o sea, de servidores sin autenticación de Mojang) de un jugador"
+result: "**UUID offline (sin autenticación da Mojang) de `{0}`:** `{1}`"
