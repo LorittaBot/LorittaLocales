@@ -1,0 +1,6 @@
+---
+changed: "Your profile message was changed to `{0}`!"
+description: "Change the \"About me\" section in the your profile!"
+examples:
+  - "I like Loritta! |-| Change your \"About Me\" to idolize the most amazing person in the universe"
+  - "Hello, I am a super cool person that likes cute kittens |-| Change your \"About Me\" to something that doesn't inflate my ego"
