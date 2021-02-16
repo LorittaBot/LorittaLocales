@@ -1,0 +1,6 @@
+---
+description: "Show the current server icon!"
+examples:
+  - "|-| Shows the current server icon"
+  - "297732013006389252 |-| Shows the icon of a server by ID, and that coincidentally is the server ID with the most elegant icon on that site!"
+noIcon: "Awww, what a pity! The server doesn't have an icon to show... Wait, don't be sad! Here, look at this cute emote to cheer you up! {0}"
