@@ -1,0 +1,7 @@
+---
+description: "Obtener un ID de posición de Discord"
+emptyRoles: "Sin ocupación..."
+examples:
+  - "Moderadores"
+identifiers: "ID de las posiciones..."
+rolesThatContains: "Posiciones que contienen `{0}`..."
