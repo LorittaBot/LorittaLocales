@@ -1,0 +1,17 @@
+---
+channels: "Channels"
+createdAt: "Created at"
+description: "See the current Discord server information!"
+examples:
+  - "|-| Shows information about the current server"
+  - "420626099257475072 |-| It shows the information of a server by ID, and that coincidentally is the ID of the most amazing support server of that site!"
+features: "Exclusives Features"
+joinedAt: "Joined at"
+members: "Members"
+owner: "Owner"
+ownerFemale: "Owner"
+region: "Region"
+textChannels: "Text"
+unknownGuild: "I don't know any guild with the ID `{0}`... \U0001f622"
+verificationLevel: "Verification level"
+voiceChannels: "Voice"
