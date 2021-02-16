@@ -1,3 +1,4 @@
+---
 boughtStocksWhileSelling: "You bought or sold shares of this ticker while this action was pending! Try again and sorry for the inconvenience!"
 description: "Sell ​​shares for Loritta's sonhos"
 notEnoughStocks: "You do not have enough `{0}` shares to sell!"
