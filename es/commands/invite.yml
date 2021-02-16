@@ -1,7 +1,8 @@
+---
 info: "¡Envíe el enlace de invitación para agregarme a otros servidores!"
 inviteInfo:
-- "¿Quieres agregarme a otros servidores/gremios de Discord? ¡Entonces haga clic [aqui]({0}) para agregarme en otro servidor!"
-- ""
-- "¡Si desea configurar algunas cosas (como mi prefijo, comandos habilitados, etc.) acceda al panel de administración haciendo clic en [aqui]({1})!"
-- ""
-- "¡Y, por supuesto, inicie sesión en mi servidor para hacer sugerencias, informar errores y más! {2}"
+  - "¿Quieres agregarme a otros servidores/gremios de Discord? ¡Entonces haga clic [aqui]({0}) para agregarme en otro servidor!"
+  - ""
+  - "¡Si desea configurar algunas cosas (como mi prefijo, comandos habilitados, etc.) acceda al panel de administración haciendo clic en [aqui]({1})!"
+  - ""
+  - "¡Y, por supuesto, inicie sesión en mi servidor para hacer sugerencias, informar errores y más! {2}"
