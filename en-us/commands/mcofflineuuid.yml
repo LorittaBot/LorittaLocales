@@ -1,0 +1,3 @@
+---
+description: "Takes the UUID offline (that is, from servers without Mojang authentication) from a player"
+result: "**Offline UUID (without Mojang's authentication) of `{0}`:** `{1}`"
