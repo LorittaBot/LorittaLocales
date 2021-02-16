@@ -13,4 +13,12 @@ resultsIn: "Resultado irá sair daqui a **{0}**!"
 usersParticipating: "Pessoas participando: **{0} Pessoas**"
 wantMoreChances: "Querendo mais chances de ganhar? Que tal comprar outro ticket? \U0001f609 `{0}rifa comprar [quantidade]`"
 youBoughtAnTicket: "Você comprou {0} ticket{1} por **{2} Sonhos**! Agora é só sentar e relaxar até o resultado da rifa sair!"
+victory:
+  title: "A sua sorte chegou!"
+  description:
+  - "Com os seus {0} tickets que você comprou, você ganhou **{1} sonhos** na rifa! {5}"
+  - ""
+  - "No total, {2} pessoas participaram na rifa e no total {3} tickets foram comprados para a rifa... e a chance de você ter levado esse bolão de sonhos era de *{4,number,#.##%}* (e você conseguiu!)"
+  - ""
+  - "E agora, o que você irá fazer com todos esses sonhos? Você poderia dar para pessoas que possuem menos sonhos para alegrar o dia delas, comprar backgrounds no website da Loritta, casar com o amor da sua vida... ou talvez apostar tudo de novo na rifa! Tantas possibilidades para você se divertir! {6}"
 youEarned: "Você ganhou **{0} Sonhos** na Rifa!"

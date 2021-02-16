@@ -1,4 +1,12 @@
 economy:
+  paymentApprovedNotification:
+    title: "Seu pagamento foi aprovado com sucesso!"
+    description:
+      - "Obrigada pela compra! Com a sua compra, você me ajuda a ficar online, continuando a espalhar alegria e diversão para várias outras pessoas. {1}"
+      - ""
+      - "Você acaba de receber o produto que você comprou (olha isso, automatização e tecnologia para te dar mais conforto!) então... divirta-se com ele! {2}"
+      - ""
+      - "Ah, e se você tiver alguma dúvida ou problema com o produto que você comprou, não hesite em pedir ajuda [no meu servidor de suporte]({0})! {3}"
   currency:
     name:
       singular: "Sonho"

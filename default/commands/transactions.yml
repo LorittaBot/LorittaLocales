@@ -28,5 +28,5 @@ types:
   stocks: "Loritta's Home Broker"
   guessNumber: "apostas de adivinhar números"
   emojiFight: "rinha de emojis"
-  chargeback: "devoluções de dinheiro"
+  chargeback: "devoluções de dinheiro (chargeback)"
 unknownTransactions: "Parece que essa pessoa nunca fez uma transação de sonhos na vida dela!"
