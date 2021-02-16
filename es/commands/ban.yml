@@ -1,0 +1,7 @@
+---
+description: "Banea a un usuario de tu servidor, puedes personalizar las acciones de este comando (como enviar el motivo del castigo vía mensaje directo, enviar el castigo en un canal, entre otras cosas) en [mi website] (https://loritta.website/dashboard/)!"
+punishAction: "Prohibido"
+punishName: "prohibir"
+punishedBy: "Castigado por"
+punishmentReason: "Razón"
+randomReason: "Alguna razón bastante aleatoria"
