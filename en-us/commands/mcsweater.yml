@@ -1,1 +1,5 @@
+---
 description: "Did you like my beautiful sweatshirt? Do you want to put the sweatshirt on a Minecraft skin? Then use this command!"
+done: "done! Now it's only download your new skin with my beautiful hoodie and have fun!"
+invalidSkin: "This is not a valid skin! A valid skin has `64x32` size (1.8 format) or `32x32` size (format 1.7)!"
+uploadToMojang: "In case you have a official Minecraft account, click on the link to automatically apply the skin on your account!"
