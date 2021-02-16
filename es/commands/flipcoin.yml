@@ -1,2 +1,4 @@
+---
+description: "¡Gira una moneda y mira si es cara o cruz! Perfecto para saber quién irá primero en un partido de fútbol"
 heads: "Cara"
-tails: "Coroa"
+tails: "Cruz"
