@@ -6,3 +6,4 @@ examples:
 failUnknownCharacters: "I was unable to convert your message to morse code... Maybe you just put characters that don't exist in morse code!"
 fromTo: "Text to morse"
 toFrom: "Morse to text"
+fail: "I was unable to convert your message to morse code... Maybe you just put characters that don't exist in morse code!"
