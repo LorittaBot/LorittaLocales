@@ -3,3 +3,4 @@ encodedText: "Texto Codificado"
 examples:
 - "sha256 Loritta é muito fofa! |-| Criptografa \"Loritta é muito fofa!\" em SHA256"
 originalText: "Texto Original"
+invalidMethod: "`{0}` não é um método de codificação válido!"

@@ -5,3 +5,4 @@ examples:
 failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
 fromTo: "Texto para Morse"
 toFrom: "Morse para Texto"
+fail: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
