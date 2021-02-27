@@ -1,2 +1,3 @@
 description: "Veja emojis em um tamanho que você não precise usar uma lupa para tentar entender eles!"
 errorWhileDownloadingEmoji: "Você tem certeza que isso aí é um emoji válido? {0}"
+notFoundId: "Enquanto {0} parece ser um ID válido para um emoji... Eu não consegui encontrar ele na minha lista de emojis! Eu só consigo pegar informações de um emoji a partir de um ID caso eu esteja no servidor em que o emoji está..."

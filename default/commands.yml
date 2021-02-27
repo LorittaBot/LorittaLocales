@@ -5,6 +5,7 @@ commands:
   noValidImageFound: "Desculpe, mas eu não achei nenhuma imagem que eu possa usar! Eu tento pegar imagens em links, imagens anexadas, avatares de usuários mencionados, emojis... mas eu não achei nada disso na sua mensagem. {0}"
   didYouMeanCommand: "Mas eu acho que você queria escrever `{0}`"
   pleaseWaitCooldown: "Calma aí! Você precisa esperar **{0}** antes de poder executar outro comando! {1}"
+  pleaseWaitCooldownRepeated: "Você precisa esperar **{0}** antes de poder executar outro comando! Sim, o tempo aumentou, já que você não teve paciência de esperar... {1}"
   loriDoesntHavePermissionDiscord: "Eu queria executar este comando, mas infelizmente eu não tenho permissão para {0}... {1} Peça para alguém da administração dar esta permissão para mim! Obrigada! {2}"
   commandOnlyForOwner: "Apenas pessoas especiais podem usar este comando :3"
   userDoesntHavePermissionDiscord: "Você não tem permissão para usar este comando! Para utilizá-lo, você precisa ter permissão para {0}!"
@@ -35,6 +36,7 @@ commands:
   lorittaBadNickname: "Nossa... tô triste com esse meu apelido neste servidor... eu também tenho sentimentos e esses nomes só me deixam triste... se você puder pedir para alguém poder tirar este meu apelido feio, eu ficarei agradecida... obrigada!"
   commandAlreadyBeingExecutedInGuild: "Opa, parece que alguém executou o comando mas eu ainda não acabei de executar ele! Como ele é pesado, espere acabar a execução do outro usuário para você poder usar! Desculpe pela inconveniência..."
   youNeedToGetDailyRewardBeforeDoingThisAction: "Então... Sei que é chato, mas você precisa pegar o seu prêmio diário de hoje antes de poder continuar! `{0}daily`"
+  imageTooLarge: "Olha... eu fiz uma imagem incrível para você, mas quando eu tentei enviar... ela passou do limite de {0} do Discord! Desculpe pela inconveniência. {1}"
   arguments:
     text: "texto"
     number: "número"

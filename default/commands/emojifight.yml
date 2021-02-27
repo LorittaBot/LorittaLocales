@@ -2,8 +2,8 @@ description: "Faça uma rinha de emojis com os seus amigos, o emoji mais forte g
 fightDescription:
 - "**Preço para participar da rinha:** Nada! É uma rinha apenas para se divertir! {0}"
 - "**Prêmio:** Nada! Se está procurando prêmios, vá em `{1}emojifight bet`"
-- "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
-- "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+- "**Para participar**, clique em {2}! *(Limite de {5} jogadores)*"
+- "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver {5} players na partida!"
 fightTitle: "Rinha de Emoji"
 needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
 participants: "Participantes ({0}):"

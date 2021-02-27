@@ -5,7 +5,8 @@ examples:
 fightDescription:
 - "**Preço para participar da rinha:** {0} sonhos"
 - "**Prêmio:** {1} sonhos"
-- "**Para participar**, clique em {2}! *(Limite de 30 jogadores)*"
-- "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver 30 players na partida!"
+- "**Para participar**, clique em {2}! *(Limite de {5} jogadores, e não se esqueça que você precisa ter pego a recompensa diária do daily de hoje para poder participar)*"
+- "O ganhador será revelado quando {3} clicar em {4} ou após ter passado 60 segundos desde o início da rinha ou quando tiver {5} players na partida!"
+- "*É proibido a criação de contas alts/secundárias para participar de rinhas de emoji que valem sonhos, já que isso aumenta as suas chances de ganhar!*"
 wonBet: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** e os {4} perdedores perderam {5} sonhos!"
 wonBetTaxed: "O {0} de {1} saiu vitorioso na rinha! Como recompensa, **{1} ganhou {2} sonhos** ({3} de taxa) e os {4} perdedores perderam {5} sonhos!"
