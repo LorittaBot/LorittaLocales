@@ -3,6 +3,7 @@ modules:
     title: "Níveis por Experiência"
     description: "Incentive usuários a conversarem dando experiência ao mandarem mensagens no seu servidor. Você pode recompensar usuários com prêmios e vantagens, assim deixando o seu servidor mais ativo e divertido!"
     howToDisableLevelNotifications: "Você recebeu esta notificação pois você subiu de nível em {0}\n\nCansado de receber notificações de level up via mensagem direta? Então utilize {1} e diga adeus a mensagens de level up na sua DM! {2}"
+    moduleDirectMessageLevelUpType: "enviada ao subir de nível no servidor"
 
     channelTypes:
       disabled: "Desativado"

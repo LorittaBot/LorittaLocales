@@ -6,6 +6,7 @@ loritta:
   saving: "Salvando"
   loading: "Carregando"
   add: "Adicionar"
+  moduleDirectMessageConfiguredBy: "Olá! A mensagem a seguir é uma mensagem definida pela equipe de {0}, {1}. Se ela está divulgando conteúdos de forma inadequada, possui conteúdo NSFW ou quebra os termos de uso do Discord, por favor, reporte para a equipe da Loritta e saia do servidor! Obrigada!!"
   fancyBoolean:
     'true': "Sim"
     'false': "Não"
