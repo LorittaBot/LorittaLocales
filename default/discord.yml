@@ -38,3 +38,4 @@ discord:
     viewChannel: "Ver canais"
     voiceStream: "Ao vivo"
     viewGuildInsights: "Ver desempenho do servidor"
+    useSlashCommands: "Usar comandos /"
