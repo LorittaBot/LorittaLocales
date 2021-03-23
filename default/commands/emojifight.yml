@@ -7,4 +7,4 @@ fightDescription:
 fightTitle: "Rinha de Emoji"
 needsMorePlayers: "Infelizmente tivemos que cancelar a rinha por falta de usuários na rinha..."
 participants: "Participantes ({0}):"
-wonBet: "O {0} de {1} saiu vitorioso na rinha! Obrigada a todos os emojis que lutaram na rinha, eles agora estão descansando para a próxima rinha!"
+wonBet: "O {0} de {1} saiu vitorioso na rinha de {2}! Obrigada a todos os emojis que lutaram na rinha, eles agora estão descansando para a próxima rinha!"
