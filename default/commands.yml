@@ -37,6 +37,7 @@ commands:
   commandAlreadyBeingExecutedInGuild: "Opa, parece que alguém executou o comando mas eu ainda não acabei de executar ele! Como ele é pesado, espere acabar a execução do outro usuário para você poder usar! Desculpe pela inconveniência..."
   youNeedToGetDailyRewardBeforeDoingThisAction: "Então... Sei que é chato, mas você precisa pegar o seu prêmio diário de hoje antes de poder continuar! `{0}daily`"
   imageTooLarge: "Olha... eu fiz uma imagem incrível para você, mas quando eu tentei enviar... ela passou do limite de {0} do Discord! Desculpe pela inconveniência. {1}"
+  missingDescription: "Parece que alguém esqueceu de colocar a descrição deste comando... Será que já é tarde demais para dizer desculpas?"
   arguments:
     text: "texto"
     number: "número"
