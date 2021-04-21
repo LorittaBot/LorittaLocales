@@ -11,3 +11,4 @@ examples:
 - "10 % 2 |-| Calcula quanto é o resto de 10 ao dividir por 3 (módulo)"
 invalid: "Desculpe, mas eu não acho que `{0}` seja uma expressão aritmética... Ou talvez seja a minha burrice, afinal, eu estou perdendo o meu tempo no Discord em vez de prestar atenção na aula."
 result: "**Resultado:** `{0}`"
+selectExpression: "Expressão Matemática que euzinha irei calcular"
