@@ -4,3 +4,6 @@ examples:
 - "Asriel Dreemurr, Chara Dreemurr |-| Escolhe entre \"Asriel Dreemurr\" ou \"Chara Dreemurr\" (mesmo que todos saibam que o Asriel é melhor)"
 - "Shantae, Risky Boots |-| Escolhe entre \"Shantae\" e \"Risky Boots\""
 result: "Eu escolhi `{0}`!"
+
+options:
+  selectionList: "A lista de opções que você quer que a Loritta escolha para você"

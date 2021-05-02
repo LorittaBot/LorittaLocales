@@ -5,3 +5,6 @@ channelTopic: "Tópico do canal"
 description: "Mostra informações de um canal de texto"
 notFound: "Canal não encontrado!"
 undefined: "Não definido"
+
+options:
+  channel: "O canal que você está curioso para saber sobre ele"

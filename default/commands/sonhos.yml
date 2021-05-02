@@ -3,6 +3,8 @@ description: "Veja quantos sonhos você tem!"
 examples:
 - "@Loritta |-| Mostra os sonhos da pessoa mais afortunada do planeta terra!"
 - "395935916952256523 |-| Mostra os sonhos de um usuário pelo ID"
+options:
+  user: "O usuário que você deseja aventurar e desvendar os sonhos dela"
 sonhos:
   one: "sonho"
   multiple: "sonhos"

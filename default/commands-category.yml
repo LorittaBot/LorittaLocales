@@ -39,6 +39,8 @@ commands:
       name: "Minecraft"
       description:
         - "Comandos relacionados ao Minecraft"
+      playerName: "Nome do jogador"
+      playerNameJavaEdition: "Nome do jogador no Minecraft: Java Edition"
       unknownPlayer: "`{0}` não é um player válido!"
       skinPlayerNameExamples:
         - "Loritta |-| Usa a skin da pessoa mais bela que existe!"

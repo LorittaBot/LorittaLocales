@@ -6,3 +6,7 @@ failUnknownCharacters: "Eu não consegui transformar a sua mensagem para código
 fromTo: "Texto para Morse"
 toFrom: "Morse para Texto"
 fail: "Eu não consegui transformar a sua mensagem para código morse... Talvez você tenha colocado apenas caracteres que não existem em código morse!"
+
+options:
+  fromMorse: "Código Morse que será decodificado"
+  fromText: "Texto que será transformado em Código Morse"
