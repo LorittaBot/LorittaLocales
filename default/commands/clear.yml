@@ -1,4 +1,4 @@
-couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas a mais de duas semanas devido a limitações do Discord!"
+couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas há mais de duas semanas devido a limitações do Discord!"
 description: "Escolha um número de um a 1.000 mensagens para serem limpas de pessoas específicas ou não."
 examples:
 - "10 de:297153970613387264"
