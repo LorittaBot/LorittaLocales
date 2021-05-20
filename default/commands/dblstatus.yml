@@ -1,2 +1,3 @@
-description: "Veja quantas vezes você votou em mim!"
+description: "Veja quantas vezes você votou em mim no Discord Bot List!"
 youVoted: "Você já votou {0} vezes em mim!"
+userVoted: "{0} já votou {1} vezes em mim!"
