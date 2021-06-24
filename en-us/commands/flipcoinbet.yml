@@ -8,7 +8,7 @@ examples:
   - "351760430991147010 100 |-| Bet 100 sonhos with a user by ID"
 notEnoughMoneyInvited: "{0} doesn't have enough sonhos for bets..."
 notEnoughMoneySelf: "How are you going to bet a quantity you don't have? Bet less if you don't want to bet something you don't have!"
-startBet: "{0}, {1} wants to make a bet with you! Each one will pay **{5} sonhos ({6} fee sonhos to play)**. If it fall **{2}**, you will win **{3} sonhos**, if it fall **{4}**, {1} will win **{3} dreams**! So what, are you gonna face it?"
+startBet: "{0}, {1} wants to make a bet with you! Each one will pay **{5} sonhos ({6} fee sonhos to play)**. If it fall **{2}**, you will win **{3} sonhos**, if it fall **{4}**, {1} will win **{3} sonhos**! So what, are you gonna face it?"
 startBetNoTax: "{0}, {1} wants to make a bet with you! If it fall **{2}**, you will win **{3} sonhos**, if it falls **{4}**, {1} will win **{3} sonhos**! Since {5} is a recommended premium user, this one is on the house, free of charge! So what, are you gonna face it?"
 youNeedToBetMore: "You need to bet more sonhos! After all, I have to charge that ~~gud~~ fee to help keep LorittaLand!"
 zeroMoney: "Wow, so cool! You will bet *nothing*, impressive!"
