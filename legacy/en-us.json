@@ -828,7 +828,7 @@
   "RAFFLE_CurrentPrize": "Current prize: **{0} Sonhos**",
   "RAFFLE_BoughtTickets": "Bought tickets: **{0} Tickets**",
   "RAFFLE_UsersParticipating": "Users participating: **{0} Users**",
-  "RAFFLE_LastWinner": "Last winner: `{0}` ({1} Dreams)",
+  "RAFFLE_LastWinner": "Last winner: `{0}` ({1} Sonhos)",
   "RAFFLE_ResultsIn": "The result will be released in **{0}**!",
   "RAFFLE_BuyAnTicketFor": "Buy a ticket for **250 Sonhos** using `{0}raffle buy`!",
   "RAFFLE_YouBoughtAnTicket": "You bought {0} ticket{1} for **{2} Sonhos**! Now, sit and relax until the loterry result is out!",
