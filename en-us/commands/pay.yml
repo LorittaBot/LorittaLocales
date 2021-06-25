@@ -5,7 +5,7 @@ doYouThinkImPoor: "Do you *think* I'm that poor to transfer just that to me? I'm
 examples:
   - "@Loritta 100 |-| Send a hundred sonhos to the most humble people in the whole galaxy!"
   - "292953664492929025 100k |-| Send 100000\nsonhos to a user by ID"
-insufficientFunds: "You don't have {0} sonhos to complete this transaction!"
+insufficientFunds: "You don't have enough {0} to complete this transaction!"
 otherAccountIsTooNew: "I know that sometimes is cool to help others... but {0} created the account not too long ago! You need to wait {1} days before {0} to be able to start receiving sonhos."
 otherAccountNeedsToGetDaily: "Looks like {0} didn't get today's daily, {1} can only receive sonhos after getting daily. What about getting it right now? {2}"
 randomLorittaIsGratefulMessages:
