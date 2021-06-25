@@ -10,4 +10,4 @@ invalidUserFilter: "I searched everywhere, but I didn't find any user that is si
 operationQueued: "There is a message purge already active, please wait the active operation to be finished before using the command again."
 success: "The chat was cleaned up by {0}!"
 successButIgnoredMessages: "However, {0} messages were ignored because they are too old, pinned messages or do not follow the defined filter."
-targetOption: "of"
+targetOption: "from"
