@@ -1,5 +1,8 @@
+---
 dailyLink: "Get your daily sonhos here! {0} (Remembering that you can get sonhos every day!)"
 dailyLinkBuySonhos: "Hey, are you wanting more sonhos to show off all the sonhos you have? Then buy sonhos in my sonhos shop! {0}"
 description: "Get your daily sonhos to spend with other paraphernalia, like buying new backgrounds and designs for your profile, betting on lorifa and much more!"
 pleaseWait: "You've got your Daily Sonhos today! You can get it again in about {0}!"
 pleaseWaitBuySonhos: "Yo, if you don't wanna wait to get more sonhos... Then buy sonhos in my sonhos shop! {0}"
+#Similar to the message in the pay command
+dailyWarning: "**Don't forget:** The trading of products with real value (Nitro, real money, invites, illegal/NSFW content, etc.) for sonhos and the sale of sonhos for real money is forbidden, as is the creation of multiple accounts to bypass the daily prize cooldown, and you will be banned from using Loritta if you do it! Read all the rules at <{0}>."
