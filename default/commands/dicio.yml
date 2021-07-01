@@ -1,3 +1,13 @@
 description: "Procure o significado de uma palavra no dicionário!"
 examples:
 - "sonho |-| Procura o significado de \"sonho\" no dicionário"
+wordNotFound: "Eu li e reli o meu dicionário várias vezes, e mesmo assim não encontrei essa palavra! Tem certeza que ela existe?"
+meaningOf: "Significado de {0}"
+synonyms: "Sinônimos"
+opposite: "Antônimos"
+sentence: "Frase"
+options:
+  language: "Em qual linguagem a palavra que você deseja procurar está"
+  text: "A palavra que você deseja procurar o significado"
+languages:
+  ptBr: "Português (Brasil)"

@@ -1,3 +1,6 @@
 description: "Cria uma mensagem com ａｅｓｔｈｅｔｉｃｓ"
 examples:
 - "Windows 95 |-| Transforma a mensagem em Ｗｉｎｄｏｗｓ 95"
+
+options:
+  text: "O texto que será transformado"

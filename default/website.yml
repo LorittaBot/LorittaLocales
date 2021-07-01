@@ -64,7 +64,7 @@ website:
     - "Você está banido de usar a Loritta."
     - "Se você acha que o banimento está incorreto (que eu duvido muito que esteja!), entre no meu servidor de suporte para que o banimento seja reavaliado."
   router:
-    blacklisted: 
+    blacklistedServer: 
       - "Eu me recuso a ficar neste servidor! ᕙ(⇀‸↼‶)ᕗ"
       - ""
       - "**Motivo:** {0}"

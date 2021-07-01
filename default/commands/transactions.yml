@@ -29,4 +29,5 @@ types:
   guessNumber: "apostas de adivinhar números"
   emojiFight: "rinha de emojis"
   chargeback: "devoluções de dinheiro (chargeback)"
+  bundlePurchase: "compra de sonhos no website da Loritta"
 unknownTransactions: "Parece que essa pessoa nunca fez uma transação de sonhos na vida dela!"

@@ -1,8 +1,8 @@
 ---
 description: "Make a emoji battle with your friends betting sonhos, the strongest emoji wins the battle!"
 examples:
-  - "100 |-| Bet 100 dreams on the rinha, all users will have to pay 100 dreams to join the rinha"
-  - "2500 |-| Bet 2500 dreams on the rinha, all users will have to pay 2500 dreams to enter the rinha"
+  - "100 |-| Bet 100 Sonhos on the emoji fight, all users will have to pay 100 Sonhos to enter"
+  - "2500 |-| Bet 2500 Sonhos on the emoji fight, all users will have to pay 2500 Sonhos to enter"
 fightDescription:
   - "**Price to join the fight:** {0} sonhos"
   - "**Prize:** {1} sonhos"

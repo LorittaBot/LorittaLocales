@@ -1,1 +1,8 @@
 description: "kk eae men o SAM é brabo, coloque o selo da South America Memes em uma imagem!"
+selectLogo: "Estilo do Logo da South America Memes"
+
+options:
+  sam1: "Logo clássico"
+  sam2: "Logo cópia-barata"
+  sam3: "Logo sarrada no ar"
+  image: "A imagem que você deseja que seja abençoada pela South America Memes"

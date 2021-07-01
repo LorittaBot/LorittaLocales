@@ -32,3 +32,5 @@ responses:
 - "Sim!"
 - "Não!"
 - "¯\\_(ツ)_/¯"
+options:
+  question: "A pergunta que você almeja tanto ter uma resposta do oráculo"

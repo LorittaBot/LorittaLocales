@@ -2,4 +2,4 @@ description: "Altera se você prefere que as punições sejam aplicadas diretame
 disabled: "As punições rápidas foram desativadas! Ao punir um usuário, você deverá confirmar se você realmente vai querer punir ele ou não... pelo ou menos assim você irá evitar aquele remorso ao punir alguém que não deveria ter levado aquela punição."
 enabled: "As punições rápidas foram ativadas! Ao punir um usuário, eu nem irei te perguntar se você realmente quer punir o usuário, vai punir direto sem dó e nem piedade! ...só não venha reclamar depois que você não queria ter punido aquele usuário, okay?"
 howDisable: "Caso queira desativar as punições rápidas, use o comando novamente!"
-howEnable: "Case queira ativar as punições rápidas, use o comando novamente!"
+howEnable: "Caso queira ativar as punições rápidas, use o comando novamente!"

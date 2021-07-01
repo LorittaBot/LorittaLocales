@@ -3,6 +3,7 @@ examples:
 - "@Loritta |-| Remove o último aviso do usuário pela menção... então, eu espero que você não tenha me avisado para precisar usar o unwarn em mim!"
 - "437808476106784770 |-| Remove o último aviso do usuário pelo ID"
 - "395788326835322882 3 |-| Remove um aviso em específico (no caso, o terceiro warn) do usuário"
+- "236167700777271297 all |-| Remove todos os avisos do usuário"
 - "716390085896962058 Se arrepender e aprender com seus erros |-| Remove o último aviso  do usuário pelo ID e com um motivo"
 - "272031079001620490 Se arrepender e aprender com seus erros | f |-| Remove o último aviso do usuário pelo ID, com um motivo e não pede a confirmação da punição"
 - "214486492909666305 Se arrepender e aprender com seus erros | s |-| Remove o último aviso do usuário pelo ID, com um motivo e não notifica a punição"
@@ -10,4 +11,5 @@ noWarnsFound: "O usuário não possui nenhum aviso para você remover! Psiu, sab
 notEnoughWarns: "O usuário tem menos que **{0}** avisos! Psiu, sabia que você pode ver a lista de avisos de um usuário com {1}?"
 punishAction: "Retirado um Aviso"
 punishName: "retirar um aviso"
+warnsRemoved: "Prontinho, o usuário teve {0} avisos removidos! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"
 warnRemoved: "Prontinho, o usuário teve um aviso removido! Que tal ele ler as regras do servidor antes que ele tenha que ser punido de novo?"

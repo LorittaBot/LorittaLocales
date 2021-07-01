@@ -3,3 +3,5 @@ examples:
 - "Palmtree Panic |-| Cria um title card escrito \"Palmtree Panic\""
 - "Friend |-| Cria um title card escrito \"Friend\"... que aí vira \"Friendzone\"! Perfeito para quando a cremosa te deixa"
 - "Loritta | Headquarters |-| Cria um title card escrito \"Loritta Headquarters\", o \"|\" é usado para pular a linha no title card"
+selectLine1: "Primeira linha que irá aparecer no title card"
+selectLine2: "Segunda linha que irá aparecer no title card"

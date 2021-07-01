@@ -11,5 +11,8 @@ examples:
 - "6 * 10 |-| Gira um dado de 6 lados e multiplica o valor final por 10"
 howMuchSides: "Quantos lados o dado que eu irei rolar terá"
 invalidBound: "Eu tentei girar o dado mas... ele evaporou! Sumiu! Acho que ele sumiu porque você criou um dado inválido... me diga, como você queria que eu girasse ele?"
-result: "rolou **{1}**... e conseguiu **{2}**!"
+result: "Rolou **{1}**... e conseguiu **{2}**!"
 tooMuchDices: "Eu tentei girar os dados mas são taaaaaantos que não coube na minha mesa e cairam no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que eles não caiam novamente."
+options:
+  dices: "A quantidade de dados e lados que eu irei rolar"
+  expression: "Expressão matemática que será aplicada no final do resultado da rolagem de dados"

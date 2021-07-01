@@ -6,3 +6,7 @@ examples:
 - "Pessoas que dormem sem roupa | Todo mundo na festa do pijama |-| Edição com uma visão nada agradável... ou agradável, dependendo de quem é, rs"
 - "Eu chegando em casa | Teu pai de calcinha |-| Edição com uma visão nada agradável"
 - "Esqueleto com arma | Menina embaixo da mesa |-| Edição com um texto bem meta"
+
+options:
+  textTerminator: "Texto que irá ficar no Terminator"
+  textGirl: "Texto que irá ficar na garotinha se escondendo de medo, Nono Morikubo"

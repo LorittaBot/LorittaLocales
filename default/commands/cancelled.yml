@@ -2,6 +2,7 @@ description: "A sua mana foi canceladx pelas militantes do Twitter! Ah, mas qual
 examples:
 - "@Loritta |-| Cancela um usuário pela menção... manas, me ajudem! Uma pessoa tão doce como eu não pode ser cancelada!"
 - "234395307759108106 |-| Cancela um usuário pelo ID"
+selectUser: "A pessoa que será infelizmente cancelada"
 reasons:
 - "ser atraente demais"
 - "ter charme demais"
