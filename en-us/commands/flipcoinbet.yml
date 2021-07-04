@@ -4,7 +4,7 @@ clickToAcceptTheBet: "To confirm the bet, you and {0} must click {1}!"
 congratulations: "Congratulations {0}, you won **{1} sonhos**! Funded by {2} xD"
 description: "The classic \"Flip a coin and see if gets heads or tails!\", but now involving sonhos! I'm not responsible if you lose all your sonhos in bets"
 examples:
-  - "@Loritta 1337 |-| Bet 1337 Sonhos with the most optimistic person you have ever met! Don't cry if you lose, okay?"
+  - "@Loritta 1337 |-| Bet 1337 dreams with the most optimistic person you have ever met! Don't cry if you get lost, okay?"
   - "351760430991147010 100 |-| Bet 100 sonhos with a user by ID"
 notEnoughMoneyInvited: "{0} doesn't have enough sonhos for bets..."
 notEnoughMoneySelf: "How are you going to bet a quantity you don't have? Bet less if you don't want to bet something you don't have!"
