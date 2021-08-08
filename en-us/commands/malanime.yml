@@ -1,0 +1,26 @@
+---
+description: "Shows information about animes in MyAnimeList"
+examples:
+  - "Nichijou |-| Search \"Nichijou\" on MyAnimeList"
+  - "Pop Team Epic |-| Search for \"Pop Team Epic\" on MyAnimeList"
+unknown: "Unknown"
+score: "Score"
+rank: "Rank"
+popularity: "Popularity"
+genres: "Genres"
+source: "Source"
+episodes: "Episodes"
+notfound: "Anime not found!"
+type:
+  name: "Type"
+  tv: "TV"
+  special: "Special"
+  ova: "OVA"
+  ona: "ONA"
+  movie: "Movie"
+status:
+  name: "Status"
+  aired: "Aired"
+  airing: "Airing"
+  not_yet_aired: "Not yet aired"
+  finished: "Finished"

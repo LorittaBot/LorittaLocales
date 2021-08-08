@@ -1,7 +1,12 @@
+---
 changeLanguageDescription: "To change the language I interact with you, react to the emoji with the new language you want."
 changeServerLanguageDescription: "To change the language I interact with on this server, react to the emoji with the new desired language."
 description: "Did you know that I can speak in other languages? {0} Change the language I speak on your server!"
+helpUsTranslate: "\U0001f3c1 Do you want to help translate me?"
 languageChanged: "There you go, now I will go on {0} with you!"
+personalLanguageRemovalTip: "Click {0} if you want to reset your personal language!"
+personalLanguageTip: "Did you know you can pick a personal language so that I can answer you in your prefered language everywhere instead of using the server's language? Use this command in my DMs!"
 pleaseSelectYourLanguage: "Choose your desired language!"
+removedPersonalLanguage: "You just resetted your personal language! That means I'll now answer you using the server's language instead of your preferred langauge!"
 serverLanguageChanged: "Okay, now I'm going to speak in {0} on this server!"
 translatedBy: "Translated by"
