@@ -1,0 +1,15 @@
+---
+cancel: "Reminder canceled!"
+createdInGuild: "Created in"
+description: "Do you need a reminder to feed your dog? Maybe you want to set a reminder so you can see how you achieved all your \"life goals\" for this year in the future? Then create a reminder!"
+examples:
+  - "feed the doggo | - | Create a reminder for you to feed your dog, I will ask when I need to remind you after using the command"
+  - "get daily |-| Creates a reminder so you won't forget to get your daily Sonhos prize"
+  - "give rep |-| Creates a reminder so you don't forget to give rep to your friend"
+  - "list |-| Shows the reminder list"
+remindAt: "I'll remind you at"
+remindInTextChannel: "I'll remind you in"
+reminderRemoved: "Reminder removed!"
+setHour: "When do you want me to remind you? (`1 hour`, `5 minutes`, `12:00 11/08/2018`, etc)"
+success: "I'll remind you in **{0}/{1}/{2,number,#}** at **{3}:{4}**!"
+yourReminders: "Your reminders"
