@@ -1,7 +1,7 @@
 ---
 website:
   daily:
-    pleaseCompleteReCaptcha: "Please complete the reCAPTCHA to receive your price! By collecting the prize, information about your browser, your email and your IP might be collected. Don't use a VPN or proxies to get the prize, as that might get you banned!"
+    pleaseCompleteReCaptcha: "Complete the reCAPTCHA to get your prize! By getting it, info about your your browser, your email and IP address might be collected. Don't use a VPN, proxies, or any other accounts to collect the daily prize, as that might get you banned!"
     thisShouldNeverHappen: "This should never happen! But looks like it happened, whoops... Status code: {0}"
     notLoggedIn: "You need to log into your Discord account before receiving your reward!"
     alreadyReceivedDailyReward: "You already received your daily reward today! You can get it again {0}!"
