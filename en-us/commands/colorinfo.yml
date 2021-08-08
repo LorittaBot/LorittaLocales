@@ -1,6 +1,11 @@
+---
 analogous: "Analogous"
 complementary: "Complementary"
 description: "See the information of a color!"
+examples:
+  - "89, 45, 161 |-| Shows information about a color in RGB"
+  - "#a36cfd |-| Shows information about a color in hexadecimal"
+  - "-4744728 |-| Shows information about a color in decimal"
 shades: "Shades"
 tints: "Tints"
 triadic: "Triadic"
