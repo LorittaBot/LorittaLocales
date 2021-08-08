@@ -1,9 +1,9 @@
 ---
-couldNotFindMessages: "I couldn't find any messages to be deleted... I can't delete messages that were sent more than two weeks ago due to Discord limitations!"
+couldNotFindMessages: "I couldn't find any messages to be deleted... I can't delete messages sent more than two weeks ago due to Discord limitations!"
 description: "Clears the chat from the current text channel."
 examples:
-  - "10"
-  - "35 @MrPowerGamerBR"
+  - "10 from:297153970613387264"
+  - "35 text here from:360162870069166080"
 invalidClearRange: "I can only clear between 2 and 1000 past messages!"
 invalidTextFilter: "The inserted text filter is invalid!"
 invalidUserFilter: "I searched everywhere, but I didn't find any user that is similar to the one entered! Remember, I search users by ID, mentions and names."
