@@ -7,6 +7,7 @@ loritta:
   saving: "Saving"
   loading: "Loading"
   add: "Add"
+  moduleDirectMessageConfiguredBy: "Hi! The following message was set by the team from {0}, {1}. If it's sharing content inappropriately, has NSFW content or breaks Discord's ToS, please report it to Loritta's team and leave the server! Thank you!!"
   fancyBoolean:
     'true': "Yes"
     'false': "No"
