@@ -1,1 +1,8 @@
+---
 description: "Create a Sonic Mania title card!"
+examples:
+  - "Palmtree Panic |-| Creates a title card written \"Palmtree Panic\""
+  - "Friend |-| Create a title card with \"Friend\" written on it... then it becomes \"Friendzone\"! Perfect for when \"she\" leaves you"
+  - "Loritta | Headquarters |-| Creates a title card with \"Loritta Headquarters\" written on it, the \"|\" is used to skip the line in the title card"
+selectLine1: "First line that will appear on the title card"
+selectLine2: "Second line that will appear on the title card"
