@@ -1,0 +1,8 @@
+---
+advancementMade: "Advancement made!"
+description: "Create a Minecraft achievement!"
+examples:
+  - "@Loritta Being a visionary! |-| Edit with the cutest avatar you've ever seen, and thanks for the compliment!"
+  - "287894637165936640 I added a bot! |-| Edit with the avatar of an user by their ID"
+  - "https://i.imgur.com/jxiRrNN.png I used an image on the command! |-| Edit with an image URL (Note: I will only download images from trusted websites!)"
+  - "\U0001f35e I ate a loaf of bread | | Edit with the bread emoji, showing just how much you love bread"
