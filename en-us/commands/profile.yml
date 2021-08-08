@@ -1,1 +1,13 @@
+---
+aboutMe: "About Me"
+description: "Shows your profile!"
+economy: "Sonhos"
+examples:
+  - "|-| Shows your own profile"
+  - "@Loritta |-| See the profile of the most marvelous girl on discord!"
+  - "390927821997998081 |-| Shows a user's profile by ID"
+guildXP: "XP on {0}"
+lorittaDescription: "Hello, my name is Loritta (or how my close friends call me, \"Lori\") and I am a yet another Discord bot with many features never seen before!"
+profile: "Profile"
 profileshop: "Buy new profiles in {0}"
+totalXP: "Total XP"
