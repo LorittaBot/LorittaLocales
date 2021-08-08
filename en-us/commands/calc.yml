@@ -12,3 +12,4 @@ examples:
   - "10 % 2 |-| It calculates the reminder of 10 divided by 2 (modulo operation)"
 invalid: "Sorry, but I don't think `{0}` is an arithmetic expression... Or maybe it's just me being dumb, after all, I'm wasting my time on Discord instead of paying attention to my math class."
 result: "**Result:** `{0}`"
+selectExpression: "Mathematical expression I'm going to calculate"
