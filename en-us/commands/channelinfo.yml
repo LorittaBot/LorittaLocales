@@ -6,3 +6,5 @@ channelTopic: "Channel topic"
 description: "Shows information about a text channel"
 notFound: "Channel not found!"
 undefined: "Undefined"
+options:
+  channel: "The channel you are curious to know about"
