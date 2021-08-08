@@ -1,4 +1,4 @@
 ---
 description: "Get a user's UUID"
 invalid: "Player not found! Are you sure that `{0}` is a valid account?"
-result: "The UUID of `{0}`: `{1}`"
+result: "** UUID online (original account, with Mojang authentication) from `{0}`: ** `{1}`"
