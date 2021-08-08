@@ -1,0 +1,8 @@
+---
+afkOff: "AFK mode disabled!"
+afkOn: "AFK mode enabled! For your convenience, AFK mode will be automatically disabled when you talk in the chat! \U0001f609"
+description: "Are you going to be away from the keyboard for a while? So activate the AFK mode so everyone can know that you aren't going to reply to the message!"
+examples:
+  - "|-| Marks you as away from the keyboard and, when someone pings you, it will appear that you are AFK"
+  - "lunch |-| Marks you as away from the keyboard and, when someone pings you, it will appear that you are AFK having lunch"
+  - "taking a dump |-| Marks you as away from the keyboard and, when someone pings you, it will appear that you are AFK taking a dump... aw, finally peace in the bathroom!"
