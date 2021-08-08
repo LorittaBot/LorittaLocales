@@ -18,18 +18,18 @@ website:
     prohibited:
       title: "The following actions aren't tolerated"
       description:
-        - "Disrespect the guidelines of the platform you are on. %platforms%"
+        - "Disrespecting the guidelines of the platform you are on. %platforms%"
         - "Spreading lies (\"fake news\") about Loritta or related. Continuing to spread lies even after proving you are wrong means that you are someone who is an douchebag."
         - "Use NSFW (not safe for work) content in Loritta's functions."
         - "Attempt to attack, harm or tear down Loritta."
         - "Trying to get advantages by circumventing restrictions imposed by Loritta. If you need to do something out of the ordinary to get benefits against other users (Example: Create more accounts to get Rewards), then it is prohibited."
-        - "Offend, curse or sexualize Loritta. %disrespect%"
-        - "Use Loritta features to break the guidelines. %breaking%"
-        - "Try pretending to be Loritta or pretending to be someone on her team. %beyourself%"
+        - "Offending or sexualizing Loritta. %disrespect%"
+        - "Using Loritta's features to break the guidelines. %breaking%"
+        - "Pretending to be Loritta or someone from her team. %beyourself%"
         - "Attempts to evade/circumvent punishments. If you try to do this, you will be punished again, with no chance of being disbanded."
         - "Plagiarize Loritta. You can be inspired by its features, but copying almost identically is prohibited."
         - "Request a refund after purchasing something related to Loritta. All payments are non-refundable, as they are virtual products. If you need support with something related to a product, we recommend that you first contact our support server."
-        - "Selling Sonhos or other things related to Loritta for real money or for other things with real monetary value. If someone offer it to you, do not accept and report it to Loritta's team, because if you do accept, you will take the risk of being punished and you can even be victim of a scam."
+        - "Selling Sonhos or other things related to Loritta for real money or for other things with real monetary values. If someone offers to do this, refuse and report them to Loritta's team, because if you accept you run the risk of being punished and might even fall victim to a scam."
       onPlatformBreak:
         - "If you find someone who is not respecting the platform guidelines, report to the platform team and, if applicable, report to the Loritta team."
       disrespect:
@@ -42,10 +42,10 @@ website:
       breaking:
         - "There are users who do not know that it is possible to do such things on Loritta, and therefore they place the blame on Loritta when they see her saying the wrong things instead of blaming the users who do this. Because of this, forcing Loritta to respond to offenses, inappropriate content or anything that breaks community guidelines is prohibited."
       beYourself:
-        - "Change your name and avatar to the same ones Loritta uses. %fanarts%"
+        - "Changing your name and avatar to the same ones Loritta uses. %fanarts%"
         - "Create bots that have the same user name and avatar that Loritta use."
-        - "Inventing or spreading lies by saying that you or your bot have something to do with a Loritta or her team. %notjoke%"
-        - "If a server has a bot that is impersonating Loritta, the owner of the server will be banned until they prove who added the bot to the server."
+        - "Inventing or spreading lies by saying that you or your bot have something to do with Loritta or her team. %notjoke%"
+        - "If a server has a bot that is impersonating Loritta, the owner of the server will be banned until he proves who added the bot to the server."
       useFanArts:
         - "You can use fan arts that you did for Lori, as long as you don't use her name. But before using fan art as an avatar, ask the fan art artist if you can use it."
       notJoke:
