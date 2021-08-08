@@ -4,6 +4,7 @@ modules:
     title: "Levels by Experience"
     description: "Encourage users to chat on your server by giving them experience points while they chat on your server! By gaining experience, you can reward active users with roles and awards!"
     howToDisableLevelNotifications: "You received this notification because you leveled up in {0}\n\nTired about notifications of level up by direct message? So use {1} and say goodbye to level up messages in your DM! {2}"
+    moduleDirectMessageLevelUpType: "sent when leveled up on the server"
     channelTypes:
       disabled: "Disabled"
       sameChannel: "Current Channel"
