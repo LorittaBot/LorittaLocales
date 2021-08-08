@@ -6,3 +6,5 @@ examples:
   - "Asriel Dreamurr |-| Create an anagram using the sentence \"Asriel Dreamurr\""
 result: "**Your anagram is...** `{0}`"
 stats: "The word `{0}` has **{1} different anagrams**!"
+options:
+  text: "The text that will be turned into an anagram"
