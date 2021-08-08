@@ -23,7 +23,7 @@ discord:
     managePermissions: "Manage permissions"
     manageWebhooks: "Manage webhooks"
     manageEmotes: "Manage emojis"
-    createInstantInvite: "Create instant invite"
+    createInstantInvite: "Create an instant invite"
     prioritySpeaker: "Priority speaker"
     connect: "Connect"
     speak: "Speak"
@@ -39,3 +39,4 @@ discord:
     viewChannel: "View Channels"
     voiceStream: "Go Live"
     viewGuildInsights: "View Server Insights"
+    useSlashCommands: "Use / commands"
