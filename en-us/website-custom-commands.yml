@@ -1,0 +1,10 @@
+---
+website:
+  custom-commands:
+    commandTypeQuestion: "What type of command you wanna create?"
+    textCommandType: "Text Command"
+    textCommandTypeDescription: "A command that sends a predefined message when using it"
+    modal:
+      name: "Command Name"
+      warning: "Important! Don't put the prefix of the server in the command name, this action can result a malfunction of the command."
+      message: "Message"
