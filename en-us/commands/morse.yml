@@ -3,10 +3,12 @@ description: "Encode/Decode a morse code message"
 examples:
   - "Lorrita |-| Converts \"Loritta\" to morse code"
   - ".-.. --- .-. .. / ..-. --- --- ..-. |-| Converts morse code to text"
-failUnknownCharacters: "I was unable to convert your message to morse code... Maybe you just put characters that don't exist in morse code!"
+
 fromTo: "Text to morse"
 toFrom: "Morse to text"
-fail: "I was unable to convert your message to morse code... Maybe you just put characters that don't exist in morse code!"
+failTo: "I was unable to convert your message to morse code... Maybe you just put characters that don't exist in morse code!"
+failFrom: "I was unable to convert your message from morse code... Maybe you just put characters that are invalid in morse code!"
+
 options:
   fromMorse: "Morse code that will be decoded"
   fromText: "Text that will be encoded into Morse Code"
