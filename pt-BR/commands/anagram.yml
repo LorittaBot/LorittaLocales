@@ -1,0 +1,10 @@
+---
+description: "Crie um anagrama de uma palavra!"
+examples:
+  - "Loritta |-| Cria um anagrama usando a palavra \"Loritta\""
+  - "kk eae men |-| Cria um anagrama usando a frase \"kk eae men\""
+  - "Asriel Dreemurr |-| Create an anagram using the sentence \"Asriel Dreemurr\""
+result: "**O seu anagrama é...** `{anagramResult}`"
+stats: "A palavra `{originalWord}` possui **{howMany} anagramas diferentes**!"
+options:
+  text: "The text that will be transformed into an anagram"
