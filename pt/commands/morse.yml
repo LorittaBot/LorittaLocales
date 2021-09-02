@@ -6,8 +6,8 @@ toMorseFailUnknownCharacters: "I was unable to convert your message to Morse cod
 toMorseWarningUnknownCharacters: "While I was able to convert your message to Morse, `{missingCharacters}` weren't converted because they don't exist in Morse code!"
 fromMorseFailUnknownMorseCodes: "I was unable to convert your Morse code because all the characters that you used doesn't exist in Morse code!"
 fromMorseWarningUnknownMorseCodes: "While I was able to convert your message from Morse, `{missingMorseCodes}` weren't converted because they don't exist in Morse code!"
-fromTo: "Text to morse"
-toFrom: "Morse to text"
+fromTo: "Texto para Morse"
+toFrom: "Morse para Texto"
 options:
   fromTextToMorse: "Text that will be encoded into Morse code"
   fromMorseToText: "Morse code that will be decoded to text"
