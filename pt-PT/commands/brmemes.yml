@@ -1,0 +1,66 @@
+---
+ata:
+  description: "ata."
+  monica:
+    description: "Mônica seen one of your images and reacted in the best way possible."
+  chico:
+    description: "Chico Bento seen one of your images and reacted in the best way possible"
+  lori:
+    description: "I've seen one of your images and reacted in the best way possible"
+  gessy:
+    description: "Gessy seen one of your images and reacted in the best way possible"
+bolsonaro:
+  #https://twitter.com/sensacionalista/status/1414567158437253124
+  description: "70% sees the corruption in Bolsonaro's government, and 30% needs to go to the ophthalmologist"
+  tv:
+    description: "I wonder what Bolsonaro is showing in his television? Probably Fake News, as always!"
+  frame:
+    description: "Just look at this picture, kay??"
+ednaldo:
+  tv:
+    description: "I wonder what amazing and extraordinary thing Ednaldo Pereira is watching on his television"
+  bandeira:
+    description: "Look! Our beloved god Ednaldo Pereira is trying to show us something amazing on his flag! Let's check it out!"
+cortesflow:
+  description: "Salve salve família, make your own Cortes do Flow thumbnails with your own text!"
+  thumbnails:
+    arthurBenozzatiSmile: "Arthur Benozzati Smiling"
+    douglasLaughing: "Douglas Mesquita Laughing"
+    douglasPointing: "Douglas Mesquita Pointing"
+    douglasPray: "Douglas Mesquita Praying"
+    gaulesSad: "Gaulês Sad"
+    igorAngry: "Igor3k Angry"
+    igorNaked: "Igor3k Naked 😳"
+    igorPointing: "Igor3k Pointing"
+    julioCocieloEyes: "Júlio Cocielo with Wide Eyes"
+    lucasInutilismoExalted: "Lucas Inutilismo Exalted"
+    metaforandoBadge: "Vitor Metaforando showing his Badge"
+    metaforandoSurprised: "Vitor Metaforando Surprised"
+    miticoSucc: "Mitico Succ 🥵"
+    monarkDiscussion: "Monark arguing"
+    monarkSmoking: "Monark Smoking"
+    monarkStop: "Monark telling you to stop"
+    peterJordanActionFigure: "Peter Jordan with an Action Figure"
+    poladofulDiscussion: "Poladoful Arguing"
+    ratoBorrachudoDisappointed: "Rato Borrachudo Disappointed"
+    ratoBorrachudoNoGlasses: "Rato Borrachudo Without Glasses"
+  options:
+    thumbnail: "The thumbnail that will be used"
+    text: "The text that will be in the thumbnail... Salve salve família"
+sam:
+  description: "kk eae men South America Memes is brabo, add South America Memes' logo in a image!"
+  options:
+    type: "The variant of the logo that you want to use"
+    image: "The image that you want to be blessed by South America Memes"
+    choice:
+      sam1: "Classic Logo"
+      sam2: "Shoddy Copy Logo"
+      sam3: "Logo sarrada in the air"
+canelladvd:
+  description: "Make Matheus Canella hold one of the best DVDs of the world, for only R$ 1.95! (arr dollar sign one zero dot ninety and five brazilian reais!!!)"
+cepo:
+  description: "Destroy someone, Gugu Gaiteiro style!"
+briggscover:
+  description: "Look! @GuilhermeBriggs bought a new game and is showing off to everyone!"
+romerobritto:
+  description: "Make Romero Britto paint your amazing art!"
