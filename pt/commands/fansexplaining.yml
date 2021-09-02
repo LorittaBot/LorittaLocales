@@ -1,0 +1,13 @@
+---
+description: "Fans explaining stuff about their fandom in a very intense manner"
+options:
+  section1Line1: "Text that will show up on the top of the first section"
+  section1Line2: "Text that will show up on the bottom of the first section"
+  section2Line1: "Text that will show up on the top of the second section"
+  section2Line2: "Text that will show up on the bottom of the second section"
+  section3Line1: "Text that will show up on the top of the third section"
+  section3Line2: "Text that will show up on the bottom of the third section"
+  section4Line1: "Text that will show up on the top of the fourth section"
+  section4Line2: "Text that will show up on the bottom of the fourth section"
+  section5Line1: "Text that will show up on the top of the fifth section"
+  section5Line2: "Text that will show up on the bottom of the fifth section"
