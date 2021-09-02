@@ -1,0 +1,4 @@
+---
+name: "English"
+inheritsFrom: null
+formattingLanguageId: "en" #Used for message formatting
