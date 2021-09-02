@@ -1,0 +1,13 @@
+---
+description: "Play Rock, Paper or Scissors! (Or, as how the weebs call it, jankenpon)"
+paper: "paper"
+rock: "rock"
+scissors: "scissors"
+jesusChrist: "JESUS CHRIST"
+chosen: "You chose {userSelection}, I chose {lorittaSelection}"
+win: "Congratulations, you win!"
+lose: "What a pity... you lost, but what matters is that you at least tried!"
+maybeDraw: "Draw...?"
+draw: "Draw! How about a rematch?"
+options:
+  action: "The object that you want to use in this amazing fight"
