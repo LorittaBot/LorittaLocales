@@ -1,0 +1,5 @@
+---
+description: "Are you stuck trying to choose something? Then let me make the choice for you!"
+result: "I chose `{result}`, I hope you are happy with the result! {emote}"
+options:
+  choice: "The list of options that you want me to choose for you"
