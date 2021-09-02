@@ -1,0 +1,16 @@
+---
+description: "Too lazy to get an calculator? Then let me calculate your math expressions!"
+examples:
+  - "2 + 2 |-| Calculates how much is 2 + 2 (sum)"
+  - "40 - 10 |-| Calculates how much is 40 - 10 (subtraction)"
+  - "5 * 5 |-| Calculates how much is 5 * 5 (multiplication)"
+  - "100 / 5 |-| Calculates how much is 100 / 5 (division)"
+  - "(sqrt(10) * 4) / 12 |-| Calculates the expression (sqrt(10) * 4) / 12 (square root, multiplication and division)"
+  - "cos(0) |-| Calculates the cosine of 0"
+  - "sin(90) |-| Calculates the sine of 90"
+  - "tan(45) |-| Calculates the tangent of 45"
+  - "10 % 2 |-| Calculates the reminder of 10 divided by 2 (modulo operation)"
+invalid: "Sorry, but I don't think `{expression}` is a math expression... Or maybe it's just me being dumb, after all, I'm wasting my time on Discord instead of paying attention to my math class."
+result: "**Result:** `{result,number}`"
+options:
+  expression: "The mathematical expression that I'm going to calculate for you"
