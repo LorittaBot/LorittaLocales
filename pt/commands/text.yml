@@ -34,11 +34,11 @@ vemdezap:
     mood:
       text: "What is your mood?" #In Brazil, this references WhatsApp "humor do zap"
       choice:
-        happy: "Feliz"
-        angry: "Bravo"
+        happy: "Happy"
+        angry: "Angry"
         sassy: "Sassy"
-        sad: "Triste"
-        sick: "Doente"
+        sad: "Sad"
+        sick: "Sick"
     level:
       text: "What is your emoji amount level?" #In Brazil, this references WhatsApp "intensidade do zap"
       choice:
