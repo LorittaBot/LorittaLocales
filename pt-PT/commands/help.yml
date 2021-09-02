@@ -1,0 +1,13 @@
+---
+description: "Sometimes we all need help. Shows information about me, my commands, places you can find support about me and much more!"
+addMe: "My Dashboard: The place to add me and setup your server!"
+blog: "My Blog"
+commandList: "Command List"
+donate: "Help me stay online!"
+guidelines: "Community Guidelines"
+intro:
+  - "Howdy {user}, my name is Loritta (or, how my close friends call me, \"Lori\") and I'm just a simple bot for Discord!"
+  - "With features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization..."
+  - "And everything thanks to a 16 year old girl trying to make the world a better place!"
+lorittaHelp: "Loritta Help"
+supportServer: "Do you need help? Then ask in my support server!"
