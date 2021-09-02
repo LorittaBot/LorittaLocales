@@ -1,0 +1,48 @@
+---
+description: "Love is in the air! Check if your dream couple would work... or not!"
+newCouple: "Hmmm, I wonder if we have a new couple here?"
+scoreImpossible:
+  - "This is impossible, okay? This just won't work."
+  - "No, no. Just no."
+  - "Never!"
+  - "It would never work, just don't bother trying."
+scoreSob:
+  - "I don't think they would be a good couple, sorry..."
+  - "Looks like they are only acquaintances and don't want an relationship..."
+  - "The chances of this couple working are very unlikely! ...but not impossible!"
+  - "I really want to tell you that it would be possible, but..."
+  - "Both are in the friendzone and don't want to have an relationship..."
+  - "Nah, sadly it wouldn't work..."
+  - "If they want to be together, it would need a lot of effort to do it."
+scoreShrug:
+  - "They are friends, but currently they don't want an relationship..."
+  - "If they stopped being so shy, maybe it could work!"
+  - "There are some common interests between them, so maybe..."
+  - "I really want to see this ship working! ...and maybe it would with a bit more effort!"
+  - "Maybe if they talked a bit more, it would work!"
+  - "This would work... but they need your help to make it work!"
+  - "There's probably something there...!"
+scoreLove:
+  - "Sim!"
+  - "I approve this ship!"
+  - "This would be the cutest couple I ever seen!"
+  - "This would be a very cute couple!"
+  - "They were made for each other!"
+  - "I will be surprised if they aren't already in love!"
+  - "Aww, I can already imagine them being together!"
+scorePerfect:
+  - "They are perfect for each other!"
+  - "This ship is more perfect than me!"
+  - "Not even the Grim Reaper would make them break up!"
+  - "I doubt that you would find a couple more perfect than this one!"
+  - "So perfect that I don't even have words to describe it!"
+  - "If they aren't already in a couple, I will be disappointed!"
+  - "If they aren't already in a couple, I will be disappointed!"
+scoreMarried:
+  - "We don't need to ship them, they are already married!"
+  - "They are already in love my darling, no need to do pesky ships!"
+scoreLoveYourself:
+  - "Love yourself!"
+options:
+  user1: "The user that you want to ship"
+  user2: "The user that you want to ship, if not present, I will use... you!"
