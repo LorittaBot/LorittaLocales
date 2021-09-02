@@ -1,0 +1,10 @@
+---
+knuxthrow:
+  description: "Don't touch the Master Emerald! Make Knuckles throw something very far away!"
+maniatitlecard:
+  description: "Make your own custom zone title card in Sonic Mania's style!"
+  options:
+    line1: "The first line that will be on the title card"
+    line2: "The second line that will be on the title card"
+studiopolistv:
+  description: "I wonder what wonderful and interesting thing Dr. Eggman is broadcasting in his Egg TV channel"
