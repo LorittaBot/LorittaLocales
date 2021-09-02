@@ -9,7 +9,7 @@ commands:
       options:
         image: "The image that you want to use, it can be a user mention (user avatar), image URL or a Discord emoji"
     videos:
-      name: "Videos"
+      name: "Vídeos"
     minecraft:
       name: "Minecraft"
       unknownPlayer: "`{playerName}` is not a valid Minecraft: Java Edition player!"
@@ -30,7 +30,7 @@ commands:
     misc:
       name: "Miscellaneous"
     moderation:
-      name: "Moderation"
+      name: "Moderação"
     utils:
       name: "Utilities"
     social:
