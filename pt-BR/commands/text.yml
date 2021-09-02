@@ -1,0 +1,50 @@
+---
+vaporwave:
+  description: "Transforms your message to be ａｅｓｔｈｅｔｉｃ"
+  options:
+    text: "The text that will be ａｅｓｔｈｅｔｉｃｉｓｅｄ"
+quality:
+  description: "Transforms your message to be U P P E R C A S E  S E P A R E T E D  B Y  S P A C E S" #In Brazil, this references South America Memes' "Q U A L I D A D E & S I N C R O N I A" meme
+  options:
+    text: "The text that will be converted to uppercase separated by spaces" #In Brazil, this references South America Memes' "Q U A L I D A D E & S I N C R O N I A" meme
+vaporquality:
+  description: "Transforms your message to a mix of U P P E R C A S E  S E P A R E T E D  B Y  S P A C E S and ａｅｓｔｈｅｔｉｃｓ" #In Brazil, this references South America Memes' "Q U A L I D A D E & S I N C R O N I A" meme
+  options:
+    text: "The text that will be ａｅｓｔｈｅｔｉｃｉｓｅｄ and converted to uppercase separated by spaces" #In Brazil, this references South America Memes' "Q U A L I D A D E & S I N C R O N I A" meme
+uppercase:
+  description: "Transforms your message to be in UPPERCASE. WHY ARE WE YELLING?"
+  options:
+    text: "The text that will be converted to uppercase"
+lowercase:
+  description: "Transforms your message to be in lowercase. *it is like if you were whispering*"
+  options:
+    text: "The text that will be converted to lowercase"
+clap:
+  description: "Transforms your message to {clap}make{clap}it{clap}clap{clap}back{clap}to{clap}your{clap}haters!{clap}"
+  options:
+    text: "The text that will be {clap}clappified{clap}"
+    emoji: "Do you want to clap back to your haters in your own style? Here you can change the emote that will be used!"
+mock:
+  description: "Transforms your message to mOcK SoMe tHiNg sTuPiD"
+  options:
+    text: "The text that will be mOckEd"
+vemdezap:
+  description: "Let's spice up your message with emojis!" #In Brazil, this is a command referencing the Matheus Canella's Emojo meme and ZapZap memes, so it should use that meme as a base if possible, if not, just say it is a command that adds emojis to your message.
+  options:
+    mood:
+      text: "What is your mood?" #In Brazil, this references WhatsApp "humor do zap"
+      choice:
+        happy: "Feliz"
+        angry: "Bravo"
+        sassy: "Sassy"
+        sad: "Triste"
+        sick: "Doente"
+    level:
+      text: "What is your emoji amount level?" #In Brazil, this references WhatsApp "intensidade do zap"
+      choice:
+        level1: "Not a lot of emojis" #In Brazil, this references WhatsApp "emoji power level"
+        level2: "Let's just sprinkle a little bit of emojis" #In Brazil, this references WhatsApp "emoji power level"
+        level3: "Perfectly balanced for someone that loves using emojis" #In Brazil, this references WhatsApp "emoji power level"
+        level4: "The same amount that your grandmother uses" #In Brazil, this references WhatsApp "emoji power level"
+        level5: "Is this a message with emojis, or emojis with a message?" #In Brazil, this references WhatsApp "emoji power level"
+    text: "The text that will be spiced up with emojis" #In Brazil, this would be "zap zapificado", referencing WhatsApp
