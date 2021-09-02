@@ -1,0 +1,22 @@
+---
+avatar:
+  description: "Shows your, or another user's, Discord avatar"
+  clickHere: "Click [here]({avatarUrl}) to download the user's avatar!"
+  yourselfEasterEgg: "Despite everything, it's still you."
+  lorittaEasterEgg: "Yeah, I know that I'm really cute!"
+  pantufaEasterEgg: "Yeah, Pantufa is also very cute! Just look at her, sooo cute!"
+  gabrielaEasterEgg: "Yeah, Gabriela is also very cute, sometimes I even envy her hairstyle, after all, it is a very cool and nice style!"
+  dankMemerEasterEgg: "Pepe the Frog"
+  carlbotEasterEgg: "A super cute turtle!"
+  mantaroEasterEgg: "She's actually Yuyuko from Touhou"
+  erislyEasterEgg: "Did you know that she is a giant? Don't trust me? Just look it up!"
+  kuraminhaEasterEgg: "The cutest fox... and bot, out there!"
+  options:
+    user: "The user that you want to steal... I mean, view, their avatar (*/ω＼*)"
+banner:
+  description: "Shows your, or another user's, Discord banner"
+  userDoesNotHaveAnBanner: "{user} does not have an Discord banner! Maybe they don't have Discord Nitro... Or maybe they were just too lazy to set a nice banner."
+  clickHere: "Click [here]({bannerUrl}) to download the user's banner!"
+  yourselfEasterEgg: "Despite everything, it's still your banner."
+  options:
+    user: "The user that you want to steal... I mean, view, their banner (*/ω＼*)"
