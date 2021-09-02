@@ -1,0 +1,18 @@
+---
+player:
+  description: "Shows information about Minecraft: Java Edition players"
+  skin:
+    description: "Shows the Minecraft: Java Edition skin of the provided player name"
+    playerDoesNotHaveASkin: "`{playerName}` does not have a Minecraft: Java Edition skin! Maybe they just like using {skinType}'s skin instead of a custom one!"
+  avatar:
+    description: "Shows the Minecraft: Java Edition avatar of the provided player name"
+  head:
+    description: "Shows the Minecraft: Java Edition head of the provided player name"
+  body:
+    description: "Shows the Minecraft: Java Edition body of the provided player name"
+  onlineuuid:
+    description: "Shows the Minecraft: Java Edition online unique ID of the provided player name"
+    result: "**Online UUID (premium account, via Mojang's authentication) of `{playerName}`:** `{uniqueId}`"
+  offlineuuid:
+    description: "Shows the Minecraft: Java Edition offline unique ID of the provided player name"
+    result: "**Offline UUID (cracked/offline account, without Mojang's authentication) of `{playerName}`:** `{uniqueId}`"
