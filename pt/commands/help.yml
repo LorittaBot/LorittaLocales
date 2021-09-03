@@ -1,0 +1,13 @@
+---
+description: "As vezes precisamos de ajuda. Mostre informações sobre me, meus comandos, lugares onde você pode encontrar suporte sobre mim e muito mais!"
+addMe: "Meu Dashboard: O lugar para me adicionar e configurar seu servidor!"
+blog: "Meu Blog"
+commandList: "Lista de Comandos"
+donate: "Ajude-me a ficar online!"
+guidelines: "Diretrizes da comunidade"
+intro:
+  - "Howdy {user}, meu nome é Loritta (ou, como meus amigos próximos me chamam, \"Lori\") e eu sou apenas um simples bot para o Discord!"
+  - "Com funcionalidades sociais e engraçadas para entreter e engajar seus membros, funcionalidades moderativas para manter o seu servidor sempre seguro e agradável, e com uma maneira fácil de configurar mas com um poder inigualável de customização..."
+  - "E tudo graças a uma garotinha de 16 anos querendo transformar o mundo em um lugar melhor!"
+lorittaHelp: "Ajuda da Loritta"
+supportServer: "Está com dúvidas? Pergunte no meu Servidor de Suporte!"
