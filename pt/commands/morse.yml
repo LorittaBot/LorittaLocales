@@ -1,0 +1,13 @@
+---
+description: "Codifica e decodifica e o texto de/para o código Morse. Muito útil se você estiver em uma missão super secreta e precisa codificar/decodificar código Morse!"
+descriptionFromMorse: "Decodifica código Morse para texto"
+descriptionToMorse: "Codifica o texto para código Morse"
+toMorseFailUnknownCharacters: "Eu não consegui converter a sua mensagem para código Morse porque todos os caracteres que você usou não existem no código Morse!"
+toMorseWarningUnknownCharacters: "Enquanto eu consegui converter sua mensagem para Morse, `{missingCharacters}` não foram convertidos pois eles não existem em código Morse!"
+fromMorseFailUnknownMorseCodes: "Eu não consegui converter o seu código Morse pois todos os caracteres que você usou não existem em código Morse!"
+fromMorseWarningUnknownMorseCodes: "Enquanto eu consegui converter o seu código Morse, `{missingMorseCodes}` não foram convertidos pois eles não existem em código Morse!"
+fromTo: "Texto para código morse"
+toFrom: "Código morse para texto"
+options:
+  fromTextToMorse: "Texto que será codificado em código Morse"
+  fromMorseToText: "Código morse que será decodificado para texto"
