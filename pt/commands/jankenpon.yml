@@ -1,0 +1,13 @@
+---
+description: "Jogue Pedra, Papel ou Tesoura! (jankenpon, ou a versão abrasileirada: jokenpô)"
+paper: "papel"
+rock: "pedra"
+scissors: "tesoura"
+jesusChrist: "JESUS CRISTO"
+chosen: "Você escolheu {userSelection}, eu escolhi {lorittaSelection}"
+win: "Parabéns, você ganhou!"
+lose: "Que pena... você perdeu, mas o que importa é que você pelo menos tentou!"
+maybeDraw: "Empate...?"
+draw: "Empate! Que tal uma revanche?"
+options:
+  action: "O objeto que você deseja usar nesta incrível luta"
