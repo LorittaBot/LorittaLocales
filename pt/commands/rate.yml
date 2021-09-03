@@ -1,0 +1,77 @@
+---
+description: "Já que você precisa de validação de alguém para ser feliz, então deixe-me dar uma nota para você!"
+result: "A minha nota para `{input}` é... **{score}**! **{reason}**"
+loli:
+  description: "Uh... Eu acho que você quis dizer \"lori\", certo? Afinal, por que você gostaria que eu avaliasse uma criança?"
+  isThatATypo: "Hah, eu entendi! Você quis me avaliar, certo? Afinal de contas, porque você quer saber a pontuação de uma criança. A menos que você seja uns daqueles esquisitos, que eu espero que você não seja, néééé?"
+  options:
+    loli: "Você tem certeza mesmo de que não quis dizer \"lori\"?"
+waifuHusbando:
+  description: "Já que você precisa de validação de alguém para amar o seu {type}, então deixe-me dar uma nota para você!"
+  score0:
+    - "Por favor, mude {type, select, waifu {a sua} other {o seu}} {type}. Como você pode viver com algo assim?"
+  score1:
+    - "Sem chance, mude {type, select, waifu {a sua} other {o seu}} {type} agora para não afetar a sua saúde mental."
+  score2:
+    - "Nada pessoal, mas se eu fosse você, eu mudaria {type, select, waifu {minha} other {meu}} {type}..."
+  score3:
+    - "Olha, às vezes {typePlural} precisam de mais personalidade para ser algo bom. Aparência não é tudo nessa vida, então precisa de mais substância!"
+  score4:
+    - "Não é que {type, select, waifu {sua} other {seu}} {type} é ruim, pelo contrário! Tem potencial para ser algo mais *interessante*!"
+  score5:
+    - "Não é tão ruim, não é tão bom, é apenas \"bom\". Mas pensando bem, você também é apenas \"bom\", então não importa! Apenas seja feliz!"
+  score6:
+    - "Nem todo mundo é perfeito, mas qual é a graça de viver com uma pessoa perfeita?"
+  score7:
+    - "Se {typePlural} fosse uma nota da sua escola, seria uma nota \"acima da média\", yay!"
+  score8:
+    - "{type, select, waifu {Uma} other {Um}} {type} que é bom em tudo o que é importante nesta vida. Parabéns!"
+  score9:
+    - "{type, select, waifu {Uma} other {Um}} excelente {type}, boa escolha. Não é perfeito pois a única pessoa perfeita aqui... sou eu! Hah!"
+  score10:
+    - "Simplesmente perfeito! Você tem tanta sorte de tê-los como {type, select, waifu {sua} other {seu}} {type}! Eu não mudaria para {type, select, waifu {outra} other {outro}} {type} se eu fosse você!"
+  scoreLoritta:
+    - "Eu sou perfeita!"
+    - "Eu sou perfeito, amigue! Nem tente duvidar!"
+    - "Procure por \"perfeição\" em um dicionário, você encontrará \"Loritta\""
+  scoreLorrita:
+    - "Por favor, aprenda a escrever meu nome corretamente."
+    - "Você precisa de um oftalmologista para aprender a ler o meu nome corretamente?"
+    - "Volte para a escola porque você não participou de aulas de leitura e língua portuguesa."
+  scoreChinoKafuu:
+    - "Um bot legal com funções legais"
+  scoreDyno:
+    - "Uma das minhas inspirações e um dos bots mais populares na área de administração e registro de eventos no Discord, eu não mudaria de {type} (e nem mesmo o bot) se eu fosse você!... só não me substitua por favor."
+  scoreRythm:
+    - "O maior bot de música que existe!"
+  scoreGroovy:
+    - "Vamos sentir saudades de você, Groovy!"
+  scoreDankMemer:
+    - "Então... você gosta de memes, hein? Então ele será um {type} perfeito para você meu fera."
+  scoreCarlbot:
+    - "Uma tartaruga super fofa!"
+  scoreMantaro:
+    - "Eu nunca falei muito com a Mantaro, mas sei que seu criador é gente boa."
+  scoreMee6:
+    - "Uma das minhas inspirações e um dos bots mais velhos e mais populares do Discord, eu não mudaria de {type} (ou de bot) se eu fosse você!... só não me substitua plz."
+  scoreMudae:
+    - "E você ganha personagens, e você também ganha personagens, e você ganha mais personagens... todo mundo ama coletar personagens!"
+  scoreNadeko:
+    - "Uma das minhas inspirações e um dos bots mais customizáveis e populares do Discord, eu não mudaria de {type} (ou de bot) se eu fosse você!... só não me substitua plz."
+  scorePantufa:
+    - "A minha melhor amiga, a Pantufinha é minha amiga de infância! Beijos amigs."
+  scorePollux:
+    - "Uma amiga 10/10, ela é muito legal e criativa! (Você já viu o que ela consegue fazer? Eu fico até impressionada! E às vezes até fico triste ao ver como os comandos dela são bonitos e como os meus são... tipo, feios...)"
+  scoreTatsumaki:
+    - "Uma das minhas inspirações, eu não mudaria de {type} (ou de bot) se eu fosse você!... só não me substitua plz."
+  scoreUnbelievaBoat:
+    - "Muitas pessoas amam ele devido a seu sistema de economia extremamente extenso, e se eu não lhe desse 10/10, meu espírito capitalista iria ficar desapontada..."
+  scoreWumpus:
+    - "É um Wumpus!"
+  scoreKuraminha:
+    - "A raposa mais fofa... e o bot, que existe! ...m-mas, eu pensei que já era {typeSingular} do Naruto!"
+  scoreErisly:
+    - "Ela é a minha amiga! Mas você sabia que ela é uma gigante? Não acredita em mim? Só olhe para ela!"
+  options:
+    waifu: "A waifu que você quer que seja avaliada"
+    husbando: "O husbando que você quer que seja avaliado"
