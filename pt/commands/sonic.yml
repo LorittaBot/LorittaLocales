@@ -2,9 +2,9 @@
 knuxthrow:
   description: "Não toque no Mestre Esmeralda! Faça Knuckles jogar algo para muito longe!"
 maniatitlecard:
-  description: "Crie seu próprio título personalizado para um nível no estilo Sonic Mania!"
+  description: "Crie seu próprio title card personalizado para um nível no estilo do Sonic Mania!"
   options:
     line1: "A primeira linha que estará no título"
     line2: "A segunda linha que estará no título"
 studiopolistv:
-  description: "Gostaria de saber a coisa maravilhosa e interessante que Dr. Eggman está transmitindo em no canal da sua Egg TV"
+  description: "O que será que o Dr. Eggman está transmitindo de tão maravilhoso e interessante no canal da Egg TV"
