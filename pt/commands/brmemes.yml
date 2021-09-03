@@ -2,25 +2,25 @@
 ata:
   description: "ata."
   monica:
-    description: "Mônica viu uma das suas imagens e reagiu da melhor maneira possível."
+    description: "Mônica viu uma de suas imagens e reagiu da melhor maneira possível."
   chico:
-    description: "O Chico Bento viu uma das suas imagens e reagiu da melhor maneira possível"
+    description: "O Chico Bento viu uma de suas imagens e reagiu da melhor maneira possível"
   lori:
-    description: "Eu vi uma das suas imagens e reagi da melhor maneira possível"
+    description: "Eu vi uma de suas imagens e reagi da melhor maneira possível"
   gessy:
-    description: "Gessy viu uma das suas imagens e reagiu da melhor maneira possível"
+    description: "Gessy viu uma de suas imagens e reagiu da melhor maneira possível"
 bolsonaro:
   #https://twitter.com/sensacionalista/status/1414567158437253124
-  description: "70% vê a corrupção no governo de Bolsonaro, e 30% precisa ir ao oftalmologista"
+  description: "70% vê a corrupção no governo Bolsonaro, e 30% precisam ir ao oftalmologista"
   tv:
-    description: "O que será que Bolsonaro está mostrando na televisão? Provavelmente falsas notícias, como sempre!"
+    description: "O que será que Bolsonaro está mostrando na televisão? Provavelmente fake news, como sempre!"
   frame:
-    description: "Só dê uma olhada nesta foto, ok??"
+    description: "Dê uma olhada nesta foto, talquei??"
 ednaldo:
   tv:
-    description: "Eu me pergunto que coisa incrível e extraordinária que Ednaldo Pereira esteja vendo na televisão"
+    description: "Qual será a coisa incrível e extraordinária que Ednaldo Pereira esteja vendo na televisão"
   bandeira:
-    description: "Veja! Nosso querido deus Ednaldo Pereira está tentando nos mostrar algo incrível em sua bandeira! Vamos conferir!"
+    description: "Olha! Nosso querido deus Ednaldo Pereira está tentando nos mostrar algo incrível em sua bandeira! Vamos conferir!"
 cortesflow:
   description: "Salve salve família, faça suas próprias thumbnails do Cortes do Flow com seu próprio texto!"
   thumbnails:
@@ -50,14 +50,14 @@ cortesflow:
 sam:
   description: "kk eae men South America Memes é brabo, adicione o logo South America Memes' em uma imagem!"
   options:
-    type: "A variante da logo que você deseja usar"
+    type: "A variante do logo que você deseja usar"
     image: "A imagem que você quer que seja abençoada pela South America Memes"
     choice:
       sam1: "Logo Clássico"
       sam2: "Logo Cópia Barata"
       sam3: "Logo sarrada no ar"
 canelladvd:
-  description: "Faça Matheus Canella ter um dos melhores DVDs do mundo, por apenas R$ 1.95!"
+  description: "Faça Matheus Canella ter um dos melhores DVDs do mundo, por apenas R$ 1,95! (erre cifrão um zero vírgula noventa e cinco reais!!!)"
 cepo:
   description: "Destrua alguém, estilo Gugu Gaiteiro!"
 briggscover:
