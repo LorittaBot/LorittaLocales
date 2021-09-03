@@ -1,0 +1,5 @@
+---
+description: "Coloque legendas em uma imagem, perfeito para fazer aquele meme incrível que você imaginou!"
+options:
+  line1: "Texto que irá aparecer na parte de cima"
+  line2: "Texto que irá aparecer na parte de baixo"
