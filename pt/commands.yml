@@ -1,5 +1,5 @@
 ---
 commands:
-  errorWhileExecutingCommand: "Algo deu muito errado ao executar este comando... {loriRage} Desculpe o inconveniente... {loriSob} Espero que este problema tenha sido resolvido em breve! {stacktrace}"
-  commandOnlyAvailableInGuilds: "Este comando só está disponível em um servidor! Se você realmente quiser usá-lo, por favor crie um servidor agradável e confortável, me adicione lá, e use o comando lá!"
-  noValidImageFound: "Desculpe, mas não consegui encontrar uma imagem que eu poderia usar! Eu tentei conseguir a partir de imagens em links, imagens anexadas, avatar de usuários mencionados, emojis... mas não encontrei nada assim na sua mensagem."
+  errorWhileExecutingCommand: "Algo deu extremamente errado ao executar este comando... {loriRage} Desculpe pela inconveniência... {loriSob} Espero que este problema seja resolvido em breve! {stacktrace}"
+  commandOnlyAvailableInGuilds: "Este comando só está disponível em um servidor! Se você realmente quiser usá-lo, por favor crie um servidor agradável e aconchegante, me adicione, e use o comando lá!"
+  noValidImageFound: "Desculpe, mas eu não achei nenhuma imagem que eu possa usar! Eu tentei pegar imagens em links, imagens anexadas, avatares de usuários mencionados, emojis... mas eu não achei nada disso na sua mensagem."
