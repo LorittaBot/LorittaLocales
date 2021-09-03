@@ -1,0 +1,6 @@
+---
+description: "Crie um anagrama a partir de um texto! Perfeito se você quer ser misterioso com suas mensagens"
+result: "**Seu anagrama é...** `{anagramResult}`"
+stats: "A palavra `{originalWord}` possui **{howMany} anagramas diferentes**!"
+options:
+  text: "O texto que será transformado em um anagrama"
