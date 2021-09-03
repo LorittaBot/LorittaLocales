@@ -1,6 +1,6 @@
 ---
 description: "Verifique quantos sonhos você, ou outro usuário, tem!"
-youHaveSonhos: "Você tem **{sonhosCount,number,#} ** {sonhosCount, plural, one {sonho} other {sonhos}}**! {rankPositionText}"
+youHaveSonhos: "Você tem **{sonhosCount,number,#} {sonhosCount, plural, one {sonho} other {sonhos}}**! {rankPositionText}"
 userHasSonhos: "{user} possui **{sonhosCount,number,#} {sonhosCount, plural, one {sonho} other {sonhos}}**! {rankPositionText}"
 yourCurrentRankPosition: "Você está em **#{rankPosition,number,#} lugar** no ranking, veja outros ostentadores em `{sonhosTopCommand}`!"
 userCurrentRankPosition: "E você sabia que {user} está em **#{rankPosition,number,#} lugar** no ranking? Veja outros ostentadores usando `{sonhosTopCommand}`!"
