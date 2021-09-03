@@ -1,0 +1,12 @@
+---
+description: "Encontre o significado de uma palavra no dicionário!"
+wordNotFound: "Eu li e reli meu dicionário várias vezes, e ainda não encontrei essa palavra! Você tem certeza de que ela existe?"
+meaningOf: "Significado de {word}"
+synonyms: "Sinônimos"
+opposite: "Antônimos"
+sentence: "Frase"
+options:
+  language: "O idioma do dicionário que usarei para pesquisar a palavra"
+  word: "A palavra que você deseja saber o significado"
+languages:
+  ptBr: "Português (Brasil)"
