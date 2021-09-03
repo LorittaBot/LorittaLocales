@@ -1,8 +1,8 @@
 ---
-description: "Faça um meme do Drake, também conheçido por \"Drakeposting\", com duas imagens!"
+description: "Faça um meme do Drake, também conhecido por \"Drakeposting\", com duas imagens!"
 drake:
-  description: "Criar um Drakeposting meme com duas imagens!"
+  description: "Criar um meme de Drakeposting com duas imagens!"
 bolsonaro:
-  description: "Memes devem ser das origens de Brasil, kay??"
+  description: "Memes devem ser de origens brasileiras, talquei??"
 lori:
-  description: "Criar um Drakeposting meme, Loritta edition"
+  description: "Criar um meme de Drakeposting, Loritta edition"
