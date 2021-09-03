@@ -42,6 +42,10 @@ scoreMarried:
   - "Eles já estão apaixonados bobinh@, não precisa ficar fazendo esses ships tosquinhos!"
 scoreLoveYourself:
   - "Ame a si mesmo!"
+scoreLoritta:
+  - "Não, não quero namorar, gosto de ser solteira e de viver a minha própria vida! Mas algum dia você irá encontrar alguém que te ama!"
+scoreLorittaWithShipEffect:
+  - "O quê? Tentar magicamente manipular os resultados do ship comigo não vai funcionar. Vá embora!"
 options:
   user1: "O usuário que você deseja shippar"
   user2: "O usuário que você deseja shippar, se não estiver presente, eu irei usar... você!"
