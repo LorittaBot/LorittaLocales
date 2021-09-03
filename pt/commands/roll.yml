@@ -1,0 +1,9 @@
+---
+description: "Rola um, ou múltiplos, dados e mostra o resultado, perfeito se você quiser jogar Monopoly mas você acabou perdendo todos os seus dados."
+howManySides: "Quantos lados o dado que eu irei rolar tem"
+invalidBound: "Eu tentei rolar os dados, mas... ele desapareceu! Poof! Acho que ele desapareceu porque você criou um dado inválido... Me diga, como era para eu rolar aquilo?"
+result: "Você rolou um **{diceExpression}**... e conseguiu **{result,number,integer}**!"
+tooManyDices: "Eu tentei rolar os dados mas eram taaaantos que não couberam todos na minha mesa e caíram no chão e *poof*, sumiram! Por favor, gire no máximo 100 dados para que não caiam novamente."
+options:
+  dices: "A quantidade de dados e lados que eu irei rolar, você tambpem pode usar dados no formato \"3d6\""
+  expression: "A expressão matemática que será aplicada no resultado da rolagem"
