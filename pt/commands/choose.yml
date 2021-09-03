@@ -1,0 +1,5 @@
+---
+description: "Precisando de ajuda para escolher algo? Então deixe-me escolher para você!"
+result: "Eu escolhi `{result}`, eu espero que você esteja feliz com o resultado! {emote}"
+options:
+  choice: "Uma lista com as opções que você deseja que eu escolha para você"
