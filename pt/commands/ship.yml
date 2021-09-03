@@ -1,0 +1,47 @@
+---
+description: "O amor está no ar! Verifique se o seu casal dos sonhos irá funcionar... ou não!"
+newCouple: "Hmmm, será que temos um novo casal aqui?"
+scoreImpossible:
+  - "Isso é impossível, ok? Isso simplesmente não irá funcionar."
+  - "Não, não. Absolutamente não."
+  - "Nunca!"
+  - "Jamais funcionaria, nem se preocupe tentando fazer que funcione."
+scoreSob:
+  - "Desculpe, mas não acho que eles seriam um bom casal..."
+  - "Parece que eles só são conhecidos e não querem um relacionamento..."
+  - "As chances deste casal funcionar são muito improváveis! ... mas não é impossível!"
+  - "Eu realmente quero te dizer que isso seria possível, mas..."
+  - "Ambos estão na friendzone e não querem ter um relacionamento..."
+  - "Não, infelizmente não iria funcionar..."
+  - "Se querem estar juntos, será necessário um esforço muito grande para dar certo."
+scoreShrug:
+  - "Eles são amigos, mas atualmente eles não querem um relacionamento..."
+  - "Se deixassem de ser tão tímidos, talvez isso pudesse funcionar!"
+  - "Existem alguns interesses comuns entre eles, então talvez..."
+  - "Eu quero muito ver este ship funcionar! ... e talvez com um pouco mais de esforço vai dar certo!"
+  - "Talvez se eles conversassem mais um pouco, isso funcionaria!"
+  - "Isso funcionaria... mas eles precisam de sua ajuda para que funcione!"
+  - "Provavelmente tem algo bom nessa relação...!"
+scoreLove:
+  - "Sim!"
+  - "Eu aprovo este ship!"
+  - "Este seria o casal mais fofinho que eu já vi!"
+  - "Seria um casal muito fofo!"
+  - "Foram feitos um para o outro!"
+  - "Eu vou me surpreender se ainda não estiverem apaixonados!"
+  - "Aww, eu já consigo imaginá-los juntos!"
+scorePerfect:
+  - "São perfeitos um para o outro!"
+  - "Este ship é mais perfeito do que eu!"
+  - "Nem mesmo a Dona Morte consegue separar!"
+  - "Duvido que você acharia um casal mais perfeito que este!"
+  - "Tão perfeito que nem tenho palavras para descrever!"
+  - "Se eles ainda não forem um casal, eu ficarei desapontada!"
+scoreMarried:
+  - "Não precisamos shippá-los, eles já estão casados!"
+  - "Eles já estão apaixonados bobinh@, não precisa ficar fazendo esses ships tosquinhos!"
+scoreLoveYourself:
+  - "Ame a si mesmo!"
+options:
+  user1: "O usuário que você deseja shippar"
+  user2: "O usuário que você deseja shippar, se não estiver presente, eu irei usar... você!"
