@@ -1,0 +1,66 @@
+---
+ata:
+  description: "ata."
+  monica:
+    description: "Mônica viu uma das suas imagens e reagiu da melhor maneira possível."
+  chico:
+    description: "O Chico Bento viu uma das suas imagens e reagiu da melhor maneira possível"
+  lori:
+    description: "Eu vi uma das suas imagens e reagi da melhor maneira possível"
+  gessy:
+    description: "Gessy viu uma das suas imagens e reagiu da melhor maneira possível"
+bolsonaro:
+  #https://twitter.com/sensacionalista/status/1414567158437253124
+  description: "70% vê a corrupção no governo de Bolsonaro, e 30% precisa ir ao oftalmologista"
+  tv:
+    description: "O que será que Bolsonaro está mostrando na televisão? Provavelmente falsas notícias, como sempre!"
+  frame:
+    description: "Só dê uma olhada nesta foto, ok??"
+ednaldo:
+  tv:
+    description: "Eu me pergunto que coisa incrível e extraordinária que Ednaldo Pereira esteja vendo na televisão"
+  bandeira:
+    description: "Veja! Nosso querido deus Ednaldo Pereira está tentando nos mostrar algo incrível em sua bandeira! Vamos conferir!"
+cortesflow:
+  description: "Salve salve família, faça suas próprias thumbnails do Cortes do Flow com seu próprio texto!"
+  thumbnails:
+    arthurBenozzatiSmile: "Arthur Benozzati Sorrindo"
+    douglasLaughing: "Douglas Mesquita Rindo"
+    douglasPointing: "Douglas Mesquita Apontando"
+    douglasPray: "Douglas Mesquita Rezando"
+    gaulesSad: "Gaulês Triste"
+    igorAngry: "Igor3k Irritado"
+    igorNaked: "Igor3k Pelado 😳"
+    igorPointing: "Igor3k Apontando"
+    julioCocieloEyes: "Júlio Cocielo com Olhos Arregalados"
+    lucasInutilismoExalted: "Lucas Inutilismo Exaltado"
+    metaforandoBadge: "Vitor Metaforando mostrando seu distintivo"
+    metaforandoSurprised: "Vitor Metaforando Surpreso"
+    miticoSucc: "Mitico Succ 🥵"
+    monarkDiscussion: "Monark Discutindo"
+    monarkSmoking: "Monark Fumando"
+    monarkStop: "Monark dizendo para você parar"
+    peterJordanActionFigure: "Peter Jordan com uma Action Figure"
+    poladofulDiscussion: "Poladoful Discutindo"
+    ratoBorrachudoDisappointed: "Rato Borrachudo Desapontado"
+    ratoBorrachudoNoGlasses: "Rato Borrachudo Sem Óculos"
+  options:
+    thumbnail: "A thumbnail que será utilizada"
+    text: "O texto que estará na thumbnail... Salve salve família"
+sam:
+  description: "kk eae men South America Memes é brabo, adicione o logo South America Memes' em uma imagem!"
+  options:
+    type: "A variante da logo que você deseja usar"
+    image: "A imagem que você quer que seja abençoada pela South America Memes"
+    choice:
+      sam1: "Logo Clássico"
+      sam2: "Logo Cópia Barata"
+      sam3: "Logo sarrada no ar"
+canelladvd:
+  description: "Faça Matheus Canella ter um dos melhores DVDs do mundo, por apenas R$ 1.95!"
+cepo:
+  description: "Destrua alguém, estilo Gugu Gaiteiro!"
+briggscover:
+  description: "Olha! @GuilhermeBriggs comprou um novo jogo e está se exibindo para todos!"
+romerobritto:
+  description: "Faça Romero Britto pintar a sua arte incrível!"
