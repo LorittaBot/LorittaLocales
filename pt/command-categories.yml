@@ -1,0 +1,43 @@
+---
+#This file stores all the locales related to command categories (names and descriptions) and locale keys used by multiple commands in the category
+commands:
+  category:
+    fun:
+      name: "Diversão"
+    images:
+      name: "Imagens"
+      options:
+        image: "A imagem que você quer usar, pode ser uma menção de usuário (foto de perfil de usuário), URL de imagem ou um emoji do Discord"
+    videos:
+      name: "Vídeos"
+    minecraft:
+      name: "Minecraft"
+      unknownPlayer: "`{playerName}` não é um jogador de Minecraft: Java Edition válido!"
+      options:
+        playerNameJavaEdition: "O nome da conta do jogador no Minecraft: Java Edition"
+    pokemon:
+      name: "Pokémon"
+    undertale:
+      name: "Undertale"
+    roblox:
+      name: "ROBLOX"
+    anime:
+      name: "Anime"
+    discord:
+      name: "Discord"
+    fortnite:
+      name: "Fortnite"
+    misc:
+      name: "Miscelânea"
+    moderation:
+      name: "Moderação"
+    utils:
+      name: "Utilitários"
+    social:
+      name: "Social"
+    economy:
+      name: "Economia"
+    action:
+      name: "Ações"
+    magic:
+      name: "Mágica"
