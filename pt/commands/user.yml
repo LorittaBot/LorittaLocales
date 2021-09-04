@@ -15,7 +15,7 @@ avatar:
     user: "O usuário que você deseja roubar... Quero dizer, ver o avatar (*/ω＼*)"
 banner:
   description: "Mostra o banner do seu perfil ou o banner do perfil de outro usuário"
-  userDoesNotHaveAnBanner: "{user} não tem um banner no perfil! Talvez ele não tenha Discord Nitro... Ou talvez é apenas teve muita preguiça de colocar um banner bonitinho."
+  userDoesNotHaveAnBanner: "{user} não tem um banner no perfil! Talvez ele não tenha Discord Nitro... Ou talvez ele só teve muita preguiça de colocar um banner bonitinho."
   clickHere: "Clique em [here]({bannerUrl}) para baixar o banner do usuário!"
   yourselfEasterEgg: "Apesar de tudo, ainda é o seu banner."
   options:
