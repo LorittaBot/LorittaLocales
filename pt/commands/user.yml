@@ -1,7 +1,7 @@
 ---
 avatar:
   description: "Mostra o avatar do seu perfil ou o avatar do perfil de outro usuário"
-  clickHere: "Clique em [here]({avatarUrl}) para baixar o avatar do usuário!"
+  clickHere: "Clique [aqui]({avatarUrl}) para baixar o avatar do usuário!"
   yourselfEasterEgg: "Apesar de tudo, ainda é você."
   lorittaEasterEgg: "Sim, eu sei que sou muito fofa!"
   pantufaEasterEgg: "Sim, a Pantufa também é muito fofa! Só olhe para ela, tããão fofinha!"
@@ -16,7 +16,7 @@ avatar:
 banner:
   description: "Mostra o banner do seu perfil ou o banner do perfil de outro usuário"
   userDoesNotHaveAnBanner: "{user} não tem um banner no perfil! Talvez ele não tenha Discord Nitro... Ou talvez ele só teve muita preguiça de colocar um banner bonitinho."
-  clickHere: "Clique em [here]({bannerUrl}) para baixar o banner do usuário!"
+  clickHere: "Clique [aqui]({bannerUrl}) para baixar o banner do usuário!"
   yourselfEasterEgg: "Apesar de tudo, ainda é o seu banner."
   options:
     user: "O usuário que você deseja roubar... Quero dizer, ver o banner (*/ω＼*)"
