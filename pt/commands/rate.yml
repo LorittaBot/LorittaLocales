@@ -32,7 +32,7 @@ waifuHusbando:
     - "Simplesmente perfeito! Você tem tanta sorte de tê-los como {type, select, waifu {sua} other {seu}} {type}! Eu não mudaria para {type, select, waifu {outra} other {outro}} {type} se eu fosse você!"
   scoreLoritta:
     - "Eu sou perfeita!"
-    - "Eu sou perfeito, amigue! Nem tente duvidar!"
+    - "Eu sou perfeita, amigue! Nem tente duvidar!"
     - "Procure por \"perfeição\" em um dicionário, você encontrará \"Loritta\""
   scoreLorrita:
     - "Por favor, aprenda a escrever meu nome corretamente."
