@@ -1,0 +1,47 @@
+---
+achievements:
+  category:
+    all:
+      title: "Todas as Conquistas"
+    ship:
+      title: "Ship"
+      description: "O amor está no ar! ...e ele também pode ser competitivo! Conquistas relacionadas ao comando `{command}`" #This references the "/ship" description
+    rate:
+      title: "Avaliar"
+      description: "Você precisa de validação, e recompensas, de outra pessoa para ser feliz... Conquistas relacionadas ao comando `{command}`" #This references the "/rate" description
+    generic:
+      description: "Conquistas relacionadas ao comando `{command}`" #This is a generic description for achievements that do not have a custom description
+  achievementUnlocked: "Conquista Desbloqueada!" #Shown to the user when an achievement is unlocked
+  achievement:
+    #===[ SHIP ]===
+    natural100Ship:
+      title: "Amor Verdadeiro"
+      description: "Encontre um ship 100% natural"
+    natural0Ship:
+      title: "Ódio Puro"
+      description: "Encontre um ship 0% natural"
+    marriedShip:
+      title: "Feliz por estar com você"
+      description: "Shippe alguém casado com o parceiro dela"
+    fishyShip:
+      title: "Ship Suspeito"
+      description: "Encontre um ship que foi sabotado pelo Oráculo do Amor"
+    loveYourself:
+      title: "Ame a si mesmo"
+      description: "Shippe você mesmo... com você mesmo!"
+    friendzonedByLoritta:
+      title: "Friendzoneado pela Loritta"
+      description: "Seja friendzoneado pela Loritta"
+    sabotagedLorittaFriendzone:
+      title: "Você não pode sabotar a *minha* friendzone!"
+      description: "Ser friendzoneado pela Loritta depois que você tentou sabotar o seu relacionamento com ela"
+    #===[ RATE ]===
+    inflatedEgo:
+      title: "Ego Inflado"
+      description: "Avalie Loritta como Waifu ou como Husbando"
+    pressPlayToPayRespects:
+      title: "Aperte /play para prestar respeito"
+      description: "Avalie Groovy como Waifu ou como Husbando"
+    weirdo:
+      title: "Você é... um esquisito?"
+      description: "Avalie... ou bem, tente, avaliar uma criança"
