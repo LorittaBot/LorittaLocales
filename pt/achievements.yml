@@ -12,6 +12,7 @@ achievements:
     generic:
       description: "Conquistas relacionadas ao comando `{command}`" #This is a generic description for achievements that do not have a custom description
   achievementUnlocked: "Conquista Desbloqueada!" #Shown to the user when an achievement is unlocked
+  viewYourAchievements: "Veja todas as suas conquistas usando `{command}`"
   achievement:
     #===[ SHIP ]===
     natural100Ship:
