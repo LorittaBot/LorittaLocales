@@ -12,3 +12,6 @@ reminderRemoved: "Lembrete removido!"
 setHour: "Quando você irá querer que eu te avise deste lembrete? (`1 hora`, `5 minutos`, `12:00 11/08/2018`, etc)"
 success: "Eu irei te lembrar em **{0}/{1}/{2,number,#}** às **{3}:{4}**!"
 yourReminders: "Seus lembretes"
+remind:
+- "Lembrete! `{0}`"
+- "Clique em {1} para adiar por {2} minutos, ou clique em {3} para escolher por quanto tempo adiar"

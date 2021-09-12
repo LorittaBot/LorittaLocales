@@ -13,3 +13,6 @@ reminderRemoved: "Reminder removed!"
 setHour: "When do you want me to remind you? (`1 hour`, `5 minutes`, `12:00 11/08/2018`, etc)"
 success: "I'll remind you in **{0}/{1}/{2,number,#}** at **{3}:{4}**!"
 yourReminders: "Your reminders"
+remind:
+  - "Reminder! `{0}`"
+  - "Click {1} to snooze for {2} minutes, or click {3} to choose how long to snooze"
