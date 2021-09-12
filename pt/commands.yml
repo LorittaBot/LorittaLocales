@@ -3,3 +3,5 @@ commands:
   errorWhileExecutingCommand: "Algo deu extremamente errado ao executar este comando... {loriRage} Desculpe pela inconveniência... {loriSob} Espero que este problema seja resolvido em breve! {stacktrace}"
   commandOnlyAvailableInGuilds: "Este comando só está disponível em um servidor! Se você realmente quiser usá-lo, por favor crie um servidor agradável e aconchegante, me adicione, e use o comando lá!"
   noValidImageFound: "Desculpe, mas eu não achei nenhuma imagem que eu possa usar! Eu tentei pegar imagens em links, imagens anexadas, avatares de usuários mencionados, emojis... mas eu não achei nada disso na sua mensagem."
+  youArentTheUserGeneric: "Espere um pouquinho... Isso não é para você! Xô, xô! Sai daqui!" #Used in button/select menu reponses if the user tries to interact with a button/component that isn't for them
+  youArentTheUserSingleUser: "Espere um pouquinho... Você não é {user}! Isso não é para você, sai daqui!" #Used in button/select menu reponses if the user tries to interact with a button/component that isn't for them, used when the correct user is known
