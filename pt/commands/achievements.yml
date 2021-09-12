@@ -1,0 +1,5 @@
+---
+description: "Mostra as suas conquistas que você trabalhou tanto para conquistá-las"
+youDontHaveAnyAchievements: "Você não tem nenhuma conquista... por enquanto!" #Used in the embed if the user doesn't have any achievements in the All Achievements category
+youDontHaveAnyAchievementsInTheCategory: "Você não possui conquistas nesta categoria... por enquanto!" #Used in the embed if the user doesn't have any achievements in the selected category
+achievedAt: "Conquistado em" #Used in the embed, "Achieved at: TimestampHere"
