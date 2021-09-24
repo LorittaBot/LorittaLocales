@@ -1,0 +1,242 @@
+---
+textbox:
+  description: "Crie uma caixa de texto do Undertale/DELTARUNE com seu próprio texto!"
+  descriptionGame: "Crie uma caixa de texto do Undertale/DELTARUNE com seu próprio texto e retratos de personagens do Undertale/DELTARUNE!"
+  descriptionCustom: "Crie uma caixa de texto do Undertale/DELTARUNE com seu próprio texto e sua própria imagem!"
+  options:
+    text: "O texto que estará na caixa de diálogo"
+  type:
+    original: "Original" #The "original" dialog box used in Undertale. Black background and white outlines.
+    darkWorld: "Dark World" #The "Dark World" dialog box used in the Dark World segments in DELTARUNE. This should only be translated if DELTARUNE has a translation to the target language!
+  portraitWithName: "{portraitType} ({character})"
+  confirm: "Confirmar" #Used in the "Confirm" button in the command, when clicking on it, all buttons/text are removed and only the generated dialog is kept
+  customizeYourMessage: "Personalize a sua caixa de diálogo! Após estar satisfeito com as suas mudanças, clique no botão confirmar!"
+  dataIsMissing: "Opa, parece que um cachorrinho fofinho branco absorveu a sua caixa de texto! Por favor, use o comando novamente caso queira criar uma nova caixa de texto!" #Cute little white dog = Annoying Dog = Toby Fox
+  colored: "Colorido"
+  blackAndWhite: "Preto e Branco"
+  grayscale: "Tons de Cinza"
+  portraits:
+    neutral: "Neutro"
+    angry: "Bravo"
+    angryUwU: "Bravo (UwU)"
+    astonished: "Espantado"
+    disappointed: "Desapontado"
+    happy: "Feliz"
+    lookingDown: "Olhando para baixo"
+    lookingDownBlushing: "Olhando para baixo envergonhado"
+    lookingDownPleading: "Olhando para baixo implorando"
+    lookingDownSad: "Olhando para baixo triste"
+    pleading: "Implorando"
+    pleadingBlushing: "Implorando envergonhado"
+    shocked: "Chocado"
+    surprised: "Surpreso"
+    unamused: "Desanimado"
+    sad: "Triste"
+    screaming: "Gritando"
+    smiling: "Sorrindo"
+    smilingBlushing: "Sorrindo e Envergonhado"
+    smilingNoGlasses: "Sorrindo (Sem Óculos)"
+    wink: "Piscando"
+    blink: "Piscando"
+    chuckling: "Rindo"
+    noEyes: "Sem Olhos"
+    crying: "Chorando"
+    dejected: "Abatido"
+    mad: "Louco"
+    sunglasses: "Com Óculos Escuros"
+    wacky: "Maluco"
+    weary: "Cansado"
+    blushing: "Envergonhado"
+    asgore: "Asgore" #Name, should not be translated!
+    asgoreCreepy: "Asgore Assustador" #Name, only the "Creepy" part should be translated!
+    toriel: "Toriel" #Name, should not be translated!
+    torielCreepy: "Toriel Assustadora" #Name, only the "Creepy" part should be translated!
+    asriel: "Asriel" #Name, should not be translated!
+    asrielCrying: "Asriel Chorando" #Name, only the "Crying" part should be translated!
+    closedEyes: "Olhos Fechados"
+    crazy: "Louco"
+    evil: "Malvado"
+    frisk: "Frisk" #Name, should not be translated!
+    grin: "Sorriso"
+    hurt: "Machucado"
+    jaws: "Mandíbulas"
+    sassy: "Atrevido"
+    skull: "Crânio"
+    terrified: "Apavorado"
+    wiltedStandUp: "Murcho se Levantando"
+    annoyed: "Incomodado"
+    closedEyesSad: "Triste (Olhos Fechados)"
+    disbelief: "Descrença"
+    disbeliefLookingAway: "Olhando para Longe (Descrença)"
+    incredulous: "Incrédulo"
+    incredulousLookingAway: "Olhando para Longe (Incrédulo)"
+    lookingAway: "Olhando para Longe"
+    pissed: "Chateado"
+    sadLookingAway: "Triste (Olhando para Longe)"
+    sadSmile: "Sorriso Triste"
+    semiClosedEyes: "Olhos Quase Fechados"
+    serious: "Sério"
+    seriousLookingAway: "Sério (Olhando para Longe)"
+    seriousTalking: "Falando Seriamente"
+    what: "O quê"
+    whatFunny: "O quê engraçado"
+    blueEye: "Olho Azul"
+    yellowEye: "Olho Amarelo"
+    bleedingNeutral: "Neutro (Sangrando)"
+    bleedingConfused: "Confuso (Sangrando)"
+    bleedingChuckling: "Rindo (Sangrando)"
+    bleedingLookingDown: "Olhando para Baixo (Sangrando)"
+    bleedingClosedEyes: "Olhos Fechados (Sangrando)"
+    bleedingWink: "Piscando (Sangrando)"
+    confused: "Confuso"
+    googlyEyes: "Olhos Esbugalhados"
+    laughing: "Rindo"
+    sweating: "Suando"
+    worried: "Preocupado"
+    annoyedLookingAway: "Olhando para Longe (Incomodado)"
+    defeated: "Derrotado"
+    disgusted: "Com nojo"
+    happyStained: "Feliz (Sujo)"
+    sadLookingDown: "Triste (Olhando para Baixo)"
+    surprisedStained: "Surpreso (Sujo)"
+    uhhh: "Uhhh"
+    sweatingLookingAway: "Suando (Olhando para Longe)"
+    concerned: "Preocupado"
+    confident: "Confiante"
+    excited: "Animado"
+    heartEyes: "Olhos de Coração"
+    lookingUp: "Olhando para Cima"
+    nervous: "Nervoso"
+    nervousLookingUp: "Nervoso (Olhando para Cima)"
+    pain: "Machucado"
+    painLookingAway: "Dor (Olhando para Longe)"
+    relieved: "Aliviado"
+    relievedLookingAway: "Aliviado (Olhando para Longe)"
+    sadSurprised: "Triste (Surpreso)"
+    sweatingBlushing: "Envergonhado (Suando)"
+    sweatingCouraged: "Corajoso (Suando)"
+    sweatingSmiling: "Sorrindo (Suando)"
+    angryClosedEyes: "Bravo (Olhos Fechados)"
+    apathetic: "Apático"
+    catMouth: "Boca de Gato"
+    evilClosedEyes: "Malvado (Olhos Fechados)"
+    funny: "Engraçado"
+    openMouth: "Boca Aberta"
+    tilted: "Inclinado"
+    tongueOut: "Língua de Fora"
+    insane: "Insano"
+    happyClosedEyes: "Feliz (Olhos Fechados)"
+    sadClosedEyes: "Triste (Olhos Fechados)"
+    scream: "Gritando"
+    seriousClosedEyes: "Sério (Olhos Fechados)"
+    seriousClosedEyesCrying: "Sério (Olhos Fechados, Chorando)"
+    shadow: "Sombra"
+    shockedLookingAway: "Chocado (Desviando o Olhar)"
+    couraged: "Corajoso"
+    smug: "Presunçoso"
+    grinClosedEyes: "Sorriso (Olhos Fechados)"
+    grinSweatingLookingAway: "Sorrindo (Suando, Olhando para Longe)"
+    smilingClosedEyes: "Sorrindo (Olhos Fechados)"
+    ralseiGlasses: "Oooh, olhe para mim, eu sou um grande nerd que ama lição de casa!!"
+    scary: "Apavorante"
+    scaryNoEyes: "Apavorante (Sem Olhos)"
+    shockedLookingAwaySweating: "Chocado (Desviando o Olhar, Suando)"
+    shockedLookingDown: "Chocado (Olhando para Baixo)"
+    surprisedGrin: "Surpreso (Sorrindo)"
+    surprisedSmile: "Surpreso (Sorrindo)"
+    suspicious: "Suspeito"
+    suspiciousGrin: "Suspeito (Sorrindo)"
+    suspiciousLookingAway: "Suspeito (Desviando o Olhar)"
+    suspiciousLookingAwaySweating: "Suspeito (Desviando o Olhar, Suando)"
+    suspiciousSmiling: "Suspeito (Sorrindo)"
+    uhhhSmiling: "Uhhh (Sorrindo)"
+    angryLookingAway: "Bravo (Desviando o Olhar)"
+    bro: "Bro" #Used by "Queen" (DELTARUNE), should not be translated!
+    haha: "Haha" #Used by "Queen" (DELTARUNE), should not be translated!
+    hate: "Hate" #Used by "Queen" (DELTARUNE), should not be translated!
+    idk: "IDK" #Used by "Queen" (DELTARUNE), should not be translated!
+    lmao: "Lmao" #Used by "Queen" (DELTARUNE), should not be translated!
+    lying: "Lying" #Used by "Queen" (DELTARUNE), should not be translated!
+    nice: "Nice" #Used by "Queen" (DELTARUNE), should not be translated!
+    questionMarks: "Pontos de Interrogação"
+    smilingLookingAway: "Sorrindo (Olhando para Longe)"
+    'true': "True" #Used by "Queen" (DELTARUNE), should not be translated!
+    handsome: "Bonito"
+    happyTongueOut: "Feliz (Língua para Fora)"
+    sadTongueOut: "Triste (Língua para Fora)"
+    smilingMustache: "Sorrindo (Bigode)"
+    smilingTongueOut: "Sorrindo (Língua para Fora)"
+    surprisedMustache: "Surpreso (Bigode)"
+    whatWhatWhatWhatWhatWhat: "O QUÊ O QUÊ O QUÊ O QUÊ O QUÊ O QUÊ"
+    relievedEyesClosed: "Aliviado (Olhos Fechados)"
+    anxious: "Ansioso"
+    fear: "Medo"
+    flustered: "Afobado"
+    melancholy: "Melancólico"
+    mischievous: "Malicioso"
+    shy: "Envergonhado"
+    spooked: "Assustado"
+    surprisedLookingAway: "Surpreso (Desviando o Olhar)"
+    anxiousLookingAway: "Ansioso (Desviando o Olhar)"
+    angryLookingAwaySweating: "Irritado (Desviando o Olhar, Suando)"
+    anime: "Anime" #Used by "Berdly" (DELTARUNE)
+    ashamed: "Envergonhado"
+    chefKiss: "Beijo de Chef"
+    determined: "Determinado"
+    determinedLookingUp: "Determinado (Olhando para Cima)"
+    gleeful: "Alegre"
+    imagining: "Imaginando"
+    kiss: "Beijo"
+    reasoning: "Raciocinando"
+    snarky: "Sarcástico"
+    blushingLookingDown: "Envergonhado (Olhando para Baixo)"
+  originalDialogBox:
+    name: "Original" #The Original Dialog Box from Undertale
+  darkWorldDialogBox:
+    name: "Dark World" #The dialog box used in the Dark World sections in DELTARUNE
+  none:
+    name: "Nenhum" #This is used in the Universe select menu
+  undertale:
+    name: "UNDERTALE" #Name, should not be translated!
+  deltarune:
+    name: "DELTARUNE" #Name, should not be translated!
+  alphys:
+    name: "Alphys" #Name, should not be translated!
+  asgore:
+    name: "Asgore" #Name, should not be translated!
+  asriel:
+    name: "Asriel" #Name, should not be translated!
+  berdly:
+    name: "Berdly" #Name, should not be translated!
+  berdlyDarkWorld:
+    name: "Berdly (Dark World)" #Name, should not be translated!
+  flowey:
+    name: "Flowey" #Name, should not be translated!
+  lancer:
+    name: "Lancer" #Name, should not be translated!
+  noelle:
+    name: "Noelle" #Name, should not be translated!
+  sans:
+    name: "Sans" #Name, should not be translated!
+  susie:
+    name: "Susie" #Name, should not be translated!
+  papyrus:
+    name: "Papyrus" #Name, should not be translated!
+  queen:
+    name: "Queen" #Name, should not be translated!
+  ralsei:
+    name: "Ralsei" #Name, should not be translated!
+  ralseiWithHat:
+    name: "Ralsei com Chapéu" #Name, only the "with Hat" part should be translated!
+  toriel:
+    name: "Toriel" #Name, should not be translated!
+  undyne:
+    name: "Undyne" #Name, should not be translated!
+  undyneTheUndying:
+    name: "Undyne the Undying" #Name, should not be translated!
+  mettaton:
+    name: "Mettaton" #Name, should not be translated!
+  mettatonEx:
+    name: "Mettaton EX" #Name, should not be translated!
+  mettatonNeo:
+    name: "Mettaton NEO" #Name, should not be translated!
