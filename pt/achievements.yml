@@ -11,6 +11,9 @@ achievements:
       description: "Você precisa de validação, e recompensas, de outra pessoa para ser feliz... Conquistas relacionadas ao comando `{command}`" #This references the "/rate" description
     generic:
       description: "Conquistas relacionadas ao comando `{command}`" #This is a generic description for achievements that do not have a custom description
+    miscellaneous:
+      title: "Miscelânea"
+      description: "Conquistas que ainda estão tentando descobrir em qual categoria deveriam estar" #Used in the Miscellaneous Achievements category. It is a joke, like "trying to find their purpose in life"
   achievementUnlocked: "Conquista Desbloqueada!" #Shown to the user when an achievement is unlocked
   viewYourAchievements: "Veja todas as suas conquistas usando `{command}`"
   achievement:
@@ -49,3 +52,10 @@ achievements:
     weirdo:
       title: "Você é... um esquisito?"
       description: "Avalie... ou bem, tente, avaliar uma criança"
+    #===[ MISC ]===
+    isThatAnUndertaleReference:
+      title: "Isso é uma referência a Undertale???"
+      description: "Veja o seu próprio avatar"
+    onePlusOneCalculation:
+      title: "Eu só queria ter certeza que eu estava certo!"
+      description: "Calcule o cálculo mais fácil do mundo, sóóóóóó para ter certeza de que a matemática não mudou da noite para o dia"
