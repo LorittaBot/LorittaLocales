@@ -1,2 +1,19 @@
 ---
 description: "Aww, esta imagem é tão fofinha! Vamos fazer cafuné nela!!"
+options:
+  squish:
+    text: "Quanta moleza você quer no seu cafuné?" #Pet here is "petting"
+    choice:
+      nothing: "Eu estou acariciando uma pedra?"
+      kindaHardButABitSquishy: "Ainda é meio duro... mas é um pouquinho mole!"
+      normalSquishness: "Moleza normal"
+      verySquishy: "Muito mole"
+      soMuchSquishy: "Super molenga"
+      patItSoTheyCanFeelIt: "Faça um cafuné que possa sentir" #This is a Simpsons's reference https://youtu.be/0GVVjd_exO8
+  speed:
+    text: "Quão rápido você quer o seu cafuné?" #Pet here is "petting"
+    choice:
+      iLikeToTakeItSlow: "Eu gosto de fazer cafuné devagarinho"
+      aNiceAndSmoothPet: "Um cafuné legal e suave"
+      kindaFast: "Meio rápido, mas pessoas gostam de cafunés rápidos, né?"
+      aaaICantHandleItSoCute: "Aaah, não consigo aguentar... é tão fofo!!"
