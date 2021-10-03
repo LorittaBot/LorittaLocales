@@ -5,7 +5,7 @@ icon:
 banner:
   description: "Shows the server's banner"
   noBanner: "Awww, how sad, the server doesn't have an banner for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
-  openIconInBrowser: "Open banner in browser" # Used in a button, when clicking the button, Discord opens the server's banner in the user's browser
+  openBannerInBrowser: "Open banner in browser" # Used in a button, when clicking the button, Discord opens the server's banner in the user's browser
 splash:
   description: "Shows the server's invite background"
   noSplash: "Awww, how sad, the server doesn't have an invite background for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
