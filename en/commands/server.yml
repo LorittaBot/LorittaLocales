@@ -1,12 +1,12 @@
----
 icon:
-  description: "Mostra o ícone do servidor atual!"
-  noIcon: "Awww, que pena, o servidor não tem um ícone para eu mostrar... Calma, não fique triste! Aqui, veja esse emoji fofis para te alegrar! {loriPat}"
-  openIconInBrowser: "Abrir icon no navegador" #Used in a button, when clicking the button, Discord opens the server's icon in the user's browser
+  description: "Shows the server's icon"
+  noIcon: "Awww, how sad, the server doesn't have an icon for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
+  openIconInBrowser: "Open icon in browser" # Used in a button, when clicking the button, Discord opens the server's icon in the user's browser
 banner:
-  description: "Mostra o banner utilizado em cima dos canais de texto do servidor atual"
-  noBanner: "Esse servidor não tem banner!"
+  description: "Shows the server's banner"
+  noBanner: "Awww, how sad, the server doesn't have an banner for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
+  openIconInBrowser: "Open banner in browser" # Used in a button, when clicking the button, Discord opens the server's banner in the user's browser
 splash:
-  description: "Mostra o fundo de convite do servidor"
-  noSplash: "Esse servidor não possui um fundo de convite!"
-  openSplashInBrowser: "Abrir fundo no navegador" #Used in a button, when clicking the button, Discord opens the server's splash in the user's browser
+  description: "Shows the server's invite background"
+  noSplash: "Awww, how sad, the server doesn't have an invite background for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
+  openSplashInBrowser: "Open invite background in browser" # Used in a button, when clicking the button, Discord opens the server's splash in the user's browser
