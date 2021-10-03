@@ -51,6 +51,7 @@ commands:
     - ""
     - "Se você deseja saber mais sobre o acesso de conteúdo de mensagens e o motivo de estar fazendo esta mudança, recomendo ler o [Anúncio do Discord]({3})! {8}"
     discordUrl: "https://support-dev.discord.com/hc/pt-br/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" # Discord Article talking about message content access deprecation
+    slashCommandsTutorial: "https://cdn.discordapp.com/attachments/358774895850815488/894276646847250432/slash_tutorial_pt.gif"
   arguments:
     text: "texto"
     number: "número"
