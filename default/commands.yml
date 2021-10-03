@@ -50,7 +50,7 @@ commands:
     - "**Se os meus slash commands não estão aparecendo no seu servidor**, [me autorize a criar slash commands no seu servidor]({1}), verifique se o seu cargo possui permissão para \"Usar comandos de aplicativo\", verifique se a opção \"Use comandos de barra\" está ativada nas suas configurações e verifique se o seu Discord está atualizado! Caso você precise de ajuda, entre no [meu servidor de suporte]({2})! {7}"
     - ""
     - "Se você deseja saber mais sobre o acesso de conteúdo de mensagens e o motivo de estar fazendo esta mudança, recomendo ler o [Anúncio do Discord]({3})! {8}"
-  discordUrl: "https://support-dev.discord.com/hc/pt-br/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" # Discord Article talking about message content access deprecation
+    discordUrl: "https://support-dev.discord.com/hc/pt-br/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" # Discord Article talking about message content access deprecation
   arguments:
     text: "texto"
     number: "número"
