@@ -38,6 +38,18 @@ commands:
   youNeedToGetDailyRewardBeforeDoingThisAction: "Então... Sei que é chato, mas você precisa pegar o seu prêmio diário de hoje antes de poder continuar! `{0}daily`"
   imageTooLarge: "Olha... eu fiz uma imagem incrível para você, mas quando eu tentei enviar... ela passou do limite de {0} do Discord! Desculpe pela inconveniência. {1}"
   missingDescription: "Parece que alguém esqueceu de colocar a descrição deste comando... Será que já é tarde demais para dizer desculpas?"
+  outdatedCommand:
+    title: "Que tal experimentar Slash Commands?"
+    description:
+    - "Este comando está disponível via Slash Commands (comandos com `/`), caso queria experimentar, use **`/{0}`**! Comandos que não usam slash irão desaparecer em **Abril de 2022**, então é melhor ir se acostumando com eles! {4}"
+    - ""
+    - "Aproveitando a migração, **os comandos foram melhorados**, as versões dos comandos em Slash Commands são superiores as versões originais, então você não terá nada a perder usando meus slash commands em vez das versões originais! {5}"
+    - ""
+    - "Até Abril **todos os bots** serão **obrigados** a migrarem para Slash Commands, já que o Discord irá remover acesso do conteúdo de mensagens para comandos... e é por isso que estou mudando meus comandos para Slash Commands! Ainda não migrei todos, mas espero que até Abril todos estejam migrados! {6}"
+    - ""
+    - "Se os meus slash commands não estão aparecendo no seu servidor, [tente me autorizar a criar slash commands no seu servidor]({1}), verifique se o seu cargo possui permissão para \"Usar comandos de aplicativo\", verifique se a opção \"Use comandos de barra e preveja emojis, menções e sintaxe de markdown enquanto digita\" está ativada e verifique se o seu Discord está atualizado! Caso você precise de ajuda, entre no [meu servidor de suporte]({2})! {7}"
+    - ""
+    - "Se você deseja saber mais sobre o acesso de conteúdo de mensagens e o motivo de estar fazendo esta mudança, recomendo ler o [Anúncio do Discord]({3})! {8}"
   arguments:
     text: "texto"
     number: "número"
