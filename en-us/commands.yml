@@ -1,12 +1,16 @@
 ---
 commands:
+  helpCommandName: "help"
+  commandsInDirectMessage: "Hi {0}! In direct messages you don't need to use any prefix to talk with me! To see what I can do, use ´{1}´!"
+  unknownCommand: "Command `{0}` doesn't exist! if you want to see all of my commands, use '{1}`"
   noValidImageFound: "Sorry, but I didn't found any image that I could use! I try to get images from links, attached images, mentioned users avatar, emotes... but I didn't find anything in your message. {0}"
   didYouMeanCommand: "But I think you wanted to use `{0}`"
   pleaseWaitCooldown: "Calm down! You need to wait **{0}** before you can execute another command! {1}"
+  pleaseWaitCooldownRepeated: "You must wait **{0}** before you can use another command! Yes, the time has increased, since you didn't have the patience to wait... {1}"
   loriDoesntHavePermissionDiscord: "I wanted to do this command, but unfortunately I don't have permissions to {0}... {1} Ask someone from staff to give that permission to me! Thank you! {2}"
   commandOnlyForOwner: "Only special people can use this command :3"
   userDoesntHavePermissionDiscord: "You don't have permissions to use this command! To be able to use it, you need to have permissions to {0}!"
-  userDoesNotExist: "I searched everywhere, but I couldn't found anyone named `{0}`! Remember, I search user by ID, mentions and names."
+  userDoesNotExist: "I searched everywhere, but I couldn't found anyone named `{0}`! Remember, I search users by ID, mentions and names."
   errorWhileExecutingCommand: "Oopsie! Something went wrong when running this command... {0} Sorry for the inconvenience. {1}"
   ifYouLikeMyFeaturesAndWantToHelp: "If you like my features and want to help me, please, {0}"
   pleaseUpvote: "vote for me! For every vote you win rewards (like sonhos!)! You can vote every 12 hours so... why not start voting now? Oh, and of course, thanks for the help! {0}"
@@ -25,6 +29,30 @@ commands:
   commandNotSupportedInThisPlatform: "Command not supported by this platform... Is it too late now to say sorry?"
   commandDisabled: "You cannot use this command here! It got disabled by the administration of this server, sorry for the inconvenience..."
   howToReEnableCommands: "Hey, you can reactivate this command here {0}!"
+  invalidRankingPage: "You might like to go to infinity and beyond... but I don't! You can only see pages 1 through 100 of the rank!"
+  loriPermissionDJ: "DJ"
+  loriMissingPermission: "You don't have `{0}` permission to use this command... \U0001F622"
+  loriMissingPermissionCanConfigure: "You can add the necessary permission to use this command on my dashboard! <{0}dashboard/>"
+  cantUseInPrivate: "You can't use this command in private messages!"
+  lorittaBadNickname: "Wow... I am sad about this nickname on this server... I also have feelings and those names just let me down... if you can ask someone to remove this ugly nickname, I will be so grateful... thank you!"
+  commandAlreadyBeingExecutedInGuild: "Oops, it looks like someone used the command but I haven't finished running it yet! Because it's very resource-intensive, you have to wait for the other user's command to finish before you can use it! Sorry for the inconvenience..."
+  youNeedToGetDailyRewardBeforeDoingThisAction: "So... I know it sucks, but you need to claim today's daily prize before you can continue! `{0}daily`"
+  imageTooLarge: "I made an awesome picture for you, but when I tried to send it... it went over Discord's {0} limit! Sorry for the inconvenience. {1}"
+  missingDescription: "Looks like someone forgot to put in this command's description... Is it too late to say sorry?"
+  outdatedCommand:
+    title: "Why not try out the new Slash Commands?"
+    description:
+      - "This command is available via Slash Commands (commands prefixed with `/`), if you wanted to try them out, use **`/{0}`**! Commands that don't use slash will be removed in **April 2022**, so you'd better get used to them soon! {4}"
+      - ""
+      - "The Slash Command version of the commands **are better than the original versions**, so you don't have anything to lose by using my slash commands instead of the original versions! {5}"
+      - ""
+      - "By April **all bots** will be **forced** to migrate to Slash Commands, which is why I'm changing my commands! Not all of my commands are available via Slash Commands yet, but hopefully by April I'll be able to migrate them all! {6}"
+      - ""
+      - "**If my slash commands is not showing up on your server, [authorize me to create slash commands on your server]({1}), check if your role has permission to \"Use application commands\", check if the option \"Use slash commands\" is enabled and check if your Discord is up to date! If you need help, join [my support server]({2})! {7}"
+      - ""
+      - "If you want to know more about the message content access and why they are making this change, I recommend reading the [Discord Announcement]({3})! {8}"
+    discordUrl: "https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" #Discord Article talking about message content access deprecation
+    slashCommandsTutorial: "https://cdn.discordapp.com/attachments/358774895850815488/894279612891279390/slash_tutorial_en.gif"
   arguments:
     text: "text"
     number: "number"
@@ -55,89 +83,20 @@ commands:
     - "But remember: being sorry will not magically solve all your life's problems, your actions have consequences, and if you have done something unforgivable, you won't be unbanned... Oh, and if you are banned from my support server... well, then it's not my problem! {4}"
     - ""
     - "Sorry for the inconvenience... Or, if you were banned for a fair reason, suffer the inconvenience!! {5}"
-  #DIVERSÃO
-  entertainment:
-    vieirinha:
-      description: "Vieirinha is the oracle of everything that's known in this world, what about asking something to him?"
-      examples:
-        - "Do you love me?"
-        - "Is Sonic better than Mario?"
-        - "Will I win the lottery this year?"
-      responses:
-        - "Go bother someone else, thanks."
-        - "I don't know, but I know I live in Cambuci, maybe you can find Vieirinha there."
-        - "The way I see, yes."
-        - "Hmmmm... 🤔"
-        - "I can't talk about this."
-        - "No."
-        - "Yes."
-        - "I could answer, but I don't want to hurt your feelings."
-        - "Probably yes"
-        - "Probably not"
-        - "My sources says that... yes"
-        - "My sources says that... no"
-        - "You can believe in this"
-        - "My answer is no"
-        - "My answer is yes"
-        - "The way I see, no."
-        - "Better not say the answer to you right now..."
-        - "Yes, of course!"
-        - "I also wanted to know..."
-        - "My answer doesn't matter, what matter is that you follow your heart. 😘"
-        - "Maybe..."
-        - "I think so."
-        - "I think not."
-        - "Maybe yes."
-        - "Maybe not."
-        - "Yes!"
-        - "No!"
-        - "¯\_(ツ)_/¯"
-    vemDeZap:
-      description: "Heyo ppl! Apply the power of the Knights of NI using my whatsapp feature in your message to show the world who are you, and maybe... get a girlfriend, who knows?"
-      examples:
-        - "in Brazil, whatsapp is called zapzap"
-        - "yo ppl, nobody said anything lmao"
-        - "zapzap is better than discord, there we have the numbers of all ppl!"
-  images:
-    bolsoDrake:
-      description: "Meme needs to be from brazilian origin, y' know?"
-  #MODERAÇÃO
-  moderation:
-    unmute:
-      sucessfullyUnmuted: "The user relearned how to speak again, I hope this time they can talk about interesting and cool things so they don't get muted again!"
-  #DISCORD
-  discord:
-    emojiInfo:
-      description: "Show the information of an emoji"
-      aboutEmoji: "About the Emoji"
-      emojiName: "Emoji Name"
-      emojiId: "Emoji ID"
-      mention: "Mention"
-      emojiCreated: "Created at"
-      seenAt: "Seen at"
-    oldMembers:
-      description: "Curious to know who are the server veterans? Then see who is the old-school members of this server!"
-      theOldestPeople: "The oldest people from {0}"
-    channelInfo:
-      description: "Show the information in a text channel"
-      channelMention: "Channel's mention"
-      channelCreated: "Channel created since"
-      channelTopic: "Channel's topic"
-      undefined: "Not defined"
-      channelNotFound: "Channel not found!"
-    emoji:
-      notFoundId: "While {0} looks to be a valid ID for an emoji... I couldn't found it in my emoji list! I can only get info of an emoji from his ID if I am in the server which this emoji is located..."
-  #ECONOMIA
-  economy:
-    raffle:
-      quantity-bigger-than-allowed: "You can only bet a maximum of **{0} tickets** each round!"
-      hasTooManyTickets: "You have too many tickets! Save some of your money to the next round!"
-      cantBuyTooManyTickets: "You cannot bet too many tickets like this! You can bet, at most, more **{0} tickets**!"
-  #MISCELÂNEA
-  miscellaneous:
-    ajuda:
-      errorWhileOpeningDm: "I wanted to send this help to you, but I wanted to know how will I send knowing that you deactivated your direct messages between people from servers you know. http://i.imgur.com/Z1HwW2j.png 🤷"
-    fanArts:
-      description: "See the {0} beautiful {1} fan arts artists did of me!"
-      madeBy: "Fan Art created by {0}"
-      thankYouAll: "Thank you for all of the artists who made incredible and beautiful fan arts to me!"
+  receivedSonhosFromAChargedbackUser:
+    - "So, this is kinda boring.... {0}"
+    - ""
+    - "You received sonhos from a user that bought them though Loritta's website, and that user just asked for a money refund. This negatively impacts Loritta, since people buy a product, use it and then end up asking for their money back! Since the user who sent you the sonhos doesn't have enough to cover the amount they bought and then refunded, we had to start removing sonhos from other users that got sonhos from them..."
+    - ""
+    - "Don't worry, you won't be banned from loritta, but we recommend that in future you only accept transactions (like `+pay`, `+coinflip bet` `+emojifight bet`) from trusted users! {1}"
+    - ""
+    - "**User:** {2}"
+    - "**Amount of sonhos removed:** {3} sonhos"
+    - ""
+    - "To know which transactions between you and them caused the Sonhos removal, see the attached file!"
+  mention:
+    response: "Howdy {0}! My prefix here is `{1}`, to see what I can do, use `{1}help`!"
+    responseEveryoneBlocked: "Hi {0}! My prefix in this server is `{1}` but because they blocked `@everyone` from using my commands, unfortunately no one can use them here... 😢 To see what I can do, use` help` in a private conversation with me!"
+    responseRoleBlocked: "Hi {0}! My prefix in this server is `{1}` but your role {2} doesn't allow you to use my commands! To see what I can do, use `help` in a private conversation with me!"
+    responseBlocked: "Hi {0}! My prefix in this server is `{1}` but my commands are blocked in this channel! To see what I can do, use `{1} help` on {2}!"
+    responseBlockedNoChannels: "Hi {0}! My prefix in this server is `{1}` but my commands are blocked in this channel! To see what I can do, use `help` in a private conversation with me!"
