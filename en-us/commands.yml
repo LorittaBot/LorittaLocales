@@ -88,7 +88,7 @@ commands:
     - ""
     - "You received sonhos from a user that bought them though Loritta's website, and that user just asked for a money refund. This negatively impacts Loritta, since people buy a product, use it and then end up asking for their money back! Since the user who sent you the sonhos doesn't have enough to cover the amount they bought and then refunded, we had to start removing sonhos from other users that got sonhos from them..."
     - ""
-    - "Don't worry, you won't be banned from loritta, but we recommend that in future you only accept transactions (like `+pay`, `+coinflip bet` `+emojifight bet`) from trusted users! {1}"
+    - "Don't worry, you won't be banned from Loritta, but we recommend that in future you only accept transactions (like `+pay`, `+coinflip bet` `+emojifight bet`) from trusted users {1}"
     - ""
     - "**User:** {2}"
     - "**Amount of sonhos removed:** {3} sonhos"
