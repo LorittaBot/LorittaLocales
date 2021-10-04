@@ -41,7 +41,7 @@ commands:
   outdatedCommand:
     title: "Que tal experimentar Slash Commands?"
     description:
-    - "Este comando está disponível via Slash Commands (comandos com `/`), caso queria experimentar, use **`/{0}`**! Comandos que não usam slash irão desaparecer em **Abril de 2022**, então é melhor ir se acostumando com eles! {4}"
+    - "Este comando está disponível via Slash Commands (comandos com `/`), caso queira experimentar, use **`/{0}`**! Comandos que não usam slash irão desaparecer em **Abril de 2022**, então é melhor ir se acostumando com eles! {4}"
     - ""
     - "As versões dos comandos em Slash Commands **são superiores as versões originais**, então você não terá nada a perder usando meus slash commands em vez das versões originais! {5}"
     - ""
