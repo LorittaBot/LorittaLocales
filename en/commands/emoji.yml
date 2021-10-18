@@ -1,0 +1,13 @@
+---
+info:
+  description: "Mostra as informações de um emoji"
+  aboutEmoji: "{emojiMention} Sobre o emoji"
+  emojiName: "{bookMark} Nome do emoji"
+  mention: "{eyes} Menção"
+  openEmojiInBrowser: "Abrir emoji no navegador" #Used in a button, when clicking the button, Discord opens the emoji in the user's browser
+  emojiId: "{computer} ID do emoji"
+  createdBy: "{crown} Criado por"
+  createdAt: "{dateEmoji} Criado em"
+  emojiNotFound: "Infelizmente não consegui encontrar o emoji `{emojiArgument}`!"
+  options:
+    emoji: "Um emoji que você deseja ver as informações"

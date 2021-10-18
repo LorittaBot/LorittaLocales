@@ -10,3 +10,46 @@ splash:
   description: "Shows the server's invite background"
   noSplash: "Awww, how sad, the server doesn't have an invite background for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
   openSplashInBrowser: "Open invite background in browser" # Used in a button, when clicking the button, Discord opens the server's splash in the user's browser
+channel:
+  description: "Mostra informações de um canal de texto"
+  infoFrom: "{personTippingHand} Informações de {channelName}"
+  channelMention: "{smallBlueDiamond} Menção do canal"
+  channelId: "{computer} ID do canal"
+  voice:
+    bitRate: "{microphone2} Taxa de bits"
+    userLimit: "{bustsInSilhouette} Limite de usuários"
+    region: "{earthAmericas} Região"
+  thread:
+    messageCount: "{pageFacingUp} Mensagens"
+    memberCount: "{bustsInSilhouette} Membros no canal"
+    archived: "{dividers} Arquivado"
+    locked: "{lock} Trancado"
+  text:
+    slowMode: "{snail} Modo lento"
+  position: "{trophy} Posição"
+  createdAt: "{dateEmote} Criado em"
+  options:
+    channel: "Um canal para mostrar informações sobre ele"
+invite:
+  description: "Mostra informações sobre um convite do servidor"
+  doesntExists: "Infelizmente não consegui encontrar nenhum convite parecido com `{inviteArgument}`"
+  serverMembers: "{bustsInSilhouette} Membros"
+  membersPresence: "{personTippingHand} Online: {onlineMembers}\n{sleeping} Offline: {offlineMembers}"
+  invitationChannel: "{speakingHead} Canal de convite"
+  whoInvited: "{wave} Quem convidou"
+  guildFeatures: "{sparkles} Recursos do servidor"
+  options:
+    invite: "Um convite de algum servidor que você deseja ver informações"
+role:
+  description: "Mostra informações de um cargo no servidor"
+  mention: "{eyes} Menção"
+  roleId: "{computer} ID do cargo"
+  hoisted: "{eyes} Exibir separadamente"
+  managed: "{botEmoji} Integração"
+  mentionable: "{loriPing} Mencionável"
+  color: "{art} Cor"
+  createdAt: "{dateEmoji} Criado em"
+  permissions: "{shield} Permissões"
+  openRoleIconInBrowser: "Abrir ícone do cargo no navegador"
+  options:
+    role: "Um cargo que você deseja ver informações"
