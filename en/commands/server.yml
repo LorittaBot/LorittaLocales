@@ -11,25 +11,27 @@ splash:
   noSplash: "Awww, how sad, the server doesn't have an invite background for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
   openSplashInBrowser: "Open invite background in browser" # Used in a button, when clicking the button, Discord opens the server's splash in the user's browser
 channel:
-  description: "Mostra informações de um canal de texto"
-  infoFrom: "Informações de {channelName}"
-  channelMention: "Menção do canal"
-  channelId: "ID do canal"
-  voice:
-    bitRate: "Taxa de bits"
-    userLimit: "Limite de usuários"
-    region: "Região"
-  thread:
-    messageCount: "Mensagens"
-    memberCount: "Membros no canal"
-    archived: "Arquivado"
-    locked: "Trancado"
-  text:
-    slowMode: "Modo lento"
-  position: "Posição"
-  createdAt: "Criado em"
-  options:
-    channel: "Um canal para mostrar informações sobre ele"
+  info:
+    description: "Mostra informações de um canal do servidor"
+    infoFrom: "Informações de {channelName}"
+    channelMention: "Menção do canal"
+    channelId: "ID do canal"
+    voice:
+      bitRate: "Taxa de bits"
+      userLimit: "Limite de usuários"
+      region: "Região"
+    thread:
+      messageCount: "Mensagens"
+      memberCount: "Membros no canal"
+      archived: "Arquivado"
+      locked: "Trancado"
+    text:
+      slowMode: "Modo lento"
+      slowModeSeconds: "{timeInSeconds, plural, one {# segundo} other {# segundos}}"
+    position: "Posição"
+    createdAt: "Criado em"
+    options:
+      channel: "Um canal para mostrar informações sobre ele"
 invite:
   description: "Mostra informações sobre um convite do servidor"
   doesntExists: "Infelizmente não consegui encontrar nenhum convite parecido com `{inviteArgument}`"
@@ -41,15 +43,16 @@ invite:
   options:
     invite: "Um convite de algum servidor que você deseja ver informações"
 role:
-  description: "Mostra informações de um cargo no servidor"
-  mention: "Menção"
-  roleId: "ID do cargo"
-  hoisted: "Exibir separadamente"
-  managed: "Integração"
-  mentionable: "Mencionável"
-  color: "Cor"
-  createdAt: "Criado em"
-  permissions: "Permissões"
-  openRoleIconInBrowser: "Abrir ícone do cargo no navegador"
-  options:
-    role: "Um cargo que você deseja ver informações"
+  info:
+    description: "Mostra informações de um cargo no servidor"
+    mention: "Menção"
+    roleId: "ID do cargo"
+    hoisted: "Exibir separadamente"
+    managed: "Integração"
+    mentionable: "Mencionável"
+    color: "Cor"
+    createdAt: "Criado em"
+    permissions: "Permissões"
+    openRoleIconInBrowser: "Abrir ícone do cargo no navegador"
+    options:
+      role: "Um cargo que você deseja ver informações"
