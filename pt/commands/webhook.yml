@@ -21,6 +21,8 @@ messageToBeRepostedDoesNotExist: "Eu realmente queria repostar essa mensagem par
 tooManyEmbeds: "Eu sei que isso deve ser mensagem incrível... Mas isso está acima do limite de {maxEmbeds} embeds por mensagem então eu não posso usá-la, desculpe!"
 tooManyEmbedFields: "Eu sei que isso deve ser mensagem incrível... Mas isso está acima do limite de {maxFields} fields por embed então eu não posso usá-la, desculpe!"
 invalidMessageUrl: "Isso não parece ser uma URL de mensagem... Você tem certeza de que copiou e colocou corretamente?"
+invalidJsonMessage: "Isso não parece uma mensagem JSON válida... Verifique se você digitou a mensagem JSON corretamente, verifique se não há nenhum campo faltando... e tente novamente!"
+invalidJsonMessageNoCurlyBraces: "Isso não parece uma mensagem JSON válida... Afinal, ela nem tem chaves em volta dela! Tem certeza de que você deseja enviar uma mensagem JSON? Talvez `/webhook send simple` ou `/webhook send repost` seja melhor e mais fácil para você!"
 options:
   webhookUrl:
     text: "A URL do Webhook, você pode obtê-lo na aba \"Integrações\" no canal de texto"
