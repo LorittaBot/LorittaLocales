@@ -1,1 +1,60 @@
 ---
+description: "Faça seu servidor mais chique enviando mensagens personalizadas através de webhooks!"
+watchOutDontSendTheWebhookUrlToOtherUsers: "Cuidado! Não envie a URL da Webhook para outros usuários! Se outra pessoa tiver a URL da Webhook eles podem enviar mensagens com ela! Então, se você acabar enviando a URL da webhook para alguém que você não confia, exclua a webhook na aba \"Integrações\" do canal de texto, fique seguro!!"
+messageId: "**ID da mensagem:** `{messageId}`"
+webhookDoesNotExist: "A webhook que você me enviou não existe ou é inválido! Tem certeza que você colocou a URL correta?"
+messageDoesNotExistOrWasntSentByThisWebhook: "Essa mensagem não existe ou não foi enviada pela webhook que você me enviou! Webhooks só podem editar mensagens enviadas por elas mesmas, não por outros usuários e outras webhooks!"
+invalidWebhookUrl: "Isso não parece uma URL de Webhook... Você pode copiar a URL de uma Webhook na aba \"Integrações\" do seu canal de texto!"
+invalidAvatarUrl: "Bom, eu sei que você quer temperar sua mensagem com um avatar elegante... Mas isso não parece um URL de imagem válida!"
+messageTooBig: "Eu sei que isso deve ser mensagem incrível... Mas isso está acima do limite de {maxLength} caracteres em uma mensagem então eu não consigo usá-la, desculpe!"
+embedTooBig: "Eu sei que deve ter sido uma mensagem surpreendente... Mas isso está acima do limite de {maxLength} caracteres do Discord em uma embed então eu não posso usá-la, desculpe!"
+embedTitleTooBig: "Eu sei que deve ter sido uma mensagem espantosa... Mas isso está acima do limite de {maxLength} caracteres em um título de uma embed então eu não posso usá-la, desculpe!"
+embedDescriptionTooBig: "Eu sei que isso deve ser mensagem impressionante... Mas isso está acima do limite de {maxLength} caracteres em uma descrição de embed então eu não posso usá-la, desculpe!"
+embedFieldNameTooBig: "Eu sei que isso deve ser mensagem perplexa... Mas isso está acima do limite de {maxLength} caracteres de um nome para field na embed então eu não posso usá-la, desculpe!"
+embedFooterTooBig: "Eu sei que deve ter sido uma mensagem espantosa... Mas isso está acima do limite de {maxLength} caracteres em um rodapé de uma embed então eu não posso usá-la, desculpe!"
+invalidEmbedImageUrl: "Bom, eu sei que você quer temperar sua mensagem com uma imagem adorável na sua embed... Mas isso não parece um URL de imagem válida!"
+invalidEmbedThumbnailUrl: "Bom, eu sei que você quer temperar sua mensagem com uma miniatura incrível na sua embed... Mas isso não parece um URL de imagem válida!"
+invalidEmbedColor: "Você consegue *ver* mais cores do que eu? Pois isso não é um código de cor válido! Lembre-se, eu aceito cores em formato hexadecimal, RGB e decimal!"
+messageToBeRepostedDoesNotExist: "Eu realmente queria repostar essa mensagem para você... Mas parece que essa mensagem não existe, então não posso repostá-la! A menos que você queira que eu republique *nada*..."
+invalidMessageUrl: "Isso não parece ser uma URL de mensagem... Você tem certeza de que copiou e colocou corretamente?"
+options:
+  webhookUrl:
+    text: "A URL do Webhook, você pode obtê-lo na aba \"Integrações\" no canal de texto"
+  messageId:
+    text: "O ID da mensagem que você deseja editar"
+  message:
+    text: "A mensagem que será enviada, você pode usar \"\\n\" para fazer uma quebra de linha"
+  json:
+    text: "A mensagem em formato JSON que será enviada"
+  messageUrl:
+    text: "A URL da mensagem que você deseja pegar o conteúdo"
+  username:
+    text: "O nome de usuário que será usado na mensagem, se não for definido, o nome de usuário da webhook será usado"
+  avatarUrl:
+    text: "O avatar que será usado na mensagem, se não for definido, o avatar da webhook será usado"
+  embedTitle:
+    text: "O título da embed"
+  embedDescription:
+    text: "A descrição do embed, você pode usar \"\\n\" para fazer uma quebra de linha"
+  embedImageUrl:
+    text: "A URL da imagem na embed"
+  embedThumbnailUrl:
+    text: "A URL da miniatura na embed"
+  embedColor:
+    text: "A cor da embed, a cor pode estar em formato hexadecimal, RGB ou decimal"
+send:
+  simple:
+    description: "Envia uma mensagem através de um webhook"
+  json:
+    description: "Envia uma mensagem através de uma webhook, a mensagem deve estar no formato JSON!"
+  repost:
+    description: "Envia uma mensagem através de um webhook, repostando o conteúdo de uma mensagem já existente"
+  success: "Mensagem enviada com scuesso!"
+edit:
+  simple:
+    description: "Edita uma mensagem enviada através de um webhook"
+  json:
+    description: "Envia uma mensagem enviada através de uma webhook, a mensagem deve estar no formato JSON!"
+  repost:
+    description: "Edita uma mensagem enviada através de um webhook, editando com o conteúdo de uma mensagem já existente"
+  success: "Mensagem editada com sucesso!"
