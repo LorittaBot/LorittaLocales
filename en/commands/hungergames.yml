@@ -1,6 +1,5 @@
 ---
-description: "Cria uma simulação personalizada de BrantSteele Hunger Games com os usuários escolhidos"
-doesntHaveEnoughUsers: "Não encontrei usuários suficientes para criar a simulação... Tente mencionar os usuários que irão participar da simulação. Ah, e não se esqueça que precisa de 24 pessoas diferentes para criar a simulação!"
-simulationCreated: "Simulação de Hunger Games criada! Boa sorte aos jogadores na simulação. {hungerGamesLink}"
+description: "Creates a custom simulation of BrantSteele's Hunger Games with the chosen users"
+simulationCreated: "Hunger Games Simulation created! Good luck to all players in the simulation. {hungerGamesLink}"
 options:
-  users: "Um usuário que você deseja incluir na simulação"
+  users: "The user that you want to include in the simulation"
