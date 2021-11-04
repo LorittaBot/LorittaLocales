@@ -10,4 +10,4 @@ info:
   createdAt: "Created at"
   emojiNotFound: "Unfortunately I wasn't able to find the emoji `{emojiArgument}`! Are you sure that's an emoji?"
   options:
-    emoji: "The emoji that you want to see its information"
+    emoji: "The emoji that you want to know its information"
