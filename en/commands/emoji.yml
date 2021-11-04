@@ -1,13 +1,13 @@
 ---
 info:
-  description: "Mostra as informações de um emoji"
-  aboutEmoji: "Sobre o emoji"
-  emojiName: "Nome do emoji"
-  mention: "Menção"
-  openEmojiInBrowser: "Abrir emoji no navegador" #Used in a button, when clicking the button, Discord opens the emoji in the user's browser
-  emojiId: "ID do emoji"
-  createdBy: "Criado por"
-  createdAt: "Criado em"
-  emojiNotFound: "Infelizmente não consegui encontrar o emoji `{emojiArgument}`!"
+  description: "Shows the information of an emoji"
+  aboutEmoji: "About the emoji"
+  emojiName: "Emoji Name"
+  mention: "Mention"
+  openEmojiInBrowser: "Open emoji in browser" #Used in a button, when clicking the button, Discord opens the emoji in the user's browser
+  emojiId: "Emoji ID"
+  createdBy: "Created by"
+  createdAt: "Created at"
+  emojiNotFound: "Unfortunately I wasn't able to find the emoji `{emojiArgument}`! Are you sure that's an emoji?"
   options:
-    emoji: "Um emoji que você deseja ver as informações"
+    emoji: "The emoji that you want to see their information"
