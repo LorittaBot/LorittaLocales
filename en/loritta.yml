@@ -1,9 +1,9 @@
 ---
 common:
   fancyBoolean:
-    'true': "Sim"
-    'false': "Não"
-  disabled: "Desativado"
-  unlimited: "Ilimitado"
+    'true': "Yes"
+    'false': "No"
+  disabled: "Disabled"
+  unlimited: "Unlimited"
   none: "Nenhum"
   none2: "Nenhuma"
