@@ -13,6 +13,7 @@ splash:
 channel:
   info:
     description: "Shows the information of an server's channel"
+    missingAccessToChannel: "I don't have permission to access this channel"
     infoFrom: "Information about {channelName}"
     channelMention: "Channel Mention"
     channelId: "Channel ID"

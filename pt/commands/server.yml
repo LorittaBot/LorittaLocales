@@ -14,6 +14,7 @@ splash:
 channel:
   info:
     description: "Mostra informações de um canal do servidor"
+    missingAccessToChannel: "Eu não tenho permissão para acessar esse canal"
     infoFrom: "Informações de {channelName}"
     channelMention: "Menção do canal"
     channelId: "ID do canal"
