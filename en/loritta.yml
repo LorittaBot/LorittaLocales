@@ -5,5 +5,5 @@ common:
     'false': "No"
   disabled: "Disabled"
   unlimited: "Unlimited"
-  none: "Nenhum"
-  none2: "Nenhuma"
+  noPermissions: "No permissions"
+  noFeature: "No feature"
