@@ -33,16 +33,6 @@ channel:
     createdAt: "Created at"
     options:
       channel: "The channel that you want to know its information"
-invite:
-  description: "Shows information about a server invite"
-  doesntExists: "Unfortunately I wasn't able to find a invite from `{inviteArgument}`... Or maybe I'm banned from that server! Hmpf, why would someone ban me??"
-  serverMembers: "Members"
-  membersPresence: "Online: {onlineMembers}\n{sleeping} Offline: {offlineMembers}"
-  invitationChannel: "Invitation Channel"
-  whoInvited: "Who Invited"
-  guildFeatures: "Server Features"
-  options:
-    invite: "The channel that you want to know its information"
 role:
   info:
     description: "Shows the information of an server's role"
@@ -55,5 +45,6 @@ role:
     createdAt: "Created at"
     permissions: "Permissions"
     openRoleIconInBrowser: "Open role icon in browser"
+    noPermissions: "No permissions"
     options:
       role: "The role that you want to know its information"

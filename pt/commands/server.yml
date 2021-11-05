@@ -34,16 +34,6 @@ channel:
     createdAt: "Criado em"
     options:
       channel: "Um canal para mostrar informações sobre ele"
-invite:
-  description: "Mostra informações sobre um convite do servidor"
-  doesntExists: "Infelizmente não consegui encontrar nenhum convite parecido com `{inviteArgument}`"
-  serverMembers: "Membros"
-  membersPresence: "Online: {onlineMembers}\n{sleeping} Offline: {offlineMembers}"
-  invitationChannel: "Canal de convite"
-  whoInvited: "Quem convidou"
-  guildFeatures: "Recursos do servidor"
-  options:
-    invite: "Um convite de algum servidor que você deseja ver informações"
 role:
   info:
     description: "Mostra informações de um cargo no servidor"
@@ -56,5 +46,6 @@ role:
     createdAt: "Criado em"
     permissions: "Permissões"
     openRoleIconInBrowser: "Abrir ícone do cargo no navegador"
+    noPermissions: "Nenhuma permissão"
     options:
       role: "Um cargo que você deseja ver informações"
