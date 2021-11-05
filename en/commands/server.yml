@@ -10,3 +10,41 @@ splash:
   description: "Shows the server's invite background"
   noSplash: "Awww, how sad, the server doesn't have an invite background for me to display... Wait, don't be sad! Here, look at this cute emoji to cheer you up! {loriPat}"
   openSplashInBrowser: "Open invite background in browser" # Used in a button, when clicking the button, Discord opens the server's splash in the user's browser
+channel:
+  info:
+    description: "Shows the information of an server's channel"
+    missingAccessToChannel: "I don't have permission to access this channel"
+    infoFrom: "Information about {channelName}"
+    channelMention: "Channel Mention"
+    channelId: "Channel ID"
+    voice:
+      bitRate: "Bit Rate"
+      userLimit: "User Limit"
+      region: "Region"
+    thread:
+      messageCount: "Messages"
+      memberCount: "Members in the channel"
+      archived: "Archived"
+      locked: "Locked"
+    text:
+      slowMode: "Slow Mode"
+      slowModeSeconds: "{timeInSeconds, plural, one {# second} other {# seconds}}"
+    position: "Position"
+    createdAt: "Created at"
+    options:
+      channel: "The channel that you want to know its information"
+role:
+  info:
+    description: "Shows the information of an server's role"
+    mention: "Mention"
+    roleId: "Role ID"
+    hoisted: "Hoisted"
+    managed: "Managed"
+    mentionable: "Mentionable"
+    color: "Color"
+    createdAt: "Created at"
+    permissions: "Permissions"
+    openRoleIconInBrowser: "Open role icon in browser"
+    noPermissions: "No permissions"
+    options:
+      role: "The role that you want to know its information"
