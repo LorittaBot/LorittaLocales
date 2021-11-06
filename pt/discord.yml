@@ -48,6 +48,7 @@ guildFeatures:
   discoverable: "Servidor público"
   featurable: "Recursos futuros"
   animatedIcon: "Ícone animado"
+  banner: "Banner"
   welcomeScreenEnabled: "Tela de boas-vindas"
   ticketedEventsEnabled: "Eventos com tickets"
   monetizationEnabled: "Monetizado"
