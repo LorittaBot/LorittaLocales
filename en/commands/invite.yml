@@ -8,5 +8,7 @@ info:
   whoInvited: "Who Invited"
   guildFeatures: "Server Features"
   noFeatures: "No features"
+  inThisServer: "Yes, I'm in the server!"
+  notOnTheServer: "Sadly I'm not in the server..."
   options:
     invite: "The channel that you want to know its information"
