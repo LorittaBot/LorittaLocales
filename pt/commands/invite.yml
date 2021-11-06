@@ -3,9 +3,13 @@ info:
   description: "Mostra informações sobre um convite do servidor"
   doesntExists: "Infelizmente não consegui encontrar nenhum convite parecido com `{inviteArgument}`"
   serverMembers: "Membros"
+  onlineMembersPresence: "Online: {onlineMembers}"
+  offlineMembersPresence: "Offline: {offlineMembers}"
   invitationChannel: "Canal de convite"
   whoInvited: "Quem convidou"
   guildFeatures: "Recursos do servidor"
   noFeatures: "Nenhum recurso"
+  inThisServer: "Sim, eu estou no servidor!"
+  notOnTheServer: "Infelizmente eu não estou no servidor..."
   options:
     invite: "Um convite de algum servidor que você deseja ver informações"
