@@ -1,0 +1,7 @@
+description: "I am curious... What are you? A boy or a girl... Or maybe neither!"
+female: "Female"
+male: "Male"
+unknown: "Unknown"
+successfullyChanged: "Gender successfully changed!"
+options:
+  gender: "Choose a gender so I can improve my responses when I refer to you"
