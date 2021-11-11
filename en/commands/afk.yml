@@ -1,0 +1,8 @@
+'on':
+  description: "Turn on AFK mode so everyone knows you won't be able to reply to messages at this time!"
+  afkModeActivated: "AFK mode enabled! For your convenience, AFK mode will be automatically disabled when you talk in the chat!"
+  options:
+    reason: "The reason you'll be AFK"
+'off':
+  description: "Turn down AFK mode so everyone knows you can reply as messages again!"
+  afkModeDeactivated: "AFK mode disabled!"
