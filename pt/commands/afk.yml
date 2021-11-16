@@ -1,8 +1,1 @@
-'on':
-  description: "Ative o modo AFK para que todos saibam que você não poderá responder as mensagens no momento!"
-  afkModeActivated: "Modo AFK ativado! Para a sua conveniência, o modo AFK será automaticamente desativado quando você falar algo no chat!"
-  options:
-    reason: "O motivo pelo qual você ficará AFK"
-'off':
-  description: "Desative o modo AFK para que todos saibam que você poderá responder as mensagens novamente!"
-  afkModeDeactivated: "Modo AFK desativado!"
+---
