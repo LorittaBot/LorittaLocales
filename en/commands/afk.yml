@@ -1,0 +1,8 @@
+'on':
+  description: "Turn on AFK mode so everyone knows you won't be able to reply to messages because you are away from the keyboard!"
+  afkModeActivated: "AFK mode enabled! For your convenience, AFK mode will be automatically disabled when you send a message in chat chat!"
+  options:
+    reason: "The reason you'll be AFK"
+'off':
+  description: "Disable your AFK status so everyone knows you are... well, near the keyboard!"
+  afkModeDeactivated: "AFK mode disabled!"
