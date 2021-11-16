@@ -11,4 +11,4 @@ info:
   inThisServer: "Yes, I'm in the server!"
   notOnTheServer: "Sadly I'm not in the server..."
   options:
-    invite: "The channel that you want to know its information"
+    invite: "The invite URL or ID that you want to know its information"
