@@ -1,7 +1,1 @@
-description: "Estou curiosa... o que você é? Um homem ou uma mulher... ou talvez nenhum dos dois!"
-female: "Feminino"
-male: "Masculino"
-unknown: "Não-binário"
-successfullyChanged: "Gênero alterado com sucesso!"
-options:
-  gender: "Escolha um gênero para que eu possa melhorar minhas respostas quando me referir a você"
+---
