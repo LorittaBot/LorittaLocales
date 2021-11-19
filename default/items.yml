@@ -75,7 +75,7 @@ profileDesigns:
     title: "Simplesmente Verde"
     description: *defaultPlainProfile
   plainGreenHearts:
-    title: "Simplesmente Verde com Flores"
+    title: "Simplesmente Verde com Corações"
     description: *defaultPlainProfile
   cowboy:
     title: "Cowboy"
@@ -325,6 +325,15 @@ backgrounds:
   wumpusMovie:
     title: "Filme com o Wumpus"
     description: "Sente e relaxe"
+  wumpusBuffDark:
+    title: "Wumpus Bombado"
+    description: "Pague o seu Nitro ou eu irei sequestrar você e a sua família."
+  wumpusBuffBlurple:
+    title: "Wumpus Bombado"
+    description: "Pague o seu Nitro ou eu irei sequestrar você e a sua família."
+  wumpusMania:
+    title: "Wumpus Mania"
+    description: "It's a Wumpus!"
 
   # ===[ DOGE ]===
   dogeWolf:
@@ -826,4 +835,67 @@ backgrounds:
     description: "Chegou o Halloween! Prepare suas fantasias e abóboras e vamos pedir doces."
   nostalgicMemories:
     title: "Memórias Nostálgicas"
-    description: "Rabiscos na parte de trás da contracapa da sua apostila para passar o tempo durante a aula"
+    description: "Rabiscos na parte de trás da contracapa da sua apostila para passar o tempo durante a aula."
+  imitandoEmojis:
+    title: "Imitando Emojis"
+    description: "🤨"
+  iHateLoveLoriLight:
+    title: "Eu Amo e Odeio a Loritta!"
+    description: "A bipolaridade de usar um bot que não retribui os seus sentimentos."
+  iHateLoveLoriDark:
+    title: "Eu Amo e Odeio a Loritta!"
+    description: "A bipolaridade de usar um bot que não retribui os seus sentimentos."
+  powerBannerDiscordAd:
+    title: "Loritta no Discord"
+    description: "A Loritta está no Discord! Chocante, né?"
+  powerBannerPalmtreePanic:
+    title: "Loritta em Palmtree Panic"
+    description: "A hora certa para entrar em um Special Stage para conseguir uma Time Stone para corrigir o passado."
+  powerBannerTheSims:
+    title: "Loritta no The Sims"
+    description: "...mas o que Bad Apple está fazendo aí?"
+  powerBannerInsideComputer:
+    title: "Loritta Dentro do Computador"
+    description: "Você já imaginou como seria aventurar dentro do seu computador?"
+  powerBannerInsideComputer2:
+    title: "Loritta Dentro do Computador"
+    description: "Você já imaginou como seria aventurar dentro do seu computador?"
+  badAppleReimuApple:
+    title: "Reimu - Bad Apple!!"
+    description: "Será que isso é uma referência a Touhou?"
+  badAppleMarisaApple:
+    title: "Marisa - Bad Apple!!"
+    description: "Será que isso é uma referência a Touhou?"
+  metaforandoNamoradoDelaAqui:
+    title: "Namorada Dela Aqui"
+    description: "Vitor Metaforando mostrando a sua autoridade como namorado."
+  abacat:
+    title: "Abacat"
+    description: "Você gosta de trocalihos com gatos e abacates?"
+  moPaz:
+    title: "Mó Paz"
+    description: "Apenas curtindo a vibe do momento."
+  bolsolula:
+    title: "BolsoLula"
+    description: "Se um já tá ruim, imagina com os dois fazendo a festa lá no planalto."
+  locodolYukariWhat:
+    title: "Que"
+    description: "Yukari em um estado bugado além de nossa realidade."
+  loralsei:
+    title: "Loralsei"
+    description: "Eu sou a princesa deste reino... O REINO DA ESCURIDÃO."
+  viniccius13CasaAutomatica:
+    title: "A Casa Automática"
+    description: "São mais de 300 episódios em busca dela, apesar de nunca ter saído dali."
+  lorittaCode:
+    title: "Código da Loritta"
+    description: "Tudo que há dentro de mim são códigos e circuitos!"
+  loriSketchSprites:
+    title: "Enxurrada de Loritta"
+    description: "O sonho de alguns, enquanto é o pesadelo de outros."
+  gamblingLifeLight:
+    title: "A Vida de um Apostador"
+    description: "Muito triste por favor dê like se chorou."
+  gamblingLifeDark:
+    title: "A Vida de um Apostador"
+    description: "Muito triste por favor dê like se chorou."
