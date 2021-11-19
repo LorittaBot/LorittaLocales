@@ -1,3 +1,4 @@
+
 sets:
   sadCats: "Gatinhos Tristes"
   discord: "Discord"
@@ -867,7 +868,7 @@ backgrounds:
     title: "Marisa - Bad Apple!!"
     description: "Será que isso é uma referência a Touhou?"
   metaforandoNamoradoDelaAqui:
-    title: "Namorada Dela Aqui"
+    title: "Namorado Dela Aqui"
     description: "Vitor Metaforando mostrando a sua autoridade como namorado."
   abacat:
     title: "Abacat"
