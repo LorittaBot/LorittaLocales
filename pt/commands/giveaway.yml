@@ -21,6 +21,7 @@ setup:
   invalidAwardPerSonhos: "A quantidade de sonhos que será dada para cada vencedor do sorteio, deve estar entre 1000 e a sua quantidade total de sonhos"
   insufficientSonhos: "Você não possui tantos sonhos para pagar cada vencedor do sorteio"
   remainingTime: "Tempo restante"
+  notAllowedRoles: "Cargos que não podem participar"
   awardRoles: "Cargos premiados"
   sonhosPerWinner: "Sonhos para cada vencedor"
   options:
@@ -34,8 +35,8 @@ setup:
     notAllowedRoles: "Membros com esse cargo não conseguirão entrar no sorteio"
 manager:
   withoutWinners: "Ninguém participou do sorteio... já que ninguém participou, será que eu posso ficar com o prêmio do sorteio?"
-  congratulationsToTheWinner: "Parabéns {user} por ganhar o sorteio!"
-  congratulationsToTheWinners: "Parabéns aos ganhadores do sorteio"
+  congratulationsToTheWinner: "Parabéns {user} por ganhar o sorteio **{giveawayTitle}**!"
+  congratulationsToTheWinners: "Parabéns aos ganhadores do sorteio **{giveawayTitle}**!"
   reasonToAddRole: "Vencedor do sorteio!"
 button:
   memberRoleNotAllowed: "Você não pode participar desse sorteio, pois você possui alguns dos cargos que não são permitidos: {roles}"
