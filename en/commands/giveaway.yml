@@ -1,0 +1,45 @@
+end:
+  description: "Finaliza o sorteio antes do tempo de duração dele acabar"
+  alreadyFinished: "Esse sorteio ja terminou"
+  finishedGiveaway: "Prontinho! Eu terminei o sorteio que você pediu, agora você pode ficar tranquilo sem precisar aguentar a horda de membros gritando \"Você criou o sorteio com o horário errado!\""
+  options:
+    messageLink: "Link da mensagem de algum sorteio que ainda não terminou"
+reroll:
+  description: "Escolhe novos vencedores de um sorteio já terminado"
+  invalidLink: "Você não passou um link de uma mensagem de sorteio! Você pode copiar o link da mensagem ativando o menu de ações na mensagem (clicando com botão direito nela, clicando no menu dela ou segurando na mensagem com o dedo), no mesmo lugar aonde você consegue deletar e fixar mensagens. Para você usar como referência, um link de uma mensagem é assim: https://canary.discordapp.com/channels/297732013006389252/297732013006389252/594270558238146603"
+  invalidGiveaway: "Não consegui encontrar nenhum sorteio com esse link."
+  giveawayStillActive: "O sorteio ainda não terminou! Espere-o terminar ou use `/giveaway end`"
+  giveawayNotFound: "Esse sorteio não está ou nunca esteve em meu banco de dados"
+  rerolledGiveaway: "Prontinho! Eu rolei novos vencedores para o sorteio que você pediu, agora você pode ficar tranquilo sem precisar fazendo aquele sorriso falso só porque o membro que você odeia ganhou."
+  options:
+    messageLink: "Link da mensagem de algum sorteio que já foi terminado"
+setup:
+  description: "Cria e configura o sorteio"
+  missingChannelPermisesion: "Eu não posso criar um sorteio pois não tenho permissão de `Enviar Mensagens` nesse canal!"
+  invalidNumberOfWinners: "O número de vencedores deve estar entre 0 e 100"
+  giveawaySuccessfullyCreated: "Sorteio criado com sucesso!"
+  invalidAwardPerSonhos: "A quantidade de sonhos que será dada para cada vencedor do sorteio, deve estar entre 1000 e a sua quantidade total de sonhos"
+  insufficientSonhos: "Você não possui tantos sonhos para pagar cada vencedor do sorteio"
+  remainingTime: "Tempo restante"
+  awardRoles: "Cargos premiados"
+  sonhosPerWinner: "Sonhos para cada vencedor"
+  options:
+    title: "O título será a primeira coisa que os usuários verão no sorteio, seja objetivo"
+    description: "Caso você queria detalhar mais sobre o que vai ser o sorteio, este é o lugar correto"
+    numberOfWinners: "O total de ganhadores que terei que escolher"
+    time: "A duração do sorteio, por exemplo: 19/11/2021; 1 hora 5 minutos; entre outros"
+    channel: "O canal onde o sorteio será criado, por padrão, é criado no canal onde foi executado o comando"
+    awardRoles: "Um cargo para ser dados aos vencedores quando o sorteio terminar"
+    awardSonhosPerUser: "A quantidade de sonhos que será premiada para cada vencedor"
+    notAllowedRoles: "Membros com esse cargo não conseguirão entrar no sorteio"
+manager:
+  withoutWinners: "Ninguém participou do sorteio... já que ninguém participou, será que eu posso ficar com o prêmio do sorteio?"
+  congratulationsToTheWinner: "Parabéns {user} por ganhar o sorteio!"
+  congratulationsToTheWinners: "Parabéns aos ganhadores do sorteio"
+  reasonToAddRole: "Vencedor do sorteio!"
+button:
+  memberRoleNotAllowed: "Você não pode participar desse sorteio, pois você possui alguns dos cargos que não são permitidos: {roles}"
+  selfAccountIsTooNew: "Calma lá né, a sua conta é muito novinha! Você precisa ter pelo menos 7 dias desde a criação da sua conta para participar de sorteios."
+  giveawayAlreadyFinished: "O sorteio já acabou! Seja mais rápido na próxima vez"
+  successfullyAddedUserInGiveaway: "Agora você está participando do sorteio! Total de participantes até agora: {usersInGiveaway}"
+  removedUserFromGiveaway: "Você não está mais participando do sorteio!"
