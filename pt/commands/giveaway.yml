@@ -15,6 +15,7 @@ reroll:
     messageLink: "Link da mensagem de algum sorteio que já foi terminado"
 setup:
   description: "Cria e configura o sorteio"
+  invalidChannel: "Você deve escolher um canal de texto, para que eu possa mandar mensagens nele"
   missingChannelPermisesion: "Eu não posso criar um sorteio pois não tenho permissão de `Enviar Mensagens` nesse canal!"
   invalidNumberOfWinners: "O número de vencedores deve estar entre 0 e 100"
   giveawaySuccessfullyCreated: "Sorteio criado com sucesso!"
