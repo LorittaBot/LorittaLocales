@@ -1,0 +1,15 @@
+description: "Apaga as mensagens de um canal com base nos filtros que você escolher"
+invalidClearRange: "Eu só consigo limpar entre 2 até 1000 mensagens já enviadas!"
+noMessagesToClear: "Esse canal não possui nenhuma mensagem paar ser apagada"
+couldNotFindMessages: "Não consegui encontrar nenhuma mensagem para ser deletada... Eu não consigo deletar mensagens que foram enviadas há mais de duas semanas devido a limitações do Discord!"
+clearSuccess: "O chat teve {messageCount} mensagens deletadas!"
+successButIgnoredMessages: "Porém, {messageCount, plural, one {# mensagem} other {# mensagens}} foram ignoradas por serem muito antigas, estarem fixadas ou não seguirem o filtro definido."
+bulkDeleteReason: "Mensagens apagadas por {user}"
+options:
+  amount: "O número de mensagens que você quer apagar"
+  keyword: "Somente as mensagens que contenham essa palavra-chave serão apagadas"
+  messageType: "O tipo de mensagem que você quer apagar"
+  user: "Mensagens enviadas por algum membro do servidor"
+  choices:
+    link: "Link"
+    attachment: "Anexo"
