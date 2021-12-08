@@ -1,4 +1,3 @@
-
 sets:
   sadCats: "Gatinhos Tristes"
   discord: "Discord"
@@ -900,3 +899,18 @@ backgrounds:
   gamblingLifeDark:
     title: "A Vida de um Apostador"
     description: "Muito triste por favor dê like se chorou."
+  fridayLoriFunkin:
+    title: "Friday Lori Funkin"
+    description: "*beep boop intensifies*"
+  circuitBoardGreen:
+    title: "Placa de Circuito"
+    description: "Uma pequena prévia do que há dentro de mim."
+  redditRplace1:
+    title: "/r/place do Reddit"
+    description: "Um projeto do Reddit onde redditors tinham uma tela livre para qualquer usuário do Reddit poder colocar pixels aonde eles quisessem... e depois de 72 horas, esse foi o resultado!"
+  redditRplace2:
+    title: "/r/place do Reddit"
+    description: "Um projeto do Reddit onde redditors tinham uma tela livre para qualquer usuário do Reddit poder colocar pixels aonde eles quisessem... e depois de 72 horas, esse foi o resultado!"
+  sonicMovie2Poster:
+    title: "Sonic 2: O Filme"
+    description: "Gotta Go Fast!"
