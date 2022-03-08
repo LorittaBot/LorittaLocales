@@ -1,0 +1,33 @@
+modules:
+  eventLog:
+    avatarChanged: "**{0} changed their own avatar**"
+    userID: "User ID: {0}"
+    messageDeleted:
+      - "**Text message deleted**"
+      - ""
+      - "**Text channel:** {1}"
+      - ""
+      - "**Message:**"
+      - ""
+      - "```{0}```"
+    messageDeletedUploads: "**Files attached:**"
+    bulkDeleted: "**Text messages deleted**"
+    banned: "{0} was banned!"
+    unbanned: "{0} was unbanned!"
+    noNickname: "No nickname"
+    nicknameChanged: 
+      - "**Nickname of {0} was changed**"
+      - ""
+      - "**Old nickname:** `{0}`"
+      - "**New nickname:** `{1}`"
+    messageEdited:
+      - "**{0} edited a text message**"
+      - ""
+      - "**Text channel:** {3}"
+      - "" 
+      - "**Old message:**"
+      - "```{1}```"
+      - "**New message:**"
+      - "```{2}```"
+    joinedVoiceChannel: "{0} joined voice chat `{1}`"
+    leftVoiceChannel: "{0} left voice chat `{1}`"
