@@ -45,10 +45,12 @@ website:
       youAgreeTo: "Ao comprar algo, você está concordando que:"
       terms:
       - "Nós não oferecemos reembolso para produtos vendidos, pois é um produto virtual."
-      - "Comprar algo no website não te garante imunidade a banimentos e também não irá retirar banimentos."
-      - "Você poderá ser banido caso peça reembolso após já ter recebido o produto."
+      - "Comprar algo no website não te garante imunidade a banimentos e também não irá retirar banimentos em nosso serviço."
+      - "Você poderá ser banido caso peça reembolso após já ter recebido e usado o produto."
       - "Caso você tenha algum problema com os produtos, contate o suporte da Loritta para te ajudar!"
-      - "Tudo que é comprado não possui valor monetário fora da Loritta, vendas de terceiros não são responsabilidade da equipe da Loritta."
+      - "Tudo que é comprado não possui valor monetário fora da Loritta, vendas de terceiros não são responsabilidade da equipe da Loritta como também você está sujeito a ser banido caso envolva com vendas de terceiros."
+      - "A Loritta possui funcionalidades que usam sonhos. Perder sonhos comprados nestas funcionalidades não te garantem um reembolso, seja em dinheiro real como em sonhos."
+      - "Pagar por nossos serviços não te fornece o direito de ter um atendimento exclusivo, prioritário e/ou especial. Podemos tentar te ajudar dando mais atenção, mas isso não é um direito."
       - "Que a Loritta é muito fofa :3"
       agree: "Eu concordo"
     mfaDisabled:
