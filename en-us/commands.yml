@@ -42,7 +42,7 @@ commands:
   outdatedCommand:
     title: "Why not try out the new Slash Commands?"
     description:
-      - "This command is available via Slash Commands (commands prefixed with `/`), if you wanted to try them out, use **`/{0}`**! Commands that don't use slash will be removed in **April 2022**, so you'd better get used to them soon! {4}"
+      - "This command is available via Slash Commands (commands prefixed with `/`), if you wanted to try them out, use **`/{0}`**! Commands that don't use slash will be removed in **August 31, 2022**, so you'd better get used to them soon! {4}"
       - ""
       - "The Slash Command version of the commands **are better than the original versions**, so you don't have anything to lose by using my slash commands instead of the original versions! {5}"
       - ""
