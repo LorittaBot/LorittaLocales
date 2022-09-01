@@ -50,7 +50,7 @@ commands:
       - ""
       - "**To find out what commands are being migrated**, join [Loritta's community server]({1})! {7}"
       - ""
-      - "**If my slash commands are not showing up on your server**, make sure your role has "Use app commands" permission, make sure "Use slash commands" is enabled in your settings, and make sure your Discord is up to date! If you need help, join [my support server]({2})! {8}"
+      - "**If my slash commands are not showing up on your server**, make sure your role has \"Use app commands\" permission, make sure \"Use slash commands\" is enabled in your settings, and make sure your Discord is up to date! If you need help, join [my support server]({2})! {8}"
       - ""
       - "**If you want to know more about message content access and why they are making this change**, I recommend reading [Discord's Announcement About It]({3})! {9}"
     discordUrl: "https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" #Discord Article talking about message content access deprecation
