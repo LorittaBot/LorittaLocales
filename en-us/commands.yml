@@ -42,15 +42,17 @@ commands:
   outdatedCommand:
     title: "Why not try out the new Slash Commands?"
     description:
-      - "This command is available via Slash Commands (commands prefixed with `/`), if you wanted to try them out, use **`/{0}`**! Commands that don't use slash will be removed in **August 31, 2022**, so you'd better get used to them soon! {4}"
+      - "**This command is available via Slash Commands** (`/` commands)! To use, type **`/{0}`**! {4}"
       - ""
-      - "The Slash Command version of the commands **are better than the original versions**, so you don't have anything to lose by using my slash commands instead of the original versions! {5}"
+      - "Slash Commands is the recommended way to develop commands for Discord. As of **August 31, 2022** Discord is **encouraging bots to migrate to Slash Commands**, and they are **removing the permission for bots to read content from messages sent in the chat**. {5}"
       - ""
-      - "By April **all bots** will be **forced** to migrate to Slash Commands, which is why I'm changing my commands! Not all of my commands are available via Slash Commands yet, but hopefully by April I'll be able to migrate them all! {6}"
+      - "The commands via message are still working, because I have permission to read the message's contents. But in the future **message commands will be removed**! Don't worry, they **will only be removed after all my commands have been migrated to Slash Commands**. {6}"
       - ""
-      - "**If my slash commands is not showing up on your server**, [authorize me to create slash commands on your server]({1}), check if your role has permission to \"Use application commands\", check if the option \"Use slash commands\" is enabled and check if your Discord is up to date! If you need help, join [my support server]({2})! {7}"
+      - "**To find out what commands are being migrated**, join [Loritta's community server]({1})! {7}"
       - ""
-      - "If you want to know more about the message content access and why they are making this change, I recommend reading the [Discord Announcement]({3})! {8}"
+      - "**If my slash commands are not showing up on your server**, make sure your role has "Use app commands" permission, make sure "Use slash commands" is enabled in your settings, and make sure your Discord is up to date! If you need help, join [my support server]({2})! {8}"
+      - ""
+      - "**If you want to know more about message content access and why they are making this change**, I recommend reading [Discord's Announcement About It]({3})! {9}"
     discordUrl: "https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" #Discord Article talking about message content access deprecation
     slashCommandsTutorial: "https://cdn.discordapp.com/attachments/358774895850815488/894279612891279390/slash_tutorial_en.gif"
   arguments:

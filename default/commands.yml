@@ -41,15 +41,17 @@ commands:
   outdatedCommand:
     title: "Que tal experimentar Slash Commands?"
     description:
-    - "Este comando está disponível via Slash Commands (comandos com `/`), caso queira experimentar, use **`/{0}`**! Comandos que não usam slash irão desaparecer em **31 de Agosto de 2022**, então é melhor ir se acostumando com eles! {4}"
+    - "**Este comando está disponível via Slash Commands** (comandos `/`)! Para usar, digite **`/{0}`**! {4}"
     - ""
-    - "As versões dos comandos em Slash Commands **são superiores as versões originais**, então você não terá nada a perder usando meus slash commands em vez das versões originais! {5}"
+    - "Slash Commands é o jeito recomendado de desenvolver comandos para o Discord. Desde **31 de Agosto de 2022**, o Discord está **incentivando que bots migrem para Slash Commands**, como também **removeram a permissão de bots poderem ler conteúdo de mensagens enviadas no chat**. {5}"
     - ""
-    - "Até Abril **todos os bots** serão **obrigados** a migrarem para Slash Commands, e é por isso que estou mudando meus comandos! Ainda nem todos os meus comandos estão disponíveis via Slash Commands, mas espero que até Abril eu consiga migrar todos! {6}"
+    - "Os comandos via mensagem ainda funcionam, pois eu tenho permissão para ler o conteúdo de mensagens. Mas, no futuro, **os comandos via mensagem vão ser removidos**! Não se preocupe, eles **só serão removidos após todos os meus comandos serem migrados para Slash Commands**. {6}"
     - ""
-    - "**Se os meus slash commands não estão aparecendo no seu servidor**, [me autorize a criar slash commands no seu servidor]({1}), verifique se o seu cargo possui permissão para \"Usar comandos de aplicativo\", verifique se a opção \"Use comandos de barra\" está ativada nas suas configurações e verifique se o seu Discord está atualizado! Caso você precise de ajuda, entre no [meu servidor de suporte]({2})! {7}"
+    - "**Para saber sobre quais comandos estão sendo migrados**, entre no [servidor da comunidade da Loritta]({1})! {7}"
     - ""
-    - "Se você deseja saber mais sobre o acesso de conteúdo de mensagens e o motivo de estar fazendo esta mudança, recomendo ler o [Anúncio do Discord]({3})! {8}"
+    - "**Se os meus slash commands não estão aparecendo no seu servidor**, verifique se o seu cargo possui permissão para \"Usar comandos de aplicativo\", verifique se a opção \"Use comandos de barra\" está ativada nas suas configurações e verifique se o seu Discord está atualizado! Caso você precise de ajuda, entre no [meu servidor de suporte]({2})! {8}"
+    - ""
+    - "**Se você deseja saber mais sobre o acesso de conteúdo de mensagens e o motivo de estarem fazendo esta mudança**, recomendo ler o [Anúncio do Discord]({3})! {9}"
     discordUrl: "https://support-dev.discord.com/hc/pt-br/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots" # Discord Article talking about message content access deprecation
     slashCommandsTutorial: "https://cdn.discordapp.com/attachments/358774895850815488/894276646847250432/slash_tutorial_pt.gif"
   arguments:
